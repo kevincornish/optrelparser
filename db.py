@@ -26,23 +26,6 @@ def connect():
 if __name__ == '__main__':
     connect()
 
-def insert_vials_from_dict(data):
-    """
-    example data:
-    {
-        "id": 1,
-        "product": 'blah',
-        "recipe": "something"
-    }
-    :param data:
-    :return:
-    """
-    required_columns = VIAL_COLUMNS
-    if set(required_columns) != set(data.keys()):
-        raise Exception("Columns are not correct")
-    query = db.insert(vials).values(**data)
-    connection.execute(query)
-
 def get_vials(search):
     """ query data from the vials table """
     conn = None
@@ -50,13 +33,12 @@ def get_vials(search):
         params = config()
         conn = psycopg2.connect(**params)
         cur = conn.cursor()
-	#'search' needs to be the string input from search.py
-        cur.execute("SELECT id, batch, product FROM vials WHERE product LIKE search")
+        cur.execute("SELECT * FROM vials WHERE vials.batch like 'Morphine Sulfate'")
         row = cur.fetchone()
 
         while row is not None:
             print(row)
-            row = cur.fetchone()
+            row = cur.fetchall()
 
         cur.close()
     except (Exception, psycopg2.DatabaseError) as error:
@@ -67,7 +49,7 @@ def get_vials(search):
 
 def insert_vials(vial_list):
 	""" insert new vials into the vials table """
-	sql = "INSERT INTO vials(batch) VALUES(%s)"
+	sql = "INSERT INTO vials(id,username,product_id,recipe,batch,start_date,end_date,inspected,accepted,rejected,technical_rejects) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
 	conn = None
 	try:
                 params = config()

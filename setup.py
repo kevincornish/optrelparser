@@ -3,38 +3,46 @@ from config import config
 
 
 def create_tables():
-    """ create tables in the PostgreSQL database"""
+    """ drops tables if already created then will create tables in the PostgreSQL database"""
     commands = (
+	""" DROP TABLE IF EXISTS vials, ampoules; """,
         """
         CREATE TABLE vials (
             id SERIAL PRIMARY KEY,
-            product_name VARCHAR(255) NOT NULL,
-            batch VARCHAR(255) NOT NULL,
+            username VARCHAR(255) NOT NULL,
+            product_id INT NOT NULL,
             recipe VARCHAR(255) NOT NULL,
-            accepted VARCHAR(255) NOT NULL
+            batch VARCHAR(255) NOT NULL,
+            start_date VARCHAR(255) NOT NULL,
+            end_date VARCHAR(255) NOT NULL,
+            inspected INT NOT NULL,
+            accepted INT NOT NULL,
+            rejected INT NOT NULL,
+            technical_rejects INT NOT NULL
         )
         """,
         """ CREATE TABLE ampoules (
             id SERIAL PRIMARY KEY,
-            product_name VARCHAR(255) NOT NULL,
-            batch VARCHAR(255) NOT NULL,
+            username VARCHAR(255) NOT NULL,
+            product_id INT NOT NULL,
             recipe VARCHAR(255) NOT NULL,
-            accepted VARCHAR(255) NOT NULL
+            batch VARCHAR(255) NOT NULL,
+            start_date VARCHAR(255) NOT NULL,
+            end_date VARCHAR(255) NOT NULL,
+            inspected INT NOT NULL,
+            accepted INT NOT NULL,
+            rejected INT NOT NULL,
+            technical_rejects INT NOT NULL
                 )
         """)
     conn = None
     try:
-        # read the connection parameters
         params = config()
-        # connect to the PostgreSQL server
         conn = psycopg2.connect(**params)
         cur = conn.cursor()
-        # create table one by one
         for command in commands:
             cur.execute(command)
-        # close communication with the PostgreSQL database server
         cur.close()
-        # commit the changes
         conn.commit()
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)

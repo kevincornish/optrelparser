@@ -8,9 +8,16 @@ class PDFToDict(object):
     def convert(self, file_name):
         results = {}
         pdf = self.get_pdf(file_name)
+        results['username'] = self.fetch_username(pdf)
         results['product_id'] = self.fetch_product_id(pdf)
-        results['recipe_id'] = self.fetch_recipe_id(pdf)
-        # add more here
+        results['recipe'] = self.fetch_recipe(pdf)
+        results['batch'] = self.fetch_batch(pdf)
+        results['start_date'] = self.fetch_start_date(pdf)
+        results['end_date'] = self.fetch_end_date(pdf)
+        results['inspected'] = self.fetch_inspected(pdf)
+        results['accepted'] = self.fetch_accepted(pdf)
+        results['rejected'] = self.fetch_rejected(pdf)
+        results['technical_rejects'] = self.fetch_technical_rejects(pdf)
         return results
 
     def get_pdf(self, file_name):
@@ -37,6 +44,6 @@ class PDFToDict(object):
 
 if __name__ == '__main__':
     insert_vials([
-        ('Morphine',),
-        ('Adrenaline',)
+        ('1','Kev','3','50mL Production','12345678 Morphine Sulfate','01/01/2020 09:30am','02/01/2020 10:31am', '100','90','10','0',),
+        ('2','Billy','4','100mL Production','12345679 Morphine Sulfate','02/01/2020 11:50am','04/01/2020 12:12pm', '1000','900','100','0',)
     ])

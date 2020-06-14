@@ -33,13 +33,14 @@ def get_vials(search):
         params = config()
         conn = psycopg2.connect(**params)
         cur = conn.cursor()
-        cur.execute("SELECT * FROM vials WHERE vials.batch like 'Morphine Sulfate'")
-        row = cur.fetchone()
-
-        while row is not None:
-            print(row)
-            row = cur.fetchall()
-
+	#Search works but have to be exact to return results eg '12345678 Morphine Sulfate' returns but 'Morphine' or '12345678' doesnt
+        s = "SELECT * FROM vials WHERE vials.batch LIKE (%s)"
+        cur.execute(s, [search])
+        rows = cur.fetchall()
+#        for row in rows:
+#        	print (row)
+# not sure if i need to loop them, in php i would but i feel like fetch all is already return them all nicely?
+        print (rows)
         cur.close()
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)

@@ -1,5 +1,7 @@
 import pdftotext
-
+import psycopg2
+from config import config
+from db import insert_vials
 
 class PDFToDict(object):
 
@@ -32,3 +34,9 @@ class PDFToDict(object):
         # 'Product ID:     T8715N_EPISTATUS          Recipe ID:           T8715N_EPISTATUS'
         line = page.split('\n')[5]
         return line.split('Recipe ID:')[1].strip()
+
+if __name__ == '__main__':
+    insert_vials([
+        ('Morphine',),
+        ('Adrenaline',)
+    ])

@@ -1,7 +1,7 @@
 import os
 import argparse
 
-from db import insert_vials_from_dict
+from db import insert_vials
 from pdf import PDFToDict
 
 
@@ -13,8 +13,8 @@ class ProcessPDFs(object):
             data = converter.convert(pdf)
             # You want to fetch the highest ID from the table or truncate it
             # to get an actual ID.
-            data['id'] = idx
-            insert_vials_from_dict(data)
+            #data['id'] = idx
+            #insert_vials(data)
 
     def get_pdfs(self, directory):
         return [f'{directory}/{_file}' for _file in os.listdir(directory) if
@@ -29,3 +29,9 @@ if __name__ == '__main__':
     args = parser.parse_args()
     processor = ProcessPDFs()
     processor.process(args.directory)
+
+    #insert_vials([
+   #     ('1','Kev','3','50mL Production','12345678 Morphine Sulfate','01/01/2020 09:30am','02/01/2020 10:31am', '100','90','10','0',),
+   #     ('2','Billy','4','100mL Production','12345679 Morphine Sulfate','02/01/2020 11:50am','04/01/2020 12:12pm', '1000','900','100','0',)
+   # ])
+

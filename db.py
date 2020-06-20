@@ -50,7 +50,7 @@ def get_vials(search):
 
 def insert_vials(vial_list):
 	""" insert new vials into the vials table """
-	sql = "INSERT INTO vials(id,username,product_id,recipe,batch,start_date,end_date,inspected,accepted,rejected,technical_rejects) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+	sql = "INSERT INTO vials(username,product_id,recipe,batch,start_date,end_date,inspected,accepted,rejected,technical_rejects) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
 	conn = None
 	try:
                 params = config()

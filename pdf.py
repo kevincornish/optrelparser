@@ -27,57 +27,50 @@ class PDFToDict(object):
 
     def fetch_username(self, pdf):
         page = pdf[0]
-        line = page.split('\n')[1]
-        print (line)        
-        #return line.split('User:')[1].strip()
+        username = page.split('\n')[1]
+        return username.split('User:')[1].strip()
 
     def fetch_product_id(self, pdf):
         page = pdf[0]
-        line = page.split('\n')[2]
-        print (line)
+        product_id = page.split('\n')[2]
+        return product_id.split('Product:')[1].strip()
 
     def fetch_recipe(self, pdf):
         page = pdf[0]
-        line = page.split('\n')[2]
-        print (line)
+        recipe = page.split('\n')[2]
+        return recipe.split('Product:')[1].strip()
 
     def fetch_batch(self, pdf):
         page = pdf[0]
-        line = page.split('\n')[3]
-        print (line)
+        batch = page.split('\n')[3]
+        return batch.split('Batch:')[1].strip()
 
     def fetch_start_date(self, pdf):
         page = pdf[0]
-        line = page.split('\n')[7]
-        print (line)
+        start_date = page.split('\n')[7]
+        return start_date.split('Starting date:')[1].strip()
 
     def fetch_end_date(self, pdf):
         page = pdf[0]
-        line = page.split('\n')[8]
-        print (line)
+        end_date = page.split('\n')[8]
+        return end_date.split('Ending date:')[1].strip()
 
     def fetch_inspected(self, pdf):
         page = pdf[0]
-        line = page.split('\n')[10]
-        print (line)
-
+        inspected = page.split('\n')[10]
+        return inspected.split('INSPECTED')[1].strip()
+        
     def fetch_accepted(self, pdf):
         page = pdf[0]
-        line = page.split('\n')[11]
-        print (line)
+        accepted = page.split('\n')[11]
+        return accepted.split('ACCEPTED')[1].strip()
 
     def fetch_rejected(self, pdf):
         page = pdf[0]
-        line = page.split('\n')[12]
-        print (line)
+        rejected = page.split('\n')[12]
+        return rejected.split('REJECTED')[1].strip()
 
     def fetch_technical_rejects(self, pdf):
         page = pdf[0]
-        line = page.split('\n')[13]
-        print (line)
-
-    #insert_vials([
-   #     ('1','Kev','3','50mL Production','12345678 Morphine Sulfate','01/01/2020 09:30am','02/01/2020 10:31am', '100','90','10','0',)
-   # ])
-
-
+        technical_rejects = page.split('\n')[13]
+        return technical_rejects.split('TECHNICAL REJECT')[1].strip()

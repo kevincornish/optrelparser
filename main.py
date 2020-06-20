@@ -12,8 +12,18 @@ class ProcessPDFs(object):
         for idx, pdf in enumerate(pdfs):
             data = converter.convert(pdf)
 
-            #data['username'] = username
-            #insert_vials(data)
+            data['username'] = username
+            data['product_id'] = product_id
+            data['recipe'] = recipe
+            data['batch'] = batch
+            data['start_date'] = start_date
+            data['end_date'] = end_date
+            data['inspected'] = inspected
+            data['accepted'] = accepted
+            data['rejected'] = rejected
+            data['technical_rejects'] = technical_rejects
+            insert_vials(data)
+            #insert_vials([(fetch_username,fetch_product_id,fetch_recipe,fetch_batch,fetch_start_date,fetch_end_date, fetch_inspected,fetch_accepted,fetch_rejected,fetch_technical_rejects)])
 
     def get_pdfs(self, directory):
         return [f'{directory}/{_file}' for _file in os.listdir(directory) if

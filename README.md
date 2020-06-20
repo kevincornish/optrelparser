@@ -12,8 +12,14 @@ Import PDF's
 3. Export PDF strings to database
 
 Search.py
-4. Pick reports to search either ampoule/vial
-5. Search PDF's via batch number or name eg 'Magnesium Sulfate', will then pull up all Magnesium Sulfate batches and be able to filter through them.
-6. Search specific users who have ran batches eg Username: 'kevc'
-7. Search common reject %'s
-8. Look at trends between batches
+------
+1. Pick reports to search either ampoule/vial
+2. Search PDF's via batch number or name eg 'Magnesium Sulfate', will then pull up all Magnesium Sulfate batches and be able to filter through them.
+3. Search specific users who have ran batches eg Username: 'kevc'
+4. Search common reject %'s
+5. Look at trends between batches
+
+# setup
+1. run setup.py
+2. to import batches run 'main.py -d vials' or 'pdf.py -d ampoules'
+

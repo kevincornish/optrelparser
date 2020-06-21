@@ -1,7 +1,7 @@
 import pdftotext
 import psycopg2
 from config import config
-from db import insert_vials
+from db import insert_vials, insert_ampoules
 
 class PDFToDict(object):
 

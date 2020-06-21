@@ -22,10 +22,6 @@ def connect():
             conn.close()
             print('Database connection closed.')
 
-
-if __name__ == '__main__':
-    connect()
-
 def get_vials(search):
     """ query data from the vials table """
     conn = None
@@ -48,9 +44,45 @@ def get_vials(search):
         if conn is not None:
             conn.close()
 
+def get_ampoules(search):
+    """ query data from the vials table """
+    conn = None
+    try:
+        params = config()
+        conn = psycopg2.connect(**params)
+        cur = conn.cursor()
+        s = "SELECT * FROM ampoules WHERE ampoules.batch LIKE (%s)"
+        cur.execute(s, [search])
+        rows = cur.fetchall()
+        print (rows)
+        cur.close()
+    except (Exception, psycopg2.DatabaseError) as error:
+        print(error)
+    finally:
+        if conn is not None:
+            conn.close()
+
 def insert_vials(vial_list):
 	""" insert new vials into the vials table """
 	sql = "INSERT INTO vials(username,product_id,recipe,batch,start_date,end_date,inspected,accepted,rejected,technical_rejects) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+	conn = None
+	try:
+                params = config()
+                conn = psycopg2.connect(**params)
+                cur = conn.cursor()
+                cur.executemany(sql,vial_list)
+                conn.commit()
+                cur.close()
+	except (Exception, psycopg2.DatabaseError) as error:
+		print(error)
+	finally:
+		if conn is not None:
+			conn.close()
+
+
+def insert_ampoules(ampoules_list):
+	""" insert new ampoules into the ampoules table """
+	sql = "INSERT INTO ampoules(username,product_id,recipe,batch,start_date,end_date,inspected,accepted,rejected,technical_rejects) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
 	conn = None
 	try:
                 params = config()

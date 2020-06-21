@@ -1,10 +1,10 @@
 import os
 import argparse
 
-from db import insert_vials
+from db import insert_vials, insert_ampoules
 from pdf import PDFToDict
 from setup import create_tables
-from search import search_vials
+from search import search_vials, search_ampoules
 
 
 class ProcessPDFs(object):
@@ -13,17 +13,16 @@ class ProcessPDFs(object):
         converter = PDFToDict()
         for idx, pdf in enumerate(pdfs):
             data = converter.convert(pdf)
-
-            data['username'] = username
-            data['product_id'] = product_id
-            data['recipe'] = recipe
-            data['batch'] = batch
-            data['start_date'] = start_date
-            data['end_date'] = end_date
-            data['inspected'] = inspected
-            data['accepted'] = accepted
-            data['rejected'] = rejected
-            data['technical_rejects'] = technical_rejects
+            #data['username'] = username
+            #data['product_id'] = product_id
+            #data['recipe'] = recipe
+            #data['batch'] = batch
+            #data['start_date'] = start_date
+            #data['end_date'] = end_date
+            #data['inspected'] = inspected
+            #data['accepted'] = accepted
+            #data['rejected'] = rejected
+            #data['technical_rejects'] = technical_rejects
             #insert_vials(data)
             #insert_vials([(username,product_id,recipe,batch,start_date,end_date,inspected,accepted,rejected,technical_rejects)])
 
@@ -34,9 +33,9 @@ class ProcessPDFs(object):
 
 if __name__ == '__main__':
 
-	setup = input("Do you want to create tables in db? y/n >>>")
+	setup = input("Do you want to create tables in db? y/n >>> ")
 	setupBool = False
-	if setupBool == 'y':
+	if setup == 'y':
 		setupBool = True
 	else:
 		setupBool = False
@@ -44,27 +43,28 @@ if __name__ == '__main__':
 	if setupBool == True:
 		create_tables()
 
-	importing = input("Do you want to import pdfs to db? y/n >>>")
+	importing = input("Do you want to import pdfs to db? y/n >>> ")
 	importingBool = False
-	if importingBool == 'y':
+	if importing == 'y':
 		importingBool = True
 	else:
 		importingBool = False
 
 	if importingBool == True:
-		parser = argparse.ArgumentParser(description='Process some integers.')
-		parser.add_argument('-d', dest='directory', type=str, help='the directory of pdfs to parse')
-		
-		args = parser.parse_args()
+		directoryinp = input("vials or ampoules >>> ")		
 		processor = ProcessPDFs()
-		processor.process(args.directory)
+		processor.process(directoryinp)
 		
-	search = input("Would you like to search for a batch? y/n >>>")
+	search = input("Would you like to search for a batch? y/n >>> ")
 	searchBool = False
-	if searchBool == 'y':
+	if search == 'y':
 		searchBool = True
 	else:
 		searchBool = False
 
 	if searchBool == True:
-		search_vials()
+		searchinp = input("vials or ampoules >>> ")
+		if searchinp == 'vials':
+			search_vials()
+		if searchinp == 'ampoules':
+			search_ampoules()

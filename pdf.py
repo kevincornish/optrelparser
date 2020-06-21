@@ -3,6 +3,7 @@ import psycopg2
 from config import config
 from db import insert_vials, insert_ampoules
 
+
 class PDFToDict(object):
 
     def convert(self, file_name):
@@ -59,7 +60,7 @@ class PDFToDict(object):
         page = pdf[0]
         inspected = page.split('\n')[10]
         return inspected.split('INSPECTED')[1].strip()
-        
+
     def fetch_accepted(self, pdf):
         page = pdf[0]
         accepted = page.split('\n')[11]

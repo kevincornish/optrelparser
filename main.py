@@ -3,6 +3,8 @@ import argparse
 
 from db import insert_vials
 from pdf import PDFToDict
+from setup import create_tables
+from search import search_vials
 
 
 class ProcessPDFs(object):
@@ -22,8 +24,8 @@ class ProcessPDFs(object):
             data['accepted'] = accepted
             data['rejected'] = rejected
             data['technical_rejects'] = technical_rejects
-            insert_vials(data)
-            #insert_vials([(fetch_username,fetch_product_id,fetch_recipe,fetch_batch,fetch_start_date,fetch_end_date, fetch_inspected,fetch_accepted,fetch_rejected,fetch_technical_rejects)])
+            #insert_vials(data)
+            #insert_vials([(username,product_id,recipe,batch,start_date,end_date,inspected,accepted,rejected,technical_rejects)])
 
     def get_pdfs(self, directory):
         return [f'{directory}/{_file}' for _file in os.listdir(directory) if
@@ -31,11 +33,38 @@ class ProcessPDFs(object):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Process some integers.')
-    parser.add_argument('-d', dest='directory', type=str,
-                        help='the directory of pdfs to parse')
 
-    args = parser.parse_args()
-    processor = ProcessPDFs()
-    processor.process(args.directory)
+	setup = input("Do you want to create tables in db? y/n >>>")
+	setupBool = False
+	if setupBool == 'y':
+		setupBool = True
+	else:
+		setupBool = False
 
+	if setupBool == True:
+		create_tables()
+
+	importing = input("Do you want to import pdfs to db? y/n >>>")
+	importingBool = False
+	if importingBool == 'y':
+		importingBool = True
+	else:
+		importingBool = False
+
+	if importingBool == True:
+		parser = argparse.ArgumentParser(description='Process some integers.')
+		parser.add_argument('-d', dest='directory', type=str, help='the directory of pdfs to parse')
+		
+		args = parser.parse_args()
+		processor = ProcessPDFs()
+		processor.process(args.directory)
+		
+	search = input("Would you like to search for a batch? y/n >>>")
+	searchBool = False
+	if searchBool == 'y':
+		searchBool = True
+	else:
+		searchBool = False
+
+	if searchBool == True:
+		search_vials()

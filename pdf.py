@@ -1,6 +1,7 @@
 import pdftotext
 import psycopg2
 import re
+import sys
 from config import config
 from db import insert_vials, insert_ampoules
 
@@ -84,4 +85,7 @@ class PDFToDict(object):
         page = pdf[0]
         technical_rejects = page.split('\n')[13]
         technical_rejects = " ".join(re.split("\s+", technical_rejects, flags=re.UNICODE))
-        return technical_rejects.split('TECHNICAL REJECT')[1].strip()
+        if sys.argv[3] == 'vials':
+        	return technical_rejects.split('TECHNICAL REJECT')[1].strip()
+        else:
+        	return technical_rejects.split('TECNICAL REJECT')[1].strip()

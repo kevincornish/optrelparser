@@ -34,9 +34,6 @@ def get_vials(search):
         s = "SELECT * FROM vials WHERE vials.batch LIKE (%s)"
         cur.execute(s, [search])
         rows = cur.fetchall()
-        #        for row in rows:
-        #        	print (row)
-        # not sure if i need to loop them, in php i would but i feel like fetch all is already return them all nicely?
         print(rows)
         cur.close()
     except (Exception, psycopg2.DatabaseError) as error:
@@ -90,17 +87,26 @@ def insert_vials(data):
     finally:
         if conn is not None:
             conn.close()
+            print ("done...")
 
 
-def insert_ampoules(ampoules_list):
-    """ insert new ampoules into the ampoules table """
-    sql = "INSERT INTO ampoules(username,product_id,recipe,batch,start_date,end_date,inspected,accepted,rejected,technical_rejects) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+def insert_ampoules(data):
+    """ insert new ampoules into the vials table """
+    sql = f"""
+    INSERT INTO ampoules(
+        username, product_id, recipe, batch, start_date, end_date, inspected, accepted, rejected, technical_rejects
+        ) 
+    VALUES(
+    '{data['username']}', '{data['product_id']}', '{data['recipe']}', '{data['batch']}', '{data['start_date']}', 
+    '{data['end_date']}', '{data['inspected']}', '{data['accepted']}', '{data['rejected']}', '{data['technical_rejects']}')
+    """
     conn = None
     try:
         params = config()
         conn = psycopg2.connect(**params)
         cur = conn.cursor()
-        cur.executemany(sql, vial_list)
+        print ("importing...")
+        cur.execute(sql)
         conn.commit()
         cur.close()
     except (Exception, psycopg2.DatabaseError) as error:
@@ -108,3 +114,4 @@ def insert_ampoules(ampoules_list):
     finally:
         if conn is not None:
             conn.close()
+            print ("done...")

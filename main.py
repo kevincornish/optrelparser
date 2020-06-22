@@ -11,7 +11,10 @@ class ProcessPDFs(object):
         converter = PDFToDict()
         for idx, pdf in enumerate(pdfs):
             data = converter.convert(pdf)
-            insert_vials(data)
+            if directoryinp == 'vials':
+            	insert_vials(data)
+            else:
+            	insert_ampoules(data)
             #print (data['username'])
 
     def get_pdfs(self, directory):

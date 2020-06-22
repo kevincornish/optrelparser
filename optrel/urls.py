@@ -15,7 +15,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from reports.views import VialListView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('vials/', VialListView.as_view())
 ]

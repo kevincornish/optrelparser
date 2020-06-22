@@ -1,23 +1,23 @@
 {% extends "base.html" %}
 
 {% block content %}
-<table>
-      <thead>
+    <table>
+        <thead>
         <tr>
-          <th>Product ID</th>
-          <th>Recipe</th>
+            <th>Product ID</th>
+            <th>Recipe</th>
             {#       add more here     #}
         </tr>
-      </thead>
-          <tbody>
-          {% for vial in vials %}
-          <tr>
-                    <td>{{ vial.product_id }}</td>
-                    <td>{{ vial.recipe }}</td>
-                </tr>
-          {% endfor %}
-      </tbody>
-</table>
+        </thead>
+        <tbody>
+        {% for vial in vials %}
+            <tr>
+                <td>{{ vial.product_id }}</td>
+                <td>{{ vial.recipe }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
 {% endblock %}
 
 

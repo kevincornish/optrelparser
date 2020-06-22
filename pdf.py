@@ -36,7 +36,7 @@ class PDFToDict(object):
 
     def fetch_recipe(self, pdf):
         page = pdf[0]
-        return page.split('Product:')[1].split('\n')[0].strip().split('    ')[-1]
+        return ' '.join(page.split('Product:')[1].split('\n')[0].strip().split()[1:])
 
     def fetch_batch_name(self, pdf):
         page = pdf[0]

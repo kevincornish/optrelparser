@@ -78,9 +78,9 @@ WSGI_APPLICATION = 'optrel.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'optrel_reports',
-        'USER': 'billy',
-        'PASSWORD': 'billy',
+        'NAME': 'reports',
+        'USER': 'postgres',
+        'PASSWORD': 'zn5p88qe',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }

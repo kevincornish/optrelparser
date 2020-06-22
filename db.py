@@ -7,13 +7,8 @@ def connect():
     conn = None
     try:
         params = config()
-        print('Connecting to the PostgreSQL database...')
         conn = psycopg2.connect(**params)
         cur = conn.cursor()
-        print('PostgreSQL database version:')
-        cur.execute('SELECT version()')
-        db_version = cur.fetchone()
-        print(db_version)
         cur.close()
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
@@ -34,7 +29,17 @@ def get_vials(search):
         s = "SELECT * FROM vials WHERE vials.batch LIKE (%s)"
         cur.execute(s, [search])
         rows = cur.fetchall()
-        print(rows)
+        for row in rows:
+        	print("Username = ", row[0], )
+        	print("Product ID = ", row[1], )
+        	print("Recipe = ", row[2], )
+        	print("Batch = ", row[3], )
+        	print("Start Date = ", row[4], )
+        	print("End Date = ", row[5], )
+        	print("Inspected = ", row[6], )
+        	print("Accepted = ", row[7], )
+        	print("Rejected = ", row[8], )
+        	print("Technical Rejects = ", row[9], "\n" )
         cur.close()
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
@@ -44,7 +49,7 @@ def get_vials(search):
 
 
 def get_ampoules(search):
-    """ query data from the vials table """
+    """ query data from the ampoules table """
     conn = None
     try:
         params = config()
@@ -53,7 +58,17 @@ def get_ampoules(search):
         s = "SELECT * FROM ampoules WHERE ampoules.batch LIKE (%s)"
         cur.execute(s, [search])
         rows = cur.fetchall()
-        print(rows)
+        for row in rows:
+        	print("Username = ", row[0], )
+        	print("Product ID = ", row[1], )
+        	print("Recipe = ", row[2], )
+        	print("Batch = ", row[3], )
+        	print("Start Date = ", row[4], )
+        	print("End Date = ", row[5], )
+        	print("Inspected = ", row[6], )
+        	print("Accepted = ", row[7], )
+        	print("Rejected = ", row[8], )
+        	print("Technical Rejects = ", row[9], "\n" )
         cur.close()
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
@@ -81,14 +96,11 @@ def insert_vials(data):
         cur.execute(sql)
         conn.commit()
         cur.close()
-        print ("done...")
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
     finally:
         if conn is not None:
             conn.close()
-            print ("done...")
-
 
 def insert_ampoules(data):
     """ insert new ampoules into the vials table """
@@ -114,4 +126,3 @@ def insert_ampoules(data):
     finally:
         if conn is not None:
             conn.close()
-            print ("done...")

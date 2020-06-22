@@ -42,7 +42,7 @@ def create_tables():
             cur.execute(command)
         cur.close()
         conn.commit()
-        print ("Success")
+        print ("Successfully Rebuilt DB")
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
     finally:

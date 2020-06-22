@@ -24,7 +24,7 @@ class ProcessPDFs(object):
 
 if __name__ == '__main__':
 
-    setup = input("Do you want to create tables in db? y/n >>> ")
+    setup = input("Create tables in db? y/n >>> ")
     setupBool = False
     if setup == 'y':
         setupBool = True
@@ -34,7 +34,7 @@ if __name__ == '__main__':
     if setupBool == True:
         create_tables()
 
-    importing = input("Do you want to import pdfs to db? y/n >>> ")
+    importing = input("Import PDF's to DB? y/n >>> ")
     importingBool = False
     if importing == 'y':
         importingBool = True
@@ -46,7 +46,7 @@ if __name__ == '__main__':
         processor = ProcessPDFs()
         processor.process(directoryinp)
 
-    search = input("Would you like to search for a batch? y/n >>> ")
+    search = input("Search for a batch? y/n >>> ")
     searchBool = False
     if search == 'y':
         searchBool = True

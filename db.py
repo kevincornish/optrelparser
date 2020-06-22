@@ -26,20 +26,21 @@ def get_vials(search):
         conn = psycopg2.connect(**params)
         cur = conn.cursor()
         # Search works but have to be exact to return results eg '12345678 Morphine Sulfate' returns but 'Morphine' or '12345678' doesnt
-        s = f"SELECT * FROM vials WHERE vials.batch LIKE '%{search}%'"
+        s = f"SELECT * FROM vials WHERE vials.batch_number LIKE '%{search}%'"
         cur.execute(s)
         rows = cur.fetchall()
         for row in rows:
         	print("Username = ", row[0], )
         	print("Product ID = ", row[1], )
         	print("Recipe = ", row[2], )
-        	print("Batch = ", row[3], )
-        	print("Start Date = ", row[4], )
-        	print("End Date = ", row[5], )
-        	print("Inspected = ", row[6], )
-        	print("Accepted = ", row[7], )
-        	print("Rejected = ", row[8], )
-        	print("Technical Rejects = ", row[9], "\n" )
+        	print("Batch Name = ", row[3], )
+        	print("Batch Number = ", row[4], )
+        	print("Start Date = ", row[5], )
+        	print("End Date = ", row[6], )
+        	print("Inspected = ", row[7], )
+        	print("Accepted = ", row[8], )
+        	print("Rejected = ", row[9], )
+        	print("Technical Rejects = ", row[10], "\n" )
         cur.close()
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
@@ -55,20 +56,21 @@ def get_ampoules(search):
         params = config()
         conn = psycopg2.connect(**params)
         cur = conn.cursor()
-        s = "SELECT * FROM ampoules WHERE ampoules.batch LIKE (%s)"
-        cur.execute(s, [search])
+        s = f"SELECT * FROM ampoules WHERE ampoules.batch_number LIKE '%{search}%'"
+        cur.execute(s)
         rows = cur.fetchall()
         for row in rows:
         	print("Username = ", row[0], )
         	print("Product ID = ", row[1], )
         	print("Recipe = ", row[2], )
-        	print("Batch = ", row[3], )
-        	print("Start Date = ", row[4], )
-        	print("End Date = ", row[5], )
-        	print("Inspected = ", row[6], )
-        	print("Accepted = ", row[7], )
-        	print("Rejected = ", row[8], )
-        	print("Technical Rejects = ", row[9], "\n" )
+        	print("Batch Name = ", row[3], )
+        	print("Batch Number = ", row[4], )
+        	print("Start Date = ", row[5], )
+        	print("End Date = ", row[6], )
+        	print("Inspected = ", row[7], )
+        	print("Accepted = ", row[8], )
+        	print("Rejected = ", row[9], )
+        	print("Technical Rejects = ", row[10], "\n" )
         cur.close()
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
@@ -81,10 +83,10 @@ def insert_vials(data):
     """ insert new vials into the vials table """
     sql = f"""
     INSERT INTO vials(
-        username, product_id, recipe, batch, start_date, end_date, inspected, accepted, rejected, technical_rejects
+        username, product_id, recipe, batch_name, batch_number, start_date, end_date, inspected, accepted, rejected, technical_rejects
         ) 
     VALUES(
-    '{data['username']}', '{data['product_id']}', '{data['recipe']}', '{data['batch']}', '{data['start_date']}', 
+    '{data['username']}', '{data['product_id']}', '{data['recipe']}', '{data['batch_name']}', '{data['batch_number']}', '{data['start_date']}', 
     '{data['end_date']}', '{data['inspected']}', '{data['accepted']}', '{data['rejected']}', '{data['technical_rejects']}')
     """
     conn = None
@@ -103,13 +105,13 @@ def insert_vials(data):
             conn.close()
 
 def insert_ampoules(data):
-    """ insert new ampoules into the vials table """
+    """ insert new ampoules into the ampoules table """
     sql = f"""
     INSERT INTO ampoules(
-        username, product_id, recipe, batch, start_date, end_date, inspected, accepted, rejected, technical_rejects
+        username, product_id, recipe, batch_name, batch_number, start_date, end_date, inspected, accepted, rejected, technical_rejects
         ) 
     VALUES(
-    '{data['username']}', '{data['product_id']}', '{data['recipe']}', '{data['batch']}', '{data['start_date']}', 
+    '{data['username']}', '{data['product_id']}', '{data['recipe']}', '{data['batch_name']}', '{data['batch_number']}', '{data['start_date']}', 
     '{data['end_date']}', '{data['inspected']}', '{data['accepted']}', '{data['rejected']}', '{data['technical_rejects']}')
     """
     conn = None

@@ -47,7 +47,10 @@ class PDFToDict(object):
         page = pdf[0]
         line = page.split('Batch:')[-1].split('\n')[0].strip()
         expr = re.compile('\d+')
-        return re.findall(expr, line)[0]
+        try:
+            return re.findall(expr, line)[0]
+        except IndexError:
+            return None
 
     def fetch_start_date(self, pdf):
         page = pdf[0]

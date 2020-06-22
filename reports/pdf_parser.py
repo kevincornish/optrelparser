@@ -1,5 +1,6 @@
 import re
 import pdftotext
+from datetime import datetime
 
 
 class PDFToDict(object):
@@ -36,6 +37,13 @@ class PDFToDict(object):
 
     def fetch_recipe(self, pdf):
         page = pdf[0]
+        product_line_with_rest_of_page = page.split('Product:')[1]
+        product_line = product_line_with_rest_of_page.split('\n')[0]
+        cleaned_product_line = product_line.strip()
+        product_id_and_recipe = cleaned_product_line.split()
+        # ignore product id (first element in list)
+        recipe = ' '.join(product_id_and_recipe[1:])
+        return recipe
         return ' '.join(page.split('Product:')[1].split('\n')[0].strip().split()[1:])
 
     def fetch_batch_name(self, pdf):
@@ -57,14 +65,16 @@ class PDFToDict(object):
         full_string = page.split("Starting date:")[-1].split('\n')[0].strip().split()
         date = full_string[0]
         time = full_string[-1]
-        return f'{date} {time}'
+        dt = f'{date} {time}'
+        return datetime.strptime(dt, '%d/%m/%Y %H:%M:%S')
 
     def fetch_end_date(self, pdf):
         page = pdf[0]
         full_string = page.split("Ending date:")[-1].split('\n')[0].strip().split()
         date = full_string[0]
         time = full_string[-1]
-        return f'{date} {time}'
+        dt = f'{date} {time}'
+        return datetime.strptime(dt, '%d/%m/%Y %H:%M:%S')
 
     def fetch_inspected(self, pdf):
         page = pdf[0]

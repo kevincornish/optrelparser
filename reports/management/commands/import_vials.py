@@ -12,6 +12,9 @@ class Command(BaseCommand):
         converter = PDFToDict()
         for pdf in pdfs:
             data = converter.convert(pdf)
+            if data['inspected'] == '0':
+            	# don't process
+            	continue
             vial = Vial(**data)
             vial.save()
 

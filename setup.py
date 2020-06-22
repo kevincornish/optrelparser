@@ -9,30 +9,30 @@ def create_tables():
         """
         CREATE TABLE vials (
             username VARCHAR(255) NOT NULL,
-            product_id VARCHAR(255) NOT NULL,
+            product_id INTEGER NOT NULL,
             recipe VARCHAR(255) NOT NULL,
             batch_name VARCHAR(255) NOT NULL,
             batch_number VARCHAR(255) NOT NULL,
             start_date VARCHAR(255) NOT NULL,
             end_date VARCHAR(255) NOT NULL,
-            inspected VARCHAR(255) NOT NULL,
-            accepted VARCHAR(255) NOT NULL,
-            rejected VARCHAR(255) NOT NULL,
-            technical_rejects VARCHAR(255) NOT NULL
+            inspected INTEGER NOT NULL,
+            accepted INTEGER NOT NULL,
+            rejected INTEGER NOT NULL,
+            technical_rejects INTEGER NOT NULL
         )
         """,
         """ CREATE TABLE ampoules (
             username VARCHAR(255) NOT NULL,
-            product_id VARCHAR(255) NOT NULL,
+            product_id INTEGER NOT NULL,
             recipe VARCHAR(255) NOT NULL,
             batch_name VARCHAR(255) NOT NULL,
             batch_number VARCHAR(255) NOT NULL,
             start_date VARCHAR(255) NOT NULL,
             end_date VARCHAR(255) NOT NULL,
-            inspected VARCHAR(255) NOT NULL,
-            accepted VARCHAR(255) NOT NULL,
-            rejected VARCHAR(255) NOT NULL,
-            technical_rejects VARCHAR(255) NOT NULL
+            inspected INTEGER NOT NULL,
+            accepted INTEGER NOT NULL,
+            rejected INTEGER NOT NULL,
+            technical_rejects INTEGER NOT NULL
                 )
         """)
     conn = None

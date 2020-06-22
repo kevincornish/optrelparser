@@ -25,7 +25,6 @@ def get_vials(search):
         params = config()
         conn = psycopg2.connect(**params)
         cur = conn.cursor()
-        # Search works but have to be exact to return results eg '12345678 Morphine Sulfate' returns but 'Morphine' or '12345678' doesnt
         s = f"SELECT * FROM vials WHERE vials.batch_number LIKE '%{search}%'"
         cur.execute(s)
         rows = cur.fetchall()

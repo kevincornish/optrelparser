@@ -1,3 +1,4 @@
+import re
 import pdftotext
 
 
@@ -9,7 +10,8 @@ class PDFToDict(object):
         results['username'] = self.fetch_username(pdf)
         results['product_id'] = self.fetch_product_id(pdf)
         results['recipe'] = self.fetch_recipe(pdf)
-        results['batch'] = self.fetch_batch(pdf)
+        results['batch_name'] = self.fetch_batch_name(pdf)
+        results['batch_number'] = self.fetch_batch_number(pdf)
         results['start_date'] = self.fetch_start_date(pdf)
         results['end_date'] = self.fetch_end_date(pdf)
         results['inspected'] = self.fetch_inspected(pdf)
@@ -36,9 +38,16 @@ class PDFToDict(object):
         page = pdf[0]
         return page.split('Product:')[1].split('\n')[0].strip().split('    ')[-1]
 
-    def fetch_batch(self, pdf):
+    def fetch_batch_name(self, pdf):
         page = pdf[0]
-        return page.split('Batch:')[-1].split('\n')[0].strip()
+        line = page.split('Batch:')[-1].split('\n')[0].strip()
+        return ''.join([char for char in line if not char.isdigit()]).strip()
+
+    def fetch_batch_number(self, pdf):
+        page = pdf[0]
+        line = page.split('Batch:')[-1].split('\n')[0].strip()
+        expr = re.compile('\d+')
+        return re.findall(expr, line)[0]
 
     def fetch_start_date(self, pdf):
         page = pdf[0]

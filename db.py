@@ -67,20 +67,24 @@ def get_ampoules(search):
 
 def insert_vials(data):
     """ insert new vials into the vials table """
-    sql = "INSERT INTO vials(username, product_id, recipe, batch, start_date, end_date, inspected, accepted, rejected, technical_rejects) VALUES({data['username'], data['product_id'], data['recipe'], data['batch'], data['start_date'], data['end_date'], data['inspected'], data['accepted'], data['rejected'], data['technical_rejects']}) "
-
-    #this is the closest i've gotten to it running. err:'dict' object does not support indexing
-    #sql = "INSERT INTO vials(username,product_id,recipe,batch,start_date,end_date,inspected,accepted,rejected,technical_rejects) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
-
+    sql = f"""
+    INSERT INTO vials(
+        username, product_id, recipe, batch, start_date, end_date, inspected, accepted, rejected, technical_rejects
+        ) 
+    VALUES(
+    '{data['username']}', '{data['product_id']}', '{data['recipe']}', '{data['batch']}', '{data['start_date']}', 
+    '{data['end_date']}', '{data['inspected']}', '{data['accepted']}', '{data['rejected']}', '{data['technical_rejects']}')
+    """
     conn = None
     try:
         params = config()
         conn = psycopg2.connect(**params)
         cur = conn.cursor()
-        #print (data['username'])
-        cur.execute(sql, data)
+        print ("importing...")
+        cur.execute(sql)
         conn.commit()
         cur.close()
+        print ("done...")
     except (Exception, psycopg2.DatabaseError) as error:
         print(error)
     finally:

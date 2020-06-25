@@ -1,0 +1,461 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"05/02/2016 07:52:04","-1:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,CZAGrB
+167720,"05/02/2016 07:52:04","-1:00","System","Logs","Exporting a log.",,7vcnNM
+167721,"05/02/2016 07:52:16","-1:00",,"Recipe","Loading recipe number 4 ( Knapp 10ml ) on the interface.",,8dUf22
+167722,"05/02/2016 07:52:16","-1:00",,"Recipe","Data trasfered to PLC",,5LBELT
+167723,"05/02/2016 07:52:16","-1:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,Jr6/V4
+167724,"05/02/2016 07:52:16","-1:00",,"Alarm","ALARM ROTATION MOTOR  On",,fJdAVm
+167725,"05/02/2016 07:52:16","-1:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,YwRlRI
+167726,"05/02/2016 07:52:16","-1:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,la0ps2
+167727,"05/02/2016 07:52:16","-1:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,jOUpdw
+167728,"05/02/2016 07:52:16","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,YKleGg
+167729,"05/02/2016 07:52:16","-1:00",,"Warning","ALARM VACUUM SENSOR  On",,TZDDrP
+167730,"05/02/2016 07:52:16","-1:00",,"Warning","PVSI NOT READY  On",,2TCe02
+167731,"05/02/2016 07:52:16","-1:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,H8opax
+167732,"05/02/2016 07:52:16","-1:00",,"Warning","PVSI NOT RUNNING   On",,+QzG4e
+167733,"05/02/2016 07:52:16","-1:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,LUW82D
+167734,"05/02/2016 07:52:16","-1:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,OqJvjp
+167735,"05/02/2016 07:52:16","-1:00",,"Alarm","EMERGENCY  On",,9dgwP4
+167736,"05/02/2016 07:52:16","-1:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,zqiizz
+167737,"05/02/2016 07:52:16","-1:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,WC90ls
+167738,"05/02/2016 07:52:16","-1:00",,"Alarm","ALARM TURRET MOTOR NOT READY  On",,/NVfJ9
+167739,"05/02/2016 07:52:16","-1:00",,"Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,vl1Aa+
+167740,"05/02/2016 07:52:19","-1:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,uTVzdr
+167741,"05/02/2016 08:07:12","-1:00","System","User administration","User 'admin' has unsuccessfully attempted to log on 1 times in succession.",,/Otu74
+167742,"05/02/2016 08:07:18","-1:00","System","User administration","User 'Admin' logged on with group 'Administrator'.",,/uVvxM
+167743,"05/02/2016 08:07:31","-1:00","Admin","Warning","PVSI NOT RUNNING   Off",,mN3WlO
+167744,"05/02/2016 08:10:43","-1:00","Admin","Warning","KNAPP READY TO START  On",,LRuzPk
+167745,"05/02/2016 08:10:44","-1:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  Off",,xi8sYu
+167746,"05/02/2016 08:10:44","-1:00","Admin","Warning","ALARM VACUUM SENSOR  Off",,v6+a9D
+167747,"05/02/2016 08:10:44","-1:00","Admin","Warning","PVSI NOT READY  Off",,qLysHg
+167748,"05/02/2016 08:10:44","-1:00","Admin","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,wfCe/n
+167749,"05/02/2016 08:10:44","-1:00","Admin","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  Off",,XxeTHt
+167750,"05/02/2016 08:10:44","-1:00","Admin","Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,ktX1Qt
+167751,"05/02/2016 08:10:44","-1:00","Admin","Alarm","ALARM TURRET MOTOR NOT READY  Off",,zhL1yt
+167752,"05/02/2016 08:10:44","-1:00","Admin","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  Off",,SIJ0MD
+167753,"05/02/2016 08:10:44","-1:00","Admin","Alarm","EMERGENCY  Off",,rg6yLi
+167754,"05/02/2016 08:10:44","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,/8UYJj
+167755,"05/02/2016 08:10:45","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,XMOjTH
+167756,"05/02/2016 08:10:45","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,cAfh3k
+167757,"05/02/2016 08:10:45","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,9iWq3Z
+167758,"05/02/2016 08:10:45","-1:00","Admin","Alarm: 276","Acknowledgment of 276 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,U8j2f/
+167759,"05/02/2016 08:10:45","-1:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,UERm50
+167760,"05/02/2016 08:10:45","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,F+s+BZ
+167761,"05/02/2016 08:10:45","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,kobD9h
+167762,"05/02/2016 08:10:45","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,hysGCj
+167763,"05/02/2016 08:10:45","-1:00","Admin","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,qiWtae
+167764,"05/02/2016 08:10:45","-1:00","Admin","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,/LumAB
+167765,"05/02/2016 08:10:45","-1:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,fLahmu
+167766,"05/02/2016 08:10:45","-1:00","Admin","Alarm:","ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment",,Ags+WX
+167767,"05/02/2016 08:10:45","-1:00","Admin","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,AW82zL
+167768,"05/02/2016 08:10:45","-1:00","Admin","Alarm:","ALARM TURRET MOTOR NOT READY  Acknowledgment",,y/ZXJG
+167769,"05/02/2016 08:10:45","-1:00","Admin","Alarm:","ALARM HOMING NOT DONE TURRET MOTOR  Acknowledgment",,gExrnJ
+167770,"05/02/2016 08:10:48","-1:00","Admin","Warning","KNAPP READY TO START  Off",,bEuMCH
+167771,"05/02/2016 08:10:48","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,G/a9AO
+167772,"05/02/2016 08:10:52","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,GagoDv
+167773,"05/02/2016 08:10:52","-1:00","Admin","Warning","KNAPP IN PROGRESS  On",,fRjnhT
+167774,"05/02/2016 08:14:01","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,gQ1HZ+
+167775,"05/02/2016 08:14:01","-1:00","Admin","Warning","KNAPP READY TO START  On",,7eaHUw
+167776,"05/02/2016 08:14:01","-1:00","Admin","Warning","KNAPP IN PROGRESS  Off",,jIC9re
+167777,"05/02/2016 08:14:21","-1:00","Admin","Warning","PVSI NOT READY  On",,rJvcPP
+167778,"05/02/2016 08:15:06","-1:00","Admin","Warning","WARNING SAFETY DOORS EXCLUDED  On",,WLWMAj
+167779,"05/02/2016 08:18:55","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,77YukF
+167780,"05/02/2016 08:18:55","-1:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  On",,gwQ0lJ
+167781,"05/02/2016 08:18:55","-1:00","Admin","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,oWyb4e
+167782,"05/02/2016 08:18:55","-1:00","Admin","Alarm","EMERGENCY  On",,kZtVsP
+167783,"05/02/2016 08:18:55","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,ImzPhf
+167784,"05/02/2016 08:18:55","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,NXpH7k
+167785,"05/02/2016 08:18:55","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,BBqBaX
+167786,"05/02/2016 08:18:59","-1:00","System","User administration","User 'Admin' logged on with group 'Administrator'.",,/LY+yA
+167787,"05/02/2016 08:19:00","-1:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  Off",,90jJjG
+167788,"05/02/2016 08:19:00","-1:00","Admin","Warning","PVSI NOT READY  Off",,TaR9Hr
+167789,"05/02/2016 08:19:00","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,/jaY1h
+167790,"05/02/2016 08:19:00","-1:00","Admin","Alarm","EMERGENCY  Off",,HyYk1O
+167791,"05/02/2016 08:19:01","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,DRq28z
+167792,"05/02/2016 08:19:01","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,wNlks5
+167793,"05/02/2016 08:19:01","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,NfyiBj
+167794,"05/02/2016 08:19:03","-1:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,i3fkDX
+167795,"05/02/2016 08:19:03","-1:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,tWLjqe
+167796,"05/02/2016 08:19:03","-1:00","Admin","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,9yZYw9
+167797,"05/02/2016 08:19:03","-1:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,ETPtlR
+167798,"05/02/2016 08:19:03","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,pAI5Xz
+167799,"05/02/2016 08:19:03","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,PjtEKU
+167800,"05/02/2016 08:19:03","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,gZpAsW
+167801,"05/02/2016 08:19:22","-1:00","Admin","Warning","PVSI NOT READY  On",,NAOCxh
+167802,"05/02/2016 08:19:35","-1:00","Admin","Warning","PVSI NOT READY  Off",,GIfzW/
+167803,"05/02/2016 08:19:36","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,x1FuI8
+167804,"05/02/2016 08:19:36","-1:00","Admin","Warning","KNAPP READY TO START  Off",,4Pzigs
+167805,"05/02/2016 08:19:36","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,6R6hoU
+167806,"05/02/2016 08:19:54","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,BuFcpd
+167807,"05/02/2016 08:19:54","-1:00","Admin","Warning","KNAPP IN PROGRESS  On",,SOIZ0s
+167808,"05/02/2016 08:23:04","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,j1iYgD
+167809,"05/02/2016 08:23:04","-1:00","Admin","Warning","KNAPP READY TO START  On",,QTgT3G
+167810,"05/02/2016 08:23:04","-1:00","Admin","Warning","KNAPP IN PROGRESS  Off",,TDwXWw
+167811,"05/02/2016 08:23:32","-1:00","Admin","Warning","PVSI NOT READY  On",,looK6X
+167812,"05/02/2016 08:23:59","-1:00","Admin","Warning","WARNING SAFETY DOORS EXCLUDED  On",,a6ixYX
+167813,"05/02/2016 08:24:05","-1:00","Admin","Warning","PVSI NOT READY  Off",,TqI4rU
+167814,"05/02/2016 08:28:05","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,fLhYz2
+167815,"05/02/2016 08:28:05","-1:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  On",,EpbxOj
+167816,"05/02/2016 08:28:05","-1:00","Admin","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,64nqSR
+167817,"05/02/2016 08:28:05","-1:00","Admin","Alarm","EMERGENCY  On",,4H21mU
+167818,"05/02/2016 08:28:05","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,I3gLLM
+167819,"05/02/2016 08:28:05","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,E8BOJu
+167820,"05/02/2016 08:28:05","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,6pF3rP
+167821,"05/02/2016 08:28:07","-1:00","System","User administration","User 'Admin' logged on with group 'Administrator'.",,upTspS
+167822,"05/02/2016 08:28:10","-1:00","Admin","Warning","PVSI NOT READY  On",,CHWvDj
+167823,"05/02/2016 08:28:19","-1:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  Off",,IVq3Sk
+167824,"05/02/2016 08:28:19","-1:00","Admin","Warning","PVSI NOT READY  Off",,ChuBPD
+167825,"05/02/2016 08:28:20","-1:00","Admin","Alarm","EMERGENCY  Off",,OfBDbV
+167826,"05/02/2016 08:28:20","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,pCtH7u
+167827,"05/02/2016 08:28:21","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,LnCpFd
+167828,"05/02/2016 08:28:21","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,z7JY7z
+167829,"05/02/2016 08:28:21","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,0BTKJ2
+167830,"05/02/2016 08:28:21","-1:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,i+XVK3
+167831,"05/02/2016 08:28:21","-1:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,A8Y0Lq
+167832,"05/02/2016 08:28:21","-1:00","Admin","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,Oq+xTk
+167833,"05/02/2016 08:28:21","-1:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,ImTwma
+167834,"05/02/2016 08:28:21","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,5g/8XG
+167835,"05/02/2016 08:28:21","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,D0KN6G
+167836,"05/02/2016 08:28:21","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,hw6Xi/
+167837,"05/02/2016 08:28:23","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,N5Bhny
+167838,"05/02/2016 08:28:23","-1:00","Admin","Warning","KNAPP READY TO START  Off",,uBdDd1
+167839,"05/02/2016 08:28:23","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,xtLG6J
+167840,"05/02/2016 08:28:40","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,L3VzR2
+167841,"05/02/2016 08:28:40","-1:00","Admin","Warning","KNAPP IN PROGRESS  On",,3dl36J
+167842,"05/02/2016 08:31:49","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,24qVg3
+167843,"05/02/2016 08:31:49","-1:00","Admin","Warning","KNAPP READY TO START  On",,CMb3DS
+167844,"05/02/2016 08:31:49","-1:00","Admin","Warning","KNAPP IN PROGRESS  Off",,xIzSsB
+167845,"05/02/2016 08:31:58","-1:00","Admin","Warning","PVSI NOT READY  On",,jwmu4s
+167846,"05/02/2016 08:32:22","-1:00","Admin","Warning","WARNING SAFETY DOORS EXCLUDED  On",,F9+jKp
+167847,"05/02/2016 08:36:25","-1:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  On",,P0D/XN
+167848,"05/02/2016 08:36:25","-1:00","Admin","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,fIkEDt
+167849,"05/02/2016 08:36:25","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,2FPUPm
+167850,"05/02/2016 08:36:25","-1:00","Admin","Alarm","EMERGENCY  On",,hvFlBT
+167851,"05/02/2016 08:36:25","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,duenXL
+167852,"05/02/2016 08:36:25","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,BukbXj
+167853,"05/02/2016 08:36:25","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,BC3/4N
+167854,"05/02/2016 08:36:28","-1:00","System","User administration","User 'Admin' logged on with group 'Administrator'.",,aN2P2A
+167855,"05/02/2016 08:36:33","-1:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  Off",,Ad8BzF
+167856,"05/02/2016 08:36:33","-1:00","Admin","Warning","PVSI NOT READY  Off",,yWaGVB
+167857,"05/02/2016 08:36:34","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,3MSbHl
+167858,"05/02/2016 08:36:34","-1:00","Admin","Alarm","EMERGENCY  Off",,IP2ZRL
+167859,"05/02/2016 08:36:34","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,y4mCpg
+167860,"05/02/2016 08:36:34","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,GqxMC6
+167861,"05/02/2016 08:36:34","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,383Oqc
+167862,"05/02/2016 08:36:37","-1:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,hyYpTu
+167863,"05/02/2016 08:36:37","-1:00","Admin","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,iKA2ZY
+167864,"05/02/2016 08:36:37","-1:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,8pTYd+
+167865,"05/02/2016 08:36:37","-1:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,i1IV89
+167866,"05/02/2016 08:36:37","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,r+ddTA
+167867,"05/02/2016 08:36:37","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,mpYhbM
+167868,"05/02/2016 08:36:37","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,pB8gb5
+167869,"05/02/2016 08:36:38","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,OcejPX
+167870,"05/02/2016 08:36:38","-1:00","Admin","Warning","KNAPP READY TO START  Off",,UcgeB0
+167871,"05/02/2016 08:36:38","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,zjTedV
+167872,"05/02/2016 08:36:53","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,Myyjmi
+167873,"05/02/2016 08:36:53","-1:00","Admin","Warning","KNAPP IN PROGRESS  On",,GgHCdD
+167874,"05/02/2016 08:40:03","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,DC9xjh
+167875,"05/02/2016 08:40:03","-1:00","Admin","Warning","KNAPP READY TO START  On",,q0Dw+q
+167876,"05/02/2016 08:40:03","-1:00","Admin","Warning","KNAPP IN PROGRESS  Off",,cNw/Mv
+167877,"05/02/2016 08:40:29","-1:00","Admin","Warning","PVSI NOT READY  On",,c1d4aj
+167878,"05/02/2016 08:40:59","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,rLU/f0
+167879,"05/02/2016 08:40:59","-1:00","Admin","Warning","KNAPP READY TO START  Off",,Zk6hhH
+167880,"05/02/2016 08:40:59","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,2Fr7Av
+167881,"05/02/2016 08:41:03","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,dk6yW0
+167882,"05/02/2016 08:41:03","-1:00","Admin","Warning","KNAPP IN PROGRESS  On",,lQTaTZ
+167883,"05/02/2016 08:44:13","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,czbXki
+167884,"05/02/2016 08:44:13","-1:00","Admin","Warning","KNAPP READY TO START  On",,Y2WLIv
+167885,"05/02/2016 08:44:13","-1:00","Admin","Warning","KNAPP IN PROGRESS  Off",,oT8aTG
+167886,"05/02/2016 08:45:57","-1:00","Admin","Warning","WARNING SAFETY DOORS EXCLUDED  On",,9eWoVd
+167887,"05/02/2016 08:49:44","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,L+tNue
+167888,"05/02/2016 08:49:44","-1:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  On",,1Q1Lh0
+167889,"05/02/2016 08:49:44","-1:00","Admin","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,2vCcIm
+167890,"05/02/2016 08:49:44","-1:00","Admin","Alarm","EMERGENCY  On",,eJbVjy
+167891,"05/02/2016 08:49:45","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,kx8RAN
+167892,"05/02/2016 08:49:45","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,+BBkxK
+167893,"05/02/2016 08:49:45","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,MMBil9
+167894,"05/02/2016 08:49:47","-1:00","System","User administration","User 'Admin' logged on with group 'Administrator'.",,EL+aeu
+167895,"05/02/2016 08:49:48","-1:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  Off",,mADjc7
+167896,"05/02/2016 08:49:48","-1:00","Admin","Warning","PVSI NOT READY  Off",,k/V9Bc
+167897,"05/02/2016 08:49:48","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,JBOXGg
+167898,"05/02/2016 08:49:48","-1:00","Admin","Alarm","EMERGENCY  Off",,wnbouh
+167899,"05/02/2016 08:49:48","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,poHr8B
+167900,"05/02/2016 08:49:48","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,M2MGWH
+167901,"05/02/2016 08:49:48","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,bHHsOn
+167902,"05/02/2016 08:49:53","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,gVfN3W
+167903,"05/02/2016 08:49:53","-1:00","Admin","Warning","KNAPP READY TO START  Off",,1AtAZN
+167904,"05/02/2016 08:49:53","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,5KYE8q
+167905,"05/02/2016 08:50:09","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,jRtfZN
+167906,"05/02/2016 08:50:09","-1:00","Admin","Warning","KNAPP IN PROGRESS  On",,2u0DW/
+167907,"05/02/2016 08:53:18","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,uABjsj
+167908,"05/02/2016 08:53:18","-1:00","Admin","Warning","KNAPP READY TO START  On",,/5WLAJ
+167909,"05/02/2016 08:53:18","-1:00","Admin","Warning","KNAPP IN PROGRESS  Off",,CzB1FQ
+167910,"05/02/2016 08:53:54","-1:00","Admin","Warning","PVSI NOT READY  On",,/ewebu
+167911,"05/02/2016 08:54:19","-1:00","Admin","Warning","WARNING SAFETY DOORS EXCLUDED  On",,wwpHfa
+167912,"05/02/2016 08:56:49","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,Mih3Ux
+167913,"05/02/2016 08:56:49","-1:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  On",,po90MH
+167914,"05/02/2016 08:56:49","-1:00","Admin","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,cngDiy
+167915,"05/02/2016 08:56:49","-1:00","Admin","Alarm","EMERGENCY  On",,Yn0uli
+167916,"05/02/2016 08:56:49","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,AKj/yK
+167917,"05/02/2016 08:56:49","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,AhNqwe
+167918,"05/02/2016 08:56:49","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,ZHqnPK
+167919,"05/02/2016 08:56:52","-1:00","System","User administration","User 'Admin' logged on with group 'Administrator'.",,lJL3WV
+167920,"05/02/2016 08:56:56","-1:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  Off",,bBLq67
+167921,"05/02/2016 08:56:56","-1:00","Admin","Warning","PVSI NOT READY  Off",,FqXVPV
+167922,"05/02/2016 08:56:57","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,MO2Krc
+167923,"05/02/2016 08:56:57","-1:00","Admin","Alarm","EMERGENCY  Off",,xLaU4c
+167924,"05/02/2016 08:56:57","-1:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,D2dRf6
+167925,"05/02/2016 08:56:57","-1:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,R8/WL4
+167926,"05/02/2016 08:56:57","-1:00","Admin","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,udw0Bt
+167927,"05/02/2016 08:56:57","-1:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,2a6/La
+167928,"05/02/2016 08:56:57","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,fj+75L
+167929,"05/02/2016 08:56:57","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,spyyiG
+167930,"05/02/2016 08:56:57","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,biqnTZ
+167931,"05/02/2016 08:56:57","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,Z2iBa3
+167932,"05/02/2016 08:56:57","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,wZGKzw
+167933,"05/02/2016 08:56:57","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,hq2EHI
+167934,"05/02/2016 08:57:00","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,CZfPvI
+167935,"05/02/2016 08:57:00","-1:00","Admin","Warning","KNAPP READY TO START  Off",,0UunV2
+167936,"05/02/2016 08:57:00","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,mAmsQR
+167937,"05/02/2016 08:57:11","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,d770pz
+167938,"05/02/2016 08:57:11","-1:00","Admin","Warning","KNAPP IN PROGRESS  On",,UechRl
+167939,"05/02/2016 09:00:20","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,2Kxf/K
+167940,"05/02/2016 09:00:20","-1:00","Admin","Warning","KNAPP READY TO START  On",,X1rFwv
+167941,"05/02/2016 09:00:20","-1:00","Admin","Warning","KNAPP IN PROGRESS  Off",,IcPQeT
+167942,"05/02/2016 09:07:17","-1:00","Admin","Warning","PVSI NOT READY  On",,IoNrkc
+167943,"05/02/2016 09:07:38","-1:00","Admin","Alarm","COVER OPEN 1  On",,XBOHU9
+167944,"05/02/2016 09:07:38","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,7cOHZi
+167945,"05/02/2016 09:07:38","-1:00","Admin","Alarm","EMERGENCY  On",,rJnp0G
+167946,"05/02/2016 09:07:39","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,tzO/Fq
+167947,"05/02/2016 09:07:39","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,Wbx65B
+167948,"05/02/2016 09:07:39","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,Zi5XoM
+167949,"05/02/2016 09:07:39","-1:00","Admin","Alarm","COVER OPEN 2  On",,tlsRAs
+167950,"05/02/2016 09:08:29","-1:00","Admin","Warning","PVSI NOT READY  Off",,fwv+ti
+167951,"05/02/2016 09:08:29","-1:00","Admin","Alarm","COVER OPEN 1  Off",,FeasIs
+167952,"05/02/2016 09:08:29","-1:00","Admin","Alarm","COVER OPEN 2  Off",,QxhXPF
+167953,"05/02/2016 09:08:29","-1:00","Admin","Alarm","EMERGENCY  Off",,mCm5lf
+167954,"05/02/2016 09:08:29","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,OfRXCG
+167955,"05/02/2016 09:08:31","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,x+7NZ3
+167956,"05/02/2016 09:08:31","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,03upqI
+167957,"05/02/2016 09:08:31","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,iw3H5V
+167958,"05/02/2016 09:08:32","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,U9P2Ok
+167959,"05/02/2016 09:08:32","-1:00","Admin","Warning","KNAPP READY TO START  Off",,sXzG2n
+167960,"05/02/2016 09:08:32","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,/7+LgD
+167961,"05/02/2016 09:08:33","-1:00","Admin","Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ePb24a
+167962,"05/02/2016 09:08:33","-1:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,KtdfBG
+167963,"05/02/2016 09:08:33","-1:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,GCI8bN
+167964,"05/02/2016 09:08:33","-1:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,HuobMs
+167965,"05/02/2016 09:08:33","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,1lDi1g
+167966,"05/02/2016 09:08:33","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,Ri1jKw
+167967,"05/02/2016 09:08:33","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,uVIhrO
+167968,"05/02/2016 09:08:33","-1:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,e/vq/i
+167969,"05/02/2016 09:08:37","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,fxOxKJ
+167970,"05/02/2016 09:08:37","-1:00","Admin","Warning","KNAPP IN PROGRESS  On",,wtupQK
+167971,"05/02/2016 09:11:46","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,xP6fw+
+167972,"05/02/2016 09:11:46","-1:00","Admin","Warning","KNAPP READY TO START  On",,n2SkTk
+167973,"05/02/2016 09:11:46","-1:00","Admin","Warning","KNAPP IN PROGRESS  Off",,GZzkjh
+167974,"05/02/2016 09:11:54","-1:00","Admin","Warning","PVSI NOT READY  On",,etOdrQ
+167975,"05/02/2016 09:12:06","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,TbKJvK
+167976,"05/02/2016 09:12:06","-1:00","Admin","Warning","KNAPP READY TO START  Off",,iUh/ql
+167977,"05/02/2016 09:12:06","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,THKhR2
+167978,"05/02/2016 09:12:10","-1:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,kiou7m
+167979,"05/02/2016 09:12:10","-1:00","Admin","Warning","KNAPP IN PROGRESS  On",,KAbXUw
+167980,"05/02/2016 09:15:19","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,viCKko
+167981,"05/02/2016 09:15:19","-1:00","Admin","Warning","KNAPP READY TO START  On",,LfkGAB
+167982,"05/02/2016 09:15:19","-1:00","Admin","Warning","KNAPP IN PROGRESS  Off",,YGgBML
+167983,"05/02/2016 09:27:39","-1:00","Admin","Warning","PVSI NOT RUNNING   On",,SLuEzs
+167984,"05/02/2016 09:28:10","-1:00","Admin","User administration","User logged off.",,YN0jza
+167985,"05/02/2016 09:28:10","-1:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,0UBrX9
+167986,"05/02/2016 09:28:10","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,dUuq0J
+167987,"05/02/2016 09:28:14","-1:00","System","User administration","User 'Admin' logged on with group 'Administrator'.",,ZRBptT
+167988,"05/02/2016 09:28:20","-1:00","Admin","Warning","PVSI NOT RUNNING   Off",,vXfk/0
+167989,"05/02/2016 09:28:52","-1:00","Admin","Recipe","Loading recipe number 4 ( Knapp 10ml ) on the interface.",,vMdwOq
+167990,"05/02/2016 09:28:52","-1:00","Admin","Recipe","Data trasfered to PLC",,FG83rm
+167991,"05/02/2016 09:28:55","-1:00","Admin","Warning","PVSI NOT RUNNING   On",,bS2Ndz
+167992,"05/02/2016 09:28:57","-1:00","Admin","Warning","PVSI NOT RUNNING   Off",,7kFlWq
+167993,"05/02/2016 09:29:15","-1:00","Admin","Recipe","Product 4 ( Knapp 10ml ) saved as product 13 ( 10ml Production )",,nHrd4C
+167994,"05/02/2016 09:31:37","-1:00","Admin","Warning","WARNING SAFETY DOORS EXCLUDED  On",,YMjb7x
+167995,"05/02/2016 09:35:27","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,sKYkAI
+167996,"05/02/2016 09:35:27","-1:00","Admin","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,V5ELBf
+167997,"05/02/2016 09:35:27","-1:00","Admin","Alarm","EMERGENCY  On",,f8tqNJ
+167998,"05/02/2016 09:35:27","-1:00","Admin","Alarm","COVER OPEN 1  On",,MnBRNS
+167999,"05/02/2016 09:35:27","-1:00","Admin","Alarm","COVER OPEN 2  On",,lT30nC
+168000,"05/02/2016 09:35:27","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,2ko1Jx
+168001,"05/02/2016 09:35:27","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,ZTeKbf
+168002,"05/02/2016 09:35:27","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,6Oh2yk
+168003,"05/02/2016 09:37:48","-1:00","System","User administration","User 'Admin' logged on with group 'Administrator'.",,Z7pEh+
+168004,"05/02/2016 10:30:05","-1:00","Admin","Alarm","COVER OPEN 4  On",,5qXpaM
+168005,"05/02/2016 10:32:55","-1:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  Off",,+ZzruM
+168006,"05/02/2016 10:32:55","-1:00","Admin","Warning","PVSI NOT READY  Off",,tAe2Sf
+168007,"05/02/2016 10:32:55","-1:00","Admin","Alarm","COVER OPEN 1  Off",,yE7dvC
+168008,"05/02/2016 10:32:55","-1:00","Admin","Alarm","COVER OPEN 2  Off",,mTj7IR
+168009,"05/02/2016 10:32:55","-1:00","Admin","Alarm","COVER OPEN 4  Off",,Fgyb4c
+168010,"05/02/2016 10:32:55","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,vlel4a
+168011,"05/02/2016 10:32:55","-1:00","Admin","Alarm","EMERGENCY  Off",,xGBwgl
+168012,"05/02/2016 10:32:58","-1:00","Admin","Warning","ALARM VACUUM SENSOR  On",,klX986
+168013,"05/02/2016 10:32:58","-1:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,aMiNVR
+168014,"05/02/2016 10:32:58","-1:00","Admin","Warning","KNAPP READY TO START  Off",,DAiecW
+168015,"05/02/2016 10:32:59","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,U4MaiB
+168016,"05/02/2016 10:32:59","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,VrplIe
+168017,"05/02/2016 10:32:59","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,w52oYl
+168018,"05/02/2016 10:32:59","-1:00","Admin","Warning","ALARM VACUUM SENSOR  Off",,8lpenC
+168019,"05/02/2016 10:33:01","-1:00","Admin","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Ouhtli
+168020,"05/02/2016 10:33:01","-1:00","Admin","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,AdXda9
+168021,"05/02/2016 10:33:01","-1:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,/sysZA
+168022,"05/02/2016 10:33:01","-1:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,r+py21
+168023,"05/02/2016 10:33:01","-1:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,xh0Gen
+168024,"05/02/2016 10:33:01","-1:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,NyPXM+
+168025,"05/02/2016 10:33:01","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,RoyKFE
+168026,"05/02/2016 10:33:01","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,aFb4PP
+168027,"05/02/2016 10:33:01","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,gopWBU
+168028,"05/02/2016 10:33:01","-1:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,upHaWC
+168029,"05/02/2016 10:33:08","-1:00","Admin","Alarm","ALARM MISSING COMPRESSED AIR  On",,cdLYYe
+168030,"05/02/2016 10:34:06","-1:00","Admin","Alarm","ALARM MISSING COMPRESSED AIR  Off",,Sc10Xt
+168031,"05/02/2016 10:35:16","-1:00","Admin","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,CqYcDP
+168032,"05/02/2016 10:35:16","-1:00","Admin","Alarm:","ALARM MISSING COMPRESSED AIR  Acknowledgment",,9l3xP1
+168033,"05/02/2016 10:35:24","-1:00","Admin","Alarm","ALARM MISSING COMPRESSED AIR  On",,axwxec
+168034,"05/02/2016 10:35:36","-1:00","Admin","Alarm","ALARM MISSING COMPRESSED AIR  Off",,s24r77
+168035,"05/02/2016 10:36:06","-1:00","Admin","Alarm","COVER OPEN 3  On",,i9jjp2
+168036,"05/02/2016 10:36:06","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,C6eFD/
+168037,"05/02/2016 10:36:06","-1:00","Admin","Alarm","EMERGENCY  On",,ffOMQr
+168038,"05/02/2016 10:36:07","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,dxocqH
+168039,"05/02/2016 10:36:07","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,DW2laZ
+168040,"05/02/2016 10:36:07","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,eGJn6Q
+168041,"05/02/2016 10:36:47","-1:00","Admin","Alarm","COVER OPEN 3  Off",,PHi/Lk
+168042,"05/02/2016 10:36:47","-1:00","Admin","Alarm","EMERGENCY  Off",,TrfzEa
+168043,"05/02/2016 10:36:47","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,jiw3Xy
+168044,"05/02/2016 10:36:48","-1:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,cPysDz
+168045,"05/02/2016 10:36:48","-1:00","Admin","Alarm:","ALARM MISSING COMPRESSED AIR  Acknowledgment",,+d1nCr
+168046,"05/02/2016 10:36:48","-1:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,jaSa+p
+168047,"05/02/2016 10:36:48","-1:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,VTsgsC
+168048,"05/02/2016 10:36:48","-1:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,XGLtcm
+168049,"05/02/2016 10:36:48","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,NA/sm0
+168050,"05/02/2016 10:36:48","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,VrQYO6
+168051,"05/02/2016 10:36:48","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,STjWfU
+168052,"05/02/2016 10:36:49","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,gUpjRJ
+168053,"05/02/2016 10:36:49","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,QuwiYi
+168054,"05/02/2016 10:36:49","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,vPJ6k8
+168055,"05/02/2016 10:38:06","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,LxcoVR
+168056,"05/02/2016 10:38:06","-1:00","Admin","Alarm","EMERGENCY  On",,lX1Wmc
+168057,"05/02/2016 10:38:06","-1:00","Admin","Alarm","COVER OPEN 4  On",,JlcHHP
+168058,"05/02/2016 10:38:06","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,n6Fbyh
+168059,"05/02/2016 10:38:06","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,QrXN6+
+168060,"05/02/2016 10:38:06","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,/rXOR6
+168061,"05/02/2016 10:38:09","-1:00","Admin","Alarm","COVER OPEN 4  Off",,qtnvlA
+168062,"05/02/2016 10:38:09","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,v3RtR5
+168063,"05/02/2016 10:38:09","-1:00","Admin","Alarm","EMERGENCY  Off",,YC3FUT
+168064,"05/02/2016 10:38:09","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,2Ipyrs
+168065,"05/02/2016 10:38:09","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,6gemds
+168066,"05/02/2016 10:38:09","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,DZzdvJ
+168067,"05/02/2016 10:44:11","-1:00","Admin","Recipe","Product 13 ( 10ml Production ) saved as product 14 ( test 10ml )",,D2yof/
+168068,"05/02/2016 10:44:46","-1:00","Admin","Recipe","Loading recipe number 14 ( test 10ml ) on the interface.",,2QFoxZ
+168069,"05/02/2016 10:44:46","-1:00","Admin","Recipe","Data trasfered to PLC",,AcMphG
+168070,"05/02/2016 10:44:49","-1:00","Admin","Warning","PVSI NOT RUNNING   On",,3GhtMH
+168071,"05/02/2016 10:44:51","-1:00","Admin","Warning","PVSI NOT RUNNING   Off",,JjFDI+
+168072,"05/02/2016 10:47:37","-1:00","Admin","Recipe","Data trasfered to PLC",,nGZVA+
+168073,"05/02/2016 10:47:37","-1:00","Admin","Recipe","ST1: Status change to OFF",,WqTeNd
+168074,"05/02/2016 10:47:38","-1:00","Admin","Recipe","New data saved : ST1 change from ON to OFF",,OjLnYD
+168075,"05/02/2016 10:47:52","-1:00","Admin","Recipe","Data trasfered to PLC",,fRWCyM
+168076,"05/02/2016 10:47:52","-1:00","Admin","Recipe","ST1: Status change to ON",,5Jdm/s
+168077,"05/02/2016 10:47:53","-1:00","Admin","Recipe","New data saved : ST1 change from OFF to ON",,Tu5rSK
+168078,"05/02/2016 10:48:35","-1:00","Admin","Recipe","Data trasfered to PLC",,ptZ5oN
+168079,"05/02/2016 10:48:35","-1:00","Admin","Recipe","ST1: Status change to OFF",,KLfwvm
+168080,"05/02/2016 10:48:36","-1:00","Admin","Recipe","New data saved : ST1 change from ON to OFF",,GEgb3D
+168081,"05/02/2016 10:49:30","-1:00","Admin","Recipe","Data trasfered to PLC",,rzQGJH
+168082,"05/02/2016 10:49:30","-1:00","Admin","Recipe","ST1: Status change to ON",,lE7yrq
+168083,"05/02/2016 10:49:34","-1:00","Admin","Recipe","New data saved : ST1 change from OFF to ON",,rrG6Sz
+168084,"05/02/2016 10:49:46","-1:00","Admin","Recipe","Data trasfered to PLC",,x6SEGh
+168085,"05/02/2016 10:49:51","-1:00","Admin","Recipe","Data trasfered to PLC",,RckLY3
+168086,"05/02/2016 10:49:51","-1:00","Admin","Recipe",,,Xonexr
+168087,"05/02/2016 10:49:59","-1:00","Admin","Recipe","Loading recipe number 14 ( test 10ml ) on the interface.",,1ugb7Z
+168088,"05/02/2016 10:50:01","-1:00","Admin","Recipe","Data trasfered to PLC",,uWqHdR
+168089,"05/02/2016 10:50:01","-1:00","Admin","Recipe",,,aBtMbs
+168090,"05/02/2016 10:51:57","-1:00","Admin","Warning","WARNING INFEED BELT MINIM LOAD  On",,dJ3dZF
+168091,"05/02/2016 10:51:57","-1:00","Admin","Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,mD3dCv
+168092,"05/02/2016 10:52:46","-1:00","Admin","Warning","WARNING INFEED BELT MINIM LOAD  Off",,0Sbc+u
+168093,"05/02/2016 10:52:46","-1:00","Admin","Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,enGNMB
+168094,"05/02/2016 10:52:54","-1:00","Admin","Warning","WARNING INFEED BELT MINIM LOAD  On",,skZjjS
+168095,"05/02/2016 10:52:54","-1:00","Admin","Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,D7Q4EC
+168096,"05/02/2016 10:58:34","-1:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,FS1CnP
+168097,"05/02/2016 10:58:34","-1:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,RTAs/v
+168098,"05/02/2016 10:58:34","-1:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,8aHuAe
+168099,"05/02/2016 10:58:34","-1:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,pesr9w
+168100,"05/02/2016 10:58:34","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,onK3g4
+168101,"05/02/2016 10:58:34","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,80OM/N
+168102,"05/02/2016 10:58:34","-1:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,z3IjO7
+168103,"05/02/2016 11:07:31","-1:00","Admin","Warning","PVSI NOT READY  On",,ZrV2Br
+168104,"05/02/2016 11:25:51","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,XJqM4s
+168105,"05/02/2016 11:25:51","-1:00","Admin","Alarm","EMERGENCY  On",,NEP1Iy
+168106,"05/02/2016 11:25:51","-1:00","Admin","Alarm","COVER OPEN 4  On",,Zb3Ddp
+168107,"05/02/2016 11:25:52","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,knoBGC
+168108,"05/02/2016 11:25:52","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,pjPFv4
+168109,"05/02/2016 11:25:52","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,Wkbm9b
+168110,"05/02/2016 11:26:07","-1:00","Admin","Alarm","COVER OPEN 4  Off",,8YSslI
+168111,"05/02/2016 11:26:08","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,TSLlZW
+168112,"05/02/2016 11:26:08","-1:00","Admin","Alarm","EMERGENCY  Off",,rXI+YN
+168113,"05/02/2016 11:26:08","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,gXQnu8
+168114,"05/02/2016 11:26:08","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,QrkEUQ
+168115,"05/02/2016 11:26:08","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,HsxIvv
+168116,"05/02/2016 11:28:25","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,iwlNpG
+168117,"05/02/2016 11:28:25","-1:00","Admin","Alarm","EMERGENCY  On",,KnSq5A
+168118,"05/02/2016 11:28:25","-1:00","Admin","Alarm","COVER OPEN 4  On",,ijh4p6
+168119,"05/02/2016 11:28:25","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,aZKitU
+168120,"05/02/2016 11:28:25","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,nBc6sB
+168121,"05/02/2016 11:28:25","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,3Hkn0f
+168122,"05/02/2016 11:28:42","-1:00","Admin","Alarm","COVER OPEN 4  Off",,ULUYaM
+168123,"05/02/2016 11:28:42","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,ABy1WE
+168124,"05/02/2016 11:28:42","-1:00","Admin","Alarm","EMERGENCY  Off",,eTab8/
+168125,"05/02/2016 11:28:43","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,HhCZUm
+168126,"05/02/2016 11:28:43","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,oo9aVP
+168127,"05/02/2016 11:28:43","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,837wyd
+168128,"05/02/2016 11:28:43","-1:00","Admin","Warning","PVSI NOT READY  Off",,zMBJWr
+168129,"05/02/2016 11:31:44","-1:00","Admin","Warning","PVSI NOT READY  On",,SZV3bF
+168130,"05/02/2016 11:55:07","-1:00","Admin","Alarm","COVER OPEN 1  On",,Owgqtb
+168131,"05/02/2016 11:55:07","-1:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,Lh//zb
+168132,"05/02/2016 11:55:07","-1:00","Admin","Alarm","EMERGENCY  On",,ykI2Nt
+168133,"05/02/2016 11:55:07","-1:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,BQ4pSs
+168134,"05/02/2016 11:55:07","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,QaiSJy
+168135,"05/02/2016 11:55:07","-1:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,puR3wM
+168136,"05/02/2016 11:55:50","-1:00","Admin","Recipe","Loading recipe number 4 ( Knapp 10ml ) on the interface.",,4BScmy
+168137,"05/02/2016 11:55:50","-1:00","Admin","Recipe","Data trasfered to PLC",,f8xvkE
+168138,"05/02/2016 11:55:53","-1:00","Admin","Warning","PVSI NOT RUNNING   On",,lSWP1c
+168139,"05/02/2016 11:55:55","-1:00","Admin","Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,o8BB1p
+168140,"05/02/2016 11:55:55","-1:00","Admin","Warning","PVSI NOT RUNNING   Off",,UAIwm6
+168141,"05/02/2016 11:56:33","-1:00","Admin","Recipe","Loading recipe number 13 ( 10ml Production ) on the interface.",,NxZ3fI
+168142,"05/02/2016 11:56:33","-1:00","Admin","Recipe","Data trasfered to PLC",,vyUTyE
+168143,"05/02/2016 11:56:36","-1:00","Admin","Warning","PVSI NOT RUNNING   On",,GJWv9W
+168144,"05/02/2016 11:56:39","-1:00","Admin","Warning","PVSI NOT RUNNING   Off",,RIgQl1
+168145,"05/02/2016 11:57:02","-1:00","Admin","Recipe","Loading recipe number 13 ( 10ml Production ) on the interface.",,igKjb3
+168146,"05/02/2016 11:57:03","-1:00","Admin","Recipe","Data trasfered to PLC",,6FpfEC
+168147,"05/02/2016 11:57:06","-1:00","Admin","Warning","PVSI NOT RUNNING   On",,zNf/Uf
+168148,"05/02/2016 11:57:08","-1:00","Admin","Warning","PVSI NOT RUNNING   Off",,xj9Vi/
+168149,"05/02/2016 11:57:34","-1:00","Admin","Recipe","Loading recipe number 13 ( 10ml Production ) on the interface.",,Komvoa
+168150,"05/02/2016 11:57:35","-1:00","Admin","Recipe","Data trasfered to PLC",,cfwLEu
+168151,"05/02/2016 11:57:38","-1:00","Admin","Warning","PVSI NOT RUNNING   On",,xmxyxW
+168152,"05/02/2016 11:57:40","-1:00","Admin","Warning","PVSI NOT RUNNING   Off",,fb7Wrp
+168153,"05/02/2016 11:58:15","-1:00","Admin","Recipe","Loading recipe number 10 ( 50ml Production ) on the interface.",,mlPE7a
+168154,"05/02/2016 11:58:16","-1:00","Admin","Recipe","Data trasfered to PLC",,/jzcGV
+168155,"05/02/2016 11:58:19","-1:00","Admin","Warning","PVSI NOT RUNNING   On",,uGgVXD
+168156,"05/02/2016 11:58:21","-1:00","Admin","Warning","PVSI NOT RUNNING   Off",,rZD9zt
+168157,"05/02/2016 11:58:39","-1:00","Admin","Recipe","Loading recipe number 14 ( test 10ml ) on the interface.",,+a+SkN
+168158,"05/02/2016 11:58:39","-1:00","Admin","Recipe","Data trasfered to PLC",,/H8QHi
+168159,"05/02/2016 11:58:43","-1:00","Admin","Warning","PVSI NOT RUNNING   On",,4iApBQ
+168160,"05/02/2016 11:58:45","-1:00","Admin","Warning","PVSI NOT RUNNING   Off",,oRZhvH
+168161,"05/02/2016 12:01:09","-1:00","Admin","Recipe","Loading recipe number 13 ( 10ml Production ) on the interface.",,T5L2lA
+168162,"05/02/2016 12:01:09","-1:00","Admin","Recipe","Data trasfered to PLC",,9KN8h/
+168163,"05/02/2016 12:01:12","-1:00","Admin","Warning","PVSI NOT RUNNING   On",,Dsvt4x
+168164,"05/02/2016 12:01:13","-1:00","Admin","Recipe","Product 14 ( test 10ml ) deleted.",,4QaP5k
+168165,"05/02/2016 12:01:14","-1:00","Admin","Warning","PVSI NOT RUNNING   Off",,KExpra
+168166,"05/02/2016 12:01:37","-1:00","Admin","Alarm","COVER OPEN 3  On",,9fvv/a
+168167,"05/02/2016 12:01:39","-1:00","Admin","Alarm","COVER OPEN 4  On",,erNx4u
+168168,"05/02/2016 12:21:30","-1:00","Admin","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,64YiOj
+168169,"05/02/2016 12:21:31","-1:00","Admin","Warning","ALARM VACUUM SENSOR  On",,luBQNV
+168170,"05/02/2016 12:21:31","-1:00","Admin","Warning","WARNING UPS  On",,HDpIAL
+168171,"05/02/2016 12:21:34","-1:00","Admin","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,McquGn
+168172,"05/02/2016 12:21:34","-1:00","Admin","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,vr6/6N
+168173,"05/02/2016 14:02:05","-1:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,XgolCP
+0,"05/02/2016 14:02:05","-1:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,qFcmL+
+168174,"05/02/2016 14:02:05","-1:00","System","Application","Change to operating mode 'online'.",,9SKlsS
+168175,"05/02/2016 14:02:05","-1:00","System","User administration","Password list imported successfully.",,2ox3U2
+0,"05/02/2016 14:02:07","-1:00","System","Logs","Log files closed.",,Q3ds/d
+"$RT_COUNT$",460,kk14ge,,,,,bvGKvK

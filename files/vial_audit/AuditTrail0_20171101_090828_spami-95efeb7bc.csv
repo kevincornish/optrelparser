@@ -1,0 +1,99 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"01/11/2017 09:02:30","+0:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,kwUFwu
+362484,"01/11/2017 09:02:30","+0:00","System","Logs","Exporting a log.",,X348A1
+362485,"01/11/2017 09:02:45","+0:00",,"Recipe","Loading recipe number 4 ( 100ml Production ) on the interface.",,iQ56ap
+362486,"01/11/2017 09:02:45","+0:00",,"Recipe","Data trasfered to PLC",,iGF3qi
+362487,"01/11/2017 09:02:45","+0:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,VfrjU6
+362488,"01/11/2017 09:02:45","+0:00",,"Alarm","ALARM ROTATION MOTOR  On",,KA9h+z
+362489,"01/11/2017 09:02:45","+0:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,iRMKvB
+362490,"01/11/2017 09:02:45","+0:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,vnP7xm
+362491,"01/11/2017 09:02:45","+0:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,yR5dDa
+362492,"01/11/2017 09:02:45","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,hVO20d
+362493,"01/11/2017 09:02:45","+0:00",,"Warning","ALARM VACUUM SENSOR  On",,CZQ+72
+362494,"01/11/2017 09:02:45","+0:00",,"Warning","PVSI NOT READY  On",,lC9POG
+362495,"01/11/2017 09:02:45","+0:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,QTxA8b
+362496,"01/11/2017 09:02:45","+0:00",,"Warning","PVSI NOT RUNNING   On",,t8jv7E
+362497,"01/11/2017 09:02:45","+0:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,/d4t/r
+362498,"01/11/2017 09:02:45","+0:00",,"Alarm","EMERGENCY  On",,q/i+aP
+362499,"01/11/2017 09:02:45","+0:00",,"Alarm","COVER OPEN 3  On",,uJaOS1
+362500,"01/11/2017 09:02:45","+0:00",,"Alarm","COVER OPEN 4  On",,QEp3Lf
+362501,"01/11/2017 09:02:45","+0:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,gdYCRH
+362502,"01/11/2017 09:02:45","+0:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,/dIP4i
+362503,"01/11/2017 09:02:45","+0:00",,"Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,SJ5N5b
+362504,"01/11/2017 09:02:49","+0:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,ns5ciB
+362505,"01/11/2017 09:03:21","+0:00","System","User administration","User 'adaml' logged on with group 'Administrator'.",,pUZ/aF
+362506,"01/11/2017 09:03:29","+0:00","adaml","Alarm","WARNING MISSING LOGIN OPERATION  Off",,ettDWY
+362507,"01/11/2017 09:03:29","+0:00","adaml","Warning","ALARM VACUUM SENSOR  Off",,aAWY4P
+362508,"01/11/2017 09:03:29","+0:00","adaml","Warning","PVSI NOT READY  Off",,gx+YmA
+362509,"01/11/2017 09:03:29","+0:00","adaml","Alarm","COVER OPEN 3  Off",,qz4Y0s
+362510,"01/11/2017 09:03:29","+0:00","adaml","Alarm","COVER OPEN 4  Off",,qsfLeF
+362511,"01/11/2017 09:03:29","+0:00","adaml","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  Off",,OYa3bi
+362512,"01/11/2017 09:03:29","+0:00","adaml","Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,tlDn02
+362513,"01/11/2017 09:03:29","+0:00","adaml","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  Off",,Jc2uBP
+362514,"01/11/2017 09:03:29","+0:00","adaml","Alarm","EMERGENCY  Off",,M2BfVd
+362515,"01/11/2017 09:03:29","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,0k9fiA
+362516,"01/11/2017 09:03:30","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,UEMUMP
+362517,"01/11/2017 09:03:30","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,MfqJPb
+362518,"01/11/2017 09:03:30","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,2DToue
+362519,"01/11/2017 09:03:32","+0:00","adaml","Alarm","ALARM TURRET MOTOR NOT READY  On",,UOazY9
+362520,"01/11/2017 09:03:32","+0:00","adaml","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,uW0o7d
+362521,"01/11/2017 09:03:32","+0:00","adaml","Alarm","ALARM TURRET MOTOR  On",,2MAaQk
+362522,"01/11/2017 09:03:32","+0:00","adaml","Warning","PVSI NOT RUNNING   Off",,ThREkA
+362523,"01/11/2017 09:03:44","+0:00","adaml","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,lCODdh
+362524,"01/11/2017 09:04:03","+0:00","adaml","Alarm: 278","Acknowledgment of 278 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,iFlsch
+362525,"01/11/2017 09:04:03","+0:00","adaml","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,/1Ta4w
+362526,"01/11/2017 09:04:03","+0:00","adaml","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,f6p/A6
+362527,"01/11/2017 09:04:03","+0:00","adaml","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,B5h5VG
+362528,"01/11/2017 09:04:03","+0:00","adaml","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,xS3Et2
+362529,"01/11/2017 09:04:03","+0:00","adaml","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,oA9UR/
+362530,"01/11/2017 09:04:03","+0:00","adaml","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,/NviOe
+362531,"01/11/2017 09:04:03","+0:00","adaml","Alarm:","EMERGENCY  Acknowledgment",,qv+2t/
+362532,"01/11/2017 09:04:03","+0:00","adaml","Alarm:","COVER OPEN 3  Acknowledgment",,BTUVlP
+362533,"01/11/2017 09:04:03","+0:00","adaml","Alarm:","COVER OPEN 4  Acknowledgment",,diJZ9B
+362534,"01/11/2017 09:04:03","+0:00","adaml","Alarm:","ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment",,XgiU/l
+362535,"01/11/2017 09:04:03","+0:00","adaml","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,cuLO+a
+362536,"01/11/2017 09:04:03","+0:00","adaml","Alarm:","ALARM TURRET MOTOR NOT READY  Acknowledgment",,FXq6+3
+362537,"01/11/2017 09:04:03","+0:00","adaml","Alarm:","ALARM HOMING NOT DONE TURRET MOTOR  Acknowledgment",,ezK2iH
+362538,"01/11/2017 09:04:03","+0:00","adaml","Alarm:","ALARM TURRET MOTOR  Acknowledgment",,XIf/eY
+362539,"01/11/2017 09:04:04","+0:00","adaml","Alarm: 278","Acknowledgment of 278 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,QJOg1h
+362540,"01/11/2017 09:04:04","+0:00","adaml","Alarm: 278","Acknowledgment of 278 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ypKPCB
+362541,"01/11/2017 09:04:04","+0:00","adaml","Alarm: 278","Acknowledgment of 278 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,/4EsKU
+362542,"01/11/2017 09:04:04","+0:00","adaml","Alarm: 278","Acknowledgment of 278 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,k97lsD
+362543,"01/11/2017 09:04:04","+0:00","adaml","Alarm: 278","Acknowledgment of 278 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,BzLG7O
+362544,"01/11/2017 09:04:05","+0:00","adaml","Alarm: 278","Acknowledgment of 278 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,qpfIiu
+362545,"01/11/2017 09:04:05","+0:00","adaml","Alarm: 278","Acknowledgment of 278 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,zT0vpG
+362546,"01/11/2017 09:04:05","+0:00","adaml","Alarm: 278","Acknowledgment of 278 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,NpyFBT
+362547,"01/11/2017 09:04:14","+0:00","adaml","Recipe","Loading recipe number 3 ( 50ml Production ) on the interface.",,3v4FdO
+362548,"01/11/2017 09:04:14","+0:00","adaml","Recipe","Data trasfered to PLC",,7CNCUH
+362549,"01/11/2017 09:04:17","+0:00","adaml","Warning","PVSI NOT RUNNING   On",,JlJVIf
+362550,"01/11/2017 09:04:19","+0:00","adaml","Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,wnnH58
+362551,"01/11/2017 09:04:20","+0:00","adaml","Warning","PVSI NOT RUNNING   Off",,JbKG2l
+362552,"01/11/2017 09:04:34","+0:00","adaml","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,lWlD4x
+362553,"01/11/2017 09:04:49","+0:00","adaml","Recipe","Loading recipe number 2 ( 20ml Production ) on the interface.",,bo+Sow
+362554,"01/11/2017 09:04:49","+0:00","adaml","Recipe","Data trasfered to PLC",,Jo1XR3
+362555,"01/11/2017 09:04:50","+0:00","adaml","Warning","PVSI NOT READY  On",,94jz3x
+362556,"01/11/2017 09:04:52","+0:00","adaml","Warning","PVSI NOT RUNNING   On",,M4Jejd
+362557,"01/11/2017 09:04:54","+0:00","adaml","Warning","PVSI NOT READY  Off",,TVOMpN
+362558,"01/11/2017 09:04:54","+0:00","adaml","Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,udViad
+362559,"01/11/2017 09:04:54","+0:00","adaml","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,OYQPwC
+362560,"01/11/2017 09:04:54","+0:00","adaml","Warning","PVSI NOT RUNNING   Off",,zzShrB
+362561,"01/11/2017 09:04:57","+0:00","adaml","Warning","WARNING SAFETY DOORS EXCLUDED  On",,64n9/L
+362562,"01/11/2017 09:05:06","+0:00","adaml","Alarm","WARNING MISSING LOGIN OPERATION  On",,Tp48uB
+362563,"01/11/2017 09:05:06","+0:00","adaml","Warning","ALARM VACUUM SENSOR  On",,3/OuJr
+362564,"01/11/2017 09:05:06","+0:00","adaml","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,XGy6Ba
+362565,"01/11/2017 09:05:15","+0:00","adaml","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,2NKY4h
+362566,"01/11/2017 09:05:16","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,tDx5SC
+362567,"01/11/2017 09:05:16","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,OAOtgA
+362568,"01/11/2017 09:05:16","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,ASzb6c
+362569,"01/11/2017 09:05:16","+0:00","adaml","Warning","WARNING UPS  On",,OMloWB
+362570,"01/11/2017 09:05:19","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,X9Hu43
+362571,"01/11/2017 09:05:19","+0:00","adaml","Alarm","EMERGENCY  On",,ASaM2k
+362572,"01/11/2017 09:05:20","+0:00","adaml","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,FMZcUl
+362573,"01/11/2017 09:05:20","+0:00","adaml","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,YeGzv+
+362574,"01/11/2017 09:05:20","+0:00","adaml","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,qFzQx0
+362575,"01/11/2017 09:08:26","+0:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,9GU/C/
+0,"01/11/2017 09:08:27","+0:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,zGfyqT
+362576,"01/11/2017 09:08:27","+0:00","System","Application","Change to operating mode 'online'.",,xMBzG+
+362577,"01/11/2017 09:08:27","+0:00","System","User administration","Password list imported successfully.",,HO/C4I
+0,"01/11/2017 09:08:28","+0:00","System","Logs","Log files closed.",,sKpFwu
+"$RT_COUNT$",98,kk14ge,,,,,YBNjuW

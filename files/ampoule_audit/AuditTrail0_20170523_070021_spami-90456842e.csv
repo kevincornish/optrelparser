@@ -1,0 +1,951 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"22/05/2017 08:01:31","-1:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,wdt1OT
+135271,"22/05/2017 08:01:31","-1:00","System","Logs","Exporting a log.",,Shq6rv
+135272,"22/05/2017 08:01:38","-1:00",,"Recipe","Loading recipe number 3 ( Production 5ml ) on the interface.",,8TjIhF
+135273,"22/05/2017 08:01:39","-1:00",,"Recipe","Data trasfered to PLC",,Xm28Ux
+135274,"22/05/2017 08:01:39","-1:00",,"Warning","ALARM OZONE SENSOR  On",,wsAs7b
+135275,"22/05/2017 08:01:39","-1:00",,"Warning","PVSI NOT RUNNING   On",,s4MHsp
+135276,"22/05/2017 08:01:39","-1:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,xE2QDH
+135277,"22/05/2017 08:01:39","-1:00",,"Alarm","EMERGENCY  On",,XG4Ut4
+135278,"22/05/2017 08:01:39","-1:00",,"Alarm","COVER OPEN 1  On",,B3+GL6
+135279,"22/05/2017 08:01:39","-1:00",,"Alarm","COVER OPEN 2  On",,+zCCa2
+135280,"22/05/2017 08:01:39","-1:00",,"Alarm","COVER OPEN 3  On",,GtPPkw
+135281,"22/05/2017 08:01:39","-1:00",,"Alarm","COVER OPEN 5  On",,1Rpmmi
+135282,"22/05/2017 08:01:39","-1:00",,"Alarm","COVER OPEN 6  On",,6Q0pzK
+135283,"22/05/2017 08:01:39","-1:00",,"Alarm","COVER OPEN 7  On",,OEwYdk
+135284,"22/05/2017 08:01:39","-1:00",,"Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,ofC0g0
+135285,"22/05/2017 08:01:39","-1:00",,"Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  On",,aIsq1U
+135286,"22/05/2017 08:01:39","-1:00",,"Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,nqpJNv
+135287,"22/05/2017 08:01:39","-1:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,AaSBjK
+135288,"22/05/2017 08:01:39","-1:00",,"Alarm","ALARM ROTATION MOTOR 1  On",,cScdsS
+135289,"22/05/2017 08:01:39","-1:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,3I6e98
+135290,"22/05/2017 08:01:39","-1:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,oZocuk
+135291,"22/05/2017 08:01:39","-1:00",,"Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   On",,mEZwme
+135292,"22/05/2017 08:01:39","-1:00",,"Alarm","ALARM MISSING LKD REJECTED TRAYS   On",,XG7uTt
+135293,"22/05/2017 08:01:39","-1:00",,"Alarm","PVSI NOT READY  On",,87PN4a
+135294,"22/05/2017 08:01:39","-1:00",,"Alarm","PVSI AND WINCC PRODUCT DIFFERENT  On",,iaH4Jt
+135295,"22/05/2017 08:01:39","-1:00",,"Alarm","Alarm profibus nodo 3 (encoder)  On",,4/cpDL
+135296,"22/05/2017 08:01:39","-1:00",,"Alarm","Alarm profibus nodo 4 (PC)  On",,4IpUCX
+135297,"22/05/2017 08:01:39","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,Of5tQY
+135298,"22/05/2017 08:01:43","-1:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,g45bE1
+135299,"22/05/2017 08:02:40","-1:00","System","User administration","User 'adamb' logged on with group 'Operator'.",,DTp2TS
+135300,"22/05/2017 08:02:54","-1:00","adamb","Warning","PVSI NOT RUNNING   Off",,wwemzG
+135301,"22/05/2017 08:03:18","-1:00","adamb","Warning","ALARM OZONE SENSOR  Off",,PNa2Yw
+135302,"22/05/2017 08:03:18","-1:00","adamb","Alarm","COVER OPEN 1  Off",,cBq34Q
+135303,"22/05/2017 08:03:18","-1:00","adamb","Alarm","COVER OPEN 2  Off",,edGGzE
+135304,"22/05/2017 08:03:18","-1:00","adamb","Alarm","COVER OPEN 3  Off",,xp2rO8
+135305,"22/05/2017 08:03:18","-1:00","adamb","Alarm","COVER OPEN 5  Off",,Bejb/c
+135306,"22/05/2017 08:03:18","-1:00","adamb","Alarm","COVER OPEN 6  Off",,ESC+dc
+135307,"22/05/2017 08:03:18","-1:00","adamb","Alarm","COVER OPEN 7  Off",,c9u4/E
+135308,"22/05/2017 08:03:18","-1:00","adamb","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,LVxopJ
+135309,"22/05/2017 08:03:18","-1:00","adamb","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  Off",,FM+LVm
+135310,"22/05/2017 08:03:18","-1:00","adamb","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off",,t8AO+K
+135311,"22/05/2017 08:03:18","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 1  Off",,lVOBT8
+135312,"22/05/2017 08:03:18","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,rU+yYo
+135313,"22/05/2017 08:03:18","-1:00","adamb","Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   Off",,HMnm/M
+135314,"22/05/2017 08:03:18","-1:00","adamb","Alarm","ALARM MISSING LKD REJECTED TRAYS   Off",,qQAnxz
+135315,"22/05/2017 08:03:18","-1:00","adamb","Alarm","PVSI NOT READY  Off",,tQFRRQ
+135316,"22/05/2017 08:03:18","-1:00","adamb","Alarm","PVSI AND WINCC PRODUCT DIFFERENT  Off",,1KVQ9O
+135317,"22/05/2017 08:03:18","-1:00","adamb","Alarm","Alarm profibus nodo 3 (encoder)  Off",,gHQEAh
+135318,"22/05/2017 08:03:18","-1:00","adamb","Alarm","Alarm profibus nodo 4 (PC)  Off",,AX4sEy
+135319,"22/05/2017 08:03:18","-1:00","adamb","Alarm","WARNING MISSING LOGIN OPERATION  Off",,ogKFRr
+135320,"22/05/2017 08:03:18","-1:00","adamb","Alarm","EMERGENCY  Off",,RGV9PU
+135321,"22/05/2017 08:03:18","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,a1Z8GX
+135322,"22/05/2017 08:03:19","-1:00","adamb","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,eEfwPJ
+135323,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,Efzqm+
+135324,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","COVER OPEN 1  Acknowledgment",,FMNnFR
+135325,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","COVER OPEN 2  Acknowledgment",,aH9nBN
+135326,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","COVER OPEN 3  Acknowledgment",,wohjoP
+135327,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","COVER OPEN 5  Acknowledgment",,gBGU7J
+135328,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","COVER OPEN 6  Acknowledgment",,bVgV9r
+135329,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","COVER OPEN 7  Acknowledgment",,L55V+8
+135330,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment",,/WXx2P
+135331,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  Acknowledgment",,4dv41v
+135332,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment",,pQ05/l
+135333,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,x3CiJ6
+135334,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 1  Acknowledgment",,lXHLmB
+135335,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,XvxYAw
+135336,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,c/Zm6a
+135337,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","ALARM MISSING ST0 TIP REJECTED TRAYS   Acknowledgment",,Yz9V3Y
+135338,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","ALARM MISSING LKD REJECTED TRAYS   Acknowledgment",,CxPKNx
+135339,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","PVSI NOT READY  Acknowledgment",,pv6KFP
+135340,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","PVSI AND WINCC PRODUCT DIFFERENT  Acknowledgment",,l906eQ
+135341,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","Alarm profibus nodo 3 (encoder)  Acknowledgment",,fAPjUj
+135342,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","Alarm profibus nodo 4 (PC)  Acknowledgment",,hP3TbX
+135343,"22/05/2017 08:03:19","-1:00","adamb","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,VjCy9y
+135344,"22/05/2017 08:03:19","-1:00","adamb","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,KXiYE1
+135345,"22/05/2017 08:03:19","-1:00","adamb","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,AsqAQn
+135346,"22/05/2017 08:03:19","-1:00","adamb","Alarm: 60000","Acknowledgment of alarm 60000.",,OHHy65
+135347,"22/05/2017 08:03:20","-1:00","adamb","Alarm: 60000","Acknowledgment of alarm 60000.",,UZ4XrC
+135348,"22/05/2017 08:03:20","-1:00","adamb","Alarm: 60000","Acknowledgment of alarm 60000.",,zg1w44
+135349,"22/05/2017 08:03:20","-1:00","adamb","Alarm: 60000","Acknowledgment of alarm 60000.",,Inoh+I
+135350,"22/05/2017 08:03:20","-1:00","adamb","Alarm: 60000","Acknowledgment of alarm 60000.",,9Z4gXO
+135351,"22/05/2017 08:03:20","-1:00","adamb","Alarm: 60000","Acknowledgment of alarm 60000.",,RaQc5G
+135352,"22/05/2017 08:03:29","-1:00","adamb","Alarm","COVER OPEN 7  On",,3TWd/N
+135353,"22/05/2017 08:03:29","-1:00","adamb","Alarm","EMERGENCY  On",,ro/pg2
+135354,"22/05/2017 08:03:30","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,QXavOM
+135355,"22/05/2017 08:03:30","-1:00","adamb","Alarm","COVER OPEN 6  On",,ar5hM4
+135356,"22/05/2017 08:07:09","-1:00","adamb","Alarm","COVER OPEN 6  Off",,vpJGdQ
+135357,"22/05/2017 08:07:09","-1:00","adamb","Alarm","COVER OPEN 7  Off",,UQIgum
+135358,"22/05/2017 08:07:09","-1:00","adamb","Alarm","EMERGENCY  Off",,/Y2vDa
+135359,"22/05/2017 08:07:09","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,zwmOLE
+135360,"22/05/2017 08:07:16","-1:00","adamb","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,1K5HRe
+135361,"22/05/2017 08:07:16","-1:00","adamb","Alarm:","COVER OPEN 7  Acknowledgment",,UlzbNb
+135362,"22/05/2017 08:07:16","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,oaln1V
+135363,"22/05/2017 08:07:16","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,Hdz3oF
+135364,"22/05/2017 08:07:16","-1:00","adamb","Alarm:","COVER OPEN 6  Acknowledgment",,adOXl1
+135365,"22/05/2017 08:08:23","-1:00","adamb","Alarm","EMERGENCY  On",,oD++lY
+135366,"22/05/2017 08:08:23","-1:00","adamb","Alarm","COVER OPEN 7  On",,j+hUN8
+135367,"22/05/2017 08:08:23","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,3x+t5I
+135368,"22/05/2017 08:08:25","-1:00","adamb","Alarm","COVER OPEN 6  On",,ZA+SZy
+135369,"22/05/2017 08:10:58","-1:00","adamb","Alarm","COVER OPEN 6  Off",,XVqMUE
+135370,"22/05/2017 08:10:58","-1:00","adamb","Alarm","COVER OPEN 7  Off",,2/fMkZ
+135371,"22/05/2017 08:10:58","-1:00","adamb","Alarm","EMERGENCY  Off",,KzNzr7
+135372,"22/05/2017 08:10:58","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,WH2FXt
+135373,"22/05/2017 08:11:04","-1:00","adamb","Alarm: 7","Acknowledgment of 7 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,XrMLUN
+135374,"22/05/2017 08:11:04","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,CqvkXF
+135375,"22/05/2017 08:11:04","-1:00","adamb","Alarm:","COVER OPEN 7  Acknowledgment",,bf/j2g
+135376,"22/05/2017 08:11:04","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,gHXARp
+135377,"22/05/2017 08:11:04","-1:00","adamb","Alarm:","COVER OPEN 6  Acknowledgment",,ZsjwXQ
+135378,"22/05/2017 08:11:36","-1:00","adamb","Alarm","EMERGENCY  On",,hBKKrS
+135379,"22/05/2017 08:11:36","-1:00","adamb","Alarm","COVER OPEN 7  On",,fR+nlH
+135380,"22/05/2017 08:11:36","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,6k7Afh
+135381,"22/05/2017 08:11:38","-1:00","adamb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,36HfRo
+135382,"22/05/2017 08:11:40","-1:00","adamb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,4NGE0I
+135383,"22/05/2017 08:11:41","-1:00","adamb","Alarm","COVER OPEN 6  On",,cmw0CD
+135384,"22/05/2017 08:12:30","-1:00","adamb","Alarm","COVER OPEN 6  Off",,7BUSoE
+135385,"22/05/2017 08:12:30","-1:00","adamb","Alarm","COVER OPEN 7  Off",,wF0Gd5
+135386,"22/05/2017 08:12:30","-1:00","adamb","Alarm","EMERGENCY  Off",,BvXB5m
+135387,"22/05/2017 08:12:30","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,Re+jwV
+135388,"22/05/2017 08:12:31","-1:00","adamb","Alarm: 7","Acknowledgment of 7 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,yi+xtt
+135389,"22/05/2017 08:12:31","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,kY2UZD
+135390,"22/05/2017 08:12:31","-1:00","adamb","Alarm:","COVER OPEN 7  Acknowledgment",,N4Nmm1
+135391,"22/05/2017 08:12:31","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,Ig60l6
+135392,"22/05/2017 08:12:31","-1:00","adamb","Alarm:","COVER OPEN 6  Acknowledgment",,XODq56
+135393,"22/05/2017 08:12:48","-1:00","adamb","Alarm","COVER OPEN 7  On",,ifaHwz
+135394,"22/05/2017 08:12:48","-1:00","adamb","Alarm","EMERGENCY  On",,/o2uRz
+135395,"22/05/2017 08:12:48","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,WF8shp
+135396,"22/05/2017 08:12:58","-1:00","adamb","Alarm","COVER OPEN 6  On",,zqU2I6
+135397,"22/05/2017 08:13:05","-1:00","adamb","Alarm","COVER OPEN 6  Off",,YuEmRz
+135398,"22/05/2017 08:13:05","-1:00","adamb","Alarm","COVER OPEN 7  Off",,S+d1ak
+135399,"22/05/2017 08:13:05","-1:00","adamb","Alarm","EMERGENCY  Off",,E8T/gc
+135400,"22/05/2017 08:13:05","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,eEFR5V
+135401,"22/05/2017 08:13:08","-1:00","adamb","Alarm: 7","Acknowledgment of 7 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,JbrXy/
+135402,"22/05/2017 08:13:08","-1:00","adamb","Alarm:","COVER OPEN 7  Acknowledgment",,GMrFNx
+135403,"22/05/2017 08:13:08","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,Cie9j+
+135404,"22/05/2017 08:13:08","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,Z6US8U
+135405,"22/05/2017 08:13:08","-1:00","adamb","Alarm:","COVER OPEN 6  Acknowledgment",,LGw2vb
+135406,"22/05/2017 08:13:17","-1:00","adamb","Alarm","ALARM LOW LIGHT ST1  On",,QkIDZE
+135407,"22/05/2017 08:13:22","-1:00","adamb","Alarm","ALARM LOW LIGHT ST1  Off",,XFFI0m
+135408,"22/05/2017 08:13:29","-1:00","adamb","Alarm","ALARM LOW LIGHT ST2  On",,C7HpKj
+135409,"22/05/2017 08:13:31","-1:00","adamb","Alarm","ALARM LOW LIGHT ST2  Off",,3pxqXi
+135410,"22/05/2017 08:13:37","-1:00","adamb","Alarm","ALARM LOW LIGHT ST3  On",,9jK45r
+135411,"22/05/2017 08:13:39","-1:00","adamb","Alarm","ALARM LOW LIGHT ST3  Off",,TclGWi
+135412,"22/05/2017 08:13:45","-1:00","adamb","Alarm","ALARM LOW LIGHT ST4  On",,SoqQ2f
+135413,"22/05/2017 08:13:46","-1:00","adamb","Alarm","ALARM LOW LIGHT ST4  Off",,idWs7R
+135414,"22/05/2017 08:14:03","-1:00","adamb","Alarm","ALARM LOW LIGHT ST3  On",,y6xFgs
+135415,"22/05/2017 08:14:04","-1:00","adamb","Alarm","ALARM LOW LIGHT ST3  Off",,JnIBwH
+135416,"22/05/2017 08:14:14","-1:00","adamb","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,05lq5p
+135417,"22/05/2017 08:14:15","-1:00","adamb","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,kcLDQt
+135418,"22/05/2017 08:14:17","-1:00","adamb","Alarm","EMERGENCY  On",,eiDi7Z
+135419,"22/05/2017 08:14:17","-1:00","adamb","Alarm","COVER OPEN 5  On",,NNq8Gh
+135420,"22/05/2017 08:14:17","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,tPo0am
+135421,"22/05/2017 08:14:49","-1:00","adamb","Alarm","COVER OPEN 6  On",,q6U7yh
+135422,"22/05/2017 08:15:58","-1:00","adamb","Alarm","COVER OPEN 7  On",,16JL2I
+135423,"22/05/2017 08:16:26","-1:00","adamb","Alarm","COVER OPEN 5  Off",,E6JRTr
+135424,"22/05/2017 08:16:26","-1:00","adamb","Alarm","COVER OPEN 6  Off",,js+CAx
+135425,"22/05/2017 08:16:26","-1:00","adamb","Alarm","COVER OPEN 7  Off",,tMTQf6
+135426,"22/05/2017 08:16:26","-1:00","adamb","Alarm","EMERGENCY  Off",,Lx6Jo4
+135427,"22/05/2017 08:16:26","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,ykuwH7
+135428,"22/05/2017 08:16:27","-1:00","adamb","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ifkF0a
+135429,"22/05/2017 08:16:27","-1:00","adamb","Alarm:","ALARM LOW LIGHT ST1  Acknowledgment",,4qWJXm
+135430,"22/05/2017 08:16:27","-1:00","adamb","Alarm:","ALARM LOW LIGHT ST2  Acknowledgment",,XTyZge
+135431,"22/05/2017 08:16:27","-1:00","adamb","Alarm:","ALARM LOW LIGHT ST4  Acknowledgment",,Hy53A/
+135432,"22/05/2017 08:16:27","-1:00","adamb","Alarm:","ALARM LOW LIGHT ST3  Acknowledgment",,JfozsZ
+135433,"22/05/2017 08:16:27","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,M3bwVs
+135434,"22/05/2017 08:16:27","-1:00","adamb","Alarm:","COVER OPEN 5  Acknowledgment",,iXbeVB
+135435,"22/05/2017 08:16:27","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,vG9OAc
+135436,"22/05/2017 08:16:27","-1:00","adamb","Alarm:","COVER OPEN 6  Acknowledgment",,N6GiBF
+135437,"22/05/2017 08:16:27","-1:00","adamb","Alarm:","COVER OPEN 7  Acknowledgment",,Ltv05i
+135438,"22/05/2017 08:16:43","-1:00","adamb","Alarm","COVER OPEN 6  On",,QmBIvm
+135439,"22/05/2017 08:16:43","-1:00","adamb","Alarm","EMERGENCY  On",,3XleHa
+135440,"22/05/2017 08:16:43","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,BeiKtg
+135441,"22/05/2017 08:16:53","-1:00","adamb","Alarm","COVER OPEN 6  Off",,lJImAR
+135442,"22/05/2017 08:16:53","-1:00","adamb","Alarm","EMERGENCY  Off",,g5CaUJ
+135443,"22/05/2017 08:16:53","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,DZtb6w
+135444,"22/05/2017 08:16:58","-1:00","adamb","Alarm: 21","Acknowledgment of 21 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,HtLsi7
+135445,"22/05/2017 08:16:58","-1:00","adamb","Alarm:","COVER OPEN 6  Acknowledgment",,DgW6+/
+135446,"22/05/2017 08:16:58","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,gAZ8LP
+135447,"22/05/2017 08:16:58","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,nXxNs1
+135448,"22/05/2017 08:17:27","-1:00","adamb","Alarm","EMERGENCY  On",,i81ppV
+135449,"22/05/2017 08:17:27","-1:00","adamb","Alarm","COVER OPEN 5  On",,dzSLJW
+135450,"22/05/2017 08:17:27","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,mH2nnV
+135451,"22/05/2017 08:17:29","-1:00","adamb","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,BAtF/A
+135452,"22/05/2017 08:17:31","-1:00","adamb","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,d96/hD
+135453,"22/05/2017 08:17:48","-1:00","adamb","Alarm","COVER OPEN 6  On",,qw8bKK
+135454,"22/05/2017 08:17:49","-1:00","adamb","Alarm","COVER OPEN 7  On",,uc3QzT
+135455,"22/05/2017 08:19:18","-1:00","adamb","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,G2IQZb
+135456,"22/05/2017 08:19:18","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,nbOBH1
+135457,"22/05/2017 08:19:18","-1:00","adamb","Alarm:","COVER OPEN 5  Acknowledgment",,9ka+T6
+135458,"22/05/2017 08:19:18","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,3krJ4r
+135459,"22/05/2017 08:19:18","-1:00","adamb","Alarm:","COVER OPEN 6  Acknowledgment",,nw/pji
+135460,"22/05/2017 08:19:18","-1:00","adamb","Alarm:","COVER OPEN 7  Acknowledgment",,14HJIk
+135461,"22/05/2017 08:21:03","-1:00","adamb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,GQx7GW
+135462,"22/05/2017 08:21:06","-1:00","adamb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,cq18Pw
+135463,"22/05/2017 08:22:08","-1:00","adamb","Alarm","COVER OPEN 1  On",,hlxiXa
+135464,"22/05/2017 08:22:10","-1:00","adamb","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,O9jwE3
+135465,"22/05/2017 08:22:10","-1:00","adamb","Alarm:","COVER OPEN 1  Acknowledgment",,gm665s
+135466,"22/05/2017 08:22:10","-1:00","adamb","Alarm: 60000","Acknowledgment of alarm 60000.",,F7ZdWr
+135467,"22/05/2017 08:22:10","-1:00","adamb","Alarm: 60000","Acknowledgment of alarm 60000.",,euT2na
+135468,"22/05/2017 08:22:10","-1:00","adamb","Alarm: 60000","Acknowledgment of alarm 60000.",,HIse2q
+135469,"22/05/2017 08:22:10","-1:00","adamb","Alarm: 60000","Acknowledgment of alarm 60000.",,9gwEIv
+135470,"22/05/2017 08:22:51","-1:00","adamb","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,MFBMCk
+135471,"22/05/2017 08:22:51","-1:00","adamb","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,7urDxW
+135472,"22/05/2017 08:27:39","-1:00","adamb","User administration","User logged off.",,axHuKX
+135473,"22/05/2017 08:27:39","-1:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,Pv2O+z
+135474,"22/05/2017 08:27:39","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,aThn9X
+135475,"22/05/2017 08:28:03","-1:00","System","User administration","User 'mitchf' has unsuccessfully attempted to log on 1 times in succession.",,zTk5U6
+135476,"22/05/2017 08:28:10","-1:00","System","User administration","User 'mitchf' has unsuccessfully attempted to log on 2 times in succession.",,/XF6tj
+135477,"22/05/2017 08:28:16","-1:00","System","User administration","User 'mitchf' logged on with group 'Operator'.",,5qTzwm
+135478,"22/05/2017 08:31:02","-1:00","mitchf","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,z8VtxP
+135479,"22/05/2017 08:31:02","-1:00","mitchf","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,NBp102
+135480,"22/05/2017 08:31:03","-1:00","mitchf","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,O5yAI0
+135481,"22/05/2017 08:31:03","-1:00","mitchf","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,aM9vC4
+135482,"22/05/2017 08:31:03","-1:00","mitchf","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,QfByYU
+135483,"22/05/2017 08:31:03","-1:00","mitchf","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,E63g+Q
+135484,"22/05/2017 08:31:03","-1:00","mitchf","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,lpqUEF
+135485,"22/05/2017 08:45:05","-1:00","mitchf","Alarm","COVER OPEN 1  Off",,sM66Vg
+135486,"22/05/2017 08:45:05","-1:00","mitchf","Alarm","COVER OPEN 5  Off",,NSqBGs
+135487,"22/05/2017 08:45:05","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,0KrXSK
+135488,"22/05/2017 08:45:05","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,LfSpmI
+135489,"22/05/2017 08:45:05","-1:00","mitchf","Alarm","WARNING MISSING LOGIN OPERATION  Off",,kyAJhm
+135490,"22/05/2017 08:45:05","-1:00","mitchf","Alarm","EMERGENCY  Off",,UnBWvS
+135491,"22/05/2017 08:45:05","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,waNVUb
+135492,"22/05/2017 08:45:49","-1:00","mitchf","Alarm","EMERGENCY  On",,qZV1hQ
+135493,"22/05/2017 08:45:49","-1:00","mitchf","Alarm","COVER OPEN 7  On",,7wskSk
+135494,"22/05/2017 08:45:49","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,TEqLVm
+135495,"22/05/2017 08:46:52","-1:00","mitchf","Alarm","COVER OPEN 1  On",,gxss1B
+135496,"22/05/2017 08:47:01","-1:00","mitchf","Alarm","COVER OPEN 1  Off",,CfWoFp
+135497,"22/05/2017 08:47:01","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,qEWQtv
+135498,"22/05/2017 08:47:01","-1:00","mitchf","Alarm","EMERGENCY  Off",,qtIAGO
+135499,"22/05/2017 08:47:01","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,LPdS35
+135500,"22/05/2017 08:49:22","-1:00","mitchf","Alarm","EMERGENCY  On",,RnVa5u
+135501,"22/05/2017 08:49:22","-1:00","mitchf","Alarm","COVER OPEN 1  On",,VgOk/w
+135502,"22/05/2017 08:49:22","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,RefSk2
+135503,"22/05/2017 08:49:26","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,bL6dLg
+135504,"22/05/2017 08:49:59","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,dNT1hW
+135505,"22/05/2017 08:50:00","-1:00","mitchf","Alarm","COVER OPEN 7  On",,/x01Ow
+135506,"22/05/2017 09:11:10","-1:00","mitchf","Alarm","COVER OPEN 1  Off",,uTZkv2
+135507,"22/05/2017 09:11:10","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,uxVyk8
+135508,"22/05/2017 09:11:11","-1:00","mitchf","Alarm","EMERGENCY  Off",,8ZaBzf
+135509,"22/05/2017 09:11:11","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,I13QLU
+135510,"22/05/2017 09:11:39","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,FPx0Xa
+135511,"22/05/2017 09:11:43","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,6rMndQ
+135512,"22/05/2017 09:11:45","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,AnndP6
+135513,"22/05/2017 09:11:49","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,K1yhnx
+135514,"22/05/2017 09:13:04","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,7xWa77
+135515,"22/05/2017 09:13:07","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,diBklA
+135516,"22/05/2017 09:13:17","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,vWfFOf
+135517,"22/05/2017 09:13:28","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,52B9cM
+135518,"22/05/2017 09:13:35","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,dJdlhL
+135519,"22/05/2017 09:13:56","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,NeoCNq
+135520,"22/05/2017 09:14:07","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,dmCpmt
+135521,"22/05/2017 09:14:09","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,GxAOtO
+135522,"22/05/2017 09:14:12","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,mSrfcE
+135523,"22/05/2017 09:14:18","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,5ZyCIH
+135524,"22/05/2017 09:15:19","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,8aGOmF
+135525,"22/05/2017 09:15:44","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,aUwy/g
+135526,"22/05/2017 09:17:01","-1:00","mitchf","Warning","WARNING REJECTED TRAY HIGH ST0 ALMOST FULL  On",,9I1j65
+135527,"22/05/2017 09:17:05","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ZEtY9w
+135528,"22/05/2017 09:17:11","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,+ImUM8
+135529,"22/05/2017 09:17:11","-1:00","mitchf","Warning","WARNING REJECTED TRAY HIGH ST0 ALMOST FULL  Off",,bt3L6q
+135530,"22/05/2017 09:17:15","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,L7yIVA
+135531,"22/05/2017 09:17:16","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,WmApXG
+135532,"22/05/2017 09:17:18","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,c2VQed
+135533,"22/05/2017 09:17:25","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,8kF2qg
+135534,"22/05/2017 09:17:28","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,UnmwMz
+135535,"22/05/2017 09:17:39","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,J7XG1l
+135536,"22/05/2017 09:17:39","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,d/NKcx
+135537,"22/05/2017 09:17:42","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,3Ocnac
+135538,"22/05/2017 09:17:51","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,fBn1lu
+135539,"22/05/2017 09:17:56","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,AC53KT
+135540,"22/05/2017 09:17:57","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,RINxhv
+135541,"22/05/2017 09:17:59","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,iBvuxT
+135542,"22/05/2017 09:18:54","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ybpExD
+135543,"22/05/2017 09:19:17","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,xBzhRm
+135544,"22/05/2017 09:19:35","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,PBJ1Vx
+135545,"22/05/2017 09:19:39","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,VgYhVb
+135546,"22/05/2017 09:19:41","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,CGuu3d
+135547,"22/05/2017 09:19:50","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,CGedCz
+135548,"22/05/2017 09:20:40","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,OT64DA
+135549,"22/05/2017 09:21:05","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Sxjxpt
+135550,"22/05/2017 09:21:35","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,/zxyEy
+135551,"22/05/2017 09:22:19","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,YajPgY
+135552,"22/05/2017 09:22:22","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,KIpfiR
+135553,"22/05/2017 09:22:22","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,gTGOwK
+135554,"22/05/2017 09:22:27","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,Nx16oT
+135555,"22/05/2017 09:22:48","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,apKIjo
+135556,"22/05/2017 09:24:09","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,pRMp5W
+135557,"22/05/2017 09:24:13","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,maPPnI
+135558,"22/05/2017 09:24:24","-1:00","mitchf","Alarm","EMERGENCY  On",,BGVBkK
+135559,"22/05/2017 09:24:24","-1:00","mitchf","Alarm","COVER OPEN 7  On",,FCT1yF
+135560,"22/05/2017 09:24:25","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,3ooetk
+135561,"22/05/2017 09:24:32","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ORm0/G
+135562,"22/05/2017 09:24:41","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,n7mJ7g
+135563,"22/05/2017 09:24:45","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,t+d0EQ
+135564,"22/05/2017 09:24:45","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,wuy2la
+135565,"22/05/2017 09:24:45","-1:00","mitchf","Alarm","EMERGENCY  Off",,3QRhvT
+135566,"22/05/2017 09:24:45","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,RJd6Rd
+135567,"22/05/2017 09:24:48","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,6Fwcx9
+135568,"22/05/2017 09:24:52","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,olZUMl
+135569,"22/05/2017 09:24:55","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,4xrkQq
+135570,"22/05/2017 09:24:57","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,oBxdg6
+135571,"22/05/2017 09:25:06","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,2eK1mg
+135572,"22/05/2017 09:25:14","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,ZKEWEY
+135573,"22/05/2017 09:28:49","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,p7AmB8
+135574,"22/05/2017 09:29:04","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,vPi8gY
+135575,"22/05/2017 09:29:12","-1:00","mitchf","Alarm","EMERGENCY  On",,HcsPK5
+135576,"22/05/2017 09:29:12","-1:00","mitchf","Alarm","COVER OPEN 7  On",,wsHHZC
+135577,"22/05/2017 09:29:12","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,D2kicc
+135578,"22/05/2017 09:29:22","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,cTqI1N
+135579,"22/05/2017 09:29:22","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,9Gd5kN
+135580,"22/05/2017 09:29:22","-1:00","mitchf","Alarm","EMERGENCY  Off",,45BSEJ
+135581,"22/05/2017 09:29:22","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,D+2Evw
+135582,"22/05/2017 09:29:31","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,iyTdmE
+135583,"22/05/2017 09:29:34","-1:00","mitchf","Alarm","COVER OPEN 7  On",,mNL4On
+135584,"22/05/2017 09:29:34","-1:00","mitchf","Alarm","EMERGENCY  On",,BJrD7j
+135585,"22/05/2017 09:29:35","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,NUIexv
+135586,"22/05/2017 09:29:48","-1:00","mitchf","Alarm","COVER OPEN 6  On",,QTSY5w
+135587,"22/05/2017 09:29:54","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,twsZCM
+135588,"22/05/2017 09:29:54","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,tvla1x
+135589,"22/05/2017 09:29:54","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,kYdRRc
+135590,"22/05/2017 09:29:55","-1:00","mitchf","Alarm","EMERGENCY  Off",,14tcEm
+135591,"22/05/2017 09:29:55","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,nmpIR5
+135592,"22/05/2017 09:31:04","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,c4PWrG
+135593,"22/05/2017 09:31:08","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,adt8jI
+135594,"22/05/2017 09:31:08","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,zEC+59
+135595,"22/05/2017 09:31:14","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,4ieW8M
+135596,"22/05/2017 09:31:16","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,OQpdnk
+135597,"22/05/2017 09:31:18","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,85rzVR
+135598,"22/05/2017 09:31:53","-1:00","mitchf","Warning","WARNING REJECTED TRAY HIGH ST0 ALMOST FULL  On",,wbXwEy
+135599,"22/05/2017 09:31:54","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,bFCuCT
+135600,"22/05/2017 09:31:54","-1:00","mitchf","Warning","WARNING REJECTED TRAY HIGH ST0 ALMOST FULL  Off",,nw+wxt
+135601,"22/05/2017 09:31:58","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,GY38ii
+135602,"22/05/2017 09:31:58","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,YGCwTj
+135603,"22/05/2017 09:32:01","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,I09mNg
+135604,"22/05/2017 09:32:07","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,jFAQjy
+135605,"22/05/2017 09:32:33","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,qeo9sT
+135606,"22/05/2017 09:33:22","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,SP7QLF
+135607,"22/05/2017 09:33:26","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,girVPq
+135608,"22/05/2017 09:34:16","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,V9UJJH
+135609,"22/05/2017 09:34:57","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,fyrmBj
+135610,"22/05/2017 09:35:03","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,kmrMDg
+135611,"22/05/2017 09:35:08","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,gD9A+e
+135612,"22/05/2017 09:35:11","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,O2XHLv
+135613,"22/05/2017 09:35:27","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,mcVZD7
+135614,"22/05/2017 09:35:49","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,lLgaxC
+135615,"22/05/2017 09:35:53","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,2AkGpL
+135616,"22/05/2017 09:36:14","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,D9qK4X
+135617,"22/05/2017 09:36:15","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,py3JVU
+135618,"22/05/2017 09:36:39","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,MpLeKh
+135619,"22/05/2017 09:37:37","-1:00","mitchf","Alarm","EMERGENCY  On",,SVo5Zg
+135620,"22/05/2017 09:37:37","-1:00","mitchf","Alarm","COVER OPEN 7  On",,ItnwvM
+135621,"22/05/2017 09:37:37","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,ZRyJyw
+135622,"22/05/2017 09:37:49","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,leE5Cw
+135623,"22/05/2017 09:37:49","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,Sjx59k
+135624,"22/05/2017 09:37:49","-1:00","mitchf","Alarm","EMERGENCY  Off",,uQ89NM
+135625,"22/05/2017 09:37:49","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,kAviUD
+135626,"22/05/2017 09:38:54","-1:00","mitchf","Alarm","EMERGENCY  On",,fU8Lne
+135627,"22/05/2017 09:38:54","-1:00","mitchf","Alarm","COVER OPEN 7  On",,6kS7Ur
+135628,"22/05/2017 09:38:54","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,xcOyOK
+135629,"22/05/2017 09:39:48","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,IWKlce
+135630,"22/05/2017 09:39:48","-1:00","mitchf","Alarm","EMERGENCY  Off",,GqP5yd
+135631,"22/05/2017 09:39:48","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,MYBkNm
+135632,"22/05/2017 09:40:15","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  On",,yQi2PJ
+135633,"22/05/2017 09:40:15","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,VMcD0A
+135634,"22/05/2017 09:40:29","-1:00","mitchf","Alarm","EMERGENCY  On",,8LPtmM
+135635,"22/05/2017 09:40:29","-1:00","mitchf","Alarm","COVER OPEN 6  On",,SP5HXl
+135636,"22/05/2017 09:40:29","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,Vhl/xq
+135637,"22/05/2017 09:40:29","-1:00","mitchf","Alarm","COVER OPEN 7  On",,nSHwp/
+135638,"22/05/2017 09:41:13","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,P4kx0W
+135639,"22/05/2017 09:41:13","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,E8iJUF
+135640,"22/05/2017 09:41:13","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,zUWS3S
+135641,"22/05/2017 09:41:13","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  Off",,wYJTi6
+135642,"22/05/2017 09:41:13","-1:00","mitchf","Alarm","EMERGENCY  Off",,p1U7Dv
+135643,"22/05/2017 09:41:13","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,zBiAp+
+135644,"22/05/2017 09:41:39","-1:00","mitchf","Alarm","ALARM MISSING CONTAINER ON THE EXIT CHANNEL  On",,k8iDSX
+135645,"22/05/2017 09:41:42","-1:00","mitchf","Alarm","ALARM MISSING CONTAINER ON THE EXIT CHANNEL  Off",,galnH9
+135646,"22/05/2017 09:41:54","-1:00","mitchf","Alarm","EMERGENCY  On",,ORH7Sk
+135647,"22/05/2017 09:41:54","-1:00","mitchf","Alarm","COVER OPEN 5  On",,7J66Xf
+135648,"22/05/2017 09:41:54","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,R7EUrw
+135649,"22/05/2017 09:42:09","-1:00","mitchf","Alarm","COVER OPEN 5  Off",,Rx/3fg
+135650,"22/05/2017 09:42:09","-1:00","mitchf","Alarm","EMERGENCY  Off",,AyaYrn
+135651,"22/05/2017 09:42:09","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,Vg3gvy
+135652,"22/05/2017 09:42:20","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,hwRNBr
+135653,"22/05/2017 09:42:30","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,dYFDNT
+135654,"22/05/2017 09:42:31","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,5nXi9q
+135655,"22/05/2017 09:42:36","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,iBGedb
+135656,"22/05/2017 09:43:59","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,+epyPW
+135657,"22/05/2017 09:44:08","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,pdrR6r
+135658,"22/05/2017 09:44:12","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,6QLcO7
+135659,"22/05/2017 09:44:24","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,l65uKD
+135660,"22/05/2017 09:44:34","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,pdOa9/
+135661,"22/05/2017 09:44:38","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,aSvJ2u
+135662,"22/05/2017 09:45:38","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,5fV79u
+135663,"22/05/2017 09:46:00","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,XVUP49
+135664,"22/05/2017 09:46:09","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,fn/7fu
+135665,"22/05/2017 09:46:13","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,NrS5GS
+135666,"22/05/2017 09:46:22","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,k+13CJ
+135667,"22/05/2017 09:46:40","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,cZ0535
+135668,"22/05/2017 09:47:08","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,oXZTlT
+135669,"22/05/2017 09:47:17","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,CnBiux
+135670,"22/05/2017 09:47:21","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,zm5UGk
+135671,"22/05/2017 09:47:30","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ciHW7/
+135672,"22/05/2017 09:48:30","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,T158Uq
+135673,"22/05/2017 09:48:35","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,k9b1pn
+135674,"22/05/2017 09:48:46","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,QY2/11
+135675,"22/05/2017 09:48:47","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,vg9ewl
+135676,"22/05/2017 09:48:50","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Z82r1v
+135677,"22/05/2017 09:48:51","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,aN0cAi
+135678,"22/05/2017 09:48:51","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,Ug2rQ2
+135679,"22/05/2017 09:48:53","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,nvzO2K
+135680,"22/05/2017 09:48:53","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,JEGiH3
+135681,"22/05/2017 09:48:54","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,H+zB/L
+135682,"22/05/2017 09:49:14","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,RJ9/oK
+135683,"22/05/2017 09:49:31","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,AEFbtK
+135684,"22/05/2017 09:49:31","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,buyAOU
+135685,"22/05/2017 09:49:31","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,2jp6O/
+135686,"22/05/2017 09:50:14","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,s5GK53
+135687,"22/05/2017 09:50:36","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,QpVZAV
+135688,"22/05/2017 09:50:41","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,fO7cQR
+135689,"22/05/2017 09:50:45","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,dKlung
+135690,"22/05/2017 09:51:55","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,gW9EOP
+135691,"22/05/2017 09:52:01","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,c4mNJJ
+135692,"22/05/2017 09:52:05","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,lnA7Lp
+135693,"22/05/2017 09:52:17","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,YDN5Nc
+135694,"22/05/2017 09:54:15","-1:00","mitchf","Alarm","COVER OPEN 1  On",,N1c/93
+135695,"22/05/2017 09:54:15","-1:00","mitchf","Alarm","EMERGENCY  On",,BxYg6r
+135696,"22/05/2017 09:54:15","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,9r3vQF
+135697,"22/05/2017 09:54:39","-1:00","mitchf","Alarm","COVER OPEN 1  Off",,8/lCYs
+135698,"22/05/2017 09:54:39","-1:00","mitchf","Alarm","EMERGENCY  Off",,JT5j7P
+135699,"22/05/2017 09:54:39","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,0PJNFA
+135700,"22/05/2017 09:55:42","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,eQQ2M0
+135701,"22/05/2017 09:55:46","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,+X2gOO
+135702,"22/05/2017 09:55:51","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Lih4C2
+135703,"22/05/2017 09:55:58","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,wxaOfq
+135704,"22/05/2017 09:56:14","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,ZwaJv8
+135705,"22/05/2017 09:56:14","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,dTU2v/
+135706,"22/05/2017 09:56:14","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,Lxf73K
+135707,"22/05/2017 09:56:19","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,YfpnfW
+135708,"22/05/2017 09:57:28","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,IocNCZ
+135709,"22/05/2017 09:57:50","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,gP0w7p
+135710,"22/05/2017 09:57:53","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,WkREVz
+135711,"22/05/2017 09:57:57","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,VrLW5C
+135712,"22/05/2017 09:57:58","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,rmygDl
+135713,"22/05/2017 09:58:02","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,FdOenN
+135714,"22/05/2017 09:58:05","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,UNpxvq
+135715,"22/05/2017 09:58:08","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,0ScZoN
+135716,"22/05/2017 09:58:59","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,jS6ayL
+135717,"22/05/2017 09:59:08","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,K8mih2
+135718,"22/05/2017 09:59:08","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,IPru9M
+135719,"22/05/2017 09:59:09","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,uFfkpT
+135720,"22/05/2017 09:59:20","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,T9s5II
+135721,"22/05/2017 09:59:21","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,2spJP2
+135722,"22/05/2017 09:59:32","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,tKyt/j
+135723,"22/05/2017 09:59:37","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,zIT/xy
+135724,"22/05/2017 10:00:40","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,dLpjci
+135725,"22/05/2017 10:01:02","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,PaZ+rp
+135726,"22/05/2017 10:01:07","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,gShYD9
+135727,"22/05/2017 10:01:11","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,7eWrUl
+135728,"22/05/2017 10:02:11","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,wu+oLy
+135729,"22/05/2017 10:02:33","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,WRjMrV
+135730,"22/05/2017 10:02:55","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,BX4Frx
+135731,"22/05/2017 10:02:59","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,JJqStr
+135732,"22/05/2017 10:03:07","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,DDUOtY
+135733,"22/05/2017 10:03:18","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,ZbcYaX
+135734,"22/05/2017 10:03:28","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3Upmux
+135735,"22/05/2017 10:03:49","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Hpu1Ed
+135736,"22/05/2017 10:04:37","-1:00","mitchf","Warning","WARNING REJECTED TRAY HIGH ST0 ALMOST FULL  On",,LY5z13
+135737,"22/05/2017 10:04:39","-1:00","mitchf","Warning","WARNING REJECTED TRAY HIGH ST0 ALMOST FULL  Off",,YT7ALd
+135738,"22/05/2017 10:04:39","-1:00","mitchf","Alarm","ALARM TIP REJECTED TRAY HIGH MISSING OR FULL  On",,48CCGj
+135739,"22/05/2017 10:04:44","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,5pGCwp
+135740,"22/05/2017 10:04:48","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,kR1fLE
+135741,"22/05/2017 10:04:49","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,C0uD2+
+135742,"22/05/2017 10:04:52","-1:00","mitchf","Alarm","ALARM TIP REJECTED TRAY HIGH MISSING OR FULL  Off",,SU8egI
+135743,"22/05/2017 10:05:09","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,OQ0m3Z
+135744,"22/05/2017 10:05:41","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,ReOrgx
+135745,"22/05/2017 10:05:46","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,ASkF7w
+135746,"22/05/2017 10:06:18","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,j/NAeo
+135747,"22/05/2017 10:06:22","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,F0FQde
+135748,"22/05/2017 10:06:24","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,uoGxwo
+135749,"22/05/2017 10:06:29","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,25Tehs
+135750,"22/05/2017 10:06:36","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ivDhEE
+135751,"22/05/2017 10:06:45","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,gi7pUF
+135752,"22/05/2017 10:06:56","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,7O1jtm
+135753,"22/05/2017 10:07:26","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,UMJ7LL
+135754,"22/05/2017 10:07:26","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,qtOs4I
+135755,"22/05/2017 10:07:26","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,RBP2A6
+135756,"22/05/2017 10:07:54","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,HAXfYb
+135757,"22/05/2017 10:08:13","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,zNAplU
+135758,"22/05/2017 10:08:16","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,FUSDw3
+135759,"22/05/2017 10:08:16","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,ze6Cxs
+135760,"22/05/2017 10:08:58","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,NP1mJf
+135761,"22/05/2017 10:09:01","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,GLP5DO
+135762,"22/05/2017 10:09:13","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,bvMM/o
+135763,"22/05/2017 10:09:24","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,k3wn0d
+135764,"22/05/2017 10:09:46","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,sFijy7
+135765,"22/05/2017 10:10:39","-1:00","mitchf","Alarm","EMERGENCY  On",,peLbE0
+135766,"22/05/2017 10:10:39","-1:00","mitchf","Alarm","COVER OPEN 7  On",,70iKCP
+135767,"22/05/2017 10:10:39","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,D/KJmh
+135768,"22/05/2017 10:13:02","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,2MQodg
+135769,"22/05/2017 10:13:39","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,ilVw7i
+135770,"22/05/2017 10:13:40","-1:00","mitchf","Alarm","EMERGENCY  Off",,fwG5Ig
+135771,"22/05/2017 10:13:40","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,cGidK+
+135772,"22/05/2017 10:13:48","-1:00","mitchf","Alarm","EMERGENCY  On",,lubiqr
+135773,"22/05/2017 10:13:48","-1:00","mitchf","Alarm","COVER OPEN 7  On",,9MZS7S
+135774,"22/05/2017 10:13:48","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,vTR3uN
+135775,"22/05/2017 10:14:57","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,ULQs7x
+135776,"22/05/2017 10:14:57","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,Evm4xZ
+135777,"22/05/2017 10:14:57","-1:00","mitchf","Alarm","EMERGENCY  Off",,gfB98+
+135778,"22/05/2017 10:14:57","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,Wya7ZZ
+135779,"22/05/2017 10:15:21","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,3AQWQJ
+135780,"22/05/2017 10:15:31","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,92jX/D
+135781,"22/05/2017 10:15:31","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,oAY39e
+135782,"22/05/2017 10:15:32","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,0Cqtku
+135783,"22/05/2017 10:16:10","-1:00","mitchf","Warning","ALARM LKD REJECTED TRAY MISSING OR FULL  On",,/B7d/Q
+135784,"22/05/2017 10:16:44","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,BD9SNA
+135785,"22/05/2017 10:16:52","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,9C7Spm
+135786,"22/05/2017 10:16:52","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,4zLBBG
+135787,"22/05/2017 10:16:54","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,zei1fV
+135788,"22/05/2017 10:17:00","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,Z5rFg+
+135789,"22/05/2017 10:17:13","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,2l8y++
+135790,"22/05/2017 10:17:20","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,zNY1m3
+135791,"22/05/2017 10:17:20","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,UgwthE
+135792,"22/05/2017 10:17:21","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,H75Mlx
+135793,"22/05/2017 10:17:34","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,bX4oPP
+135794,"22/05/2017 10:17:41","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,x/dk0n
+135795,"22/05/2017 10:17:41","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,Ggdbhq
+135796,"22/05/2017 10:17:44","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,C6XIzd
+135797,"22/05/2017 10:17:47","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3FsB9J
+135798,"22/05/2017 10:18:24","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,rpjCH3
+135799,"22/05/2017 10:19:24","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,yqbzpH
+135800,"22/05/2017 10:19:31","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,d18LK0
+135801,"22/05/2017 10:19:35","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,BBw0gc
+135802,"22/05/2017 10:19:42","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,qQxyNq
+135803,"22/05/2017 10:19:54","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,q13gea
+135804,"22/05/2017 10:19:54","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,z4PojL
+135805,"22/05/2017 10:21:03","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,mzjdsd
+135806,"22/05/2017 10:21:26","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,i5G72S
+135807,"22/05/2017 10:22:07","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,ZlHGr6
+135808,"22/05/2017 10:22:11","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,yALOFx
+135809,"22/05/2017 10:22:12","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,+EBymW
+135810,"22/05/2017 10:22:16","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,3qaLnK
+135811,"22/05/2017 10:22:18","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,pMKcFx
+135812,"22/05/2017 10:22:39","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,IGyB4l
+135813,"22/05/2017 10:22:47","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,vrfXO9
+135814,"22/05/2017 10:23:17","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,snszbe
+135815,"22/05/2017 10:24:02","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,9I6iCJ
+135816,"22/05/2017 10:24:08","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,a+ohkB
+135817,"22/05/2017 10:24:16","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,fJxJ2l
+135818,"22/05/2017 10:24:17","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,rnpG0b
+135819,"22/05/2017 10:24:28","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,oUCMN9
+135820,"22/05/2017 10:24:40","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,WM5bj2
+135821,"22/05/2017 10:24:45","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,0Tkpqw
+135822,"22/05/2017 10:24:48","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,nXZ+4y
+135823,"22/05/2017 10:25:49","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,P6OvlW
+135824,"22/05/2017 10:26:09","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,JSm7fz
+135825,"22/05/2017 10:27:01","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,bFtF7m
+135826,"22/05/2017 10:27:17","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,5o8E63
+135827,"22/05/2017 10:27:41","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,3gaqsJ
+135828,"22/05/2017 10:29:27","-1:00","mitchf","Alarm","EMERGENCY  On",,J/xq0G
+135829,"22/05/2017 10:29:27","-1:00","mitchf","Alarm","COVER OPEN 7  On",,37rlXS
+135830,"22/05/2017 10:29:27","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,fNVZVI
+135831,"22/05/2017 10:29:49","-1:00","mitchf","Alarm","COVER OPEN 5  On",,POIhaz
+135832,"22/05/2017 10:30:03","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,jLqT3z
+135833,"22/05/2017 10:30:09","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,sCCwCS
+135834,"22/05/2017 10:30:09","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,sy09Mj
+135835,"22/05/2017 10:30:11","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,ZqD5Y4
+135836,"22/05/2017 10:30:12","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,H9dSKC
+135837,"22/05/2017 10:30:20","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,4B1pj5
+135838,"22/05/2017 10:30:20","-1:00","mitchf","Alarm","ALARM MISSING LKD REJECTED TRAYS   On",,YYBwVi
+135839,"22/05/2017 10:30:33","-1:00","mitchf","Warning","ALARM LKD REJECTED TRAY MISSING OR FULL  Off",,WUUG/V
+135840,"22/05/2017 10:30:34","-1:00","mitchf","Alarm","COVER OPEN 5  Off",,ByiSHh
+135841,"22/05/2017 10:30:34","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,PKn3z8
+135842,"22/05/2017 10:30:34","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,19hP8E
+135843,"22/05/2017 10:30:34","-1:00","mitchf","Alarm","ALARM MISSING LKD REJECTED TRAYS   Off",,UkzQfN
+135844,"22/05/2017 10:30:34","-1:00","mitchf","Alarm","EMERGENCY  Off",,sfVdNn
+135845,"22/05/2017 10:30:34","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,uRY5HB
+135846,"22/05/2017 10:32:04","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,esTfXr
+135847,"22/05/2017 10:32:24","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,XlyQ5i
+135848,"22/05/2017 10:32:27","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,/tfaJy
+135849,"22/05/2017 10:32:27","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,R/TfKf
+135850,"22/05/2017 10:32:33","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,Jbn1iz
+135851,"22/05/2017 10:32:44","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,LXkllG
+135852,"22/05/2017 10:33:02","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,QkGZK+
+135853,"22/05/2017 10:33:06","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,/Wgzsd
+135854,"22/05/2017 10:33:41","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,4bvO9b
+135855,"22/05/2017 10:34:03","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,t1cf1k
+135856,"22/05/2017 10:34:37","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,P3bq1J
+135857,"22/05/2017 10:34:43","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,Duzieo
+135858,"22/05/2017 10:34:44","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,YTwwlq
+135859,"22/05/2017 10:34:48","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,WuAepE
+135860,"22/05/2017 10:35:11","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,lHdB9+
+135861,"22/05/2017 10:35:26","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,pIvphy
+135862,"22/05/2017 10:35:33","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,h6BRje
+135863,"22/05/2017 10:35:34","-1:00","mitchf","Alarm","COVER OPEN 7  On",,DdFxyc
+135864,"22/05/2017 10:35:34","-1:00","mitchf","Alarm","EMERGENCY  On",,5HeMuK
+135865,"22/05/2017 10:35:34","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,3wHtaA
+135866,"22/05/2017 10:35:50","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,PB5Ht0
+135867,"22/05/2017 10:35:50","-1:00","mitchf","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,xpytD+
+135868,"22/05/2017 10:35:50","-1:00","mitchf","Alarm","EMERGENCY  Off",,lz5a07
+135869,"22/05/2017 10:35:50","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,+cXb0c
+135870,"22/05/2017 10:36:52","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,6889Mi
+135871,"22/05/2017 10:36:56","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,GsdFQU
+135872,"22/05/2017 10:36:57","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,l8HH8p
+135873,"22/05/2017 10:37:00","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,xr2fBs
+135874,"22/05/2017 10:37:03","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,lDZkf/
+135875,"22/05/2017 10:37:24","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,sofQ1O
+135876,"22/05/2017 10:37:26","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,tzn35e
+135877,"22/05/2017 10:37:27","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,tefeRr
+135878,"22/05/2017 10:37:35","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,zOpAT1
+135879,"22/05/2017 10:37:39","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,hAUyxd
+135880,"22/05/2017 10:37:42","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,UQCm+N
+135881,"22/05/2017 10:37:48","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,ami+FR
+135882,"22/05/2017 10:37:50","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,0/ly19
+135883,"22/05/2017 10:38:18","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,kLSIGw
+135884,"22/05/2017 10:38:22","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,Xvf18Y
+135885,"22/05/2017 10:38:28","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,PJycza
+135886,"22/05/2017 10:38:29","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,9Dj6NZ
+135887,"22/05/2017 10:38:33","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,cmWhxL
+135888,"22/05/2017 10:39:30","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,WODsp1
+135889,"22/05/2017 10:39:30","-1:00","System","User administration","User logged off.",,DanAJ/
+135890,"22/05/2017 10:39:31","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,2pQDFu
+135891,"22/05/2017 10:39:31","-1:00",,"Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,hCGTrU
+135892,"22/05/2017 10:39:35","-1:00",,"Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,UzED5X
+135893,"22/05/2017 10:39:53","-1:00","System","User administration","User 'mitchf' logged on with group 'Operator'.",,lcRuOu
+135894,"22/05/2017 10:39:53","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,/SwD4e
+135895,"22/05/2017 10:39:55","-1:00","mitchf","Alarm","WARNING MISSING LOGIN OPERATION  Off",,RaQTbO
+135896,"22/05/2017 10:40:09","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,ganJKT
+135897,"22/05/2017 10:40:13","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,M9tFqF
+135898,"22/05/2017 10:41:31","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,cJSZVF
+135899,"22/05/2017 10:41:39","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,JEyzTw
+135900,"22/05/2017 10:41:46","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,VPAJCz
+135901,"22/05/2017 10:41:47","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,j1zt/z
+135902,"22/05/2017 10:41:51","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,cCdte1
+135903,"22/05/2017 10:41:52","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,w6n9YC
+135904,"22/05/2017 10:41:53","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,c6vavy
+135905,"22/05/2017 10:42:40","-1:00","mitchf","Warning","ALARM LKD REJECTED TRAY MISSING OR FULL  On",,vV8Opu
+135906,"22/05/2017 10:42:45","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,tVwulM
+135907,"22/05/2017 10:42:56","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,4jpuaj
+135908,"22/05/2017 10:43:02","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,4HHBc2
+135909,"22/05/2017 10:43:02","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ZUy9Ib
+135910,"22/05/2017 10:43:03","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,uCTrKA
+135911,"22/05/2017 10:43:06","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,Iq7xs7
+135912,"22/05/2017 10:43:30","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,UKDc41
+135913,"22/05/2017 10:43:32","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,B4/D2a
+135914,"22/05/2017 10:43:35","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,WyYgjU
+135915,"22/05/2017 10:43:47","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,REurOX
+135916,"22/05/2017 10:44:08","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,o1q6r9
+135917,"22/05/2017 10:44:08","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,ASj8Ey
+135918,"22/05/2017 10:44:08","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,WiiNbj
+135919,"22/05/2017 10:44:12","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,CBmorv
+135920,"22/05/2017 10:44:16","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,aKs8aU
+135921,"22/05/2017 10:44:16","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,yh+6fE
+135922,"22/05/2017 10:44:16","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,nk3pT4
+135923,"22/05/2017 10:44:17","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,jAvnX4
+135924,"22/05/2017 10:44:20","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,fE2Qey
+135925,"22/05/2017 10:44:22","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,AUoirj
+135926,"22/05/2017 10:44:35","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,rXthuM
+135927,"22/05/2017 10:44:42","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Myh/i7
+135928,"22/05/2017 10:45:05","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,QvKZJv
+135929,"22/05/2017 10:45:09","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,GzyDbz
+135930,"22/05/2017 10:45:11","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,3OD+c7
+135931,"22/05/2017 10:45:51","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,2sztRE
+135932,"22/05/2017 10:45:53","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Pg4oIE
+135933,"22/05/2017 10:45:55","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,ZDRCXl
+135934,"22/05/2017 10:46:06","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,kGCt50
+135935,"22/05/2017 10:46:22","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ataEZQ
+135936,"22/05/2017 10:46:33","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,o3IdEB
+135937,"22/05/2017 10:46:34","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,XvGvFf
+135938,"22/05/2017 10:46:41","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,MDk7oN
+135939,"22/05/2017 10:46:51","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,VohdEB
+135940,"22/05/2017 10:46:57","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,KByyz7
+135941,"22/05/2017 10:46:58","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,qfp3/C
+135942,"22/05/2017 10:47:02","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,PUaczU
+135943,"22/05/2017 10:47:18","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,d8NCFc
+135944,"22/05/2017 10:47:42","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,0k51hH
+135945,"22/05/2017 10:47:52","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,QKp07Y
+135946,"22/05/2017 10:47:55","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,530sl3
+135947,"22/05/2017 10:48:25","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,yFVKvR
+135948,"22/05/2017 10:48:28","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,nGDPRt
+135949,"22/05/2017 10:48:37","-1:00","mitchf","Alarm","EMERGENCY  On",,Vc/cZI
+135950,"22/05/2017 10:48:37","-1:00","mitchf","Alarm","COVER OPEN 7  On",,esDEgv
+135951,"22/05/2017 10:48:37","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,/6s7hH
+135952,"22/05/2017 10:48:46","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,7BTNx2
+135953,"22/05/2017 10:49:14","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,An8WrQ
+135954,"22/05/2017 10:49:17","-1:00","mitchf","Warning","ALARM LKD REJECTED TRAY MISSING OR FULL  Off",,yPCSEl
+135955,"22/05/2017 10:49:17","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,V2ZrIW
+135956,"22/05/2017 10:49:17","-1:00","mitchf","Alarm","EMERGENCY  Off",,ekaAcS
+135957,"22/05/2017 10:49:17","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,jQj9wm
+135958,"22/05/2017 10:49:27","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,4wMbrV
+135959,"22/05/2017 10:49:34","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,aRtaTY
+135960,"22/05/2017 10:49:47","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,cZXUt9
+135961,"22/05/2017 10:49:50","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,acILMp
+135962,"22/05/2017 10:50:05","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,a3DmUz
+135963,"22/05/2017 10:50:08","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,eLuq49
+135964,"22/05/2017 10:50:09","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,7a/yOW
+135965,"22/05/2017 10:50:12","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,Sru3qY
+135966,"22/05/2017 10:50:51","-1:00","mitchf","Alarm","EMERGENCY  On",,JyrrXD
+135967,"22/05/2017 10:50:51","-1:00","mitchf","Alarm","COVER OPEN 5  On",,QYV8xo
+135968,"22/05/2017 10:50:51","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,RBheG3
+135969,"22/05/2017 10:51:04","-1:00","mitchf","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,CFX3aF
+135970,"22/05/2017 10:51:18","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,uMng+a
+135971,"22/05/2017 10:51:30","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,362vsu
+135972,"22/05/2017 10:51:37","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,CxZqFr
+135973,"22/05/2017 10:51:37","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,rtsdPJ
+135974,"22/05/2017 10:51:40","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,w9uGfW
+135975,"22/05/2017 10:51:53","-1:00","mitchf","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,s6M7xZ
+135976,"22/05/2017 11:17:25","-1:00","mitchf","Alarm","COVER OPEN 6  On",,cIcYRu
+135977,"22/05/2017 11:17:26","-1:00","mitchf","Alarm","COVER OPEN 7  On",,JaLOAP
+135978,"22/05/2017 11:18:40","-1:00","mitchf","Alarm","COVER OPEN 5  Off",,cRkflJ
+135979,"22/05/2017 11:18:40","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,tlWfVv
+135980,"22/05/2017 11:18:40","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,fDDwP4
+135981,"22/05/2017 11:18:40","-1:00","mitchf","Alarm","EMERGENCY  Off",,HaT0qU
+135982,"22/05/2017 11:18:40","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,RnBS6j
+135983,"22/05/2017 11:19:40","-1:00","mitchf","Alarm","EMERGENCY  On",,eptYon
+135984,"22/05/2017 11:19:40","-1:00","mitchf","Alarm","COVER OPEN 6  On",,0NBNzx
+135985,"22/05/2017 11:19:40","-1:00","mitchf","Alarm","COVER OPEN 7  On",,1fTMX8
+135986,"22/05/2017 11:19:40","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,R5/0/w
+135987,"22/05/2017 11:19:42","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,8Wk1YS
+135988,"22/05/2017 11:19:45","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,1o/8So
+135989,"22/05/2017 11:19:51","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,8oEOm6
+135990,"22/05/2017 11:19:51","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,VwGukF
+135991,"22/05/2017 11:19:51","-1:00","mitchf","Alarm","EMERGENCY  Off",,5edlti
+135992,"22/05/2017 11:19:51","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,e0oQKP
+135993,"22/05/2017 11:20:58","-1:00","mitchf","Alarm","EMERGENCY  On",,YhbFFn
+135994,"22/05/2017 11:20:58","-1:00","mitchf","Alarm","COVER OPEN 5  On",,WXsFEY
+135995,"22/05/2017 11:20:59","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,lDO/N+
+135996,"22/05/2017 11:21:12","-1:00","mitchf","Alarm","COVER OPEN 7  On",,sFWi6Y
+135997,"22/05/2017 11:21:16","-1:00","mitchf","Alarm","COVER OPEN 5  Off",,A0kY61
+135998,"22/05/2017 11:21:16","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,jvDB12
+135999,"22/05/2017 11:21:16","-1:00","mitchf","Alarm","EMERGENCY  Off",,kBKvS8
+136000,"22/05/2017 11:21:16","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,YYT6wb
+136001,"22/05/2017 11:21:21","-1:00","mitchf","Alarm","COVER OPEN 7  On",,9R/Ac4
+136002,"22/05/2017 11:21:21","-1:00","mitchf","Alarm","EMERGENCY  On",,dHzPaV
+136003,"22/05/2017 11:21:21","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,9eP9Th
+136004,"22/05/2017 11:21:49","-1:00","mitchf","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,1YGnD3
+136005,"22/05/2017 11:21:49","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,kvrt56
+136006,"22/05/2017 11:21:49","-1:00","mitchf","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,lgAGW5
+136007,"22/05/2017 11:21:50","-1:00","mitchf","Alarm","EMERGENCY  Off",,lbd7Af
+136008,"22/05/2017 11:21:50","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,bEX2MW
+136009,"22/05/2017 11:21:51","-1:00","mitchf","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,/pmqG9
+136010,"22/05/2017 11:21:55","-1:00","mitchf","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,m5qJBi
+136011,"22/05/2017 11:22:11","-1:00","mitchf","Alarm","EMERGENCY  On",,QiUwTG
+136012,"22/05/2017 11:22:11","-1:00","mitchf","Alarm","COVER OPEN 7  On",,hzcGGB
+136013,"22/05/2017 11:22:11","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,ItUQn5
+136014,"22/05/2017 11:22:11","-1:00","mitchf","Alarm","COVER OPEN 6  On",,bVNjuz
+136015,"22/05/2017 11:23:59","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,mGgFj9
+136016,"22/05/2017 11:23:59","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,f4e4Te
+136017,"22/05/2017 11:24:01","-1:00","mitchf","Alarm","EMERGENCY  Off",,hmRruF
+136018,"22/05/2017 11:24:01","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,K8YcN3
+136019,"22/05/2017 11:24:36","-1:00","mitchf","Alarm","EMERGENCY  On",,EhDBmL
+136020,"22/05/2017 11:24:36","-1:00","mitchf","Alarm","COVER OPEN 7  On",,9kzWN4
+136021,"22/05/2017 11:24:37","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,diOyD8
+136022,"22/05/2017 11:24:37","-1:00","mitchf","Alarm","COVER OPEN 6  On",,A451Ex
+136023,"22/05/2017 11:24:53","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,uQhp4P
+136024,"22/05/2017 11:24:53","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,Eg++cE
+136025,"22/05/2017 11:24:53","-1:00","mitchf","Alarm","EMERGENCY  Off",,0wMBM4
+136026,"22/05/2017 11:24:53","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,/vqdD4
+136027,"22/05/2017 11:25:13","-1:00","mitchf","Alarm","EMERGENCY  On",,RFo+uz
+136028,"22/05/2017 11:25:13","-1:00","mitchf","Alarm","COVER OPEN 7  On",,Phkw70
+136029,"22/05/2017 11:25:13","-1:00","mitchf","Alarm","COVER OPEN 6  On",,d4SICK
+136030,"22/05/2017 11:25:13","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,ajCk1n
+136031,"22/05/2017 11:26:15","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,mzj/LQ
+136032,"22/05/2017 11:26:15","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,s/rfNA
+136033,"22/05/2017 11:26:16","-1:00","mitchf","Alarm","EMERGENCY  Off",,f8Tg3X
+136034,"22/05/2017 11:26:16","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,wJ717/
+136035,"22/05/2017 11:26:34","-1:00","mitchf","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST4  On",,fwA6kR
+136036,"22/05/2017 11:28:41","-1:00","mitchf","Alarm","COVER OPEN 7  On",,laFLpR
+136037,"22/05/2017 11:28:41","-1:00","mitchf","Alarm","EMERGENCY  On",,TemHRm
+136038,"22/05/2017 11:28:41","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,k2lKj3
+136039,"22/05/2017 11:28:43","-1:00","mitchf","Alarm","COVER OPEN 6  On",,olpGzj
+136040,"22/05/2017 11:28:49","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,HZ3S1L
+136041,"22/05/2017 11:28:49","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,NOUB0q
+136042,"22/05/2017 11:28:49","-1:00","mitchf","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST4  Off",,YKho5O
+136043,"22/05/2017 11:28:49","-1:00","mitchf","Alarm","EMERGENCY  Off",,iVQ8QK
+136044,"22/05/2017 11:28:49","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,6/wBzn
+136045,"22/05/2017 11:28:50","-1:00","mitchf","Alarm: 7","Acknowledgment of 7 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Raoqbs
+136046,"22/05/2017 11:28:50","-1:00","mitchf","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  Acknowledgment",,0QmSlL
+136047,"22/05/2017 11:28:50","-1:00","mitchf","Alarm:","ALARM MISSING CONTAINER ON THE EXIT CHANNEL  Acknowledgment",,bqO7k0
+136048,"22/05/2017 11:28:50","-1:00","mitchf","Alarm:","COVER OPEN 1  Acknowledgment",,Znvvma
+136049,"22/05/2017 11:28:50","-1:00","mitchf","Alarm:","ALARM TIP REJECTED TRAY HIGH MISSING OR FULL  Acknowledgment",,CGLpj+
+136050,"22/05/2017 11:28:50","-1:00","mitchf","Alarm:","ALARM MISSING LKD REJECTED TRAYS   Acknowledgment",,WwjToC
+136051,"22/05/2017 11:28:50","-1:00","mitchf","Alarm:","ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment",,Dq0pR+
+136052,"22/05/2017 11:28:50","-1:00","mitchf","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,hQ/gIR
+136053,"22/05/2017 11:28:50","-1:00","mitchf","Alarm:","COVER OPEN 5  Acknowledgment",,xwOkWV
+136054,"22/05/2017 11:28:50","-1:00","mitchf","Alarm:","OPERATION DENIED, START PRODUCTION REQUIRED  Acknowledgment",,gGa53y
+136055,"22/05/2017 11:28:50","-1:00","mitchf","Alarm:","ALARM MAXIMUM CONSECUTIVE REJECTION ST4  Acknowledgment",,3j9AHv
+136056,"22/05/2017 11:28:50","-1:00","mitchf","Alarm:","COVER OPEN 7  Acknowledgment",,ku4a1b
+136057,"22/05/2017 11:28:50","-1:00","mitchf","Alarm:","EMERGENCY  Acknowledgment",,Qrdk9S
+136058,"22/05/2017 11:28:50","-1:00","mitchf","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,QCmX6Y
+136059,"22/05/2017 11:28:50","-1:00","mitchf","Alarm:","COVER OPEN 6  Acknowledgment",,BX0PBs
+136060,"22/05/2017 11:29:22","-1:00","mitchf","Alarm","COVER OPEN 5  On",,l657zr
+136061,"22/05/2017 11:29:22","-1:00","mitchf","Alarm","EMERGENCY  On",,rUfXjl
+136062,"22/05/2017 11:29:22","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,7nP6Wy
+136063,"22/05/2017 11:29:49","-1:00","mitchf","Alarm","COVER OPEN 6  On",,bDXM/R
+136064,"22/05/2017 11:30:01","-1:00","mitchf","Alarm","COVER OPEN 7  On",,v7bbHU
+136065,"22/05/2017 11:30:33","-1:00","mitchf","Alarm","COVER OPEN 5  Off",,1PcceD
+136066,"22/05/2017 11:30:33","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,aXXCOh
+136067,"22/05/2017 11:30:33","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,uvAax3
+136068,"22/05/2017 11:30:34","-1:00","mitchf","Alarm","EMERGENCY  Off",,X40qow
+136069,"22/05/2017 11:30:34","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,KG3xI4
+136070,"22/05/2017 11:31:40","-1:00","mitchf","Alarm","EMERGENCY  On",,BIwNGG
+136071,"22/05/2017 11:31:40","-1:00","mitchf","Alarm","COVER OPEN 7  On",,BUoYJJ
+136072,"22/05/2017 11:31:40","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,ZrJ9/b
+136073,"22/05/2017 11:31:41","-1:00","mitchf","Alarm","COVER OPEN 6  On",,zn8tDi
+136074,"22/05/2017 11:31:48","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,GOTIpN
+136075,"22/05/2017 11:31:48","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,wfaoQh
+136076,"22/05/2017 11:31:48","-1:00","mitchf","Alarm","EMERGENCY  Off",,QP33h2
+136077,"22/05/2017 11:31:48","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,zPB2TA
+136078,"22/05/2017 11:32:46","-1:00","mitchf","Alarm","COVER OPEN 5  On",,rxdcso
+136079,"22/05/2017 11:32:46","-1:00","mitchf","Alarm","EMERGENCY  On",,y1wOnL
+136080,"22/05/2017 11:32:46","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,XE3SKT
+136081,"22/05/2017 11:33:14","-1:00","mitchf","Alarm","COVER OPEN 6  On",,kbHYJY
+136082,"22/05/2017 11:33:15","-1:00","mitchf","Alarm","COVER OPEN 7  On",,+Tz2XL
+136083,"22/05/2017 11:54:20","-1:00","mitchf","Alarm","COVER OPEN 5  Off",,RMf1Vz
+136084,"22/05/2017 11:54:20","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,W9hpQZ
+136085,"22/05/2017 11:54:20","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,XTEhHk
+136086,"22/05/2017 11:54:20","-1:00","mitchf","Alarm","EMERGENCY  Off",,FZV7Sm
+136087,"22/05/2017 11:54:20","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,9d6MUK
+136088,"22/05/2017 11:56:07","-1:00","mitchf","Alarm","EMERGENCY  On",,ZB7WGm
+136089,"22/05/2017 11:56:07","-1:00","mitchf","Alarm","COVER OPEN 7  On",,O7ncLZ
+136090,"22/05/2017 11:56:07","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,Hgg7NI
+136091,"22/05/2017 11:56:20","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,BHNJmX
+136092,"22/05/2017 11:56:20","-1:00","mitchf","Alarm","EMERGENCY  Off",,y2Nu6A
+136093,"22/05/2017 11:56:21","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,BxfnPb
+136094,"22/05/2017 11:56:35","-1:00","mitchf","Alarm","EMERGENCY  On",,ibYQDM
+136095,"22/05/2017 11:56:35","-1:00","mitchf","Alarm","COVER OPEN 7  On",,+2JEcN
+136096,"22/05/2017 11:56:35","-1:00","mitchf","Alarm","COVER OPEN 6  On",,wrS5cg
+136097,"22/05/2017 11:56:35","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,BK1WbL
+136098,"22/05/2017 11:56:59","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,guIMAm
+136099,"22/05/2017 11:56:59","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,oo2Ha7
+136100,"22/05/2017 11:56:59","-1:00","mitchf","Alarm","EMERGENCY  Off",,6tMwSN
+136101,"22/05/2017 11:56:59","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,532s9u
+136102,"22/05/2017 12:06:57","-1:00","mitchf","Alarm","EMERGENCY  On",,NhtT96
+136103,"22/05/2017 12:06:57","-1:00","mitchf","Alarm","COVER OPEN 5  On",,FnUzYv
+136104,"22/05/2017 12:06:57","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,oViXGI
+136105,"22/05/2017 12:06:59","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,SFbBNw
+136106,"22/05/2017 12:07:06","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,+KqQvn
+136107,"22/05/2017 12:07:08","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,Grzjgr
+136108,"22/05/2017 12:07:09","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,+csKRM
+136109,"22/05/2017 12:07:10","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,tU575E
+136110,"22/05/2017 12:07:10","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,YTxHx0
+136111,"22/05/2017 12:08:00","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,RyvRtc
+136112,"22/05/2017 12:08:00","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,RBkf2P
+136113,"22/05/2017 12:08:01","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,5/NIKE
+136114,"22/05/2017 12:10:16","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,Fj4Nmh
+136115,"22/05/2017 12:10:25","-1:00","mitchf","Alarm","COVER OPEN 7  On",,GoPcbr
+136116,"22/05/2017 12:10:27","-1:00","mitchf","Alarm","COVER OPEN 6  On",,ZAqJTl
+136117,"22/05/2017 12:11:35","-1:00","mitchf","Alarm","COVER OPEN 5  Off",,PYk6jT
+136118,"22/05/2017 12:11:35","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,hZqQr1
+136119,"22/05/2017 12:11:35","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,QxxVIa
+136120,"22/05/2017 12:11:36","-1:00","mitchf","Alarm","EMERGENCY  Off",,i2Aahl
+136121,"22/05/2017 12:11:36","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,e+KfPs
+136122,"22/05/2017 12:11:50","-1:00","mitchf","Alarm","COVER OPEN 6  On",,T3iz0l
+136123,"22/05/2017 12:11:50","-1:00","mitchf","Alarm","EMERGENCY  On",,6PFIYh
+136124,"22/05/2017 12:11:50","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,Qh6kO6
+136125,"22/05/2017 12:11:51","-1:00","mitchf","Alarm","COVER OPEN 7  On",,KZla1u
+136126,"22/05/2017 12:13:10","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,/dfoi/
+136127,"22/05/2017 12:13:11","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,YANeZ2
+136128,"22/05/2017 12:13:25","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,DuAGke
+136129,"22/05/2017 12:13:25","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,UmVFXP
+136130,"22/05/2017 12:13:25","-1:00","mitchf","Alarm","EMERGENCY  Off",,hYh5Dx
+136131,"22/05/2017 12:13:25","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,ruTS+l
+136132,"22/05/2017 12:14:04","-1:00","mitchf","Alarm","EMERGENCY  On",,qNm+Bh
+136133,"22/05/2017 12:14:04","-1:00","mitchf","Alarm","COVER OPEN 5  On",,iQW6ml
+136134,"22/05/2017 12:14:04","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,28em0B
+136135,"22/05/2017 12:14:28","-1:00","mitchf","Alarm","COVER OPEN 7  On",,EG/Qi4
+136136,"22/05/2017 12:14:36","-1:00","mitchf","Alarm","COVER OPEN 5  Off",,ZwlvIv
+136137,"22/05/2017 12:14:36","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,/w9322
+136138,"22/05/2017 12:14:36","-1:00","mitchf","Alarm","EMERGENCY  Off",,v8y6JM
+136139,"22/05/2017 12:14:36","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,hps42b
+136140,"22/05/2017 12:14:49","-1:00","mitchf","Alarm","EMERGENCY  On",,om4sML
+136141,"22/05/2017 12:14:49","-1:00","mitchf","Alarm","COVER OPEN 6  On",,R5584Q
+136142,"22/05/2017 12:14:49","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,LnsLq/
+136143,"22/05/2017 12:14:59","-1:00","mitchf","Alarm","COVER OPEN 7  On",,Fs9RrL
+136144,"22/05/2017 12:15:40","-1:00","mitchf","Alarm","COVER OPEN 6  Off",,O4BLB3
+136145,"22/05/2017 12:15:40","-1:00","mitchf","Alarm","COVER OPEN 7  Off",,KTFP1R
+136146,"22/05/2017 12:15:40","-1:00","mitchf","Alarm","EMERGENCY  Off",,YiEisV
+136147,"22/05/2017 12:15:40","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  Off",,BWpdJh
+136148,"22/05/2017 12:16:11","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,FZYAVG
+136149,"22/05/2017 12:16:13","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,CsbESL
+136150,"22/05/2017 12:20:12","-1:00","mitchf","Alarm","EMERGENCY  On",,yCMb9z
+136151,"22/05/2017 12:20:12","-1:00","mitchf","Alarm","COVER OPEN 6  On",,WvqiFh
+136152,"22/05/2017 12:20:12","-1:00","mitchf","Alarm","ALARM INFEED BELT MOTOR  On",,Lq6U8p
+136153,"22/05/2017 12:20:16","-1:00","mitchf","Alarm","COVER OPEN 5  On",,dyDFrp
+136154,"22/05/2017 12:20:34","-1:00","mitchf","Alarm","COVER OPEN 7  On",,YESltp
+136155,"22/05/2017 12:20:56","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,/bHvGZ
+136156,"22/05/2017 12:21:01","-1:00","mitchf","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,AK+tBt
+136157,"22/05/2017 13:22:51","-1:00","System","User administration","User logged off.",,76Lhjp
+136158,"22/05/2017 13:22:51","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,+IbbHF
+136159,"22/05/2017 14:17:17","-1:00",,"Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,yOyevU
+136160,"22/05/2017 14:17:17","-1:00",,"Warning","WARNING REJECTED TRAY ALMOST FULL  On",,DGNKFp
+136161,"22/05/2017 14:17:17","-1:00",,"Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,4DIPdE
+136162,"22/05/2017 14:33:28","-1:00",,"Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,UL8Lw0
+136163,"22/05/2017 14:33:32","-1:00",,"Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,vV1cX+
+136164,"22/05/2017 14:33:32","-1:00",,"Alarm","ALARM MISSING LKD REJECTED TRAYS   On",,I6Ktxu
+136165,"22/05/2017 14:35:34","-1:00",,"Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,DrwPO9
+136166,"22/05/2017 14:35:36","-1:00",,"Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,wPu6Rx
+136167,"22/05/2017 14:35:36","-1:00",,"Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   On",,Dowo+o
+136168,"22/05/2017 14:38:49","-1:00",,"Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,vzyd3I
+136169,"22/05/2017 14:38:51","-1:00",,"Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,IZCMQS
+136170,"22/05/2017 14:39:34","-1:00","System","User administration","User 'robj' logged on with group 'Operator'.",,fX26Xd
+136171,"22/05/2017 14:39:36","-1:00","robj","Alarm: 57","Acknowledgment of 57 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,sNp50+
+136172,"22/05/2017 14:39:36","-1:00","robj","Alarm:","EMERGENCY  Acknowledgment",,1GXncF
+136173,"22/05/2017 14:39:36","-1:00","robj","Alarm:","COVER OPEN 6  Acknowledgment",,pLPfwG
+136174,"22/05/2017 14:39:36","-1:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,he8Llb
+136175,"22/05/2017 14:39:36","-1:00","robj","Alarm:","COVER OPEN 5  Acknowledgment",,l+ptZc
+136176,"22/05/2017 14:39:36","-1:00","robj","Alarm:","COVER OPEN 7  Acknowledgment",,Tf3+k7
+136177,"22/05/2017 14:39:36","-1:00","robj","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,2V5tPo
+136178,"22/05/2017 14:39:36","-1:00","robj","Alarm:","ALARM MISSING LKD REJECTED TRAYS   Acknowledgment",,fuEvll
+136179,"22/05/2017 14:39:36","-1:00","robj","Alarm:","ALARM MISSING ST0 TIP REJECTED TRAYS   Acknowledgment",,ol8COZ
+136180,"22/05/2017 14:39:37","-1:00","robj","Alarm","COVER OPEN 5  Off",,Kx99gP
+136181,"22/05/2017 14:39:37","-1:00","robj","Alarm","COVER OPEN 6  Off",,kolDSo
+136182,"22/05/2017 14:39:37","-1:00","robj","Alarm","COVER OPEN 7  Off",,Pzh13r
+136183,"22/05/2017 14:39:37","-1:00","robj","Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   Off",,NYxgOz
+136184,"22/05/2017 14:39:37","-1:00","robj","Alarm","ALARM MISSING LKD REJECTED TRAYS   Off",,XlgHBp
+136185,"22/05/2017 14:39:37","-1:00","robj","Alarm","WARNING MISSING LOGIN OPERATION  Off",,u1ZAO+
+136186,"22/05/2017 14:39:37","-1:00","robj","Alarm","EMERGENCY  Off",,ebwbhA
+136187,"22/05/2017 14:39:37","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,Pe7w0q
+136188,"22/05/2017 14:39:56","-1:00","robj","Alarm","COVER OPEN 2  On",,u1FM8K
+136189,"22/05/2017 14:39:56","-1:00","robj","Alarm","EMERGENCY  On",,fs44Ky
+136190,"22/05/2017 14:39:56","-1:00","robj","Alarm","COVER OPEN 3  On",,r5KxF6
+136191,"22/05/2017 14:39:56","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,6Ch/1R
+136192,"22/05/2017 14:40:41","-1:00","robj","Alarm","COVER OPEN 7  On",,f7VKXk
+136193,"22/05/2017 14:40:47","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,/k5Ehw
+136194,"22/05/2017 14:40:48","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,Somm7i
+136195,"22/05/2017 14:43:50","-1:00","robj","Alarm","COVER OPEN 1  On",,Yr9+Bc
+136196,"22/05/2017 14:46:23","-1:00","robj","Alarm","COVER OPEN 5  On",,e1aS+8
+136197,"22/05/2017 14:46:36","-1:00","robj","Alarm","COVER OPEN 6  On",,SGoahP
+136198,"22/05/2017 15:38:52","-1:00","System","User administration","User logged off.",,5K9CeU
+136199,"22/05/2017 15:38:52","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,fV8Dp9
+136200,"22/05/2017 16:13:03","-1:00",,"Warning","WARNING UPS  On",,8AQzqf
+136201,"22/05/2017 16:13:03","-1:00",,"Warning","ALARM OZONE SENSOR  On",,qns8Vr
+136202,"22/05/2017 16:13:04","-1:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Gym2i2
+136203,"22/05/2017 16:13:04","-1:00",,"Warning","WARNING REJECTED TRAY ALMOST FULL  On",,EfJlPy
+136204,"22/05/2017 16:13:04","-1:00",,"Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,giuKsy
+136205,"22/05/2017 16:13:04","-1:00",,"Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,6iM2R3
+136206,"22/05/2017 16:13:04","-1:00",,"Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,vPLKBv
+136207,"22/05/2017 16:13:04","-1:00",,"Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  On",,gtu5aU
+136208,"22/05/2017 16:13:04","-1:00",,"Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,SsHsug
+136209,"22/05/2017 16:13:04","-1:00",,"Alarm","ALARM ROTATION MOTOR 1  On",,9dJQlz
+136210,"22/05/2017 16:13:04","-1:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,UPm07F
+136211,"22/05/2017 16:13:04","-1:00",,"Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   On",,Yvh7WO
+136212,"22/05/2017 16:13:04","-1:00",,"Alarm","ALARM MISSING LKD REJECTED TRAYS   On",,F3pL2L
+136213,"22/05/2017 16:13:04","-1:00",,"Alarm","Alarm profibus nodo 3 (encoder)  On",,gL74Rj
+136214,"23/05/2017 08:00:09","-1:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,5CQyjU
+0,"23/05/2017 08:00:12","-1:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,uqOXMT
+136215,"23/05/2017 08:00:13","-1:00","System","User administration","Password list imported successfully.",,FdmewD
+136216,"23/05/2017 08:00:13","-1:00","System","Application","Change to operating mode 'online'.",,Xs5Mc0
+0,"23/05/2017 08:00:21","-1:00","System","Logs","Log files closed.",,bl7YDe
+"$RT_COUNT$",950,kk14ge,,,,,kH9Ik8

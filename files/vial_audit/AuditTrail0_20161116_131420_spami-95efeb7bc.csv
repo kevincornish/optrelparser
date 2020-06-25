@@ -1,0 +1,459 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"15/11/2016 09:53:25","-1:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,R31ruV
+217207,"15/11/2016 09:53:25","-1:00","System","Logs","Exporting a log.",,1AvDMB
+217208,"15/11/2016 09:53:42","-1:00",,"Recipe","Loading recipe number 3 ( 50ml Production ) on the interface.",,QrI36E
+217209,"15/11/2016 09:53:42","-1:00",,"Recipe","Data trasfered to PLC",,KgzMD0
+217210,"15/11/2016 09:53:42","-1:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,9akele
+217211,"15/11/2016 09:53:42","-1:00",,"Alarm","ALARM ROTATION MOTOR  On",,Njt91x
+217212,"15/11/2016 09:53:42","-1:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,8eBS4d
+217213,"15/11/2016 09:53:42","-1:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,3ka1du
+217214,"15/11/2016 09:53:42","-1:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,IlEMp/
+217215,"15/11/2016 09:53:42","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,MTs/bq
+217216,"15/11/2016 09:53:42","-1:00",,"Warning","ALARM VACUUM SENSOR  On",,aEvaNV
+217217,"15/11/2016 09:53:42","-1:00",,"Warning","PVSI NOT READY  On",,Pdic3z
+217218,"15/11/2016 09:53:42","-1:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,Ay6no1
+217219,"15/11/2016 09:53:42","-1:00",,"Warning","PVSI NOT RUNNING   On",,ub3oMO
+217220,"15/11/2016 09:53:42","-1:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,iU1F61
+217221,"15/11/2016 09:53:42","-1:00",,"Alarm","EMERGENCY  On",,jSlqGZ
+217222,"15/11/2016 09:53:42","-1:00",,"Alarm","COVER OPEN 1  On",,bgR9dh
+217223,"15/11/2016 09:53:42","-1:00",,"Alarm","COVER OPEN 2  On",,bbJDLk
+217224,"15/11/2016 09:53:42","-1:00",,"Alarm","COVER OPEN 3  On",,8346es
+217225,"15/11/2016 09:53:42","-1:00",,"Alarm","COVER OPEN 4  On",,Q/dHXd
+217226,"15/11/2016 09:53:42","-1:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,Jx5h8p
+217227,"15/11/2016 09:53:42","-1:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,iwf7ar
+217228,"15/11/2016 09:53:46","-1:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,11a1dC
+217229,"15/11/2016 09:54:18","-1:00","System","User administration","User 'adamb' logged on with group 'Operator'.",,UFz88b
+217230,"15/11/2016 09:54:22","-1:00","adamb","Alarm","WARNING MISSING LOGIN OPERATION  Off",,Afh1cz
+217231,"15/11/2016 09:54:22","-1:00","adamb","Alarm","COVER OPEN 1  Off",,pmR5h6
+217232,"15/11/2016 09:54:22","-1:00","adamb","Alarm","COVER OPEN 2  Off",,Wb+m9L
+217233,"15/11/2016 09:54:22","-1:00","adamb","Alarm","COVER OPEN 3  Off",,FQ2Tdq
+217234,"15/11/2016 09:54:22","-1:00","adamb","Alarm","COVER OPEN 4  Off",,mraAmp
+217235,"15/11/2016 09:54:22","-1:00","adamb","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  Off",,4WoEsN
+217236,"15/11/2016 09:54:22","-1:00","adamb","Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,B+94Vs
+217237,"15/11/2016 09:54:31","-1:00","adamb","Warning","PVSI NOT RUNNING   Off",,gpkbqO
+217238,"15/11/2016 09:54:38","-1:00","adamb","Warning","PVSI NOT READY  Off",,F0EkJS
+217239,"15/11/2016 09:54:38","-1:00","adamb","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,dZbLRf
+217240,"15/11/2016 09:55:16","-1:00","adamb","Alarm: 252","Acknowledgment of 252 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,+AkI9v
+217241,"15/11/2016 09:55:16","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,Qkll91
+217242,"15/11/2016 09:55:16","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,E58m6y
+217243,"15/11/2016 09:55:16","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,mcoS3v
+217244,"15/11/2016 09:55:16","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,DOvFvd
+217245,"15/11/2016 09:55:16","-1:00","adamb","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,BDHT0b
+217246,"15/11/2016 09:55:16","-1:00","adamb","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,xuwwdm
+217247,"15/11/2016 09:55:16","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,1LvyMx
+217248,"15/11/2016 09:55:16","-1:00","adamb","Alarm:","COVER OPEN 1  Acknowledgment",,MF/vGw
+217249,"15/11/2016 09:55:16","-1:00","adamb","Alarm:","COVER OPEN 2  Acknowledgment",,gr0Vm+
+217250,"15/11/2016 09:55:16","-1:00","adamb","Alarm:","COVER OPEN 3  Acknowledgment",,Fsrk+x
+217251,"15/11/2016 09:55:16","-1:00","adamb","Alarm:","COVER OPEN 4  Acknowledgment",,U95VtU
+217252,"15/11/2016 09:55:16","-1:00","adamb","Alarm:","ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment",,OTiaXc
+217253,"15/11/2016 09:55:16","-1:00","adamb","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,n+XOTZ
+217254,"15/11/2016 09:55:18","-1:00","adamb","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ZRkJ4T
+217255,"15/11/2016 09:55:24","-1:00","adamb","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ajHG3N
+217256,"15/11/2016 09:55:25","-1:00","adamb","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Zf2jk8
+217257,"15/11/2016 09:55:25","-1:00","adamb","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,T3fVY1
+217258,"15/11/2016 09:55:25","-1:00","adamb","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,FZTDA7
+217259,"15/11/2016 09:55:42","-1:00","adamb","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,SlWtNP
+217260,"15/11/2016 09:55:42","-1:00","adamb","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Ky5NOG
+217261,"15/11/2016 09:55:43","-1:00","adamb","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ei59bi
+217262,"15/11/2016 09:55:43","-1:00","adamb","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,7Jvw99
+217263,"15/11/2016 09:55:44","-1:00","adamb","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Kchr9n
+217264,"15/11/2016 09:55:45","-1:00","adamb","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,g/d+lq
+217265,"15/11/2016 09:55:45","-1:00","adamb","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,OIWo8k
+217266,"15/11/2016 09:55:53","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,2BfG4x
+217267,"15/11/2016 09:55:53","-1:00","adamb","Alarm","EMERGENCY  Off",,n+gIus
+217268,"15/11/2016 09:55:55","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,1URVnb
+217269,"15/11/2016 09:55:56","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  On",,aQ6i9u
+217270,"15/11/2016 09:55:58","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,0vQz4G
+217271,"15/11/2016 09:55:58","-1:00","adamb","Alarm:","ALARM MISSING COMPRESSED AIR  Acknowledgment",,xixmot
+217272,"15/11/2016 09:55:58","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Y/VlVJ
+217273,"15/11/2016 09:55:59","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,MxPbIv
+217274,"15/11/2016 09:55:59","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Vc7tMK
+217275,"15/11/2016 09:55:59","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,i2AyOk
+217276,"15/11/2016 09:55:59","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,cI8CBs
+217277,"15/11/2016 09:55:59","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,baCUg/
+217278,"15/11/2016 09:56:00","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,S4NSxM
+217279,"15/11/2016 09:56:00","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,65NuMK
+217280,"15/11/2016 09:56:00","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,gnKGZ0
+217281,"15/11/2016 09:56:00","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,YGOM+X
+217282,"15/11/2016 09:56:06","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,nK7FFE
+217283,"15/11/2016 09:56:07","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,82NZJQ
+217284,"15/11/2016 09:56:07","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,0PeROj
+217285,"15/11/2016 09:56:07","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,rEODfS
+217286,"15/11/2016 09:56:21","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ai6m2r
+217287,"15/11/2016 09:56:28","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,QyGy0B
+217288,"15/11/2016 09:56:28","-1:00","adamb","Alarm","EMERGENCY  On",,ZIhgeB
+217289,"15/11/2016 09:56:28","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,VPewkM
+217290,"15/11/2016 09:56:28","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,2TknI5
+217291,"15/11/2016 09:56:28","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,YqSA4m
+217292,"15/11/2016 09:56:31","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  Off",,AjtVFL
+217293,"15/11/2016 09:56:31","-1:00","adamb","Alarm","EMERGENCY  Off",,IsWwS+
+217294,"15/11/2016 09:56:31","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,Ev+dHQ
+217295,"15/11/2016 09:56:31","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,sqbtX5
+217296,"15/11/2016 09:56:31","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,jOHjFs
+217297,"15/11/2016 09:56:31","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,J5OGmh
+217298,"15/11/2016 09:56:35","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  On",,bcrzWi
+217299,"15/11/2016 09:56:35","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,D7zgy5
+217300,"15/11/2016 09:56:35","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,B4xXvL
+217301,"15/11/2016 09:56:35","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,kJzVQq
+217302,"15/11/2016 09:56:35","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,1afkft
+217303,"15/11/2016 09:56:35","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,foyCag
+217304,"15/11/2016 09:56:35","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,FD89fM
+217305,"15/11/2016 09:56:35","-1:00","adamb","Alarm:","ALARM MISSING COMPRESSED AIR  Acknowledgment",,ZItRN9
+217306,"15/11/2016 09:56:36","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ZKOvwp
+217307,"15/11/2016 09:56:36","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,fRZeE6
+217308,"15/11/2016 09:56:36","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,R5OiBN
+217309,"15/11/2016 09:57:13","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,XeN3Mb
+217310,"15/11/2016 09:58:05","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,y6puqx
+217311,"15/11/2016 09:58:05","-1:00","adamb","Alarm","EMERGENCY  On",,R6uUBW
+217312,"15/11/2016 09:58:05","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,9lBvqG
+217313,"15/11/2016 09:58:05","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,xAYdeZ
+217314,"15/11/2016 09:58:05","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,tga95A
+217315,"15/11/2016 09:58:07","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  Off",,pF9E2x
+217316,"15/11/2016 09:58:08","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,jmqt1k
+217317,"15/11/2016 09:58:08","-1:00","adamb","Alarm","EMERGENCY  Off",,LqN1jU
+217318,"15/11/2016 09:58:08","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,AvY0D4
+217319,"15/11/2016 09:58:08","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,WRLohG
+217320,"15/11/2016 09:58:08","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,t0qrwy
+217321,"15/11/2016 09:58:09","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,66alP1
+217322,"15/11/2016 09:58:09","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,7jJrti
+217323,"15/11/2016 09:58:09","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,+FF+h0
+217324,"15/11/2016 09:58:09","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,Ag01a6
+217325,"15/11/2016 09:58:09","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,tV7lyv
+217326,"15/11/2016 09:58:09","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,FHFYxM
+217327,"15/11/2016 09:58:09","-1:00","adamb","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,bFY22K
+217328,"15/11/2016 09:58:09","-1:00","adamb","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,C7g5q/
+217329,"15/11/2016 09:58:11","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  On",,exFc1d
+217330,"15/11/2016 09:58:23","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  Off",,xPwAz3
+217331,"15/11/2016 09:58:23","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,LOUreL
+217332,"15/11/2016 09:58:23","-1:00","adamb","Alarm","EMERGENCY  On",,mPRCLK
+217333,"15/11/2016 09:58:23","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,bHBSiB
+217334,"15/11/2016 09:58:23","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,yRvTcm
+217335,"15/11/2016 09:58:23","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,M7FDhy
+217336,"15/11/2016 09:58:28","-1:00","adamb","Alarm","EMERGENCY  Off",,adIl6V
+217337,"15/11/2016 09:58:28","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,OKM+fB
+217338,"15/11/2016 09:58:29","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,t60LUh
+217339,"15/11/2016 09:58:29","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,0P+E/m
+217340,"15/11/2016 09:58:29","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,soSUKi
+217341,"15/11/2016 09:58:30","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,aBrsjA
+217342,"15/11/2016 09:58:30","-1:00","adamb","Alarm:","ALARM MISSING COMPRESSED AIR  Acknowledgment",,8VWutn
+217343,"15/11/2016 09:58:30","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,7E/dze
+217344,"15/11/2016 09:58:30","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,7d7XKx
+217345,"15/11/2016 09:58:30","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,PTUoMM
+217346,"15/11/2016 09:58:30","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,b854T7
+217347,"15/11/2016 09:58:30","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,f8s5CQ
+217348,"15/11/2016 09:58:32","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  On",,w33vMZ
+217349,"15/11/2016 10:01:34","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,B7rqSv
+217350,"15/11/2016 10:01:34","-1:00","adamb","Alarm:","ALARM MISSING COMPRESSED AIR  Acknowledgment",,csT2XT
+217351,"15/11/2016 10:01:36","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,lTmO11
+217352,"15/11/2016 10:01:36","-1:00","adamb","Alarm","EMERGENCY  On",,nLpV+H
+217353,"15/11/2016 10:01:37","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,SC9+hx
+217354,"15/11/2016 10:01:37","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,9S9Fbb
+217355,"15/11/2016 10:01:37","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,zqxpqg
+217356,"15/11/2016 10:01:40","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  Off",,/y/AUe
+217357,"15/11/2016 10:01:40","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,jdHzgc
+217358,"15/11/2016 10:01:40","-1:00","adamb","Alarm","EMERGENCY  Off",,bcY4wg
+217359,"15/11/2016 10:01:40","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,SpfIB3
+217360,"15/11/2016 10:01:40","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,4BTnmd
+217361,"15/11/2016 10:01:40","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,OwG6iz
+217362,"15/11/2016 10:01:43","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,u/l559
+217363,"15/11/2016 10:01:43","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,DTMnCH
+217364,"15/11/2016 10:01:43","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,U0+2Kq
+217365,"15/11/2016 10:01:43","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,sibbC+
+217366,"15/11/2016 10:01:43","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,OObO1p
+217367,"15/11/2016 10:01:43","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,22gxiW
+217368,"15/11/2016 10:01:44","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  On",,5b0UsQ
+217369,"15/11/2016 10:02:01","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,fFuoQE
+217370,"15/11/2016 10:02:01","-1:00","adamb","Alarm","EMERGENCY  On",,EwjFVp
+217371,"15/11/2016 10:02:02","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,xaNOMk
+217372,"15/11/2016 10:02:02","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,VFB2KG
+217373,"15/11/2016 10:02:02","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,f8E/S0
+217374,"15/11/2016 10:02:06","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  Off",,+QjnmP
+217375,"15/11/2016 10:02:06","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,gtoNqr
+217376,"15/11/2016 10:02:06","-1:00","adamb","Alarm","EMERGENCY  Off",,MX7DhD
+217377,"15/11/2016 10:02:07","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,juw6UA
+217378,"15/11/2016 10:02:07","-1:00","adamb","Alarm:","ALARM MISSING COMPRESSED AIR  Acknowledgment",,tFcEkN
+217379,"15/11/2016 10:02:07","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,p4KEAE
+217380,"15/11/2016 10:02:07","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,fMrJF0
+217381,"15/11/2016 10:02:07","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,95j4Fi
+217382,"15/11/2016 10:02:07","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,J63SFx
+217383,"15/11/2016 10:02:07","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,q6cfd8
+217384,"15/11/2016 10:02:08","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,QVKW2o
+217385,"15/11/2016 10:02:09","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,is5zB4
+217386,"15/11/2016 10:02:10","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  On",,dJKulQ
+217387,"15/11/2016 10:02:11","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,OW2+tU
+217388,"15/11/2016 10:02:11","-1:00","adamb","Alarm:","ALARM MISSING COMPRESSED AIR  Acknowledgment",,YK0az7
+217389,"15/11/2016 10:02:11","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,crtvP2
+217390,"15/11/2016 10:02:11","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,fy93Ns
+217391,"15/11/2016 10:02:12","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,aJAXbG
+217392,"15/11/2016 10:02:12","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,68AqEb
+217393,"15/11/2016 10:02:12","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,xvfA6H
+217394,"15/11/2016 10:02:12","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,H9rvcV
+217395,"15/11/2016 10:14:22","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,TIYvBQ
+217396,"15/11/2016 10:14:22","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,3oOmvN
+217397,"15/11/2016 10:14:22","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,/1/Vpj
+217398,"15/11/2016 10:14:24","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ieSKzc
+217399,"15/11/2016 10:14:25","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,aswEIH
+217400,"15/11/2016 10:14:25","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,VkPqzq
+217401,"15/11/2016 10:14:26","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,RKW74C
+217402,"15/11/2016 10:14:29","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,BZjK3G
+217403,"15/11/2016 10:14:30","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,MBmysD
+217404,"15/11/2016 10:14:30","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,26oKaz
+217405,"15/11/2016 10:15:09","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,dgmqZ/
+217406,"15/11/2016 10:15:10","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,NKzFYd
+217407,"15/11/2016 10:15:10","-1:00","adamb","Alarm","EMERGENCY  On",,kfmLnC
+217408,"15/11/2016 10:15:11","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,cyuF+J
+217409,"15/11/2016 10:15:11","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,khf9gT
+217410,"15/11/2016 10:15:11","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,LvKzA9
+217411,"15/11/2016 10:15:14","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  Off",,nv5W1F
+217412,"15/11/2016 10:15:14","-1:00","adamb","Alarm","EMERGENCY  Off",,TUNTxJ
+217413,"15/11/2016 10:15:14","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,ESEJnQ
+217414,"15/11/2016 10:15:14","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,RP7XF2
+217415,"15/11/2016 10:15:14","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,DJOoqM
+217416,"15/11/2016 10:15:14","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,el/Ee9
+217417,"15/11/2016 10:15:17","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  On",,z5p9ua
+217418,"15/11/2016 10:15:19","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,tP0qV0
+217419,"15/11/2016 10:15:19","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,K0OCCD
+217420,"15/11/2016 10:15:19","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,hxnVCq
+217421,"15/11/2016 10:15:19","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,1+eocE
+217422,"15/11/2016 10:15:19","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,GiSFpw
+217423,"15/11/2016 10:15:19","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,oz3BI5
+217424,"15/11/2016 10:15:19","-1:00","adamb","Alarm:","ALARM MISSING COMPRESSED AIR  Acknowledgment",,67WX8z
+217425,"15/11/2016 10:15:19","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,RI/gxw
+217426,"15/11/2016 10:15:20","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Xu8K7A
+217427,"15/11/2016 10:15:20","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,HQOwLe
+217428,"15/11/2016 10:16:00","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,0UeqrN
+217429,"15/11/2016 10:16:00","-1:00","adamb","Alarm","EMERGENCY  On",,oQageZ
+217430,"15/11/2016 10:16:00","-1:00","adamb","Alarm","COVER OPEN 3  On",,r89dTH
+217431,"15/11/2016 10:16:01","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,g5J6k9
+217432,"15/11/2016 10:16:01","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,yDqBGB
+217433,"15/11/2016 10:16:01","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,kiZWY0
+217434,"15/11/2016 10:16:10","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  Off",,F2vRDS
+217435,"15/11/2016 10:16:10","-1:00","adamb","Alarm","COVER OPEN 3  Off",,KDSYfZ
+217436,"15/11/2016 10:16:10","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,VXFGag
+217437,"15/11/2016 10:16:10","-1:00","adamb","Alarm","EMERGENCY  Off",,j85C3I
+217438,"15/11/2016 10:16:13","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  On",,Sa1l4i
+217439,"15/11/2016 10:16:14","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,u9Bb5m
+217440,"15/11/2016 10:16:14","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,LSyNAS
+217441,"15/11/2016 10:16:14","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,vgUCSY
+217442,"15/11/2016 10:16:14","-1:00","adamb","Alarm:","COVER OPEN 3  Acknowledgment",,LCeRir
+217443,"15/11/2016 10:16:14","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,5BO7/Y
+217444,"15/11/2016 10:16:14","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,Sz4JNT
+217445,"15/11/2016 10:16:14","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,trtrIf
+217446,"15/11/2016 10:16:14","-1:00","adamb","Alarm:","ALARM MISSING COMPRESSED AIR  Acknowledgment",,2sNE3a
+217447,"15/11/2016 10:16:14","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,FsDyEJ
+217448,"15/11/2016 10:16:14","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Ecckms
+217449,"15/11/2016 10:16:15","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,rLmb8m
+217450,"15/11/2016 10:16:15","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ruDt1d
+217451,"15/11/2016 10:16:15","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,hC/KrX
+217452,"15/11/2016 10:16:15","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,We6w/I
+217453,"15/11/2016 10:16:16","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,foUTVV
+217454,"15/11/2016 10:16:16","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,0B6Kuv
+217455,"15/11/2016 10:16:16","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,0oPrs2
+217456,"15/11/2016 10:16:16","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,WfJeuL
+217457,"15/11/2016 10:16:17","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,AhkMgq
+217458,"15/11/2016 10:16:17","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Gxp1v4
+217459,"15/11/2016 10:16:17","-1:00","adamb","Alarm: 1018","Acknowledgment of 1018 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,4uiyqo
+217460,"15/11/2016 10:16:54","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  Off",,tOINpq
+217461,"15/11/2016 10:17:21","-1:00","adamb","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,xmYiz2
+217462,"15/11/2016 10:17:22","-1:00","adamb","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,9p4HQn
+217463,"15/11/2016 10:17:22","-1:00","adamb","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,m9ereY
+217464,"15/11/2016 10:17:28","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,VB56Dx
+217465,"15/11/2016 10:17:28","-1:00","adamb","Alarm","EMERGENCY  On",,YRu6dB
+217466,"15/11/2016 10:17:28","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,7NgK8H
+217467,"15/11/2016 10:17:28","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,QDPvOk
+217468,"15/11/2016 10:17:28","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,OH9Zhl
+217469,"15/11/2016 10:17:32","-1:00","adamb","Alarm","EMERGENCY  Off",,gfQ21/
+217470,"15/11/2016 10:17:32","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,Khi6Ol
+217471,"15/11/2016 10:17:32","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,xnUBT3
+217472,"15/11/2016 10:17:32","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,skcTpG
+217473,"15/11/2016 10:17:32","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,0EUbAK
+217474,"15/11/2016 10:17:37","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,YOfD53
+217475,"15/11/2016 10:17:37","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,j+KZFb
+217476,"15/11/2016 10:17:37","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,FO2TX0
+217477,"15/11/2016 10:17:37","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,Ybcw5x
+217478,"15/11/2016 10:17:37","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,izpIB/
+217479,"15/11/2016 10:17:37","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,UxNc/e
+217480,"15/11/2016 10:17:49","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  On",,iO9Pgi
+217481,"15/11/2016 10:18:17","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  Off",,zJtdAu
+217482,"15/11/2016 10:18:17","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,tpOwi/
+217483,"15/11/2016 10:18:17","-1:00","adamb","Alarm","EMERGENCY  On",,2JCiP5
+217484,"15/11/2016 10:18:18","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,Y1VKbz
+217485,"15/11/2016 10:18:18","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,/nzXbE
+217486,"15/11/2016 10:18:18","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,eWoSX5
+217487,"15/11/2016 10:18:22","-1:00","adamb","Alarm","EMERGENCY  Off",,1VZEEp
+217488,"15/11/2016 10:18:22","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,XFora3
+217489,"15/11/2016 10:18:22","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,qCre/E
+217490,"15/11/2016 10:18:22","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,yinzUD
+217491,"15/11/2016 10:18:22","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,PruK4j
+217492,"15/11/2016 10:18:25","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,I0y427
+217493,"15/11/2016 10:18:25","-1:00","adamb","Alarm:","ALARM MISSING COMPRESSED AIR  Acknowledgment",,XzwYk5
+217494,"15/11/2016 10:18:25","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,zwbHvB
+217495,"15/11/2016 10:18:25","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,r6pwMK
+217496,"15/11/2016 10:18:25","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,WKY6YG
+217497,"15/11/2016 10:18:25","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,m17mFM
+217498,"15/11/2016 10:18:25","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,188FsS
+217499,"15/11/2016 10:21:23","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  On",,Vn1bLV
+217500,"15/11/2016 10:23:15","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,bDN1XG
+217501,"15/11/2016 10:23:15","-1:00","adamb","Alarm","EMERGENCY  On",,SMO94t
+217502,"15/11/2016 10:23:15","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,d16/pV
+217503,"15/11/2016 10:23:15","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,n3vcLV
+217504,"15/11/2016 10:23:15","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,iKvONa
+217505,"15/11/2016 10:38:09","-1:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  Off",,hSHRBZ
+217506,"15/11/2016 10:38:09","-1:00","adamb","Warning","ALARM VACUUM SENSOR  Off",,ZQNRvL
+217507,"15/11/2016 10:38:13","-1:00","adamb","Alarm","EMERGENCY  Off",,9ONllb
+217508,"15/11/2016 10:38:13","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,Bj7ZQV
+217509,"15/11/2016 10:38:15","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,3lUR+B
+217510,"15/11/2016 10:38:15","-1:00","adamb","Alarm:","ALARM MISSING COMPRESSED AIR  Acknowledgment",,q3yr/D
+217511,"15/11/2016 10:38:15","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,mpz8j2
+217512,"15/11/2016 10:38:15","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,JWAOZ7
+217513,"15/11/2016 10:38:15","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,06nlF6
+217514,"15/11/2016 10:38:15","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,gdLAF4
+217515,"15/11/2016 10:38:15","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,3VKkhK
+217516,"15/11/2016 10:38:15","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,rGV5cU
+217517,"15/11/2016 10:38:18","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,DR8aKB
+217518,"15/11/2016 10:38:18","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,IJEuYA
+217519,"15/11/2016 10:38:18","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,mH75ZK
+217520,"15/11/2016 10:38:35","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,cqMGhN
+217521,"15/11/2016 10:38:35","-1:00","adamb","Alarm","EMERGENCY  On",,K84irN
+217522,"15/11/2016 10:38:35","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,O4t2O3
+217523,"15/11/2016 10:38:35","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,yBHIqj
+217524,"15/11/2016 10:38:35","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,z0QG+e
+217525,"15/11/2016 10:38:54","-1:00","adamb","Warning","ALARM VACUUM SENSOR  On",,Pr/P18
+217526,"15/11/2016 10:39:07","-1:00","adamb","Alarm","EMERGENCY  Off",,X98yQU
+217527,"15/11/2016 10:39:07","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,vDyS+H
+217528,"15/11/2016 10:39:09","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,YPUBhF
+217529,"15/11/2016 10:39:09","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,XDP0Cp
+217530,"15/11/2016 10:39:09","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,85sgPj
+217531,"15/11/2016 10:39:09","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,pg9dCC
+217532,"15/11/2016 10:39:09","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,aWFCxZ
+217533,"15/11/2016 10:39:09","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,r6cdzC
+217534,"15/11/2016 10:39:11","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,tZzuFg
+217535,"15/11/2016 10:39:12","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,uHMGLZ
+217536,"15/11/2016 10:39:12","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,tFVYiq
+217537,"15/11/2016 10:39:12","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,/ajTtF
+217538,"15/11/2016 10:39:14","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,OIiETM
+217539,"15/11/2016 10:39:14","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,zqCEoW
+217540,"15/11/2016 10:39:14","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,SWr46h
+217541,"15/11/2016 10:39:14","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,K3uPLr
+217542,"15/11/2016 10:39:14","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,GcWUjd
+217543,"15/11/2016 10:39:22","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Bj2i7e
+217544,"15/11/2016 10:39:22","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,bi3NcQ
+217545,"15/11/2016 10:39:23","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,1OKTfo
+217546,"15/11/2016 10:40:34","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,ikjp6A
+217547,"15/11/2016 10:40:34","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,v1RZv7
+217548,"15/11/2016 10:40:34","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,ET0liB
+217549,"15/11/2016 10:40:34","-1:00","adamb","Warning","ALARM VACUUM SENSOR  Off",,wzgH+1
+217550,"15/11/2016 10:40:40","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,33JjQC
+217551,"15/11/2016 10:40:40","-1:00","adamb","Alarm","EMERGENCY  On",,j0Sum5
+217552,"15/11/2016 10:40:40","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,UMS+Zn
+217553,"15/11/2016 10:40:40","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,t1zDE5
+217554,"15/11/2016 10:40:40","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,fEMx+J
+217555,"15/11/2016 10:41:04","-1:00","adamb","Warning","ALARM VACUUM SENSOR  On",,xI29Xf
+217556,"15/11/2016 10:52:47","-1:00","adamb","Warning","ALARM VACUUM SENSOR  Off",,yQv73H
+217557,"15/11/2016 10:52:47","-1:00","adamb","Alarm","EMERGENCY  Off",,7X39jn
+217558,"15/11/2016 10:52:47","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,4dgISC
+217559,"15/11/2016 10:52:49","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Z2T81a
+217560,"15/11/2016 10:52:49","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,pciwpa
+217561,"15/11/2016 10:52:49","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,3PHm1L
+217562,"15/11/2016 10:52:49","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,z7lJrP
+217563,"15/11/2016 10:52:49","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,rL6og9
+217564,"15/11/2016 10:52:49","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,nbz2Rc
+217565,"15/11/2016 10:52:50","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,PyGQpa
+217566,"15/11/2016 10:52:51","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,IwOpdL
+217567,"15/11/2016 10:52:52","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,36im1n
+217568,"15/11/2016 10:52:52","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,PysPlI
+217569,"15/11/2016 10:52:52","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,ldLtWV
+217570,"15/11/2016 10:52:52","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,XJml2r
+217571,"15/11/2016 10:52:52","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,MaYCC3
+217572,"15/11/2016 10:58:37","-1:00","adamb","Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,ad2OUE
+217573,"15/11/2016 10:58:38","-1:00","adamb","Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,kJp0N0
+217574,"15/11/2016 11:00:22","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,KtmVgU
+217575,"15/11/2016 11:00:22","-1:00","adamb","Alarm","EMERGENCY  On",,XuCFJE
+217576,"15/11/2016 11:00:22","-1:00","adamb","Alarm","COVER OPEN 3  On",,ckM6+w
+217577,"15/11/2016 11:00:22","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,W96VT8
+217578,"15/11/2016 11:00:22","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,fvWSQp
+217579,"15/11/2016 11:00:22","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,RsyJ5e
+217580,"15/11/2016 11:00:52","-1:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,PPf2eY
+217581,"15/11/2016 11:01:17","-1:00","adamb","Alarm","COVER OPEN 3  Off",,78WC8Y
+217582,"15/11/2016 11:01:17","-1:00","adamb","Alarm","EMERGENCY  Off",,rGXGUD
+217583,"15/11/2016 11:01:17","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,93yKzK
+217584,"15/11/2016 11:01:19","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,TQ9Vkw
+217585,"15/11/2016 11:01:19","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,ErVBac
+217586,"15/11/2016 11:01:19","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,e6Q48j
+217587,"15/11/2016 11:01:29","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,CyDJ6j
+217588,"15/11/2016 11:01:29","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,dn27Mk
+217589,"15/11/2016 11:01:29","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,wSUKoQ
+217590,"15/11/2016 11:01:29","-1:00","adamb","Alarm:","COVER OPEN 3  Acknowledgment",,ZqE09e
+217591,"15/11/2016 11:01:29","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,IMqlMa
+217592,"15/11/2016 11:01:29","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,BhSnp/
+217593,"15/11/2016 11:01:29","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,g+TR/j
+217594,"15/11/2016 11:01:41","-1:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,CTTG35
+217595,"15/11/2016 11:05:33","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,fJmw2B
+217596,"15/11/2016 11:05:33","-1:00","adamb","Alarm","EMERGENCY  On",,15U50U
+217597,"15/11/2016 11:05:33","-1:00","adamb","Alarm","COVER OPEN 3  On",,1wx4eQ
+217598,"15/11/2016 11:05:33","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,msWEuk
+217599,"15/11/2016 11:05:33","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,mODj0k
+217600,"15/11/2016 11:05:33","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,lFcwnG
+217601,"15/11/2016 11:05:34","-1:00","adamb","Alarm","COVER OPEN 4  On",,opkJXG
+217602,"15/11/2016 11:08:49","-1:00","adamb","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,+gdcmw
+217603,"15/11/2016 11:08:49","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,EPd9nB
+217604,"15/11/2016 11:08:49","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,mlBBi/
+217605,"15/11/2016 11:08:49","-1:00","adamb","Alarm:","COVER OPEN 3  Acknowledgment",,KzgBne
+217606,"15/11/2016 11:08:49","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,8v6Yln
+217607,"15/11/2016 11:08:49","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,++x+cp
+217608,"15/11/2016 11:08:49","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,t2slMy
+217609,"15/11/2016 11:08:49","-1:00","adamb","Alarm:","COVER OPEN 4  Acknowledgment",,9uS5sc
+217610,"15/11/2016 11:08:50","-1:00","adamb","Alarm","COVER OPEN 4  Off",,eHK8hT
+217611,"15/11/2016 11:09:37","-1:00","adamb","Alarm","COVER OPEN 3  Off",,qJV610
+217612,"15/11/2016 11:09:38","-1:00","adamb","Alarm","EMERGENCY  Off",,AOxad9
+217613,"15/11/2016 11:09:38","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,CKS1QA
+217614,"15/11/2016 11:09:39","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,IfmpeD
+217615,"15/11/2016 11:09:39","-1:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,hEwfhj
+217616,"15/11/2016 11:09:39","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,U/EqXt
+217617,"15/11/2016 11:09:39","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,tcBWEN
+217618,"15/11/2016 11:09:39","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,swVq+r
+217619,"15/11/2016 11:09:39","-1:00","adamb","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,19PCOB
+217620,"15/11/2016 11:11:20","-1:00","adamb","Alarm","COVER OPEN 3  On",,93pw3Z
+217621,"15/11/2016 11:11:20","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,rBTfHb
+217622,"15/11/2016 11:11:20","-1:00","adamb","Alarm","EMERGENCY  On",,qAZkvB
+217623,"15/11/2016 11:11:21","-1:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,JCic9f
+217624,"15/11/2016 11:11:21","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,uVc9TW
+217625,"15/11/2016 11:11:21","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,w5Bkxh
+217626,"15/11/2016 11:11:52","-1:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,y07sge
+217627,"15/11/2016 11:12:46","-1:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,6aakUj
+217628,"15/11/2016 12:08:40","-1:00","System","User administration","User logged off.",,kxXMXe
+217629,"15/11/2016 12:08:40","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,e/0q0/
+217630,"15/11/2016 15:18:27","-1:00",,"Alarm","COVER OPEN 3  Off",,BFQwws
+217631,"15/11/2016 15:18:27","-1:00",,"Alarm","EMERGENCY  Off",,DEo2bJ
+217632,"15/11/2016 15:18:27","-1:00",,"Alarm","ALARM INFEED BELT MOTOR  Off",,SQls54
+217633,"15/11/2016 15:18:29","-1:00",,"Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,JmcNdM
+217634,"15/11/2016 15:18:29","-1:00",,"Alarm:","COVER OPEN 3  Acknowledgment",,vuH9QD
+217635,"15/11/2016 15:18:29","-1:00",,"Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,uysRY/
+217636,"15/11/2016 15:18:29","-1:00",,"Alarm:","EMERGENCY  Acknowledgment",,yzjUg3
+217637,"15/11/2016 15:18:29","-1:00",,"Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,DxVegW
+217638,"15/11/2016 15:18:29","-1:00",,"Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,vi2cCx
+217639,"15/11/2016 15:18:29","-1:00",,"Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,7qYI1r
+217640,"15/11/2016 15:18:29","-1:00",,"Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,JYaDmn
+217641,"15/11/2016 15:18:30","-1:00",,"Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,y9vh3W
+217642,"15/11/2016 15:18:31","-1:00",,"Alarm","ALARM ROTATION MOTOR  Off",,mi31y8
+217643,"15/11/2016 15:18:31","-1:00",,"Alarm","ALARM ROTATION MOTOR 2  Off",,LfPu+O
+217644,"15/11/2016 15:18:31","-1:00",,"Alarm","ALARM ROTATION MOTOR 3  Off",,W94wOS
+217645,"15/11/2016 15:18:58","-1:00",,"Alarm","ALARM ROTATION MOTOR  On",,OcJfqw
+217646,"15/11/2016 15:18:58","-1:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,YMIv3k
+217647,"15/11/2016 15:18:58","-1:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,RiyiR+
+217648,"15/11/2016 15:18:58","-1:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,jL1Agy
+217649,"15/11/2016 15:18:58","-1:00",,"Alarm","ALARM TURRET MOTOR NOT READY  On",,7kiDWb
+217650,"15/11/2016 15:18:58","-1:00",,"Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,4eO0D5
+217651,"15/11/2016 15:18:58","-1:00",,"Warning","WARNING UPS  On",,ITpVB6
+217652,"15/11/2016 15:18:58","-1:00",,"Warning","ALARM VACUUM SENSOR  On",,idLcyQ
+217653,"15/11/2016 15:19:00","-1:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,VDonWj
+217654,"15/11/2016 15:19:00","-1:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,FBg9aQ
+217655,"15/11/2016 15:19:00","-1:00",,"Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,Eb6FzT
+217656,"15/11/2016 15:19:00","-1:00",,"Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,q6hoPb
+217657,"15/11/2016 15:19:00","-1:00",,"Alarm","EMERGENCY  On",,7M9mZh
+217658,"16/11/2016 14:14:19","-1:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,3fWT9a
+0,"16/11/2016 14:14:19","-1:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,YPSuEn
+217659,"16/11/2016 14:14:19","-1:00","System","Application","Change to operating mode 'online'.",,o/baIs
+217660,"16/11/2016 14:14:19","-1:00","System","User administration","Password list imported successfully.",,kkMeiD
+0,"16/11/2016 14:14:20","-1:00","System","Logs","Log files closed.",,X/yKOS
+"$RT_COUNT$",458,kk14ge,,,,,tlD3a+

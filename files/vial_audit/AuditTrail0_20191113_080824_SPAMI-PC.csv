@@ -1,0 +1,849 @@
+"RecordID";"TimeStamp";"DeltaToUTC";"UserID";"ObjectID";"Description";"Comment";"Checksum"
+0;"12/11/2019 11:47:53";"+0:00";"System";"Application";"New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3";;bt3+Bk
+329879;"12/11/2019 11:47:53";"+0:00";"System";"Logs";"Exporting a log.";;WPAoFS
+329880;"12/11/2019 11:48:01";"+0:00";;"Recipe";"Loading recipe number 4 ( 100ml Production ) on the interface.";;cPTI2v
+329881;"12/11/2019 11:48:01";"+0:00";;"Recipe";"Data trasfered to PLC";;yBBUQG
+329882;"12/11/2019 11:48:01";"+0:00";;"Warning";"ALARM VACUUM SENSOR  On";;nChi/K
+329883;"12/11/2019 11:48:01";"+0:00";;"Warning";"PVSI NOT READY  On";;oipSCT
+329884;"12/11/2019 11:48:01";"+0:00";;"Warning";"PVSI AND WINCC PRODUCT DIFFERENT  On";;/YP1Z8
+329885;"12/11/2019 11:48:01";"+0:00";;"Warning";"WARNING EMPTY PROGRAM ACTIVATED  On";;RYAM13
+329886;"12/11/2019 11:48:01";"+0:00";;"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;4qYZYX
+329887;"12/11/2019 11:48:01";"+0:00";;"Alarm";"EMERGENCY  On";;XCSK9h
+329888;"12/11/2019 11:48:01";"+0:00";;"Alarm";"ALARM PROFIBUS NODE 3 (ENCODER)  On";;4GHYOf
+329889;"12/11/2019 11:48:01";"+0:00";;"Alarm";"ALARM PROFIBUS NODE 4 (PC)  On";;RmvI6P
+329890;"12/11/2019 11:48:01";"+0:00";;"Alarm";"ALARM INFEED BELT MOTOR  On";;TmVsnW
+329891;"12/11/2019 11:48:01";"+0:00";;"Alarm";"ALARM ROTATION MOTOR  On";;kxaZsT
+329892;"12/11/2019 11:48:01";"+0:00";;"Alarm";"ALARM ROTATION MOTOR 2  On";;o//wA1
+329893;"12/11/2019 11:48:01";"+0:00";;"Alarm";"ALARM ROTATION MOTOR 3  On";;PtUf+o
+329894;"12/11/2019 11:48:01";"+0:00";;"Alarm";"ALARM MISSING COMUNICATION WITH INTERFACE  On";;Fy1yy6
+329895;"12/11/2019 11:48:01";"+0:00";;"Alarm";"WARNING MISSING LOGIN OPERATION  On";;9UYXJ6
+329896;"12/11/2019 11:48:06";"+0:00";;"Warning";"PVSI NOT RUNNING   On";;6I4lzM
+329897;"12/11/2019 11:48:06";"+0:00";;"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;c7AwCI
+329898;"12/11/2019 11:48:06";"+0:00";;"Alarm";"ALARM MISSING COMUNICATION WITH INTERFACE  Off";;DsrhFk
+329899;"12/11/2019 11:48:13";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;Minbat
+329900;"12/11/2019 11:48:25";"+0:00";"nadir";"Warning";"PVSI NOT RUNNING   Off";;wYGqNR
+329901;"12/11/2019 11:51:46";"+0:00";"nadir";"Warning";"ALARM VACUUM SENSOR  Off";;EVzrax
+329902;"12/11/2019 11:51:46";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;4VX8Qz
+329903;"12/11/2019 11:51:46";"+0:00";"nadir";"Warning";"PVSI AND WINCC PRODUCT DIFFERENT  Off";;TWHBQe
+329904;"12/11/2019 11:51:46";"+0:00";"nadir";"Alarm";"ALARM PROFIBUS NODE 3 (ENCODER)  Off";;QDeCMf
+329905;"12/11/2019 11:51:46";"+0:00";"nadir";"Alarm";"ALARM PROFIBUS NODE 4 (PC)  Off";;EhnyA6
+329906;"12/11/2019 11:51:46";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;afxSfb
+329907;"12/11/2019 11:54:18";"+0:00";"nadir";"Alarm: 1135";"Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;gOaTp3
+329908;"12/11/2019 11:54:18";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;4CnXQC
+329909;"12/11/2019 11:54:18";"+0:00";"nadir";"Alarm:";"ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment";;UB8ViC
+329910;"12/11/2019 11:54:18";"+0:00";"nadir";"Alarm:";"ALARM PROFIBUS NODE 4 (PC)  Acknowledgment";;qmBi4q
+329911;"12/11/2019 11:54:18";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;wZ4Eik
+329912;"12/11/2019 11:54:18";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;dAumOy
+329913;"12/11/2019 11:54:18";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;Srp9tb
+329914;"12/11/2019 11:54:18";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;H+o7iT
+329915;"12/11/2019 11:54:18";"+0:00";"nadir";"Alarm:";"ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment";;50kddh
+329916;"12/11/2019 11:54:18";"+0:00";"nadir";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;rgeOGp
+329917;"12/11/2019 11:54:23";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;ZzR2Vg
+329918;"12/11/2019 11:54:23";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;DkbNCO
+329919;"12/11/2019 11:54:24";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;2UIiDO
+329920;"12/11/2019 11:54:24";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;n+ezBO
+329921;"12/11/2019 11:54:24";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;K1yQ5J
+329922;"12/11/2019 11:56:18";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;96N9Hh
+329923;"12/11/2019 11:56:19";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On";;fCaBqC
+329924;"12/11/2019 11:56:59";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;kZZ9gf
+329925;"12/11/2019 11:56:59";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;Ip/vqk
+329926;"12/11/2019 11:56:59";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;TNz0ff
+329927;"12/11/2019 11:56:59";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;MyLDni
+329928;"12/11/2019 11:56:59";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;2mWZKa
+329929;"12/11/2019 11:56:59";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;edajWs
+329930;"12/11/2019 11:57:18";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;yjyTha
+329931;"12/11/2019 11:57:18";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off";;jJlIE8
+329932;"12/11/2019 11:57:18";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;nssw05
+329933;"12/11/2019 11:57:18";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;v7AW9W
+329934;"12/11/2019 11:57:18";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;zd88pI
+329935;"12/11/2019 11:57:19";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;NVi/rk
+329936;"12/11/2019 11:57:19";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;xTyfar
+329937;"12/11/2019 11:57:19";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;ycvZKw
+329938;"12/11/2019 11:57:21";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;uWq6rI
+329939;"12/11/2019 11:57:21";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;rXVKnb
+329940;"12/11/2019 11:57:21";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment";;Q7sXFO
+329941;"12/11/2019 11:57:21";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;5Ix9/k
+329942;"12/11/2019 11:57:21";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;8/T6Ur
+329943;"12/11/2019 11:57:21";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;bsnLj8
+329944;"12/11/2019 11:57:21";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;42Vl3+
+329945;"12/11/2019 11:57:21";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;ogm3iX
+329946;"12/11/2019 11:57:21";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;9sdD8J
+329947;"12/11/2019 11:58:02";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;9FWHDY
+329948;"12/11/2019 11:58:03";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;Ie2+2B
+329949;"12/11/2019 11:58:03";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;rel67f
+329950;"12/11/2019 11:58:03";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;Wna2wl
+329951;"12/11/2019 11:58:03";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;1Ij03F
+329952;"12/11/2019 11:58:03";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;dMQcIc
+329953;"12/11/2019 11:58:10";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;6w/zqI
+329954;"12/11/2019 11:58:47";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;++4cqs
+329955;"12/11/2019 11:58:47";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;ATg33D
+329956;"12/11/2019 11:58:48";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;tPWjMd
+329957;"12/11/2019 11:58:48";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;t38L2p
+329958;"12/11/2019 11:58:49";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;SS312T
+329959;"12/11/2019 11:58:49";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;vU2t8Y
+329960;"12/11/2019 11:58:49";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;WqS3dc
+329961;"12/11/2019 11:59:45";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On";;fTb3zg
+329962;"12/11/2019 11:59:45";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;71LZp1
+329963;"12/11/2019 12:00:01";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;e5nha6
+329964;"12/11/2019 12:00:01";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;XVkJr6
+329965;"12/11/2019 12:00:01";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;mrAq9M
+329966;"12/11/2019 12:00:02";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;EdJfH4
+329967;"12/11/2019 12:00:02";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;Fk+qIC
+329968;"12/11/2019 12:00:02";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;Ve+6Nx
+329969;"12/11/2019 12:00:21";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;hUyJbF
+329970;"12/11/2019 12:00:21";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off";;lEBGAN
+329971;"12/11/2019 12:00:21";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;Ev00ap
+329972;"12/11/2019 12:00:22";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;L99SbH
+329973;"12/11/2019 12:00:22";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;J9L2X7
+329974;"12/11/2019 12:00:23";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;6jeFV3
+329975;"12/11/2019 12:00:23";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;M4W2s+
+329976;"12/11/2019 12:00:23";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;V8fpi2
+329977;"12/11/2019 12:00:24";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;yrEq2S
+329978;"12/11/2019 12:00:24";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;Vd+74r
+329979;"12/11/2019 12:00:24";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment";;CJX39E
+329980;"12/11/2019 12:00:24";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;+HJvKO
+329981;"12/11/2019 12:00:24";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;0WtIih
+329982;"12/11/2019 12:00:24";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;rjH1sG
+329983;"12/11/2019 12:00:24";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;ygPgiC
+329984;"12/11/2019 12:00:24";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;yDJHGh
+329985;"12/11/2019 12:00:24";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;JaWunj
+329986;"12/11/2019 12:00:24";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;CfImHt
+329987;"12/11/2019 12:00:51";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;FrMury
+329988;"12/11/2019 12:00:51";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;c48Tnv
+329989;"12/11/2019 12:00:51";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;s9Uh5q
+329990;"12/11/2019 12:00:51";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;/5IKs9
+329991;"12/11/2019 12:00:52";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;SSiZr9
+329992;"12/11/2019 12:00:52";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;fbeuIC
+329993;"12/11/2019 12:00:52";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;5XEpkv
+329994;"12/11/2019 12:02:04";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;BZkboJ
+329995;"12/11/2019 12:02:04";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;tlzGKO
+329996;"12/11/2019 12:02:05";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;d1WFQ2
+329997;"12/11/2019 12:02:05";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;txY16U
+329998;"12/11/2019 12:02:19";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;/7HqOW
+329999;"12/11/2019 12:02:19";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;7AKX4N
+330000;"12/11/2019 12:02:19";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;Wu2SYK
+330001;"12/11/2019 12:02:20";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;UoMuA0
+330002;"12/11/2019 12:02:20";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;J+ILSD
+330003;"12/11/2019 12:02:20";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;yytTLs
+330004;"12/11/2019 12:02:20";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;ivTYFK
+330005;"12/11/2019 12:02:20";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;FVcVHH
+330006;"12/11/2019 12:02:20";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;+K/wSA
+330007;"12/11/2019 12:02:20";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;T9aW4w
+330008;"12/11/2019 12:02:20";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;M5FKK3
+330009;"12/11/2019 12:03:10";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;OeDGn3
+330010;"12/11/2019 12:03:10";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On";;0AMO0P
+330011;"12/11/2019 12:03:10";"+0:00";"nadir";"Alarm";"ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On";;WpuY+u
+330012;"12/11/2019 12:03:13";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;Q+D29x
+330013;"12/11/2019 12:03:13";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;pUvb9A
+330014;"12/11/2019 12:03:13";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;DsPo3u
+330015;"12/11/2019 12:03:13";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;DWEMGl
+330016;"12/11/2019 12:03:13";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;DAtQJq
+330017;"12/11/2019 12:03:13";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;/VAu1O
+330018;"12/11/2019 12:03:14";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;p0rFDi
+330019;"12/11/2019 12:04:22";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;YYkEnS
+330020;"12/11/2019 12:04:22";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;kQPbyn
+330021;"12/11/2019 12:04:22";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off";;6sRSbo
+330022;"12/11/2019 12:04:22";"+0:00";"nadir";"Alarm";"ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off";;U1I/hN
+330023;"12/11/2019 12:04:22";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;uJxHtC
+330024;"12/11/2019 12:04:22";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;iw+4YE
+330025;"12/11/2019 12:04:22";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;8HAv8W
+330026;"12/11/2019 12:05:03";"+0:00";"nadir";"Alarm: 1";"Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;ISZhFm
+330027;"12/11/2019 12:05:03";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;Nhz9qJ
+330028;"12/11/2019 12:05:03";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment";;OqWivV
+330029;"12/11/2019 12:05:03";"+0:00";"nadir";"Alarm:";"ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Acknowledgment";;SmEy8z
+330030;"12/11/2019 12:05:03";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;zU10Po
+330031;"12/11/2019 12:05:03";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;UZE4PT
+330032;"12/11/2019 12:05:03";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;wjBvzs
+330033;"12/11/2019 12:05:03";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;GC7hBi
+330034;"12/11/2019 12:05:03";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;kpJHLN
+330035;"12/11/2019 12:05:03";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;PYbGM7
+330036;"12/11/2019 12:05:03";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;6biZpk
+330037;"12/11/2019 12:05:06";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;ubqucn
+330038;"12/11/2019 12:05:06";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;Sr2gQf
+330039;"12/11/2019 12:05:06";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;0DZ5kt
+330040;"12/11/2019 12:05:45";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;8SvD56
+330041;"12/11/2019 12:05:45";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;vOvyuj
+330042;"12/11/2019 12:05:45";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;QNnror
+330043;"12/11/2019 12:05:45";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;BN6pU1
+330044;"12/11/2019 12:05:45";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;HxKqai
+330045;"12/11/2019 12:05:45";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;s4i074
+330046;"12/11/2019 12:05:47";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;amzV/M
+330047;"12/11/2019 12:07:08";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On";;fNXejN
+330048;"12/11/2019 12:07:20";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;fj71l1
+330049;"12/11/2019 12:07:27";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR REJECT  On";;GcUfAF
+330050;"12/11/2019 12:07:35";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH LOADING STARWHEEL  On";;3cAeB5
+330051;"12/11/2019 12:07:41";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;QS7yqk
+330052;"12/11/2019 12:07:41";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH LOADING STARWHEEL  Off";;+ZGyhK
+330053;"12/11/2019 12:07:41";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off";;lnW50U
+330054;"12/11/2019 12:07:41";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR REJECT  Off";;aw9541
+330055;"12/11/2019 12:07:41";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;UcYBxt
+330056;"12/11/2019 12:07:43";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;CQzLkm
+330057;"12/11/2019 12:07:44";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;61qMt6
+330058;"12/11/2019 12:07:44";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;qu/4FT
+330059;"12/11/2019 12:07:44";"+0:00";"nadir";"Alarm: 12";"Acknowledgment of 12 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;2t4WFe
+330060;"12/11/2019 12:07:44";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;zGvwp5
+330061;"12/11/2019 12:07:44";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;skjGfS
+330062;"12/11/2019 12:07:44";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;IedFHn
+330063;"12/11/2019 12:07:44";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;V2V0wz
+330064;"12/11/2019 12:07:44";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;ZKZcON
+330065;"12/11/2019 12:07:44";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;IPtkqg
+330066;"12/11/2019 12:07:44";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;sN9ITN
+330067;"12/11/2019 12:07:44";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment";;dYimzg
+330068;"12/11/2019 12:07:44";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;3DiaxW
+330069;"12/11/2019 12:07:44";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR REJECT  Acknowledgment";;kIJJrv
+330070;"12/11/2019 12:07:44";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment";;EH/hhf
+330071;"12/11/2019 12:07:45";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;mA7gFD
+330072;"12/11/2019 12:07:45";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;6ELpV9
+330073;"12/11/2019 12:07:45";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;HJyQdE
+330074;"12/11/2019 12:08:50";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On";;UCgzcj
+330075;"12/11/2019 12:08:50";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;2Tnbt+
+330076;"12/11/2019 12:09:01";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;MhrRoY
+330077;"12/11/2019 12:09:01";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;DrEn0S
+330078;"12/11/2019 12:09:01";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;xA0n1v
+330079;"12/11/2019 12:09:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;acF+Ej
+330080;"12/11/2019 12:09:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;LP87oG
+330081;"12/11/2019 12:09:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;LuVtM/
+330082;"12/11/2019 12:09:26";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;LoSMpI
+330083;"12/11/2019 12:09:26";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off";;tPffyu
+330084;"12/11/2019 12:09:26";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;aTHNcW
+330085;"12/11/2019 12:09:27";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;yBS9B2
+330086;"12/11/2019 12:09:27";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;RsL1M+
+330087;"12/11/2019 12:09:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;fVMY1X
+330088;"12/11/2019 12:09:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;B0lL92
+330089;"12/11/2019 12:09:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;PGLWd2
+330090;"12/11/2019 12:10:21";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;mHjYED
+330091;"12/11/2019 12:10:21";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment";;mFxTu+
+330092;"12/11/2019 12:10:21";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;rUuidI
+330093;"12/11/2019 12:10:21";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;OMYSor
+330094;"12/11/2019 12:10:21";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;gfjfle
+330095;"12/11/2019 12:10:21";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;+jpNgd
+330096;"12/11/2019 12:10:21";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;hqW2RZ
+330097;"12/11/2019 12:10:21";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;FVkg+T
+330098;"12/11/2019 12:10:21";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;T3/dV4
+330099;"12/11/2019 12:10:27";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;n67bYo
+330100;"12/11/2019 12:10:27";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;4nLUmo
+330101;"12/11/2019 12:10:27";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;8bBx/y
+330102;"12/11/2019 12:10:27";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;b5Upfp
+330103;"12/11/2019 12:10:27";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;aRLKUu
+330104;"12/11/2019 12:10:27";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;gG0eqf
+330105;"12/11/2019 12:10:39";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;MtUzXS
+330106;"12/11/2019 12:11:38";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;4KcNE8
+330107;"12/11/2019 12:11:38";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;rmeCL6
+330108;"12/11/2019 12:11:39";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;Ha2JlW
+330109;"12/11/2019 12:11:39";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;+aa3pg
+330110;"12/11/2019 12:11:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;zwrdx0
+330111;"12/11/2019 12:11:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;7VPpQp
+330112;"12/11/2019 12:11:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;Ep8sLn
+330113;"12/11/2019 12:11:43";"+0:00";"nadir";"Alarm: 5";"Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;Lqr7KQ
+330114;"12/11/2019 12:11:43";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;8xC4Ny
+330115;"12/11/2019 12:11:43";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;/jWUg4
+330116;"12/11/2019 12:11:43";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;RwEyp4
+330117;"12/11/2019 12:11:43";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;KxavLM
+330118;"12/11/2019 12:11:43";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;4GPazJ
+330119;"12/11/2019 12:11:43";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;v5pkAN
+330120;"12/11/2019 12:11:43";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;QbfR00
+330121;"12/11/2019 12:12:33";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;wD04S9
+330122;"12/11/2019 12:12:33";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;raDfQD
+330123;"12/11/2019 12:12:33";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On";;KWT9Yo
+330124;"12/11/2019 12:12:35";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;f8CnbA
+330125;"12/11/2019 12:12:42";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;v/dlId
+330126;"12/11/2019 12:12:42";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;DlT5hV
+330127;"12/11/2019 12:12:42";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;uAu1oK
+330128;"12/11/2019 12:12:42";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;BwaOLm
+330129;"12/11/2019 12:12:42";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;moe3uA
+330130;"12/11/2019 12:12:42";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;MUw6QW
+330131;"12/11/2019 12:12:42";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;caF4hW
+330132;"12/11/2019 12:13:03";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;7tufah
+330133;"12/11/2019 12:13:03";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;kTuy5X
+330134;"12/11/2019 12:13:03";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off";;dxuX/S
+330135;"12/11/2019 12:13:03";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;v9Gu0/
+330136;"12/11/2019 12:13:03";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;HVlZeP
+330137;"12/11/2019 12:13:03";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;ZmEMPl
+330138;"12/11/2019 12:13:04";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;5WxJFa
+330139;"12/11/2019 12:13:04";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;d3+iId
+330140;"12/11/2019 12:13:04";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;spLQrc
+330141;"12/11/2019 12:13:23";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;cUQMPi
+330142;"12/11/2019 12:13:23";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;CnpRCx
+330143;"12/11/2019 12:13:23";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment";;pB7V3C
+330144;"12/11/2019 12:13:23";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;ckdhCC
+330145;"12/11/2019 12:13:23";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;oiGZW2
+330146;"12/11/2019 12:13:23";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;/899eI
+330147;"12/11/2019 12:13:23";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;F3UIAb
+330148;"12/11/2019 12:13:23";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;Ov7L+X
+330149;"12/11/2019 12:13:23";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;9JqQTv
+330150;"12/11/2019 12:13:23";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;9Hv5nk
+330151;"12/11/2019 12:13:56";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;UKRg1e
+330152;"12/11/2019 12:13:56";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;puPaMV
+330153;"12/11/2019 12:13:56";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;PdFYdS
+330154;"12/11/2019 12:13:57";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;xxzwIz
+330155;"12/11/2019 12:13:57";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;QJaylb
+330156;"12/11/2019 12:13:57";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;IoAyIR
+330157;"12/11/2019 12:13:57";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;38kvgA
+330158;"12/11/2019 12:15:28";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;3uQ8LX
+330159;"12/11/2019 12:15:28";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;Dr9zbP
+330160;"12/11/2019 12:15:28";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;QOSUsL
+330161;"12/11/2019 12:15:28";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;7OTfN/
+330162;"12/11/2019 12:15:34";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;9e7Pt6
+330163;"12/11/2019 12:15:34";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;rbExt7
+330164;"12/11/2019 12:15:34";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;gxdMTP
+330165;"12/11/2019 12:15:35";"+0:00";"nadir";"Alarm: 5";"Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;ATYXCQ
+330166;"12/11/2019 12:15:35";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;79St1v
+330167;"12/11/2019 12:15:35";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;3qn/fo
+330168;"12/11/2019 12:15:35";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;UR2ues
+330169;"12/11/2019 12:15:35";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;pLQojJ
+330170;"12/11/2019 12:15:35";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;vRBxsk
+330171;"12/11/2019 12:15:35";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;42WtH+
+330172;"12/11/2019 12:15:35";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;B+GRx5
+330173;"12/11/2019 12:16:23";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;MmA1Fg
+330174;"12/11/2019 12:16:36";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;G9x41E
+330175;"12/11/2019 12:16:36";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;f+rYHX
+330176;"12/11/2019 12:16:36";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;5ljo5X
+330177;"12/11/2019 12:16:36";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;36Zf9h
+330178;"12/11/2019 12:16:37";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;o8g7IK
+330179;"12/11/2019 12:16:37";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;hcqkP7
+330180;"12/11/2019 12:16:37";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;uVGu6X
+330181;"12/11/2019 12:17:07";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;crEe7P
+330182;"12/11/2019 12:17:07";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;cx3WmA
+330183;"12/11/2019 12:17:07";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;fIyZcc
+330184;"12/11/2019 12:17:07";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;epVyFc
+330185;"12/11/2019 12:17:07";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;eJgvHX
+330186;"12/11/2019 12:17:16";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;PQtUFU
+330187;"12/11/2019 12:17:16";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;kdgx9n
+330188;"12/11/2019 12:17:16";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;5Yodrc
+330189;"12/11/2019 12:17:30";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;d0Xoef
+330190;"12/11/2019 12:17:41";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;KNBun1
+330191;"12/11/2019 12:17:41";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;xw56aE
+330192;"12/11/2019 12:17:41";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;zmdsD2
+330193;"12/11/2019 12:17:41";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;arR0tx
+330194;"12/11/2019 12:17:41";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;NT9f0F
+330195;"12/11/2019 12:17:41";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;nDIKNu
+330196;"12/11/2019 12:17:56";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;kp/qTe
+330197;"12/11/2019 12:17:56";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;KcaA7I
+330198;"12/11/2019 12:17:57";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;SIhCey
+330199;"12/11/2019 12:17:57";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;aG+MTb
+330200;"12/11/2019 12:17:59";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;BYfxQY
+330201;"12/11/2019 12:17:59";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;is17sn
+330202;"12/11/2019 12:17:59";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;Tk2hG+
+330203;"12/11/2019 12:18:05";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;qJb1Da
+330204;"12/11/2019 12:18:05";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;0Dd00I
+330205;"12/11/2019 12:18:05";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;zrZY4V
+330206;"12/11/2019 12:18:06";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;SY/x65
+330207;"12/11/2019 12:18:06";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;ZIHnyV
+330208;"12/11/2019 12:18:06";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;9JtS58
+330209;"12/11/2019 12:18:10";"+0:00";"nadir";"Alarm: 1021";"Acknowledgment of 1021 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;SuYMXY
+330210;"12/11/2019 12:18:10";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;gC/6YZ
+330211;"12/11/2019 12:18:10";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;yMwh+X
+330212;"12/11/2019 12:18:10";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;M3suzX
+330213;"12/11/2019 12:18:10";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;4q7bzm
+330214;"12/11/2019 12:18:10";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;BFG11k
+330215;"12/11/2019 12:18:10";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;TIWaBn
+330216;"12/11/2019 12:18:10";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;ItBt9e
+330217;"12/11/2019 12:18:10";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;WyOOcf
+330218;"12/11/2019 12:18:52";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;rPjYxi
+330219;"12/11/2019 12:18:52";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;I/ytbt
+330220;"12/11/2019 12:18:52";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;dzvLRQ
+330221;"12/11/2019 12:18:53";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;hqfUVP
+330222;"12/11/2019 12:18:53";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;1xVMHK
+330223;"12/11/2019 12:18:53";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;/5F9C1
+330224;"12/11/2019 12:19:07";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;0CPwIE
+330225;"12/11/2019 12:20:19";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;QaEiFL
+330226;"12/11/2019 12:20:19";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;OZcAuM
+330227;"12/11/2019 12:20:20";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;UOu0JB
+330228;"12/11/2019 12:20:20";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;eroh1b
+330229;"12/11/2019 12:20:21";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;G4wLp3
+330230;"12/11/2019 12:20:21";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;N1eLtZ
+330231;"12/11/2019 12:20:21";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;jyxs5W
+330232;"12/11/2019 12:20:22";"+0:00";"nadir";"Alarm: 4";"Acknowledgment of 4 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;h9F5gn
+330233;"12/11/2019 12:20:22";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;3mJbfq
+330234;"12/11/2019 12:20:23";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;sDWHu1
+330235;"12/11/2019 12:20:23";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;b+DsiN
+330236;"12/11/2019 12:20:23";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;PU9e13
+330237;"12/11/2019 12:20:23";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;XHaIbK
+330238;"12/11/2019 12:20:23";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;fPbepk
+330239;"12/11/2019 12:20:23";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;Pbwau9
+330240;"12/11/2019 12:21:17";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;MLEUD8
+330241;"12/11/2019 12:21:28";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;6yl70N
+330242;"12/11/2019 12:21:28";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;5CiS6k
+330243;"12/11/2019 12:21:28";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;zrJMq4
+330244;"12/11/2019 12:21:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;+57Cky
+330245;"12/11/2019 12:21:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;fAV7A3
+330246;"12/11/2019 12:21:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;wVLPBi
+330247;"12/11/2019 12:25:02";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;377JBC
+330248;"12/11/2019 12:25:02";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;Uj6INg
+330249;"12/11/2019 12:25:02";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;z0d40r
+330250;"12/11/2019 12:25:02";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;DN9ARC
+330251;"12/11/2019 12:25:03";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;AtZy29
+330252;"12/11/2019 12:25:03";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;hByHX1
+330253;"12/11/2019 12:25:03";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;ajgrZt
+330254;"12/11/2019 12:25:03";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;x3s9+4
+330255;"12/11/2019 12:25:03";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;K/yPZz
+330256;"12/11/2019 12:25:03";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;avijmk
+330257;"12/11/2019 12:25:03";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;2Gts7p
+330258;"12/11/2019 12:25:03";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;QoMj9s
+330259;"12/11/2019 12:25:05";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;q6D3ip
+330260;"12/11/2019 12:25:05";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;ExXV5n
+330261;"12/11/2019 12:25:05";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;tk2krY
+330262;"12/11/2019 12:25:59";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;4ynNc+
+330263;"12/11/2019 12:25:59";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;cG+TqK
+330264;"12/11/2019 12:25:59";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;kBDt0e
+330265;"12/11/2019 12:25:59";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;0J/bXc
+330266;"12/11/2019 12:25:59";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;fYkZqX
+330267;"12/11/2019 12:25:59";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;HSnrId
+330268;"12/11/2019 12:25:59";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;71M4pQ
+330269;"12/11/2019 12:26:50";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;J+q7Xz
+330270;"12/11/2019 12:26:50";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;/q/5MY
+330271;"12/11/2019 12:26:51";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;Cu14eZ
+330272;"12/11/2019 12:26:51";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;qaMSBX
+330273;"12/11/2019 12:26:52";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;hvBEaV
+330274;"12/11/2019 12:26:52";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;2zq4ll
+330275;"12/11/2019 12:26:52";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;sd4uth
+330276;"12/11/2019 12:26:53";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;agulS6
+330277;"12/11/2019 12:26:53";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;q7m8GJ
+330278;"12/11/2019 12:26:53";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;t17M7o
+330279;"12/11/2019 12:26:53";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;ClgTKJ
+330280;"12/11/2019 12:26:53";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;ihoRcl
+330281;"12/11/2019 12:26:53";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;fnmu7H
+330282;"12/11/2019 12:26:53";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;KfTw57
+330283;"12/11/2019 12:26:53";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;Qm5tgn
+330284;"12/11/2019 12:27:45";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;caCBUy
+330285;"12/11/2019 12:27:45";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;7sBcMI
+330286;"12/11/2019 12:27:56";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;ev5+d4
+330287;"12/11/2019 12:27:57";"+0:00";"nadir";"Alarm: 91";"Acknowledgment of 91 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;0EVUTP
+330288;"12/11/2019 12:27:57";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;kULo5S
+330289;"12/11/2019 12:28:43";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;pDEaP6
+330290;"12/11/2019 12:28:57";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;E5ZdPS
+330291;"12/11/2019 12:29:43";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;lrklCc
+330292;"12/11/2019 12:29:43";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;xpmJHc
+330293;"12/11/2019 12:29:43";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;A9qQJ2
+330294;"12/11/2019 12:29:43";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;zzDyVd
+330295;"12/11/2019 12:29:43";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;tSWbYx
+330296;"12/11/2019 12:29:43";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;ahzISv
+330297;"12/11/2019 12:30:04";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;B+R3nQ
+330298;"12/11/2019 12:31:31";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;LL9n6o
+330299;"12/11/2019 12:31:31";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;RnXoZD
+330300;"12/11/2019 12:31:31";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;vEFhK2
+330301;"12/11/2019 12:31:31";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;QuaKov
+330302;"12/11/2019 12:31:32";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;kYxD4W
+330303;"12/11/2019 12:31:32";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;c1b6O/
+330304;"12/11/2019 12:31:32";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;cN6TLB
+330305;"12/11/2019 12:31:48";"+0:00";"nadir";"Alarm: 5";"Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;1rMl+b
+330306;"12/11/2019 12:31:48";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;nVuAzH
+330307;"12/11/2019 12:31:48";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;uK45Pe
+330308;"12/11/2019 12:31:48";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;7x5PFE
+330309;"12/11/2019 12:31:48";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;KunisJ
+330310;"12/11/2019 12:31:48";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;DTtve4
+330311;"12/11/2019 12:31:48";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;1opKT+
+330312;"12/11/2019 12:31:48";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;n3v8o9
+330313;"12/11/2019 12:31:48";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;hjMxl9
+330314;"12/11/2019 12:32:14";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;8W//j9
+330315;"12/11/2019 12:32:24";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;sMId+i
+330316;"12/11/2019 12:32:42";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;mBj85r
+330317;"12/11/2019 12:32:46";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;Uj+Cf5
+330318;"12/11/2019 12:32:55";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;aS8s/r
+330319;"12/11/2019 12:33:01";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;lLE+Nt
+330320;"12/11/2019 12:33:03";"+0:00";"nadir";"Alarm: 91";"Acknowledgment of 91 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;k/Ix7p
+330321;"12/11/2019 12:33:03";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;X5Dy8n
+330322;"12/11/2019 12:33:11";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;/aTj9s
+330323;"12/11/2019 12:33:23";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;NJKszA
+330324;"12/11/2019 12:33:25";"+0:00";"nadir";"Alarm: 91";"Acknowledgment of 91 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;fStZgO
+330325;"12/11/2019 12:33:25";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;aPvvY1
+330326;"12/11/2019 12:35:13";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;wreXid
+330327;"12/11/2019 12:35:13";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;EbLpOZ
+330328;"12/11/2019 12:35:13";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;Tc4W0k
+330329;"12/11/2019 12:35:13";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;GFeiO2
+330330;"12/11/2019 12:35:13";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;1i1/Pw
+330331;"12/11/2019 12:35:13";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;tMg+W9
+330332;"12/11/2019 12:35:15";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;mNylth
+330333;"12/11/2019 12:36:07";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;torhPP
+330334;"12/11/2019 12:36:07";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;IKB2WB
+330335;"12/11/2019 12:36:08";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;8KfumC
+330336;"12/11/2019 12:36:08";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;osOAbS
+330337;"12/11/2019 12:36:13";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;iRcbef
+330338;"12/11/2019 12:36:13";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;mYOplk
+330339;"12/11/2019 12:36:13";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;fKPoeC
+330340;"12/11/2019 12:36:14";"+0:00";"nadir";"Alarm: 5";"Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;ckcyup
+330341;"12/11/2019 12:36:14";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;WHaqjr
+330342;"12/11/2019 12:36:14";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;ahS230
+330343;"12/11/2019 12:36:14";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;GGtGmT
+330344;"12/11/2019 12:36:14";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;ZQ4l1s
+330345;"12/11/2019 12:36:14";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;Oz1P2+
+330346;"12/11/2019 12:36:14";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;2o1mb4
+330347;"12/11/2019 12:36:14";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;JA0mXM
+330348;"12/11/2019 12:36:47";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;YDTdIv
+330349;"12/11/2019 12:37:15";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;v6DFIs
+330350;"12/11/2019 12:37:20";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;kXZ8lJ
+330351;"12/11/2019 12:48:40";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;QMEbiK
+330352;"12/11/2019 12:48:40";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;CbzXWJ
+330353;"12/11/2019 12:48:40";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;1uIetS
+330354;"12/11/2019 12:48:40";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;TBU6mB
+330355;"12/11/2019 12:48:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;O5Njk6
+330356;"12/11/2019 12:48:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;1p0tXB
+330357;"12/11/2019 12:48:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;GgmaKi
+330358;"12/11/2019 12:49:48";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;x+vhh5
+330359;"12/11/2019 12:49:48";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;9RCmGU
+330360;"12/11/2019 12:49:48";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;P43dSv
+330361;"12/11/2019 12:49:48";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;snK5zN
+330362;"12/11/2019 12:49:50";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;o99xMy
+330363;"12/11/2019 12:49:50";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;2RkLSZ
+330364;"12/11/2019 12:49:50";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;jfAHoY
+330365;"12/11/2019 12:49:51";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;7DIgEJ
+330366;"12/11/2019 12:49:51";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;ZWp38n
+330367;"12/11/2019 12:49:51";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;Couujb
+330368;"12/11/2019 12:49:51";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;nEOwpm
+330369;"12/11/2019 12:49:51";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;u81D5Z
+330370;"12/11/2019 12:49:51";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;KjqBOP
+330371;"12/11/2019 12:49:51";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;9W4WSr
+330372;"12/11/2019 12:49:51";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;QhUbiI
+330373;"12/11/2019 12:49:51";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;3YIDfN
+330374;"12/11/2019 12:50:46";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;DbLCwx
+330375;"12/11/2019 12:51:17";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;FSJyRN
+330376;"12/11/2019 12:51:17";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;H1e4Sh
+330377;"12/11/2019 12:51:17";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;n2CIco
+330378;"12/11/2019 12:51:17";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;ApZqj3
+330379;"12/11/2019 12:51:17";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;w2gcIJ
+330380;"12/11/2019 12:51:17";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;zPp2kQ
+330381;"12/11/2019 12:51:31";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;Qw4s5M
+330382;"12/11/2019 12:51:31";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;NN68op
+330383;"12/11/2019 12:51:31";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;tdokzn
+330384;"12/11/2019 12:51:31";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;dhet9v
+330385;"12/11/2019 12:51:32";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;3ru4xU
+330386;"12/11/2019 12:51:32";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;AyS19L
+330387;"12/11/2019 12:51:33";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;lqWnHA
+330388;"12/11/2019 12:51:35";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;pcyc6w
+330389;"12/11/2019 12:51:35";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;Q1VTed
+330390;"12/11/2019 12:51:35";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;GRECox
+330391;"12/11/2019 12:51:35";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;VoT4K3
+330392;"12/11/2019 12:51:35";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;RK/hDi
+330393;"12/11/2019 12:51:35";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;pqe+2h
+330394;"12/11/2019 12:51:35";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;6xmOTi
+330395;"12/11/2019 12:51:35";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;+26f98
+330396;"12/11/2019 12:51:56";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;wKKMDK
+330397;"12/11/2019 12:52:00";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;E+ZTjw
+330398;"12/11/2019 12:52:00";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;nYflxK
+330399;"12/11/2019 12:52:00";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;5szgfN
+330400;"12/11/2019 12:52:00";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;8vh3Ke
+330401;"12/11/2019 12:52:00";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;mSCZXG
+330402;"12/11/2019 12:52:00";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;IQkAcl
+330403;"12/11/2019 12:52:23";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;LsVWkw
+330404;"12/11/2019 12:52:23";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;MZLqb/
+330405;"12/11/2019 12:52:23";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;xiGOkO
+330406;"12/11/2019 12:52:24";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;28a4vq
+330407;"12/11/2019 12:52:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;TZNaCX
+330408;"12/11/2019 12:52:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;J6e1VL
+330409;"12/11/2019 12:52:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;w5Tyll
+330410;"12/11/2019 12:52:30";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;BxHNhE
+330411;"12/11/2019 12:52:30";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;MK0Ilu
+330412;"12/11/2019 12:52:30";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;IaL1HB
+330413;"12/11/2019 12:52:30";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;W6fOri
+330414;"12/11/2019 12:52:30";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;vxTtkP
+330415;"12/11/2019 12:52:30";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;cUQEb5
+330416;"12/11/2019 12:52:30";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;QwOyZR
+330417;"12/11/2019 12:52:30";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;MOUsA5
+330418;"12/11/2019 13:07:19";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;nfRiGs
+330419;"12/11/2019 13:07:19";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;sZoWvL
+330420;"12/11/2019 13:07:19";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;AjcmEt
+330421;"12/11/2019 13:07:20";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;e9ntpY
+330422;"12/11/2019 13:07:20";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;Er8Hmv
+330423;"12/11/2019 13:07:20";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;M0Spv/
+330424;"12/11/2019 13:07:21";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;wR9WGH
+330425;"12/11/2019 13:33:49";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;oMX44j
+330426;"12/11/2019 14:17:17";"+0:00";"nadir";"Warning";"ALARM VACUUM SENSOR  On";;C6yt+P
+330427;"12/11/2019 14:17:17";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;BjMPQy
+330428;"12/11/2019 14:17:17";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;AK1Q/d
+330429;"12/11/2019 14:17:18";"+0:00";"nadir";"Warning";"ALARM VACUUM SENSOR  Off";;JstnK7
+330430;"12/11/2019 14:17:18";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;Q7xvRH
+330431;"12/11/2019 14:17:18";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;+gAhUv
+330432;"12/11/2019 14:17:22";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;jdT0ju
+330433;"12/11/2019 14:17:23";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;EpW4wm
+330434;"12/11/2019 14:17:31";"+0:00";"nadir";"Alarm: 1135";"Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;gaI9nv
+330435;"12/11/2019 14:17:31";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;bEzFz+
+330436;"12/11/2019 14:17:31";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;NDQpmt
+330437;"12/11/2019 14:17:31";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;nlCzNx
+330438;"12/11/2019 14:17:31";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;a593c9
+330439;"12/11/2019 14:17:31";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;4i7GWP
+330440;"12/11/2019 14:17:31";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;FrAwWB
+330441;"12/11/2019 14:17:31";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;Elo0zA
+330442;"12/11/2019 14:17:31";"+0:00";"nadir";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;Xm2D3p
+330443;"12/11/2019 14:18:50";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;kjtKm+
+330444;"12/11/2019 14:18:50";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;ZNGa7F
+330445;"12/11/2019 14:18:54";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;KXMtUc
+330446;"12/11/2019 14:18:54";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;F5+GEY
+330447;"12/11/2019 14:18:54";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;eMNGPv
+330448;"12/11/2019 14:18:55";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;9xG3+m
+330449;"12/11/2019 14:18:55";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;9zp/9k
+330450;"12/11/2019 14:18:55";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;GH96hu
+330451;"12/11/2019 14:19:51";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On";;txBThF
+330452;"12/11/2019 14:19:51";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On";;z1Y5Oe
+330453;"12/11/2019 14:19:55";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;aO1RUA
+330454;"12/11/2019 14:19:55";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;B+hS5b
+330455;"12/11/2019 14:19:55";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;/BBsxR
+330456;"12/11/2019 14:19:55";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;ZBvUsp
+330457;"12/11/2019 14:19:55";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;XtavJX
+330458;"12/11/2019 14:19:55";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;LImDVO
+330459;"12/11/2019 14:20:13";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;YS6aYB
+330460;"12/11/2019 14:20:13";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off";;7JMeGI
+330461;"12/11/2019 14:20:13";"+0:00";"nadir";"Alarm";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off";;e/n/AO
+330462;"12/11/2019 14:20:13";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;jXehnX
+330463;"12/11/2019 14:20:13";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;39Hg7E
+330464;"12/11/2019 14:20:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;4SLIGh
+330465;"12/11/2019 14:20:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;rh/SYZ
+330466;"12/11/2019 14:20:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;WXxoR1
+330467;"12/11/2019 14:20:30";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;XlNwQF
+330468;"12/11/2019 14:20:30";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment";;N/MZhL
+330469;"12/11/2019 14:20:30";"+0:00";"nadir";"Alarm:";"ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment";;Hz/WWW
+330470;"12/11/2019 14:20:30";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;AM5cjG
+330471;"12/11/2019 14:20:30";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;vUSikO
+330472;"12/11/2019 14:20:30";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;33wsPn
+330473;"12/11/2019 14:20:30";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;/R4c1B
+330474;"12/11/2019 14:20:30";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;wR0HSX
+330475;"12/11/2019 14:20:30";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;6z4D4I
+330476;"12/11/2019 14:20:52";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;bEq1G5
+330477;"12/11/2019 14:20:52";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;Va8kG9
+330478;"12/11/2019 14:20:52";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;Q9c/p/
+330479;"12/11/2019 14:20:52";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;/qRKat
+330480;"12/11/2019 14:20:52";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;1Ip94g
+330481;"12/11/2019 14:20:52";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;DQ17OG
+330482;"12/11/2019 14:22:52";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;e9HMJp
+330483;"12/11/2019 14:23:15";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;HCEVPI
+330484;"12/11/2019 14:23:15";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;Jz0s6q
+330485;"12/11/2019 14:23:15";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;Ote85v
+330486;"12/11/2019 14:23:15";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;GXrKAW
+330487;"12/11/2019 14:23:16";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;pO4o9w
+330488;"12/11/2019 14:23:16";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;yXUfnb
+330489;"12/11/2019 14:23:16";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;/AIPZf
+330490;"12/11/2019 14:24:01";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;ZOAKq5
+330491;"12/11/2019 14:24:01";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;g1u5SN
+330492;"12/11/2019 14:24:01";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;4WV0t5
+330493;"12/11/2019 14:24:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;ieIQtT
+330494;"12/11/2019 14:24:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;7PKDb0
+330495;"12/11/2019 14:24:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;Bzqtj6
+330496;"12/11/2019 14:24:07";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;HOftnq
+330497;"12/11/2019 14:25:42";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;hSzGUM
+330498;"12/11/2019 14:25:44";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;zgjRLJ
+330499;"12/11/2019 14:25:44";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;iXjsUF
+330500;"12/11/2019 14:25:44";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;DvFKbJ
+330501;"12/11/2019 14:25:44";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;m5NWWo
+330502;"12/11/2019 14:25:44";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;CH/lGz
+330503;"12/11/2019 14:25:44";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;xRRz+m
+330504;"12/11/2019 14:25:44";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;Vt2J/L
+330505;"12/11/2019 14:25:46";"+0:00";"nadir";"Alarm: 5";"Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;6apUgI
+330506;"12/11/2019 14:25:46";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;G77e7v
+330507;"12/11/2019 14:25:46";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;7xpQBQ
+330508;"12/11/2019 14:25:46";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;w5n0fL
+330509;"12/11/2019 14:25:46";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;P1+STC
+330510;"12/11/2019 14:25:46";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;m0wPjV
+330511;"12/11/2019 14:25:46";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;nlOvNV
+330512;"12/11/2019 14:25:46";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;RdzCwz
+330513;"12/11/2019 14:26:15";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;xruqV0
+330514;"12/11/2019 14:26:15";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;QcgkV8
+330515;"12/11/2019 14:26:15";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;GSCpUV
+330516;"12/11/2019 14:26:15";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;o4r9pR
+330517;"12/11/2019 14:26:15";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;Dx2jNx
+330518;"12/11/2019 14:34:10";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;3PueD8
+330519;"12/11/2019 14:34:10";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;LeKLVh
+330520;"12/11/2019 14:44:04";"+0:00";"nadir";"Warning";"ALARM VACUUM SENSOR  On";;48QLMl
+330521;"12/11/2019 14:44:04";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;ewj7Y+
+330522;"12/11/2019 14:44:04";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;usXh59
+330523;"12/11/2019 14:44:04";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;UnnjdK
+330524;"12/11/2019 14:44:04";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;52y6Nd
+330525;"12/11/2019 14:44:07";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;OFBLkH
+330526;"12/11/2019 14:44:08";"+0:00";"nadir";"Warning";"ALARM VACUUM SENSOR  Off";;YYSOLK
+330527;"12/11/2019 14:44:08";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;YIfMuD
+330528;"12/11/2019 14:44:08";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;TEB717
+330529;"12/11/2019 14:44:09";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;saELY8
+330530;"12/11/2019 14:44:09";"+0:00";"nadir";"Alarm: 1135";"Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;3TBB2e
+330531;"12/11/2019 14:44:09";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;2yjN0w
+330532;"12/11/2019 14:44:09";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;f7BcP8
+330533;"12/11/2019 14:44:09";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;LRijwD
+330534;"12/11/2019 14:44:09";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;8j3xAK
+330535;"12/11/2019 14:44:09";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;hdBYKO
+330536;"12/11/2019 14:44:09";"+0:00";"nadir";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;9lu2AK
+330537;"12/11/2019 14:44:09";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;ZSSCOF
+330538;"12/11/2019 14:44:09";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;6r3Dy/
+330539;"12/11/2019 14:44:09";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;6ylcRe
+330540;"12/11/2019 14:44:15";"+0:00";"nadir";"Recipe";"Loading recipe number 3 ( 50ml Production ) on the interface.";;5CSmRX
+330541;"12/11/2019 14:44:15";"+0:00";"nadir";"Recipe";"Data trasfered to PLC";;jOdDpG
+330542;"12/11/2019 14:44:16";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;rBneKB
+330543;"12/11/2019 14:44:17";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;Vg8SRq
+330544;"12/11/2019 14:44:18";"+0:00";"nadir";"Warning";"PVSI NOT RUNNING   On";;Q6gh9a
+330545;"12/11/2019 14:44:20";"+0:00";"nadir";"Warning";"PVSI AND WINCC PRODUCT DIFFERENT  On";;+eilht
+330546;"12/11/2019 14:44:20";"+0:00";"nadir";"Warning";"PVSI NOT RUNNING   Off";;IWnEru
+330547;"12/11/2019 14:44:23";"+0:00";"nadir";"Warning";"PVSI AND WINCC PRODUCT DIFFERENT  Off";;VFuZa0
+330548;"12/11/2019 14:44:43";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;VjH75R
+330549;"12/11/2019 14:44:48";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;ZGezed
+330550;"12/11/2019 14:44:51";"+0:00";"nadir";"Alarm";"ALARM HOMING NOT DONE TURRET MOTOR  On";;zcvP1g
+330551;"12/11/2019 14:46:42";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;Ldik/H
+330552;"12/11/2019 14:46:42";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;UcRNJc
+330553;"12/11/2019 14:46:42";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;kEi4Fy
+330554;"12/11/2019 14:46:43";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;Rq9EE2
+330555;"12/11/2019 14:46:43";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;9a+j0D
+330556;"12/11/2019 14:46:43";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;mZuNjL
+330557;"12/11/2019 14:47:52";"+0:00";"nadir";"Alarm";"COVER OPEN 1  On";;LZOWbc
+330558;"12/11/2019 14:47:53";"+0:00";"nadir";"Alarm";"COVER OPEN 2  On";;aIhBYx
+330559;"12/11/2019 14:49:35";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;aReOWB
+330560;"12/11/2019 14:52:31";"+0:00";"nadir";"Alarm";"COVER OPEN 1  Off";;aoX43u
+330561;"12/11/2019 14:52:31";"+0:00";"nadir";"Alarm";"COVER OPEN 2  Off";;BTtrPb
+330562;"12/11/2019 14:52:31";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;XQF9KC
+330563;"12/11/2019 14:52:31";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;MBZuLx
+330564;"12/11/2019 14:52:31";"+0:00";"nadir";"Alarm";"ALARM HOMING NOT DONE TURRET MOTOR  Off";;nKwupf
+330565;"12/11/2019 14:52:31";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;lLbbAM
+330566;"12/11/2019 14:52:31";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;TszsFl
+330567;"12/11/2019 14:54:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;okpY/z
+330568;"12/11/2019 14:54:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;sc0+EQ
+330569;"12/11/2019 14:54:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;hPbGke
+330570;"12/11/2019 14:54:17";"+0:00";"nadir";"Warning";"WARNING EMPTY PROGRAM ACTIVATED  Off";;pnikVZ
+330571;"12/11/2019 14:54:19";"+0:00";"nadir";"Alarm: 4";"Acknowledgment of 4 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;Z45aWV
+330572;"12/11/2019 14:54:19";"+0:00";"nadir";"Alarm:";"ALARM HOMING NOT DONE TURRET MOTOR  Acknowledgment";;aALhVF
+330573;"12/11/2019 14:54:19";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;sAPp9S
+330574;"12/11/2019 14:54:19";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;QkdLjc
+330575;"12/11/2019 14:54:19";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;/s00O3
+330576;"12/11/2019 14:54:19";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;FZJYyV
+330577;"12/11/2019 14:54:19";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;TM2rzn
+330578;"12/11/2019 14:54:19";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;d1UJcW
+330579;"12/11/2019 14:54:19";"+0:00";"nadir";"Alarm:";"COVER OPEN 1  Acknowledgment";;2F2VlZ
+330580;"12/11/2019 14:54:19";"+0:00";"nadir";"Alarm:";"COVER OPEN 2  Acknowledgment";;l6XwVP
+330581;"12/11/2019 14:54:19";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;/DQJq5
+330582;"12/11/2019 14:55:36";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;eDtQje
+330583;"12/11/2019 14:55:39";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;imU1g5
+330584;"12/11/2019 14:56:09";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;YZn0wf
+330585;"12/11/2019 14:56:30";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;OKIdB2
+330586;"12/11/2019 14:56:41";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;0MBbdH
+330587;"12/11/2019 14:57:51";"+0:00";"nadir";"Alarm";"COVER OPEN 1  On";;2po5Yw
+330588;"12/11/2019 14:57:51";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;BumP/x
+330589;"12/11/2019 14:57:51";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;91HiGc
+330590;"12/11/2019 14:57:52";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;vB8KsD
+330591;"12/11/2019 14:57:52";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;+jRvWo
+330592;"12/11/2019 14:57:52";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;cbdEiL
+330593;"12/11/2019 14:59:59";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;W3DjuR
+330594;"12/11/2019 14:59:59";"+0:00";"nadir";"Alarm";"COVER OPEN 1  Off";;0Ichi1
+330595;"12/11/2019 15:00:00";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;KPHuok
+330596;"12/11/2019 15:00:00";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;Dbm+i2
+330597;"12/11/2019 15:00:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;PTsv+d
+330598;"12/11/2019 15:00:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;obR7jE
+330599;"12/11/2019 15:00:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;2wERoq
+330600;"12/11/2019 15:01:42";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;9/rsVI
+330601;"12/11/2019 15:01:42";"+0:00";"nadir";"Alarm:";"COVER OPEN 1  Acknowledgment";;c0IEhG
+330602;"12/11/2019 15:01:42";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;xrUM45
+330603;"12/11/2019 15:01:42";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;SI7UiH
+330604;"12/11/2019 15:01:42";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;e3yyMz
+330605;"12/11/2019 15:01:42";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;2YrJ/u
+330606;"12/11/2019 15:01:42";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;KCTHIF
+330607;"12/11/2019 15:02:17";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;qNmLY1
+330608;"12/11/2019 15:02:41";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;CaDD5e
+330609;"12/11/2019 15:03:12";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;Am8YwA
+330610;"12/11/2019 15:03:17";"+0:00";"nadir";"Warning";"WARNING INFEED BELT MINIM LOAD  On";;l39l1K
+330611;"12/11/2019 15:03:30";"+0:00";"nadir";"Warning";"WARNING INFEED BELT MINIM LOAD  Off";;ZYpbUX
+330612;"12/11/2019 15:03:36";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;DMCuJg
+330613;"12/11/2019 15:03:37";"+0:00";"nadir";"Warning";"WARNING INFEED BELT MINIM LOAD  On";;VWlmjO
+330614;"12/11/2019 15:03:38";"+0:00";"nadir";"Warning";"WARNING INFEED BELT MINIM LOAD  Off";;SJ6sd4
+330615;"12/11/2019 15:03:40";"+0:00";"nadir";"Warning";"WARNING INFEED BELT MINIM LOAD  On";;yXvgbj
+330616;"12/11/2019 15:03:46";"+0:00";"nadir";"Warning";"WARNING INFEED BELT MINIM LOAD  Off";;Cj5EHI
+330617;"12/11/2019 15:04:09";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;y1Znti
+330618;"12/11/2019 15:04:29";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;L/tjWM
+330619;"12/11/2019 15:04:52";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;No7vbi
+330620;"12/11/2019 15:05:17";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;ESaFD4
+330621;"12/11/2019 15:05:27";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;L6Mvw6
+330622;"12/11/2019 15:05:45";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;EwAcCQ
+330623;"12/11/2019 15:06:04";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;ImB3Xc
+330624;"12/11/2019 15:06:25";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;ytk6Ps
+330625;"12/11/2019 15:06:51";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;WbTt42
+330626;"12/11/2019 15:07:13";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;qUe/0K
+330627;"12/11/2019 15:07:41";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;YuYk2U
+330628;"12/11/2019 15:08:03";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;SmafQ3
+330629;"12/11/2019 15:08:28";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;7bL40v
+330630;"12/11/2019 15:08:49";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;iWo1RN
+330631;"12/11/2019 15:09:18";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;E+hAUW
+330632;"12/11/2019 15:09:38";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;lHkAJ4
+330633;"12/11/2019 15:09:58";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;LsUgnF
+330634;"12/11/2019 15:10:20";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;j9KjXk
+330635;"12/11/2019 15:10:39";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;9Z9V8w
+330636;"12/11/2019 15:11:00";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;U1zdNg
+330637;"12/11/2019 15:11:24";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;HSC4g5
+330638;"12/11/2019 15:11:54";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;tGX+oK
+330639;"12/11/2019 15:12:09";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;OSRFup
+330640;"12/11/2019 15:12:31";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;6XoQRj
+330641;"12/11/2019 15:12:33";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;5HR3gL
+330642;"12/11/2019 15:12:33";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;v0y77u
+330643;"12/11/2019 15:12:50";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;DK4XU5
+330644;"12/11/2019 15:13:11";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;u4iB8G
+330645;"12/11/2019 15:13:38";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;TEN18w
+330646;"12/11/2019 15:14:00";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;3r9zGC
+330647;"12/11/2019 15:14:28";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;H8/5fA
+330648;"12/11/2019 15:14:52";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;DjOA0q
+330649;"12/11/2019 15:15:12";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;jXbHzr
+330650;"12/11/2019 15:15:32";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;XvvlkB
+330651;"12/11/2019 15:15:55";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;Nu0HgN
+330652;"12/11/2019 15:16:13";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;t468tI
+330653;"12/11/2019 15:16:34";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;rAXwr1
+330654;"12/11/2019 15:16:52";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;tNIjZM
+330655;"12/11/2019 15:17:13";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;AqpQbX
+330656;"12/11/2019 15:17:35";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;cwVKbt
+330657;"12/11/2019 15:17:51";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;Rj4yqh
+330658;"12/11/2019 15:18:11";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;Q9Z+J5
+330659;"12/11/2019 15:18:39";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;oGdj02
+330660;"12/11/2019 15:19:01";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;1asOAV
+330661;"12/11/2019 15:19:24";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;nOsz7m
+330662;"12/11/2019 15:19:43";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;LZm+fD
+330663;"12/11/2019 15:20:11";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;JAlRHJ
+330664;"12/11/2019 15:20:30";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;7isAMr
+330665;"12/11/2019 15:21:02";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;CdbNe5
+330666;"12/11/2019 15:21:22";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;8bAwA9
+330667;"12/11/2019 15:21:46";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;Kqwp2L
+330668;"12/11/2019 15:22:05";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;/VtrKH
+330669;"12/11/2019 15:22:23";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;63YQB4
+330670;"12/11/2019 15:22:43";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;PMW+OM
+330671;"12/11/2019 15:23:06";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;h3HjU0
+330672;"12/11/2019 15:23:28";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;1oUgf5
+330673;"12/11/2019 15:23:43";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;+EQtDe
+330674;"12/11/2019 15:24:02";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;ff5WvN
+330675;"12/11/2019 15:24:34";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;Hl+KIL
+330676;"12/11/2019 15:24:53";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;xfR1X+
+330677;"12/11/2019 15:25:18";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;I0/Cy7
+330678;"12/11/2019 15:25:38";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;wt7KeY
+330679;"12/11/2019 15:26:01";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;BnMQPq
+330680;"12/11/2019 15:26:21";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;ctBigx
+330681;"12/11/2019 15:26:46";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;muy3jg
+330682;"12/11/2019 15:27:07";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;WoftSr
+330683;"12/11/2019 15:27:33";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;4tzGhJ
+330684;"12/11/2019 15:27:55";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;kCASCu
+330685;"12/11/2019 15:28:26";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;Od+C8Y
+330686;"12/11/2019 15:28:45";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;XeEjGn
+330687;"12/11/2019 15:29:13";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;JqU4AV
+330688;"12/11/2019 15:29:33";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;2Kq5on
+330689;"12/11/2019 15:30:06";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;tUR8gF
+330690;"12/11/2019 15:30:26";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;wk5HbX
+330691;"12/11/2019 15:30:40";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;AHGKiY
+330692;"12/11/2019 15:31:01";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;EcO2H/
+330693;"12/11/2019 15:31:29";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;mLlq+V
+330694;"12/11/2019 15:31:49";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;FSKCvq
+330695;"12/11/2019 15:32:26";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;2cvbhi
+330696;"12/11/2019 15:32:45";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;NQD8fe
+330697;"12/11/2019 15:33:13";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;Cp9R/+
+330698;"12/11/2019 15:33:21";"+0:00";"nadir";"Warning";"WARNING INFEED BELT MINIM LOAD  On";;W1bdyz
+330699;"12/11/2019 15:33:21";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;P/htM9
+330700;"12/11/2019 15:33:32";"+0:00";"nadir";"Warning";"WARNING INFEED BELT MINIM LOAD  Off";;038Z54
+330701;"12/11/2019 15:33:36";"+0:00";"nadir";"Warning";"WARNING INFEED BELT MINIM LOAD  On";;0474cz
+330702;"12/11/2019 15:33:41";"+0:00";"nadir";"Warning";"WARNING INFEED BELT MINIM LOAD  Off";;WxAWqR
+330703;"12/11/2019 15:33:41";"+0:00";"nadir";"Warning";"WARNING EMPTY PROGRAM ACTIVATED  On";;86rUGU
+330704;"12/11/2019 15:33:48";"+0:00";"nadir";"Warning";"WARNING INFEED BELT MINIM LOAD  On";;N/ky+E
+330705;"12/11/2019 15:33:48";"+0:00";"nadir";"Warning";"WARNING EMPTY PROGRAM ACTIVATED  Off";;p8Jdvr
+330706;"12/11/2019 15:33:54";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;yCfvIf
+330707;"12/11/2019 15:34:18";"+0:00";"nadir";"Warning";"WARNING INFEED BELT MINIM LOAD  Off";;9aBWKw
+330708;"12/11/2019 15:34:18";"+0:00";"nadir";"Alarm";"ALARM MISSING CONTAINERS ON THE LOADING BELT  On";;WKcZeC
+330709;"12/11/2019 15:34:22";"+0:00";"nadir";"Warning";"WARNING INFEED BELT MINIM LOAD  On";;Kt+/io
+330710;"12/11/2019 15:34:22";"+0:00";"nadir";"Alarm";"ALARM MISSING CONTAINERS ON THE LOADING BELT  Off";;Sadtkb
+330711;"12/11/2019 15:34:26";"+0:00";"nadir";"Warning";"WARNING INFEED BELT MINIM LOAD  Off";;i0H2ah
+330712;"12/11/2019 15:34:26";"+0:00";"nadir";"Warning";"WARNING EMPTY PROGRAM ACTIVATED  On";;o/0Zh3
+330713;"12/11/2019 15:34:40";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;ZTUZWK
+330714;"12/11/2019 15:34:40";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;rvPeYu
+330715;"12/11/2019 15:34:40";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;9Jf0/3
+330716;"12/11/2019 15:34:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;Q6iHac
+330717;"12/11/2019 15:34:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;7zfcHp
+330718;"12/11/2019 15:34:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;0PTnWr
+330719;"12/11/2019 15:46:20";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;UT+U30
+0;"12/11/2019 15:51:29";"+0:00";"System";"Application";"Stopping program run of WinCC flexible RT 2008 SP3 on device SPAMI-PC.";;TLtFQa
+0;"13/11/2019 08:08:23";"+0:00";"System";"Application";"Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3";;30/NFN
+330720;"13/11/2019 08:08:23";"+0:00";"System";"Application";"Change to operating mode 'online'.";;OndZTB
+330721;"13/11/2019 08:08:23";"+0:00";"System";"User administration";"Password list imported successfully.";;3SoEkh
+0;"13/11/2019 08:08:24";"+0:00";"System";"Logs";"Log files closed.";;fpK2aa
+"$RT_COUNT$";848;WriK3w;;;;;zu//It

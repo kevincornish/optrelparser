@@ -1,0 +1,646 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"14/01/2019 11:44:13","+0:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,EZkPx0
+349825,"14/01/2019 11:44:13","+0:00","System","Logs","Exporting a log.",,gOQ0aM
+349826,"14/01/2019 11:44:29","+0:00",,"Recipe","Loading recipe number 4 ( 100ml Production ) on the interface.",,bL1l1o
+349827,"14/01/2019 11:44:29","+0:00",,"Recipe","Data trasfered to PLC",,sOKeJq
+349828,"14/01/2019 11:44:29","+0:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,9KEd0J
+349829,"14/01/2019 11:44:29","+0:00",,"Alarm","ALARM ROTATION MOTOR  On",,RUm3in
+349830,"14/01/2019 11:44:29","+0:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,G5l32h
+349831,"14/01/2019 11:44:29","+0:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,rGb3mi
+349832,"14/01/2019 11:44:29","+0:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,7bvVnd
+349833,"14/01/2019 11:44:29","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,gYxgx9
+349834,"14/01/2019 11:44:29","+0:00",,"Warning","ALARM VACUUM SENSOR  On",,L6UdZD
+349835,"14/01/2019 11:44:29","+0:00",,"Warning","PVSI NOT READY  On",,WDyBIE
+349836,"14/01/2019 11:44:29","+0:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,6GRJLo
+349837,"14/01/2019 11:44:29","+0:00",,"Warning","PVSI NOT RUNNING   On",,++OL3n
+349838,"14/01/2019 11:44:29","+0:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,y0nTr1
+349839,"14/01/2019 11:44:29","+0:00",,"Alarm","EMERGENCY  On",,laaVBH
+349840,"14/01/2019 11:44:29","+0:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,9jvVdo
+349841,"14/01/2019 11:44:29","+0:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,SBH7i9
+349842,"14/01/2019 11:44:29","+0:00",,"Alarm","ALARM TURRET MOTOR NOT READY  On",,Uj/Gv2
+349843,"14/01/2019 11:44:29","+0:00",,"Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,2xMnBG
+349844,"14/01/2019 11:44:29","+0:00",,"Warning","PVSI NOT RUNNING   Off",,pNVdHQ
+349845,"14/01/2019 11:44:45","+0:00","System","User administration","User 'rachelb' logged on with group 'Operator'.",,7pedKr
+349846,"14/01/2019 11:44:45","+0:00","rachelb","Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,yUngQX
+349847,"14/01/2019 11:44:47","+0:00","System","User administration","User logged off.",,zw0p7V
+349848,"14/01/2019 11:44:47","+0:00","System","User administration","User 'rachelb' has unsuccessfully attempted to log on 1 times in succession.",,H8YvJW
+349849,"14/01/2019 11:44:56","+0:00","System","User administration","User 'rachelb' logged on with group 'Operator'.",,/WZ8/1
+349850,"14/01/2019 11:45:15","+0:00","rachelb","User administration","User logged off.",,mB9+CN
+349851,"14/01/2019 11:45:15","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,Hj+euI
+349852,"14/01/2019 11:45:22","+0:00",,"Alarm","COVER OPEN 1  On",,BWWgc5
+349853,"14/01/2019 11:45:23","+0:00",,"Alarm","COVER OPEN 2  On",,7lAUD9
+349854,"14/01/2019 11:46:37","+0:00",,"Alarm","COVER OPEN 4  On",,OC82be
+349855,"14/01/2019 11:46:37","+0:00",,"Alarm","COVER OPEN 3  On",,CEjpHT
+349856,"14/01/2019 12:07:05","+0:00","System","User administration","User 'yvie' logged on with group 'Operator'.",,CYIe9E
+349857,"14/01/2019 12:08:43","+0:00","yvie","Alarm","WARNING MISSING LOGIN OPERATION  Off",,i6vBnl
+349858,"14/01/2019 12:08:43","+0:00","yvie","Warning","ALARM VACUUM SENSOR  Off",,EHEPaW
+349859,"14/01/2019 12:08:43","+0:00","yvie","Warning","PVSI NOT READY  Off",,+1XJam
+349860,"14/01/2019 12:08:43","+0:00","yvie","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,5kEkYB
+349861,"14/01/2019 12:08:43","+0:00","yvie","Alarm","COVER OPEN 1  Off",,yaSgvJ
+349862,"14/01/2019 12:08:43","+0:00","yvie","Alarm","COVER OPEN 2  Off",,2HVxTx
+349863,"14/01/2019 12:08:43","+0:00","yvie","Alarm","COVER OPEN 3  Off",,jx32Mr
+349864,"14/01/2019 12:08:43","+0:00","yvie","Alarm","COVER OPEN 4  Off",,BxyYVA
+349865,"14/01/2019 12:08:43","+0:00","yvie","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  Off",,A8Lewt
+349866,"14/01/2019 12:08:43","+0:00","yvie","Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,MBue+4
+349867,"14/01/2019 12:08:43","+0:00","yvie","Alarm","ALARM TURRET MOTOR NOT READY  Off",,v0t8Bw
+349868,"14/01/2019 12:08:43","+0:00","yvie","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  Off",,DqCrVK
+349869,"14/01/2019 12:08:43","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,nm9BY0
+349870,"14/01/2019 12:08:43","+0:00","yvie","Alarm","EMERGENCY  Off",,AuVFZK
+349871,"14/01/2019 12:08:44","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,A4Tn+h
+349872,"14/01/2019 12:08:44","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,rxWzOS
+349873,"14/01/2019 12:08:44","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,Qlhd2c
+349874,"14/01/2019 12:12:54","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,KOHGp9
+349875,"14/01/2019 12:12:54","+0:00","yvie","Alarm","EMERGENCY  On",,aD7ybV
+349876,"14/01/2019 12:12:54","+0:00","yvie","Alarm","COVER OPEN 3  On",,GHMn5v
+349877,"14/01/2019 12:12:54","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,ubVXY5
+349878,"14/01/2019 12:12:54","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,ekiQ+1
+349879,"14/01/2019 12:12:54","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,erX0BH
+349880,"14/01/2019 12:13:24","+0:00","yvie","Alarm","COVER OPEN 3  Off",,ifLyo2
+349881,"14/01/2019 12:13:24","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,Uq4hQ/
+349882,"14/01/2019 12:13:24","+0:00","yvie","Alarm","EMERGENCY  Off",,MwoS0c
+349883,"14/01/2019 12:13:24","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,pYlK+l
+349884,"14/01/2019 12:13:24","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,8bINAG
+349885,"14/01/2019 12:13:24","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,wCFH/b
+349886,"14/01/2019 12:17:42","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,3IITgk
+349887,"14/01/2019 12:17:42","+0:00","yvie","Alarm","EMERGENCY  On",,nlmZ3x
+349888,"14/01/2019 12:17:42","+0:00","yvie","Alarm","COVER OPEN 3  On",,iYdo7t
+349889,"14/01/2019 12:17:42","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,2Zn2gg
+349890,"14/01/2019 12:17:42","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,sBJSlj
+349891,"14/01/2019 12:17:42","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,tHSAMy
+349892,"14/01/2019 12:17:43","+0:00","yvie","Alarm","COVER OPEN 4  On",,GVomls
+349893,"14/01/2019 12:22:39","+0:00","yvie","Alarm","COVER OPEN 3  Off",,oRWcj9
+349894,"14/01/2019 12:22:39","+0:00","yvie","Alarm","COVER OPEN 4  Off",,6PPLv7
+349895,"14/01/2019 12:22:40","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,Ul2AU7
+349896,"14/01/2019 12:22:40","+0:00","yvie","Alarm","EMERGENCY  Off",,Grdh3e
+349897,"14/01/2019 12:22:41","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,jcy61f
+349898,"14/01/2019 12:22:41","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,Pitze+
+349899,"14/01/2019 12:22:41","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,zZ+Jx9
+349900,"14/01/2019 14:00:04","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,Oyx400
+349901,"14/01/2019 14:01:13","+0:00","yvie","Alarm","COVER OPEN 3  On",,NIg0Xg
+349902,"14/01/2019 14:01:13","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,qAdJPk
+349903,"14/01/2019 14:01:13","+0:00","yvie","Alarm","EMERGENCY  On",,Nkeq+n
+349904,"14/01/2019 14:01:14","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,foKsG6
+349905,"14/01/2019 14:01:14","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,Hjrpdt
+349906,"14/01/2019 14:01:14","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,pRaHAO
+349907,"14/01/2019 14:02:10","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,YOajxR
+349908,"14/01/2019 14:02:10","+0:00","yvie","Alarm","COVER OPEN 3  Off",,12Lny5
+349909,"14/01/2019 14:02:11","+0:00","yvie","Alarm","EMERGENCY  Off",,cBB/kI
+349910,"14/01/2019 14:02:11","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,EV3jJ7
+349911,"14/01/2019 14:02:12","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,qOv4lf
+349912,"14/01/2019 14:02:12","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,GsIoJU
+349913,"14/01/2019 14:02:12","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,X6/VfN
+349914,"14/01/2019 14:06:03","+0:00","yvie","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On",,Lj5+MV
+349915,"14/01/2019 14:06:03","+0:00","yvie","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,WuD5QI
+349916,"14/01/2019 14:06:03","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,gfgmD6
+349917,"14/01/2019 14:07:26","+0:00","yvie","Alarm","COVER OPEN 3  On",,okMF2d
+349918,"14/01/2019 14:07:26","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,WHxKDQ
+349919,"14/01/2019 14:07:26","+0:00","yvie","Alarm","EMERGENCY  On",,davdlc
+349920,"14/01/2019 14:07:26","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,ZHO1/1
+349921,"14/01/2019 14:07:26","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,WLHP2M
+349922,"14/01/2019 14:07:26","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,m5D6HQ
+349923,"14/01/2019 14:09:00","+0:00","yvie","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off",,u0A1LH
+349924,"14/01/2019 14:09:00","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,l+CtpM
+349925,"14/01/2019 14:09:00","+0:00","yvie","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off",,Zkzax6
+349926,"14/01/2019 14:09:00","+0:00","yvie","Alarm","COVER OPEN 3  Off",,PutKFP
+349927,"14/01/2019 14:09:00","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,OBEaJp
+349928,"14/01/2019 14:09:00","+0:00","yvie","Alarm","EMERGENCY  Off",,Z6+Ks/
+349929,"14/01/2019 14:09:01","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,dVY26c
+349930,"14/01/2019 14:09:01","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,tZSDQJ
+349931,"14/01/2019 14:09:01","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,7mhYX9
+349932,"14/01/2019 14:09:04","+0:00","yvie","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,pBfB8z
+349933,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,GDI2vn
+349934,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,/JcNg7
+349935,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment",,jRoAY0
+349936,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,rCM0Za
+349937,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","ALARM TURRET MOTOR NOT READY  Acknowledgment",,m1pR/Z
+349938,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","ALARM HOMING NOT DONE TURRET MOTOR  Acknowledgment",,0KFnu7
+349939,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","COVER OPEN 1  Acknowledgment",,wWKmpo
+349940,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","COVER OPEN 2  Acknowledgment",,AP/S7i
+349941,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","COVER OPEN 4  Acknowledgment",,krd8PJ
+349942,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment",,qSB/7A
+349943,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment",,A2Twho
+349944,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Acknowledgment",,2ZAinT
+349945,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,GbVCx1
+349946,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,XplTWs
+349947,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,HLGOj7
+349948,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,CirLme
+349949,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,NwkjM+
+349950,"14/01/2019 14:09:04","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,KvCsw1
+349951,"14/01/2019 14:09:21","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,Fa9YCF
+349952,"14/01/2019 14:09:26","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,v+rQkk
+349953,"14/01/2019 14:12:41","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,envkv2
+349954,"14/01/2019 14:12:53","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,4vuOa+
+349955,"14/01/2019 14:12:53","+0:00","yvie","Alarm","EMERGENCY  On",,rkI4FH
+349956,"14/01/2019 14:12:53","+0:00","yvie","Alarm","COVER OPEN 3  On",,oKO0Bo
+349957,"14/01/2019 14:12:54","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,gZ9tAs
+349958,"14/01/2019 14:12:54","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,z+rNAJ
+349959,"14/01/2019 14:12:54","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,dvmcY8
+349960,"14/01/2019 14:13:10","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,hdZKtr
+349961,"14/01/2019 14:13:10","+0:00","yvie","Alarm","COVER OPEN 3  Off",,OFqIcZ
+349962,"14/01/2019 14:13:10","+0:00","yvie","Alarm","EMERGENCY  Off",,qmRXuk
+349963,"14/01/2019 14:13:11","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,X+W/vK
+349964,"14/01/2019 14:13:11","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,ATwvXW
+349965,"14/01/2019 14:13:11","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,xQyskb
+349966,"14/01/2019 14:13:11","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,Qe8akt
+349967,"14/01/2019 14:30:13","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,Zh2mad
+349968,"14/01/2019 14:30:26","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,mIMzE9
+349969,"14/01/2019 14:30:26","+0:00","yvie","Alarm","EMERGENCY  On",,FKwVKv
+349970,"14/01/2019 14:30:26","+0:00","yvie","Alarm","COVER OPEN 3  On",,EcHb61
+349971,"14/01/2019 14:30:26","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,U1Ss/N
+349972,"14/01/2019 14:30:26","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,xDBK1j
+349973,"14/01/2019 14:30:26","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,LupOcV
+349974,"14/01/2019 14:30:36","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,/jLta2
+349975,"14/01/2019 14:30:36","+0:00","yvie","Alarm","COVER OPEN 3  Off",,NIm/G2
+349976,"14/01/2019 14:30:36","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,14frLH
+349977,"14/01/2019 14:30:36","+0:00","yvie","Alarm","EMERGENCY  Off",,dFXjo3
+349978,"14/01/2019 14:30:37","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,X7ZXbF
+349979,"14/01/2019 14:30:37","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,CECPFI
+349980,"14/01/2019 14:30:37","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,kZUXyx
+349981,"14/01/2019 14:30:45","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,1lyT37
+349982,"14/01/2019 14:30:47","+0:00","yvie","Alarm: 1049","Acknowledgment of 1049 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ljgVKi
+349983,"14/01/2019 14:30:47","+0:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,GvuMbV
+349984,"14/01/2019 14:30:47","+0:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,FXgCo8
+349985,"14/01/2019 14:30:47","+0:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,zBzbrP
+349986,"14/01/2019 14:30:47","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,RpQXTZ
+349987,"14/01/2019 14:30:47","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,iSXWpD
+349988,"14/01/2019 14:30:47","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,6xpLE3
+349989,"14/01/2019 14:30:47","+0:00","yvie","Alarm:","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Acknowledgment",,tI3ksG
+349990,"14/01/2019 14:30:49","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,lCldcD
+349991,"14/01/2019 14:42:14","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,KmU3Eg
+349992,"14/01/2019 14:43:01","+0:00","yvie","Alarm","COVER OPEN 3  On",,lsq6+g
+349993,"14/01/2019 14:43:01","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,/0p3dD
+349994,"14/01/2019 14:43:01","+0:00","yvie","Alarm","EMERGENCY  On",,J5CUP/
+349995,"14/01/2019 14:43:01","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,NC2JIP
+349996,"14/01/2019 14:43:01","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,wa3b+/
+349997,"14/01/2019 14:43:01","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,qCLPCs
+349998,"14/01/2019 14:43:09","+0:00","yvie","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,kk+v83
+349999,"14/01/2019 14:43:09","+0:00","yvie","Alarm:","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Acknowledgment",,nOiORk
+350000,"14/01/2019 14:43:09","+0:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,egm0gz
+350001,"14/01/2019 14:43:09","+0:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,lLLDED
+350002,"14/01/2019 14:43:09","+0:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,+p+n79
+350003,"14/01/2019 14:43:09","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,E3JfYP
+350004,"14/01/2019 14:43:09","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,lb+IiD
+350005,"14/01/2019 14:43:09","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,wGTJaR
+350006,"14/01/2019 14:43:10","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,KObz+P
+350007,"14/01/2019 14:43:10","+0:00","yvie","Alarm","COVER OPEN 3  Off",,hkl9wI
+350008,"14/01/2019 14:43:11","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,5OgDzT
+350009,"14/01/2019 14:43:11","+0:00","yvie","Alarm","EMERGENCY  Off",,r6CZBj
+350010,"14/01/2019 14:43:12","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,znleyL
+350011,"14/01/2019 14:43:12","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,/niNcg
+350012,"14/01/2019 14:43:12","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,1TrZgg
+350013,"14/01/2019 14:43:16","+0:00","yvie","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,q22k6L
+350014,"14/01/2019 14:43:16","+0:00","yvie","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,Ix67FV
+350015,"14/01/2019 16:02:55","+0:00","yvie","Alarm","COVER OPEN 3  On",,DgpNew
+350016,"14/01/2019 16:02:55","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,ejOjdV
+350017,"14/01/2019 16:02:55","+0:00","yvie","Alarm","EMERGENCY  On",,+7M0Nf
+350018,"14/01/2019 16:02:55","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,qM/gMs
+350019,"14/01/2019 16:02:55","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,Zpj4ts
+350020,"14/01/2019 16:02:55","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,4qOKSz
+350021,"14/01/2019 16:05:29","+0:00","yvie","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,0fzdxI
+350022,"14/01/2019 16:05:50","+0:00","yvie","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,+Gtscu
+350023,"14/01/2019 16:06:33","+0:00","yvie","Alarm","COVER OPEN 3  Off",,5pbmix
+350024,"14/01/2019 16:06:34","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,SYpGIa
+350025,"14/01/2019 16:06:34","+0:00","yvie","Alarm","EMERGENCY  Off",,BK0dRS
+350026,"14/01/2019 16:06:35","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,Kds/b/
+350027,"14/01/2019 16:06:35","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,hwli3B
+350028,"14/01/2019 16:06:35","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,KwcH+h
+350029,"14/01/2019 16:08:07","+0:00","yvie","Alarm","COVER OPEN 3  On",,49Bq3I
+350030,"14/01/2019 16:08:07","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,oYVGgy
+350031,"14/01/2019 16:08:07","+0:00","yvie","Alarm","EMERGENCY  On",,jEbaep
+350032,"14/01/2019 16:08:07","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,iD7TSs
+350033,"14/01/2019 16:08:07","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,MKiPc5
+350034,"14/01/2019 16:08:07","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,LTYGAG
+350035,"15/01/2019 07:47:11","+0:00","yvie","Alarm","COVER OPEN 4  On",,yatWdP
+350036,"15/01/2019 08:43:05","+0:00","yvie","Alarm","COVER OPEN 2  On",,N0jOo9
+350037,"15/01/2019 08:43:06","+0:00","yvie","Alarm","COVER OPEN 1  On",,D0rnwD
+350038,"15/01/2019 08:59:15","+0:00","yvie","Alarm","COVER OPEN 1  Off",,3BBscb
+350039,"15/01/2019 08:59:15","+0:00","yvie","Alarm","COVER OPEN 2  Off",,DKenSR
+350040,"15/01/2019 08:59:15","+0:00","yvie","Alarm","COVER OPEN 3  Off",,2TwQXA
+350041,"15/01/2019 08:59:15","+0:00","yvie","Alarm","COVER OPEN 4  Off",,wv0kzy
+350042,"15/01/2019 08:59:15","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,FbkYDS
+350043,"15/01/2019 08:59:15","+0:00","yvie","Alarm","EMERGENCY  Off",,nHtMe/
+350044,"15/01/2019 09:09:46","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,YMH+3H
+350045,"15/01/2019 09:09:46","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,D9gZYf
+350046,"15/01/2019 09:09:46","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,UMeuIN
+350047,"15/01/2019 09:10:41","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,dNIFN4
+350048,"15/01/2019 09:10:41","+0:00","yvie","Alarm","EMERGENCY  On",,BgOOX1
+350049,"15/01/2019 09:10:41","+0:00","yvie","Alarm","COVER OPEN 1  On",,wrhN5D
+350050,"15/01/2019 09:10:41","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,Qh9XBT
+350051,"15/01/2019 09:10:41","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,rdC2mV
+350052,"15/01/2019 09:10:41","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,hRl1kh
+350053,"15/01/2019 09:10:42","+0:00","yvie","Alarm","COVER OPEN 2  On",,i11V82
+350054,"15/01/2019 09:11:21","+0:00","yvie","Alarm","COVER OPEN 1  Off",,1O7kLB
+350055,"15/01/2019 09:11:21","+0:00","yvie","Alarm","COVER OPEN 2  Off",,lyZoHA
+350056,"15/01/2019 09:11:21","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,LgfOL2
+350057,"15/01/2019 09:11:21","+0:00","yvie","Alarm","EMERGENCY  Off",,145XCF
+350058,"15/01/2019 09:11:22","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,JkK48l
+350059,"15/01/2019 09:11:22","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,QQFyeI
+350060,"15/01/2019 09:11:22","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,UccN8R
+350061,"15/01/2019 09:11:23","+0:00","yvie","Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,YYXzo5
+350062,"15/01/2019 09:11:23","+0:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,6LaeuP
+350063,"15/01/2019 09:11:23","+0:00","yvie","Alarm:","COVER OPEN 4  Acknowledgment",,THesFg
+350064,"15/01/2019 09:11:23","+0:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,AjkF15
+350065,"15/01/2019 09:11:23","+0:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,tzoI9D
+350066,"15/01/2019 09:11:23","+0:00","yvie","Alarm:","COVER OPEN 1  Acknowledgment",,MTSuxh
+350067,"15/01/2019 09:11:23","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,QLB/98
+350068,"15/01/2019 09:11:23","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,N5ISJ6
+350069,"15/01/2019 09:11:23","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,nHl/xY
+350070,"15/01/2019 09:11:23","+0:00","yvie","Alarm:","COVER OPEN 2  Acknowledgment",,8TWcLx
+350071,"15/01/2019 09:30:40","+0:00","yvie","Alarm","COVER OPEN 4  On",,jMiNHW
+350072,"15/01/2019 09:30:40","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,hI5OXM
+350073,"15/01/2019 09:30:40","+0:00","yvie","Alarm","EMERGENCY  On",,845eV8
+350074,"15/01/2019 09:30:41","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,EkN02q
+350075,"15/01/2019 09:30:41","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,jXcKSS
+350076,"15/01/2019 09:30:41","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,hIqMf/
+350077,"15/01/2019 09:32:46","+0:00","yvie","Alarm","COVER OPEN 4  Off",,CB1XoW
+350078,"15/01/2019 09:32:46","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,uk2m6c
+350079,"15/01/2019 09:32:46","+0:00","yvie","Alarm","EMERGENCY  Off",,A6y0oX
+350080,"15/01/2019 09:32:47","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,kNcyTh
+350081,"15/01/2019 09:32:47","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,lKYR4m
+350082,"15/01/2019 09:32:47","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,9Nx/Uc
+350083,"15/01/2019 09:32:48","+0:00","yvie","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ZydIWh
+350084,"15/01/2019 09:32:48","+0:00","yvie","Alarm:","COVER OPEN 4  Acknowledgment",,5Je3Cr
+350085,"15/01/2019 09:32:48","+0:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,yk7TO1
+350086,"15/01/2019 09:32:48","+0:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,6c7CV8
+350087,"15/01/2019 09:32:48","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,Fu3LwS
+350088,"15/01/2019 09:32:48","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,4m5gJU
+350089,"15/01/2019 09:32:48","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,2fh+iC
+350090,"15/01/2019 09:34:04","+0:00","yvie","User administration","User logged off.",,gA1T2M
+350091,"15/01/2019 09:34:04","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,yW+pN/
+350092,"15/01/2019 09:34:04","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,jP4sd4
+350093,"15/01/2019 09:34:13","+0:00","System","User administration","User 'robj' logged on with group 'Operator'.",,T620Rs
+350094,"15/01/2019 09:36:12","+0:00","robj","User administration","User logged off.",,z+oOV5
+350095,"15/01/2019 09:36:12","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,3kFwW/
+350096,"15/01/2019 09:36:12","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,nDlP4i
+350097,"15/01/2019 09:36:12","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,nCUAJo
+350098,"15/01/2019 09:36:14","+0:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,/6SD0q
+350099,"15/01/2019 09:36:14","+0:00",,"Alarm","EMERGENCY  On",,dAH+Ga
+350100,"15/01/2019 09:36:14","+0:00",,"Alarm","COVER OPEN 3  On",,hRKn6T
+350101,"15/01/2019 09:36:14","+0:00",,"Alarm","ALARM ROTATION MOTOR  On",,BeaV73
+350102,"15/01/2019 09:36:14","+0:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,GUocRG
+350103,"15/01/2019 09:36:14","+0:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,BRVWoS
+350104,"15/01/2019 09:36:15","+0:00",,"Alarm","COVER OPEN 4  On",,Yk7lk8
+350105,"15/01/2019 09:43:56","+0:00","System","User administration","User 'yvie' logged on with group 'Operator'.",,BgW/B9
+350106,"15/01/2019 09:44:25","+0:00","yvie","Alarm","WARNING MISSING LOGIN OPERATION  Off",,tFopaY
+350107,"15/01/2019 09:44:25","+0:00","yvie","Alarm","COVER OPEN 3  Off",,5OnqP2
+350108,"15/01/2019 09:44:25","+0:00","yvie","Alarm","COVER OPEN 4  Off",,XzBpG4
+350109,"15/01/2019 09:44:26","+0:00","yvie","Alarm","EMERGENCY  Off",,BMy5VZ
+350110,"15/01/2019 09:44:26","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,0y+k9Q
+350111,"15/01/2019 09:44:27","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,I4/Ht6
+350112,"15/01/2019 09:44:27","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,iEmUqJ
+350113,"15/01/2019 09:44:27","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,1lKV6X
+350114,"15/01/2019 12:36:57","+0:00","yvie","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On",,y+6slk
+350115,"15/01/2019 12:36:57","+0:00","yvie","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,pE5FI5
+350116,"15/01/2019 12:37:44","+0:00","yvie","Alarm","COVER OPEN 4  On",,boGz7v
+350117,"15/01/2019 12:37:44","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,eYRS6P
+350118,"15/01/2019 12:37:44","+0:00","yvie","Alarm","EMERGENCY  On",,ZKsOiI
+350119,"15/01/2019 12:37:44","+0:00","yvie","Alarm","COVER OPEN 3  On",,sOg+yQ
+350120,"15/01/2019 12:37:45","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,Ui3bSq
+350121,"15/01/2019 12:37:45","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,nb92sA
+350122,"15/01/2019 12:37:45","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,iRkWKf
+350123,"15/01/2019 12:40:47","+0:00","yvie","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off",,6axEf7
+350124,"15/01/2019 12:40:47","+0:00","yvie","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off",,djUOEu
+350125,"15/01/2019 12:40:47","+0:00","yvie","Alarm","COVER OPEN 3  Off",,/xaKZU
+350126,"15/01/2019 12:40:47","+0:00","yvie","Alarm","COVER OPEN 4  Off",,4Fl+6m
+350127,"15/01/2019 12:40:48","+0:00","yvie","Alarm","EMERGENCY  Off",,GAvB4N
+350128,"15/01/2019 12:40:48","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,CTfIMH
+350129,"15/01/2019 12:40:49","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,B1Upjv
+350130,"15/01/2019 12:40:49","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,kvmJ8g
+350131,"15/01/2019 12:40:49","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,z6l965
+350132,"15/01/2019 12:40:54","+0:00","yvie","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,lP1Npb
+350133,"15/01/2019 12:40:54","+0:00","yvie","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,zE3VPm
+350134,"15/01/2019 12:40:54","+0:00","yvie","Alarm:","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment",,Il2lAY
+350135,"15/01/2019 12:40:54","+0:00","yvie","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment",,RTgPjp
+350136,"15/01/2019 12:40:54","+0:00","yvie","Alarm:","COVER OPEN 4  Acknowledgment",,9CSs/Y
+350137,"15/01/2019 12:40:54","+0:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,wgfIHW
+350138,"15/01/2019 12:40:54","+0:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,0w1t1E
+350139,"15/01/2019 12:40:54","+0:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,RR4Bjw
+350140,"15/01/2019 12:40:54","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,esR724
+350141,"15/01/2019 12:40:54","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,GtZog6
+350142,"15/01/2019 12:40:54","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,GNTyCc
+350143,"15/01/2019 12:40:59","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,s+AoHU
+350144,"15/01/2019 12:40:59","+0:00","yvie","Alarm","ALARM MISSING CONTAINER IN REJECT 2 CHANNEL  On",,46PICH
+350145,"15/01/2019 12:41:03","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,Ts0tGQ
+350146,"15/01/2019 12:41:03","+0:00","yvie","Alarm","ALARM MISSING CONTAINER IN REJECT 2 CHANNEL  Off",,z2de5H
+350147,"15/01/2019 12:41:09","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,nXS7Af
+350148,"15/01/2019 12:41:16","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,pSZulK
+350149,"15/01/2019 12:41:34","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,wtBNp/
+350150,"15/01/2019 12:41:42","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,GKVe2A
+350151,"15/01/2019 12:41:49","+0:00","yvie","Alarm","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  On",,GCmISc
+350152,"15/01/2019 12:42:26","+0:00","yvie","Alarm","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  Off",,KxR7n1
+350153,"15/01/2019 12:43:04","+0:00","yvie","Alarm: 1230","Acknowledgment of 1230 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,fYynze
+350154,"15/01/2019 12:43:04","+0:00","yvie","Alarm:","ALARM MISSING CONTAINER IN REJECT 2 CHANNEL  Acknowledgment",,/MbcGv
+350155,"15/01/2019 12:43:04","+0:00","yvie","Alarm:","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Acknowledgment",,MD2u7c
+350156,"15/01/2019 12:43:04","+0:00","yvie","Alarm:","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  Acknowledgment",,zqUUrH
+350157,"15/01/2019 12:45:05","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,kGG1G6
+350158,"15/01/2019 12:52:21","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,jQMQ2Y
+350159,"15/01/2019 12:52:21","+0:00","yvie","Alarm","EMERGENCY  On",,5rIfRC
+350160,"15/01/2019 12:52:21","+0:00","yvie","Alarm","COVER OPEN 3  On",,Aa0Dhs
+350161,"15/01/2019 12:52:22","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,cfgQPZ
+350162,"15/01/2019 12:52:22","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,B66xQx
+350163,"15/01/2019 12:52:22","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,AgQFhD
+350164,"15/01/2019 12:52:24","+0:00","yvie","Alarm","COVER OPEN 4  On",,ePC8FG
+350165,"15/01/2019 12:55:18","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,0AVPsk
+350166,"15/01/2019 12:55:18","+0:00","yvie","Alarm","COVER OPEN 3  Off",,LWdmBG
+350167,"15/01/2019 12:55:18","+0:00","yvie","Alarm","COVER OPEN 4  Off",,Htnudf
+350168,"15/01/2019 12:55:18","+0:00","yvie","Alarm","EMERGENCY  Off",,C8HQGQ
+350169,"15/01/2019 12:55:18","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,NVNnO7
+350170,"15/01/2019 12:55:18","+0:00","yvie","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,nhH3N/
+350171,"15/01/2019 12:55:18","+0:00","yvie","Alarm:","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Acknowledgment",,RzE0cD
+350172,"15/01/2019 12:55:18","+0:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,Y8FBAw
+350173,"15/01/2019 12:55:18","+0:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,ksHxm9
+350174,"15/01/2019 12:55:18","+0:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,plK9w8
+350175,"15/01/2019 12:55:18","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,cSFwra
+350176,"15/01/2019 12:55:18","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,U7b0zE
+350177,"15/01/2019 12:55:18","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,6IE2cy
+350178,"15/01/2019 12:55:18","+0:00","yvie","Alarm:","COVER OPEN 4  Acknowledgment",,l69Zp1
+350179,"15/01/2019 12:55:19","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,71sk2/
+350180,"15/01/2019 12:55:19","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,yfjOpt
+350181,"15/01/2019 12:55:19","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,NuYFHS
+350182,"15/01/2019 12:55:26","+0:00","yvie","Alarm","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  On",,egkSFq
+350183,"15/01/2019 12:55:32","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,5djKYy
+350184,"15/01/2019 12:55:32","+0:00","yvie","Alarm","EMERGENCY  On",,f6T68g
+350185,"15/01/2019 12:55:32","+0:00","yvie","Alarm","COVER OPEN 3  On",,zSZHws
+350186,"15/01/2019 12:55:32","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,VYG+v9
+350187,"15/01/2019 12:55:32","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,qYVUee
+350188,"15/01/2019 12:55:32","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,LHym/X
+350189,"15/01/2019 12:55:41","+0:00","yvie","Alarm","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  Off",,8f4CUx
+350190,"15/01/2019 12:55:41","+0:00","yvie","Alarm","COVER OPEN 3  Off",,ki6qdv
+350191,"15/01/2019 12:55:41","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,8pWRfQ
+350192,"15/01/2019 12:55:41","+0:00","yvie","Alarm","EMERGENCY  Off",,AbQvi8
+350193,"15/01/2019 12:55:42","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,E2nCZ5
+350194,"15/01/2019 12:55:42","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,zqyBX4
+350195,"15/01/2019 12:55:42","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,Tfcn5X
+350196,"15/01/2019 12:55:46","+0:00","yvie","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,pGwdEP
+350197,"15/01/2019 12:55:46","+0:00","yvie","Alarm:","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  Acknowledgment",,zEvPC7
+350198,"15/01/2019 12:55:46","+0:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,RM4Jk6
+350199,"15/01/2019 12:55:46","+0:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,RmKwst
+350200,"15/01/2019 12:55:46","+0:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,EPdA2Y
+350201,"15/01/2019 12:55:46","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,qfF+1N
+350202,"15/01/2019 12:55:46","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,THSnHe
+350203,"15/01/2019 12:55:46","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,LLRX/J
+350204,"15/01/2019 12:57:46","+0:00","yvie","Alarm","COVER OPEN 2  On",,FNI56s
+350205,"15/01/2019 12:57:46","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,ghkIax
+350206,"15/01/2019 12:57:46","+0:00","yvie","Alarm","EMERGENCY  On",,hnRzzW
+350207,"15/01/2019 12:57:47","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,YdYrOV
+350208,"15/01/2019 12:57:47","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,H5Y3Q7
+350209,"15/01/2019 12:57:47","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,jcHcZm
+350210,"15/01/2019 12:58:41","+0:00","yvie","Alarm","COVER OPEN 3  On",,xnf43y
+350211,"15/01/2019 13:06:30","+0:00","yvie","Alarm","COVER OPEN 1  On",,KTjmge
+350212,"15/01/2019 13:16:59","+0:00","yvie","Alarm","COVER OPEN 1  Off",,hMfd4f
+350213,"15/01/2019 13:16:59","+0:00","yvie","Alarm","COVER OPEN 2  Off",,ftmZjj
+350214,"15/01/2019 13:16:59","+0:00","yvie","Alarm","COVER OPEN 3  Off",,bLEyRK
+350215,"15/01/2019 13:16:59","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,ZbrC+x
+350216,"15/01/2019 13:16:59","+0:00","yvie","Alarm","EMERGENCY  Off",,OpPrYR
+350217,"15/01/2019 13:17:00","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,AdIeQ5
+350218,"15/01/2019 13:17:00","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,hwe0Sa
+350219,"15/01/2019 13:17:00","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,1QTulj
+350220,"15/01/2019 13:17:01","+0:00","yvie","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ffRKYM
+350221,"15/01/2019 13:17:01","+0:00","yvie","Alarm:","COVER OPEN 2  Acknowledgment",,38deA3
+350222,"15/01/2019 13:17:01","+0:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,5QeIbm
+350223,"15/01/2019 13:17:01","+0:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,nqolm0
+350224,"15/01/2019 13:17:01","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,opH+f1
+350225,"15/01/2019 13:17:01","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,lNyflU
+350226,"15/01/2019 13:17:01","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,56zhWW
+350227,"15/01/2019 13:17:01","+0:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,rJJ4nI
+350228,"15/01/2019 13:17:01","+0:00","yvie","Alarm:","COVER OPEN 1  Acknowledgment",,ArtXFy
+350229,"15/01/2019 13:17:31","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,3s3Pob
+350230,"15/01/2019 13:17:31","+0:00","yvie","Alarm","EMERGENCY  On",,kfN2Ep
+350231,"15/01/2019 13:17:31","+0:00","yvie","Alarm","COVER OPEN 4  On",,CPjYQh
+350232,"15/01/2019 13:17:31","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,AOQoXf
+350233,"15/01/2019 13:17:31","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,OPZONK
+350234,"15/01/2019 13:17:31","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,rZWjxl
+350235,"15/01/2019 13:18:01","+0:00","yvie","Alarm","COVER OPEN 3  On",,be1D1t
+350236,"15/01/2019 13:27:13","+0:00","yvie","Alarm","COVER OPEN 3  Off",,qMFK7q
+350237,"15/01/2019 13:27:13","+0:00","yvie","Alarm","COVER OPEN 4  Off",,g7RUsp
+350238,"15/01/2019 13:27:14","+0:00","yvie","Alarm","EMERGENCY  Off",,SQIWqd
+350239,"15/01/2019 13:27:14","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,m3TgGc
+350240,"15/01/2019 13:27:16","+0:00","yvie","Alarm: 4","Acknowledgment of 4 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,zSZY3X
+350241,"15/01/2019 13:27:16","+0:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,tNNmUf
+350242,"15/01/2019 13:27:16","+0:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,A74fcy
+350243,"15/01/2019 13:27:16","+0:00","yvie","Alarm:","COVER OPEN 4  Acknowledgment",,NT817w
+350244,"15/01/2019 13:27:16","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,EE3NnZ
+350245,"15/01/2019 13:27:16","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,xk9+cX
+350246,"15/01/2019 13:27:16","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,V64k3X
+350247,"15/01/2019 13:27:16","+0:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,mCoBOU
+350248,"15/01/2019 13:27:17","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,7OusgE
+350249,"15/01/2019 13:27:17","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,QvZh6g
+350250,"15/01/2019 13:27:17","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,kI77nX
+350251,"15/01/2019 13:39:15","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,NWILD9
+350252,"15/01/2019 13:39:15","+0:00","yvie","Alarm","EMERGENCY  On",,3wnfAM
+350253,"15/01/2019 13:39:15","+0:00","yvie","Alarm","COVER OPEN 2  On",,/nWdQU
+350254,"15/01/2019 13:39:16","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,EQQHS+
+350255,"15/01/2019 13:39:16","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,Y4IRY2
+350256,"15/01/2019 13:39:16","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,++sSJf
+350257,"15/01/2019 13:39:17","+0:00","yvie","Alarm","COVER OPEN 1  On",,yC9dra
+350258,"15/01/2019 13:43:08","+0:00","yvie","Alarm","COVER OPEN 1  Off",,LpXOzT
+350259,"15/01/2019 13:43:08","+0:00","yvie","Alarm","COVER OPEN 2  Off",,gGd+e0
+350260,"15/01/2019 13:43:08","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,rJHf7m
+350261,"15/01/2019 13:43:08","+0:00","yvie","Alarm","EMERGENCY  Off",,0nPe0g
+350262,"15/01/2019 13:43:09","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,6DwfmS
+350263,"15/01/2019 13:43:09","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,HkWXeX
+350264,"15/01/2019 13:43:09","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,55vUz5
+350265,"15/01/2019 13:48:14","+0:00","yvie","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On",,Zg3co/
+350266,"15/01/2019 13:48:14","+0:00","yvie","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,tv3I98
+350267,"15/01/2019 13:49:26","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,68ET/g
+350268,"15/01/2019 13:49:26","+0:00","yvie","Alarm","EMERGENCY  On",,ZcAbJ7
+350269,"15/01/2019 13:49:26","+0:00","yvie","Alarm","COVER OPEN 3  On",,gTtLk2
+350270,"15/01/2019 13:49:26","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,PmpJQX
+350271,"15/01/2019 13:49:26","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,/LbZ4L
+350272,"15/01/2019 13:49:26","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,p2kotm
+350273,"15/01/2019 13:49:52","+0:00","yvie","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off",,jQhGX8
+350274,"15/01/2019 13:49:52","+0:00","yvie","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off",,DutJ+A
+350275,"15/01/2019 13:49:52","+0:00","yvie","Alarm","COVER OPEN 3  Off",,GSAVm7
+350276,"15/01/2019 13:49:52","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,3hJmt9
+350277,"15/01/2019 13:49:52","+0:00","yvie","Alarm","EMERGENCY  Off",,F9vBKT
+350278,"15/01/2019 13:49:53","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,gdlJ27
+350279,"15/01/2019 13:49:53","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,25S4AX
+350280,"15/01/2019 13:49:53","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,jhyPGj
+350281,"15/01/2019 13:50:10","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,9FVw6O
+350282,"15/01/2019 13:50:15","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,RRbBIQ
+350283,"15/01/2019 13:50:21","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,AFfE6u
+350284,"15/01/2019 13:50:37","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,aeFPju
+350285,"15/01/2019 13:50:37","+0:00","yvie","Alarm","EMERGENCY  On",,qhLguP
+350286,"15/01/2019 13:50:37","+0:00","yvie","Alarm","COVER OPEN 3  On",,1fSm1H
+350287,"15/01/2019 13:50:38","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,AsjlF0
+350288,"15/01/2019 13:50:38","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,MFS39g
+350289,"15/01/2019 13:50:38","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,w4GbfO
+350290,"15/01/2019 13:50:40","+0:00","yvie","Alarm","COVER OPEN 4  On",,QPxMHn
+350291,"15/01/2019 13:51:56","+0:00","yvie","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,ChmJPu
+350292,"15/01/2019 13:51:56","+0:00","yvie","Alarm","COVER OPEN 3  Off",,bni9Pu
+350293,"15/01/2019 13:51:56","+0:00","yvie","Alarm","COVER OPEN 4  Off",,0LZ5Wt
+350294,"15/01/2019 13:51:57","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,1ebuYz
+350295,"15/01/2019 13:51:57","+0:00","yvie","Alarm","EMERGENCY  Off",,h3f1n5
+350296,"15/01/2019 13:51:58","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,xNbR3a
+350297,"15/01/2019 13:51:58","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,EZKlmO
+350298,"15/01/2019 13:51:58","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,uipn3E
+350299,"15/01/2019 13:58:29","+0:00","yvie","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,+UG+Zx
+350300,"15/01/2019 13:58:29","+0:00","yvie","Alarm:","COVER OPEN 2  Acknowledgment",,Gzamcg
+350301,"15/01/2019 13:58:29","+0:00","yvie","Alarm:","COVER OPEN 1  Acknowledgment",,SJIASM
+350302,"15/01/2019 13:58:29","+0:00","yvie","Alarm:","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment",,4i04+T
+350303,"15/01/2019 13:58:29","+0:00","yvie","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment",,Ro9jpL
+350304,"15/01/2019 13:58:29","+0:00","yvie","Alarm:","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Acknowledgment",,lZ9z3l
+350305,"15/01/2019 13:58:29","+0:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,2Xnicp
+350306,"15/01/2019 13:58:29","+0:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,w5oBQ4
+350307,"15/01/2019 13:58:29","+0:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,/z0FF+
+350308,"15/01/2019 13:58:29","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,/SOUo6
+350309,"15/01/2019 13:58:29","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,RhG5zR
+350310,"15/01/2019 13:58:29","+0:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,4yFo4r
+350311,"15/01/2019 13:58:29","+0:00","yvie","Alarm:","COVER OPEN 4  Acknowledgment",,mZJunm
+350312,"15/01/2019 14:18:28","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,mjBOZ+
+350313,"15/01/2019 14:18:28","+0:00","yvie","Alarm","EMERGENCY  On",,dsI4k0
+350314,"15/01/2019 14:18:28","+0:00","yvie","Alarm","COVER OPEN 4  On",,Yo6yhc
+350315,"15/01/2019 14:18:28","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,jRbdl2
+350316,"15/01/2019 14:18:28","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,CEbJcp
+350317,"15/01/2019 14:18:28","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,CrlwZT
+350318,"15/01/2019 14:18:29","+0:00","yvie","Alarm","COVER OPEN 3  On",,AofNUK
+350319,"15/01/2019 14:22:20","+0:00","yvie","Alarm","COVER OPEN 3  Off",,lDjLz3
+350320,"15/01/2019 14:22:20","+0:00","yvie","Alarm","COVER OPEN 4  Off",,7pft3W
+350321,"15/01/2019 14:22:20","+0:00","yvie","Alarm","EMERGENCY  Off",,GX2ZMp
+350322,"15/01/2019 14:22:20","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,8lpWa7
+350323,"15/01/2019 14:22:20","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,jPtO/5
+350324,"15/01/2019 14:22:20","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,psMBYI
+350325,"15/01/2019 14:22:20","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,NFo6Cb
+350326,"15/01/2019 14:26:54","+0:00","yvie","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,xRExoL
+350327,"15/01/2019 14:27:10","+0:00","yvie","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,F+FrKV
+350328,"15/01/2019 14:29:56","+0:00","yvie","Alarm","COVER OPEN 3  On",,DPXi8W
+350329,"15/01/2019 14:29:56","+0:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,wdjee2
+350330,"15/01/2019 14:29:56","+0:00","yvie","Alarm","EMERGENCY  On",,5kprTo
+350331,"15/01/2019 14:29:56","+0:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,NMax7o
+350332,"15/01/2019 14:29:56","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,mb/nDE
+350333,"15/01/2019 14:29:56","+0:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,615oYo
+350334,"15/01/2019 14:32:44","+0:00","yvie","Alarm","COVER OPEN 4  On",,8ZlBj4
+350335,"15/01/2019 14:35:18","+0:00","yvie","User administration","User logged off.",,xbNw7y
+350336,"15/01/2019 14:35:18","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,pM+nXX
+350337,"15/01/2019 14:35:18","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,oxf93i
+350338,"15/01/2019 14:35:31","+0:00","System","User administration","User 'darylw' logged on with group 'Operator'.",,LWpgJI
+350339,"15/01/2019 14:45:08","+0:00","darylw","Alarm","COVER OPEN 2  On",,U9hgZr
+350340,"15/01/2019 14:45:11","+0:00","darylw","Alarm","COVER OPEN 1  On",,o07bJ4
+350341,"15/01/2019 14:45:42","+0:00","darylw","Warning","WARNING SAFETY DOORS EXCLUDED  On",,YqaUEQ
+350342,"15/01/2019 14:45:46","+0:00","darylw","Alarm","ALARM INFEED BELT MOTOR  Off",,urZpN1
+350343,"15/01/2019 14:45:46","+0:00","darylw","Alarm","ALARM ROTATION MOTOR  Off",,8Zz26w
+350344,"15/01/2019 14:45:46","+0:00","darylw","Alarm","ALARM ROTATION MOTOR 2  Off",,EwgcNI
+350345,"15/01/2019 14:45:46","+0:00","darylw","Alarm","ALARM ROTATION MOTOR 3  Off",,Trd+FC
+350346,"15/01/2019 14:45:46","+0:00","darylw","Alarm","WARNING MISSING LOGIN OPERATION  Off",,b9Hl4L
+350347,"15/01/2019 14:45:46","+0:00","darylw","Alarm","EMERGENCY  Off",,rHuH97
+350348,"15/01/2019 14:45:46","+0:00","darylw","Alarm","COVER OPEN 1  Off",,p6r8O2
+350349,"15/01/2019 14:45:46","+0:00","darylw","Alarm","COVER OPEN 2  Off",,y0p4vV
+350350,"15/01/2019 14:45:46","+0:00","darylw","Alarm","COVER OPEN 3  Off",,pVDBVe
+350351,"15/01/2019 14:45:46","+0:00","darylw","Alarm","COVER OPEN 4  Off",,pONS0/
+350352,"15/01/2019 14:52:37","+0:00","darylw","Alarm","ALARM INFEED BELT MOTOR  On",,WIYs4a
+350353,"15/01/2019 14:52:37","+0:00","darylw","Alarm","WARNING MISSING LOGIN OPERATION  On",,qdpxUF
+350354,"15/01/2019 14:52:37","+0:00","darylw","Warning","ALARM VACUUM SENSOR  On",,PpQDY8
+350355,"15/01/2019 14:52:37","+0:00","darylw","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,5D18qI
+350356,"15/01/2019 14:52:37","+0:00","darylw","Alarm","EMERGENCY  On",,BLzpK9
+350357,"15/01/2019 14:52:37","+0:00","darylw","Alarm","ALARM ROTATION MOTOR  On",,b2yDik
+350358,"15/01/2019 14:52:37","+0:00","darylw","Alarm","ALARM ROTATION MOTOR 2  On",,i4F2MI
+350359,"15/01/2019 14:52:37","+0:00","darylw","Alarm","ALARM ROTATION MOTOR 3  On",,rPbY7P
+350360,"15/01/2019 14:52:41","+0:00","System","User administration","User 'darylw' logged on with group 'Operator'.",,tlfSHV
+350361,"15/01/2019 14:52:51","+0:00","darylw","Recipe","Loading recipe number 3 ( 50ml Production ) on the interface.",,AzVpce
+350362,"15/01/2019 14:52:51","+0:00","darylw","Recipe","Data trasfered to PLC",,dgHzWs
+350363,"15/01/2019 14:52:52","+0:00","darylw","Warning","PVSI NOT READY  On",,2O40Jg
+350364,"15/01/2019 14:52:54","+0:00","darylw","Alarm","WARNING MISSING LOGIN OPERATION  Off",,NbND0u
+350365,"15/01/2019 14:52:54","+0:00","darylw","Warning","ALARM VACUUM SENSOR  Off",,T2q8/v
+350366,"15/01/2019 14:52:54","+0:00","darylw","Warning","PVSI NOT READY  Off",,HMGWHi
+350367,"15/01/2019 14:52:54","+0:00","darylw","Warning","PVSI NOT RUNNING   On",,zibVDg
+350368,"15/01/2019 14:52:55","+0:00","darylw","Alarm","EMERGENCY  Off",,AJVqY1
+350369,"15/01/2019 14:52:55","+0:00","darylw","Alarm","ALARM INFEED BELT MOTOR  Off",,lF1Cua
+350370,"15/01/2019 14:52:55","+0:00","darylw","Alarm","ALARM ROTATION MOTOR  Off",,cN/lSN
+350371,"15/01/2019 14:52:55","+0:00","darylw","Alarm","ALARM ROTATION MOTOR 2  Off",,SwKPkZ
+350372,"15/01/2019 14:52:55","+0:00","darylw","Alarm","ALARM ROTATION MOTOR 3  Off",,CxrvCA
+350373,"15/01/2019 14:52:55","+0:00","darylw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,oihLR+
+350374,"15/01/2019 14:52:55","+0:00","darylw","Alarm:","COVER OPEN 3  Acknowledgment",,jtwcDn
+350375,"15/01/2019 14:52:55","+0:00","darylw","Alarm:","COVER OPEN 4  Acknowledgment",,pOoXiC
+350376,"15/01/2019 14:52:55","+0:00","darylw","Alarm:","COVER OPEN 2  Acknowledgment",,nPPaeL
+350377,"15/01/2019 14:52:55","+0:00","darylw","Alarm:","COVER OPEN 1  Acknowledgment",,kvnETv
+350378,"15/01/2019 14:52:55","+0:00","darylw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,/3E7hV
+350379,"15/01/2019 14:52:55","+0:00","darylw","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,x5rW8E
+350380,"15/01/2019 14:52:55","+0:00","darylw","Alarm:","EMERGENCY  Acknowledgment",,KowtPH
+350381,"15/01/2019 14:52:55","+0:00","darylw","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,guk+hA
+350382,"15/01/2019 14:52:55","+0:00","darylw","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,HtxAiU
+350383,"15/01/2019 14:52:55","+0:00","darylw","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,CxyxM4
+350384,"15/01/2019 14:52:56","+0:00","darylw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,QgZikT
+350385,"15/01/2019 14:52:56","+0:00","darylw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,9aHIiF
+350386,"15/01/2019 14:52:56","+0:00","darylw","Alarm: 2118","Acknowledgment of alarm 2118 of PLC MCA200+LKD.",,kKWyvC
+350387,"15/01/2019 14:52:56","+0:00","darylw","Alarm: 2118","Acknowledgment of alarm 2118 of PLC MCA200+LKD.",,dmZ54S
+350388,"15/01/2019 14:52:56","+0:00","darylw","Alarm: 2118","Acknowledgment of alarm 2118 of PLC MCA200+LKD.",,19Zk/t
+350389,"15/01/2019 14:52:56","+0:00","darylw","Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,ffN4uj
+350390,"15/01/2019 14:52:56","+0:00","darylw","Alarm: 2117","Acknowledgment of alarm 2117 of PLC MCA200+LKD.",,ofpL2l
+350391,"15/01/2019 14:52:57","+0:00","darylw","Warning","PVSI NOT RUNNING   Off",,Yx5KCg
+350392,"15/01/2019 14:52:57","+0:00","darylw","Alarm: 2117","Acknowledgment of alarm 2117 of PLC MCA200+LKD.",,A9dGXg
+350393,"15/01/2019 14:52:57","+0:00","darylw","Alarm: 2117","Acknowledgment of alarm 2117 of PLC MCA200+LKD.",,j2dbmz
+350394,"15/01/2019 14:53:03","+0:00","darylw","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  On",,XQFUvr
+350395,"15/01/2019 14:53:06","+0:00","darylw","Alarm: 1097","Acknowledgment of 1097 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,OILwk0
+350396,"15/01/2019 14:53:06","+0:00","darylw","Alarm:","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Acknowledgment",,fQy8Zx
+350397,"15/01/2019 14:53:06","+0:00","darylw","Alarm: 1097","Acknowledgment of 1097 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,CSvWPf
+350398,"15/01/2019 14:53:06","+0:00","darylw","Alarm: 1097","Acknowledgment of 1097 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,wmzbcN
+350399,"15/01/2019 14:53:06","+0:00","darylw","Alarm: 1097","Acknowledgment of 1097 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,QG4SrJ
+350400,"15/01/2019 14:53:07","+0:00","darylw","Alarm: 1097","Acknowledgment of 1097 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,pQh/TJ
+350401,"15/01/2019 14:53:07","+0:00","darylw","Alarm: 1097","Acknowledgment of 1097 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,JHYCx8
+350402,"15/01/2019 14:53:07","+0:00","darylw","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Off",,UmzP7g
+350403,"15/01/2019 14:53:07","+0:00","darylw","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,VTWO7Z
+350404,"15/01/2019 14:53:20","+0:00","darylw","Alarm","ALARM INFEED BELT MOTOR  On",,ocCg0W
+350405,"15/01/2019 14:53:20","+0:00","darylw","Alarm","EMERGENCY  On",,6+k7w7
+350406,"15/01/2019 14:53:20","+0:00","darylw","Alarm","COVER OPEN 1  On",,7wKZrK
+350407,"15/01/2019 14:53:21","+0:00","darylw","Alarm","ALARM ROTATION MOTOR  On",,moBcQ7
+350408,"15/01/2019 14:53:21","+0:00","darylw","Alarm","ALARM ROTATION MOTOR 2  On",,PNnEXy
+350409,"15/01/2019 14:53:21","+0:00","darylw","Alarm","ALARM ROTATION MOTOR 3  On",,/z8ucs
+350410,"15/01/2019 14:53:22","+0:00","darylw","Alarm","COVER OPEN 2  On",,SONsWw
+350411,"15/01/2019 14:55:20","+0:00","darylw","Alarm","COVER OPEN 3  On",,le+Uxa
+350412,"15/01/2019 14:55:20","+0:00","darylw","Alarm","COVER OPEN 4  On",,/HJ7mD
+350413,"15/01/2019 14:55:45","+0:00","darylw","Alarm","COVER OPEN 1  Off",,Mj7xmT
+350414,"15/01/2019 14:55:45","+0:00","darylw","Alarm","COVER OPEN 2  Off",,XN6gl6
+350415,"15/01/2019 14:55:45","+0:00","darylw","Alarm","COVER OPEN 3  Off",,E/e/ge
+350416,"15/01/2019 14:55:45","+0:00","darylw","Alarm","COVER OPEN 4  Off",,261ofQ
+350417,"15/01/2019 14:55:45","+0:00","darylw","Alarm","ALARM INFEED BELT MOTOR  Off",,Bh0R0r
+350418,"15/01/2019 14:55:45","+0:00","darylw","Alarm","EMERGENCY  Off",,zoEGsW
+350419,"15/01/2019 14:55:46","+0:00","darylw","Alarm","ALARM ROTATION MOTOR  Off",,GuvaJq
+350420,"15/01/2019 14:55:46","+0:00","darylw","Alarm","ALARM ROTATION MOTOR 2  Off",,h9edCi
+350421,"15/01/2019 14:55:46","+0:00","darylw","Alarm","ALARM ROTATION MOTOR 3  Off",,79XaN2
+350422,"15/01/2019 14:55:47","+0:00","darylw","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,SoTil0
+350423,"15/01/2019 14:55:47","+0:00","darylw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,ooehwf
+350424,"15/01/2019 14:55:47","+0:00","darylw","Alarm:","EMERGENCY  Acknowledgment",,8NirWM
+350425,"15/01/2019 14:55:47","+0:00","darylw","Alarm:","COVER OPEN 1  Acknowledgment",,6P1Ac0
+350426,"15/01/2019 14:55:47","+0:00","darylw","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,SCeknl
+350427,"15/01/2019 14:55:47","+0:00","darylw","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,accOOW
+350428,"15/01/2019 14:55:47","+0:00","darylw","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,+gaZ2o
+350429,"15/01/2019 14:55:47","+0:00","darylw","Alarm:","COVER OPEN 2  Acknowledgment",,Md9d4v
+350430,"15/01/2019 14:55:47","+0:00","darylw","Alarm:","COVER OPEN 3  Acknowledgment",,953SWL
+350431,"15/01/2019 14:55:47","+0:00","darylw","Alarm:","COVER OPEN 4  Acknowledgment",,HqvKU8
+350432,"15/01/2019 14:55:48","+0:00","darylw","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,YsQSdM
+350433,"15/01/2019 15:37:11","+0:00","darylw","Alarm","ALARM INFEED BELT MOTOR  On",,XUFle8
+350434,"15/01/2019 15:37:11","+0:00","darylw","Alarm","EMERGENCY  On",,dI0eqL
+350435,"15/01/2019 15:37:11","+0:00","darylw","Alarm","COVER OPEN 4  On",,SSA67q
+350436,"15/01/2019 15:37:11","+0:00","darylw","Alarm","ALARM ROTATION MOTOR  On",,5f+OIq
+350437,"15/01/2019 15:37:11","+0:00","darylw","Alarm","ALARM ROTATION MOTOR 2  On",,A1I80K
+350438,"15/01/2019 15:37:11","+0:00","darylw","Alarm","ALARM ROTATION MOTOR 3  On",,UzzKSV
+350439,"15/01/2019 15:37:15","+0:00","darylw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,AQg0gV
+350440,"15/01/2019 15:37:15","+0:00","darylw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,xrH46x
+350441,"15/01/2019 15:37:15","+0:00","darylw","Alarm:","EMERGENCY  Acknowledgment",,6UW/Vr
+350442,"15/01/2019 15:37:15","+0:00","darylw","Alarm:","COVER OPEN 4  Acknowledgment",,LXfyWp
+350443,"15/01/2019 15:37:15","+0:00","darylw","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,HGUF9v
+350444,"15/01/2019 15:37:15","+0:00","darylw","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,cED1xI
+350445,"15/01/2019 15:37:15","+0:00","darylw","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,In/YyC
+350446,"15/01/2019 15:37:15","+0:00","darylw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,i+Uphs
+350447,"15/01/2019 15:37:16","+0:00","darylw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,TozHh4
+350448,"15/01/2019 15:37:16","+0:00","darylw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,WwHIGO
+350449,"15/01/2019 15:37:16","+0:00","darylw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,+DO3ma
+350450,"15/01/2019 15:40:41","+0:00","darylw","Alarm","COVER OPEN 1  On",,l311xk
+350451,"15/01/2019 15:40:41","+0:00","darylw","Alarm","COVER OPEN 2  On",,AA8r/u
+350452,"15/01/2019 15:54:04","+0:00","darylw","Alarm","COVER OPEN 3  On",,MZt9dR
+350453,"15/01/2019 15:55:07","+0:00","darylw","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,axpLX7
+350454,"15/01/2019 15:55:13","+0:00","darylw","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,7d/ZGl
+350455,"15/01/2019 15:55:31","+0:00","darylw","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,BUuS9M
+350456,"15/01/2019 15:55:36","+0:00","darylw","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,3s60Nu
+350457,"15/01/2019 16:19:31","+0:00","darylw","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,K23d6I
+350458,"15/01/2019 16:19:31","+0:00","darylw","Warning","ALARM VACUUM SENSOR  On",,AiLRSW
+350459,"15/01/2019 16:19:31","+0:00","darylw","Warning","WARNING UPS  On",,pRgRQM
+350460,"15/01/2019 16:19:34","+0:00","darylw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,QUNING
+350461,"15/01/2019 16:19:34","+0:00","darylw","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,VWtdgW
+350462,"15/01/2019 16:19:34","+0:00","darylw","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,yO0dYE
+350463,"16/01/2019 08:05:08","+0:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,X2PV3q
+0,"16/01/2019 08:05:08","+0:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,k60BqF
+350464,"16/01/2019 08:05:08","+0:00","System","Application","Change to operating mode 'online'.",,UGUEHT
+350465,"16/01/2019 08:05:08","+0:00","System","User administration","Password list imported successfully.",,2B+2+l
+0,"16/01/2019 08:05:11","+0:00","System","Logs","Log files closed.",,cGxhyf
+"$RT_COUNT$",645,kk14ge,,,,,zhdU0K

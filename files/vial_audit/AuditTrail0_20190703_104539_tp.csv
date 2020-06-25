@@ -1,0 +1,96 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"03/07/2019 10:22:47","-1:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,scyg/+
+393352,"03/07/2019 10:22:32","-1:00","System","Logs","Exporting a log.",,K3m/nr
+393353,"03/07/2019 10:23:02","-1:00",,"Recipe","Loading recipe number 3 ( 50ml Production ) on the interface.",,V7RJKi
+393354,"03/07/2019 10:23:02","-1:00",,"Recipe","Data trasfered to PLC",,bOMWE1
+393355,"03/07/2019 10:23:03","-1:00",,"Warning","PVSI NOT READY  On",,Q7O8Kg
+393356,"03/07/2019 10:23:03","-1:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,woPTkr
+393357,"03/07/2019 10:23:03","-1:00",,"Warning","PVSI NOT RUNNING   On",,HdC9SN
+393358,"03/07/2019 10:23:03","-1:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,AfeUn4
+393359,"03/07/2019 10:23:03","-1:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,EMkkjQ
+393360,"03/07/2019 10:23:03","-1:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,YxkTJf
+393361,"03/07/2019 10:23:03","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,pEPT4J
+393362,"03/07/2019 10:23:05","-1:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,AZx05z
+393363,"03/07/2019 10:24:39","-1:00",,"Warning","PVSI NOT RUNNING   Off",,7pzguN
+393364,"03/07/2019 10:40:42","-1:00","System","User administration","User 'nadir' logged on with group 'Administrator'.",,I9u9LW
+393365,"03/07/2019 10:40:49","-1:00","nadir","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,TRsQDi
+393366,"03/07/2019 10:40:49","-1:00","nadir","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,NefdC/
+393367,"03/07/2019 10:40:49","-1:00","nadir","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,ANS7ob
+393368,"03/07/2019 10:40:49","-1:00","nadir","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,MMdWJI
+393369,"03/07/2019 10:42:23","-1:00","nadir","Recipe","Product 3 ( 50ml Production ) saved as product 9 ( test camere )",,yj8Mql
+393370,"03/07/2019 10:42:39","-1:00","nadir","Recipe","Loading recipe number 9 ( test camere ) on the interface.",,sc4XpQ
+393371,"03/07/2019 10:42:39","-1:00","nadir","Recipe","Data trasfered to PLC",,YL7ydk
+393372,"03/07/2019 10:42:42","-1:00","nadir","Warning","PVSI NOT RUNNING   On",,N9TLNc
+393373,"03/07/2019 10:42:43","-1:00","nadir","Warning","PVSI NOT RUNNING   Off",,ZXIGD7
+393374,"03/07/2019 10:44:06","-1:00","nadir","Warning","PVSI IN MANUAL MODE  On",,ReuSsj
+393375,"03/07/2019 10:50:11","-1:00","nadir","Warning","PVSI NOT READY  Off",,NLYkpy
+393376,"03/07/2019 10:50:11","-1:00","nadir","Warning","PVSI IN MANUAL MODE  Off",,H/wDqi
+393377,"03/07/2019 10:50:11","-1:00","nadir","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,qFcWV7
+393378,"03/07/2019 10:50:11","-1:00","nadir","Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,b53Qqo
+393379,"03/07/2019 10:50:11","-1:00","nadir","Alarm","WARNING MISSING LOGIN OPERATION  Off",,ZbDGLG
+393380,"03/07/2019 10:51:40","-1:00","nadir","Warning","PVSI NOT READY  On",,YI4QPC
+393381,"03/07/2019 11:01:50","-1:00","nadir","Recipe","Loading recipe number 3 ( 50ml Production ) on the interface.",,sy8hS+
+393382,"03/07/2019 11:01:50","-1:00","nadir","Recipe","Data trasfered to PLC",,frm7yj
+393383,"03/07/2019 11:01:53","-1:00","nadir","Warning","PVSI NOT RUNNING   On",,KUpZwl
+393384,"03/07/2019 11:01:54","-1:00","nadir","Warning","PVSI NOT RUNNING   Off",,EjdcjI
+393385,"03/07/2019 11:03:12","-1:00","nadir","Alarm","ALARM DATA VALID ERROR  On",,5wOFt2
+393386,"03/07/2019 11:03:30","-1:00","nadir","Warning","PVSI NOT READY  Off",,AZmngC
+393387,"03/07/2019 11:03:30","-1:00","nadir","Alarm","ALARM DATA VALID ERROR  Off",,TiBIqA
+393388,"03/07/2019 11:03:46","-1:00","nadir","Alarm","ALARM DATA VALID ERROR  On",,yHBEez
+393389,"03/07/2019 11:05:21","-1:00","nadir","Warning","PVSI NOT READY  On",,XuPYVW
+393390,"03/07/2019 11:05:55","-1:00","nadir","Warning","PVSI NOT RUNNING   On",,pWZ2tt
+393391,"03/07/2019 11:07:40","-1:00","nadir","Alarm","COVER OPEN 1  On",,mzecmE
+393392,"03/07/2019 11:07:40","-1:00","nadir","Alarm","EMERGENCY  On",,shEoAw
+393393,"03/07/2019 11:07:40","-1:00","nadir","Alarm","ALARM INFEED BELT MOTOR  On",,jPRBIQ
+393394,"03/07/2019 11:07:41","-1:00","nadir","Alarm","ALARM ROTATION MOTOR  On",,2LieH7
+393395,"03/07/2019 11:07:41","-1:00","nadir","Alarm","ALARM ROTATION MOTOR 2  On",,e4vvHW
+393396,"03/07/2019 11:07:41","-1:00","nadir","Alarm","ALARM ROTATION MOTOR 3  On",,Ts7j/M
+393397,"03/07/2019 11:07:50","-1:00","nadir","Alarm","COVER OPEN 4  On",,SrjyAN
+393398,"03/07/2019 11:07:51","-1:00","nadir","Alarm","COVER OPEN 3  On",,D8EZc4
+393399,"03/07/2019 11:08:35","-1:00","nadir","Alarm","COVER OPEN 2  On",,QOlmTo
+393400,"03/07/2019 11:14:37","-1:00","nadir","Warning","PVSI NOT RUNNING   Off",,HS3VHX
+393401,"03/07/2019 11:14:37","-1:00","nadir","Warning","WARNING SAFETY DOORS EXCLUDED  On",,jqhn0e
+393402,"03/07/2019 11:32:26","-1:00","nadir","Warning","PVSI NOT READY  Off",,uuYiBy
+393403,"03/07/2019 11:32:26","-1:00","nadir","Alarm","EMERGENCY  Off",,y6D/qo
+393404,"03/07/2019 11:32:26","-1:00","nadir","Alarm","COVER OPEN 1  Off",,DHszzE
+393405,"03/07/2019 11:32:26","-1:00","nadir","Alarm","COVER OPEN 2  Off",,DhKTY1
+393406,"03/07/2019 11:32:26","-1:00","nadir","Alarm","COVER OPEN 3  Off",,7GPAV8
+393407,"03/07/2019 11:32:26","-1:00","nadir","Alarm","COVER OPEN 4  Off",,A3+P7T
+393408,"03/07/2019 11:32:26","-1:00","nadir","Alarm","ALARM INFEED BELT MOTOR  Off",,LEOkbs
+393409,"03/07/2019 11:32:26","-1:00","nadir","Alarm","ALARM ROTATION MOTOR  Off",,c0Ujqt
+393410,"03/07/2019 11:32:26","-1:00","nadir","Alarm","ALARM ROTATION MOTOR 2  Off",,QotwBR
+393411,"03/07/2019 11:32:26","-1:00","nadir","Alarm","ALARM ROTATION MOTOR 3  Off",,JjK9ZE
+393412,"03/07/2019 11:32:26","-1:00","nadir","Alarm","ALARM DATA VALID ERROR  Off",,rU57MN
+393413,"03/07/2019 11:32:29","-1:00","nadir","Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,9LyohK
+393414,"03/07/2019 11:32:29","-1:00","nadir","Alarm:","ALARM DATA VALID ERROR  Acknowledgment",,OGKdJ0
+393415,"03/07/2019 11:32:29","-1:00","nadir","Alarm:","COVER OPEN 1  Acknowledgment",,4GO6lL
+393416,"03/07/2019 11:32:29","-1:00","nadir","Alarm:","EMERGENCY  Acknowledgment",,P9TJD+
+393417,"03/07/2019 11:32:29","-1:00","nadir","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,OgDUYQ
+393418,"03/07/2019 11:32:29","-1:00","nadir","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,XxYPuC
+393419,"03/07/2019 11:32:29","-1:00","nadir","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,vyy6UY
+393420,"03/07/2019 11:32:29","-1:00","nadir","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,SZCGVP
+393421,"03/07/2019 11:32:29","-1:00","nadir","Alarm:","COVER OPEN 4  Acknowledgment",,zKO9OA
+393422,"03/07/2019 11:32:29","-1:00","nadir","Alarm:","COVER OPEN 3  Acknowledgment",,zncwA3
+393423,"03/07/2019 11:32:29","-1:00","nadir","Alarm:","COVER OPEN 2  Acknowledgment",,z6xLq0
+393424,"03/07/2019 11:32:34","-1:00","nadir","Alarm: 2143","Acknowledgment of alarm 2143 of PLC MCA200+LKD.",,QceX8w
+393425,"03/07/2019 11:32:35","-1:00","nadir","Alarm: 2143","Acknowledgment of alarm 2143 of PLC MCA200+LKD.",,FygWNF
+393426,"03/07/2019 11:33:03","-1:00","nadir","Warning","ALARM VACUUM SENSOR  On",,3JGigZ
+393427,"03/07/2019 11:33:03","-1:00","nadir","Warning","PVSI NOT RUNNING   On",,3V5qUX
+393428,"03/07/2019 11:33:03","-1:00","nadir","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,4FZbRD
+393429,"03/07/2019 11:33:03","-1:00","nadir","Alarm","WARNING MISSING LOGIN OPERATION  On",,GYhP1H
+393430,"03/07/2019 11:37:57","-1:00","System","User administration","User 'nadir' logged on with group 'Administrator'.",,cdvLCf
+393431,"03/07/2019 11:38:01","-1:00","nadir","Warning","PVSI NOT READY  On",,6brzOl
+393432,"03/07/2019 11:38:06","-1:00","nadir","Warning","PVSI NOT RUNNING   Off",,PuPFTu
+393433,"03/07/2019 11:38:27","-1:00","nadir","Warning","PVSI NOT RUNNING   On",,lh1baH
+393434,"03/07/2019 11:38:29","-1:00","nadir","User administration","User logged off.",,JImddl
+393435,"03/07/2019 11:38:29","-1:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,n79zHg
+393436,"03/07/2019 11:38:33","-1:00","System","User administration","User 'nadir' logged on with group 'Administrator'.",,YXebCi
+393437,"03/07/2019 11:38:40","-1:00","nadir","Warning","PVSI NOT RUNNING   Off",,Adau8b
+393438,"03/07/2019 11:38:50","-1:00","nadir","User administration","User logged off.",,/BtnO/
+393439,"03/07/2019 11:38:50","-1:00",,"Application","Shutdown application.",,Ab8oMg
+0,"03/07/2019 11:38:50","-1:00","System","Application","Stopping program run of WinCC flexible RT 2008 SP3 on device tp.",,bmYx2t
+0,"03/07/2019 11:45:19","-1:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,66Ejq9
+393440,"03/07/2019 11:45:19","-1:00","System","Application","Change to operating mode 'online'.",,RFiQln
+393441,"03/07/2019 11:45:19","-1:00","System","User administration","Password list imported successfully.",,B8GnaS
+0,"03/07/2019 11:45:39","-1:00","System","Logs","Log files closed.",,EVzDXf
+"$RT_COUNT$",95,kk14ge,,,,,1JSNku

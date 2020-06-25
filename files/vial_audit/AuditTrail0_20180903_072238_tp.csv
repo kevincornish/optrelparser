@@ -1,0 +1,484 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"31/08/2018 09:00:32","-1:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,qsjMUc
+312651,"31/08/2018 09:00:32","-1:00","System","Logs","Exporting a log.",,TtqZV7
+312652,"31/08/2018 09:00:38","-1:00",,"Recipe","Loading recipe number 3 ( 50ml Production ) on the interface.",,JJSOi8
+312653,"31/08/2018 09:00:39","-1:00",,"Recipe","Data trasfered to PLC",,XWfCKX
+312654,"31/08/2018 09:00:39","-1:00",,"Warning","ALARM VACUUM SENSOR  On",,zY5cbU
+312655,"31/08/2018 09:00:39","-1:00",,"Warning","PVSI NOT READY  On",,uxZ1Vd
+312656,"31/08/2018 09:00:39","-1:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,oxxa5D
+312657,"31/08/2018 09:00:39","-1:00",,"Warning","PVSI NOT RUNNING   On",,d45LZH
+312658,"31/08/2018 09:00:39","-1:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,wPTb2x
+312659,"31/08/2018 09:00:39","-1:00",,"Alarm","EMERGENCY  On",,zvKj4n
+312660,"31/08/2018 09:00:39","-1:00",,"Alarm","COVER OPEN 1  On",,xcm+S7
+312661,"31/08/2018 09:00:39","-1:00",,"Alarm","COVER OPEN 3  On",,l64C4b
+312662,"31/08/2018 09:00:39","-1:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,hqyvwQ
+312663,"31/08/2018 09:00:39","-1:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,iNSKCV
+312664,"31/08/2018 09:00:39","-1:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,39VJMY
+312665,"31/08/2018 09:00:39","-1:00",,"Alarm","ALARM ROTATION MOTOR  On",,a3Y/BZ
+312666,"31/08/2018 09:00:39","-1:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,giSA9d
+312667,"31/08/2018 09:00:39","-1:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,FE83/0
+312668,"31/08/2018 09:00:39","-1:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,jsRb7a
+312669,"31/08/2018 09:00:39","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,Gi9uo/
+312670,"31/08/2018 09:00:39","-1:00",,"Warning","PVSI NOT RUNNING   Off",,OEVW7q
+312671,"31/08/2018 09:00:44","-1:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,fGgwdn
+312672,"31/08/2018 09:03:48","-1:00","System","User administration","User 'yvie' logged on with group 'Operator'.",,cIxfm3
+312673,"31/08/2018 09:08:42","-1:00","yvie","Warning","ALARM VACUUM SENSOR  Off",,IKFW51
+312674,"31/08/2018 09:08:42","-1:00","yvie","Warning","PVSI NOT READY  Off",,5fNhgu
+312675,"31/08/2018 09:08:42","-1:00","yvie","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,bEhstL
+312676,"31/08/2018 09:08:42","-1:00","yvie","Alarm","COVER OPEN 3  Off",,H/8jNN
+312677,"31/08/2018 09:08:42","-1:00","yvie","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  Off",,K9eGnU
+312678,"31/08/2018 09:08:42","-1:00","yvie","Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,B/b8SH
+312679,"31/08/2018 09:08:42","-1:00","yvie","Alarm","WARNING MISSING LOGIN OPERATION  Off",,dyXD1J
+312680,"31/08/2018 09:10:27","-1:00","yvie","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,nXTzGE
+312681,"31/08/2018 09:10:27","-1:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,Nzj9Mt
+312682,"31/08/2018 09:10:27","-1:00","yvie","Alarm:","COVER OPEN 1  Acknowledgment",,kZuaYS
+312683,"31/08/2018 09:10:27","-1:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,M6SWw0
+312684,"31/08/2018 09:10:27","-1:00","yvie","Alarm:","ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment",,JrwTlf
+312685,"31/08/2018 09:10:27","-1:00","yvie","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,nipvsc
+312686,"31/08/2018 09:10:27","-1:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,O8b1D+
+312687,"31/08/2018 09:10:27","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,5w6P34
+312688,"31/08/2018 09:10:27","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,siAN+6
+312689,"31/08/2018 09:10:27","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,eK8wWr
+312690,"31/08/2018 09:10:27","-1:00","yvie","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,fRQObw
+312691,"31/08/2018 09:10:27","-1:00","yvie","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,8i0Q/M
+312692,"31/08/2018 09:10:28","-1:00","yvie","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ThVm68
+312693,"31/08/2018 09:10:50","-1:00","yvie","Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,3FDlXD
+312694,"31/08/2018 09:10:51","-1:00","yvie","Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,twWV1N
+312695,"31/08/2018 09:11:04","-1:00","yvie","Alarm","COVER OPEN 3  On",,u/dZBj
+312696,"31/08/2018 09:11:28","-1:00","yvie","Alarm","COVER OPEN 3  Off",,68EVGM
+312697,"31/08/2018 09:11:50","-1:00","yvie","Alarm","COVER OPEN 1  Off",,YzsBWj
+312698,"31/08/2018 09:11:51","-1:00","yvie","Alarm","EMERGENCY  Off",,hB/w98
+312699,"31/08/2018 09:11:51","-1:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,L4+5G2
+312700,"31/08/2018 09:11:52","-1:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,qiOtZi
+312701,"31/08/2018 09:11:52","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,6yF1FP
+312702,"31/08/2018 09:11:52","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,a7KKzt
+312703,"31/08/2018 09:11:54","-1:00","yvie","Alarm: 4","Acknowledgment of 4 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Fw90wm
+312704,"31/08/2018 09:11:54","-1:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,CLebfD
+312705,"31/08/2018 09:14:55","-1:00","yvie","Alarm","EMERGENCY  On",,H2iw5G
+312706,"31/08/2018 09:14:55","-1:00","yvie","Alarm","COVER OPEN 3  On",,XDcjjv
+312707,"31/08/2018 09:14:55","-1:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,w/oS6u
+312708,"31/08/2018 09:14:56","-1:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,V1EA+W
+312709,"31/08/2018 09:14:56","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,163EPb
+312710,"31/08/2018 09:14:56","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,1has6H
+312711,"31/08/2018 09:27:31","-1:00","yvie","Alarm","COVER OPEN 3  Off",,EfLzdE
+312712,"31/08/2018 09:27:31","-1:00","yvie","Alarm","EMERGENCY  Off",,P/i5ZX
+312713,"31/08/2018 09:27:31","-1:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,9CoL16
+312714,"31/08/2018 09:27:32","-1:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,kn4gUD
+312715,"31/08/2018 09:27:32","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,rmG5Nt
+312716,"31/08/2018 09:27:32","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,tGJO+H
+312717,"31/08/2018 09:30:54","-1:00","yvie","Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,8uiR7m
+312718,"31/08/2018 09:30:55","-1:00","yvie","Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,bOW9Vo
+312719,"31/08/2018 09:31:25","-1:00","yvie","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,SN+THU
+312720,"31/08/2018 09:31:38","-1:00","yvie","Alarm","EMERGENCY  On",,ckxBxy
+312721,"31/08/2018 09:31:38","-1:00","yvie","Alarm","COVER OPEN 3  On",,ETE/7V
+312722,"31/08/2018 09:31:38","-1:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,au33as
+312723,"31/08/2018 09:31:38","-1:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,y8IgmB
+312724,"31/08/2018 09:31:38","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,FWdfXT
+312725,"31/08/2018 09:31:38","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,Wh6DA0
+312726,"31/08/2018 09:31:38","-1:00","yvie","Alarm","COVER OPEN 4  On",,0f7PBS
+312727,"31/08/2018 09:31:56","-1:00","yvie","Alarm","COVER OPEN 3  Off",,t//gX+
+312728,"31/08/2018 09:31:56","-1:00","yvie","Alarm","COVER OPEN 4  Off",,uFmCGr
+312729,"31/08/2018 09:31:57","-1:00","yvie","Alarm","EMERGENCY  Off",,kxbSpY
+312730,"31/08/2018 09:31:57","-1:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,75ha2w
+312731,"31/08/2018 09:31:58","-1:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,OYpjk3
+312732,"31/08/2018 09:31:58","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,bz7KyZ
+312733,"31/08/2018 09:31:58","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,krHuCE
+312734,"31/08/2018 09:32:10","-1:00","yvie","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,mnMxKF
+312735,"31/08/2018 09:32:10","-1:00","yvie","Alarm:","ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment",,Xj7eNY
+312736,"31/08/2018 09:32:10","-1:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,+GfhHu
+312737,"31/08/2018 09:32:10","-1:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,ge7bG9
+312738,"31/08/2018 09:32:10","-1:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,60kSmz
+312739,"31/08/2018 09:32:10","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,+YXnRr
+312740,"31/08/2018 09:32:10","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,Ys1gBB
+312741,"31/08/2018 09:32:10","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,hPuZDo
+312742,"31/08/2018 09:32:10","-1:00","yvie","Alarm:","COVER OPEN 4  Acknowledgment",,OOKAXR
+312743,"31/08/2018 09:32:11","-1:00","yvie","Alarm: 1012","Acknowledgment of 1012 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,LAcdMI
+312744,"31/08/2018 09:32:12","-1:00","yvie","Alarm: 1012","Acknowledgment of 1012 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,s4dLqu
+312745,"31/08/2018 09:32:15","-1:00","yvie","Alarm: 1012","Acknowledgment of 1012 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,YsTPHO
+312746,"31/08/2018 09:32:19","-1:00","yvie","Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,wT4IGd
+312747,"31/08/2018 09:32:20","-1:00","yvie","Alarm: 1012","Acknowledgment of 1012 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,56RsgI
+312748,"31/08/2018 09:32:21","-1:00","yvie","Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,lquEBF
+312749,"31/08/2018 09:32:24","-1:00","yvie","Alarm","COVER OPEN 3  On",,FTRlZk
+312750,"31/08/2018 09:32:24","-1:00","yvie","Alarm","EMERGENCY  On",,FY7OXf
+312751,"31/08/2018 09:32:24","-1:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,LMHfp9
+312752,"31/08/2018 09:32:24","-1:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,XpDXju
+312753,"31/08/2018 09:32:24","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,tjPSYG
+312754,"31/08/2018 09:32:24","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,Gujete
+312755,"31/08/2018 09:32:24","-1:00","yvie","Alarm","COVER OPEN 4  On",,bI7ZzW
+312756,"31/08/2018 09:32:37","-1:00","yvie","Alarm","COVER OPEN 3  Off",,dl2GHZ
+312757,"31/08/2018 09:32:37","-1:00","yvie","Alarm","COVER OPEN 4  Off",,JylJea
+312758,"31/08/2018 09:32:37","-1:00","yvie","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,5PBGPD
+312759,"31/08/2018 09:32:37","-1:00","yvie","Alarm","EMERGENCY  Off",,RKAFV0
+312760,"31/08/2018 09:32:37","-1:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,dENb1f
+312761,"31/08/2018 09:32:38","-1:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,pdgpWP
+312762,"31/08/2018 09:32:38","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,rPiNar
+312763,"31/08/2018 09:32:38","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,9IDQYt
+312764,"31/08/2018 09:33:29","-1:00","yvie","Alarm","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  On",,PEhTtp
+312765,"31/08/2018 09:33:45","-1:00","yvie","Alarm: 1051","Acknowledgment of 1051 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,XZLvoD
+312766,"31/08/2018 09:33:45","-1:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,3d3ZGY
+312767,"31/08/2018 09:33:45","-1:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,1XGKUi
+312768,"31/08/2018 09:33:45","-1:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,TyT6hR
+312769,"31/08/2018 09:33:45","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,A4kTS5
+312770,"31/08/2018 09:33:45","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,hnI1cw
+312771,"31/08/2018 09:33:45","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,Y2fhAN
+312772,"31/08/2018 09:33:45","-1:00","yvie","Alarm:","COVER OPEN 4  Acknowledgment",,CduLvj
+312773,"31/08/2018 09:33:45","-1:00","yvie","Alarm:","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  Acknowledgment",,tGEJdj
+312774,"31/08/2018 09:33:47","-1:00","yvie","Alarm: 1051","Acknowledgment of 1051 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,XiCv8T
+312775,"31/08/2018 09:33:48","-1:00","yvie","Alarm: 1051","Acknowledgment of 1051 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,JQb5rs
+312776,"31/08/2018 09:33:48","-1:00","yvie","Alarm","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  Off",,HayXyo
+312777,"31/08/2018 09:33:54","-1:00","yvie","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,9Edr2N
+312778,"31/08/2018 09:34:50","-1:00","yvie","Alarm","EMERGENCY  On",,bFG7zp
+312779,"31/08/2018 09:34:50","-1:00","yvie","Alarm","COVER OPEN 3  On",,9O+0Qg
+312780,"31/08/2018 09:34:50","-1:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,sh8EJq
+312781,"31/08/2018 09:34:50","-1:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,1fumaq
+312782,"31/08/2018 09:34:50","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,n9V7eq
+312783,"31/08/2018 09:34:50","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,LI4XY+
+312784,"31/08/2018 09:36:34","-1:00","yvie","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,g5ipau
+312785,"31/08/2018 09:36:35","-1:00","yvie","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,7RVXUA
+312786,"31/08/2018 09:36:35","-1:00","yvie","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,q5zUvb
+312787,"31/08/2018 09:37:02","-1:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,XCAchg
+312788,"31/08/2018 09:37:02","-1:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,d2JQkR
+312789,"31/08/2018 09:37:02","-1:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,WE6osi
+312790,"31/08/2018 09:37:02","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,MiUofl
+312791,"31/08/2018 09:37:02","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,ko15xU
+312792,"31/08/2018 09:37:02","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,2vIqDx
+312793,"31/08/2018 09:37:02","-1:00","yvie","Alarm","COVER OPEN 3  Off",,aF+HqZ
+312794,"31/08/2018 09:37:02","-1:00","yvie","Alarm","EMERGENCY  Off",,/TU9dC
+312795,"31/08/2018 09:37:02","-1:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,XyfrBy
+312796,"31/08/2018 09:37:02","-1:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,Ye2WGs
+312797,"31/08/2018 09:37:02","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,ydmVMx
+312798,"31/08/2018 09:37:02","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,d6XvDn
+312799,"31/08/2018 09:39:35","-1:00","yvie","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  On",,svrdnN
+312800,"31/08/2018 09:39:36","-1:00","yvie","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Off",,+L8R0A
+312801,"31/08/2018 09:39:37","-1:00","yvie","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  On",,dQ26+Y
+312802,"31/08/2018 09:39:37","-1:00","yvie","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Off",,XoEJSw
+312803,"31/08/2018 09:39:58","-1:00","yvie","Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,o2BbNk
+312804,"31/08/2018 09:39:58","-1:00","yvie","Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,zN/zeH
+312805,"31/08/2018 10:12:04","-1:00","yvie","Alarm: 1097","Acknowledgment of 1097 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,cJmW30
+312806,"31/08/2018 10:12:04","-1:00","yvie","Alarm:","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Acknowledgment",,QxWokj
+312807,"31/08/2018 10:26:15","-1:00","yvie","Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,jjwSzQ
+312808,"31/08/2018 10:26:28","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  On",,Ermlb1
+312809,"31/08/2018 10:26:36","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  Off",,gAuUun
+312810,"31/08/2018 10:26:40","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  On",,VCGm8q
+312811,"31/08/2018 10:26:43","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  Off",,D9HU8P
+312812,"31/08/2018 10:26:49","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  On",,9Hzx+M
+312813,"31/08/2018 10:26:52","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  Off",,7FuSAC
+312814,"31/08/2018 10:27:01","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  On",,kupaqv
+312815,"31/08/2018 10:27:03","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  Off",,XkgvKw
+312816,"31/08/2018 10:27:30","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  On",,VQCDml
+312817,"31/08/2018 10:27:34","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  Off",,iXa0Kq
+312818,"31/08/2018 10:27:44","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  On",,r3ry4G
+312819,"31/08/2018 10:27:47","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  Off",,Ib7ECC
+312820,"31/08/2018 10:27:54","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  On",,qR9pW5
+312821,"31/08/2018 10:27:55","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  Off",,NgGz2q
+312822,"31/08/2018 10:28:20","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  On",,xVS3xP
+312823,"31/08/2018 10:28:23","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  Off",,Ko0FIa
+312824,"31/08/2018 10:29:50","-1:00","yvie","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,4ZQYr3
+312825,"31/08/2018 10:29:59","-1:00","yvie","Alarm","COVER OPEN 4  On",,eyf984
+312826,"31/08/2018 10:29:59","-1:00","yvie","Alarm","EMERGENCY  On",,1KmVM8
+312827,"31/08/2018 10:29:59","-1:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,AQj4gb
+312828,"31/08/2018 10:30:00","-1:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,5Pgb7s
+312829,"31/08/2018 10:30:00","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,ky8kKH
+312830,"31/08/2018 10:30:00","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,wKPhjb
+312831,"31/08/2018 10:30:13","-1:00","yvie","Alarm","COVER OPEN 3  On",,zrvDCc
+312832,"31/08/2018 10:30:38","-1:00","yvie","Alarm","COVER OPEN 3  Off",,sVd34x
+312833,"31/08/2018 10:30:38","-1:00","yvie","Alarm","COVER OPEN 4  Off",,u3vmaC
+312834,"31/08/2018 10:30:38","-1:00","yvie","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,k8Imxy
+312835,"31/08/2018 10:30:38","-1:00","yvie","Alarm","EMERGENCY  Off",,L56XbV
+312836,"31/08/2018 10:30:38","-1:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,H4h1Ow
+312837,"31/08/2018 10:30:39","-1:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,Bo5/eA
+312838,"31/08/2018 10:30:39","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,mCHC+9
+312839,"31/08/2018 10:30:39","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,lpJyIV
+312840,"31/08/2018 10:32:18","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  On",,mSik0P
+312841,"31/08/2018 10:32:20","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  Off",,FSx3ni
+312842,"31/08/2018 10:35:41","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  On",,lw4TJm
+312843,"31/08/2018 10:35:43","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  Off",,G9R0ZM
+312844,"31/08/2018 10:35:48","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  On",,gPKMHm
+312845,"31/08/2018 10:35:54","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  Off",,tNtN52
+312846,"31/08/2018 10:36:02","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  On",,b/iZUZ
+312847,"31/08/2018 10:36:06","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  Off",,HiW301
+312848,"31/08/2018 10:36:38","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  On",,iF82qt
+312849,"31/08/2018 10:37:08","-1:00","yvie","Warning","WARNING INFEED BELT MINIM LOAD  Off",,u+4q4Q
+312850,"31/08/2018 10:37:08","-1:00","yvie","Alarm","ALARM MISSING CONTAINERS ON THE LOADING BELT  On",,uE15vI
+312851,"31/08/2018 10:38:43","-1:00","yvie","User administration","User logged off.",,XsaLpO
+312852,"31/08/2018 10:38:43","-1:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,90PLN1
+312853,"31/08/2018 10:38:43","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,RrJGWZ
+312854,"31/08/2018 10:39:08","-1:00","System","User administration","User 'campbelld' logged on with group 'Operator'.",,3ijOfO
+312855,"31/08/2018 10:39:27","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,DrmN0p
+312856,"31/08/2018 10:39:27","-1:00","campbelld","Alarm","ALARM MISSING CONTAINERS ON THE LOADING BELT  Off",,5Ksbwj
+312857,"31/08/2018 10:39:27","-1:00","campbelld","Alarm","WARNING MISSING LOGIN OPERATION  Off",,lQ0lBn
+312858,"31/08/2018 10:39:38","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,DZ3wb0
+312859,"31/08/2018 10:41:51","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,XLHsbR
+312860,"31/08/2018 10:41:53","-1:00","campbelld","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,nha1a+
+312861,"31/08/2018 10:42:01","-1:00","campbelld","Alarm","EMERGENCY  On",,yTYdAD
+312862,"31/08/2018 10:42:01","-1:00","campbelld","Alarm","COVER OPEN 4  On",,Z3LGC3
+312863,"31/08/2018 10:42:01","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  On",,egBQdx
+312864,"31/08/2018 10:42:01","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  On",,PKo89y
+312865,"31/08/2018 10:42:01","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  On",,86MZ/9
+312866,"31/08/2018 10:42:01","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  On",,zGFVw6
+312867,"31/08/2018 10:42:49","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,QZKi8p
+312868,"31/08/2018 10:42:54","-1:00","campbelld","Alarm","COVER OPEN 4  Off",,XPVKNr
+312869,"31/08/2018 10:42:54","-1:00","campbelld","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,mumWy2
+312870,"31/08/2018 10:42:55","-1:00","campbelld","Alarm","EMERGENCY  Off",,L2iK4H
+312871,"31/08/2018 10:42:55","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  Off",,OMO8JX
+312872,"31/08/2018 10:42:56","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  Off",,X5Y0KQ
+312873,"31/08/2018 10:42:56","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  Off",,TtTbWQ
+312874,"31/08/2018 10:42:56","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  Off",,TxNuwq
+312875,"31/08/2018 10:43:40","-1:00","campbelld","Alarm","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  On",,X2if5J
+312876,"31/08/2018 10:45:50","-1:00","campbelld","Alarm","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  Off",,DEVPQQ
+312877,"31/08/2018 10:51:38","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,ZaSWmF
+312878,"31/08/2018 10:51:42","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,4gGSKK
+312879,"31/08/2018 10:53:05","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,5x74Ws
+312880,"31/08/2018 10:53:35","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,+Wzjx1
+312881,"31/08/2018 10:53:35","-1:00","campbelld","Alarm","ALARM MISSING CONTAINERS ON THE LOADING BELT  On",,5i6qpH
+312882,"31/08/2018 10:54:03","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,0mhjab
+312883,"31/08/2018 10:54:03","-1:00","campbelld","Alarm","ALARM MISSING CONTAINERS ON THE LOADING BELT  Off",,Xb+ODk
+312884,"31/08/2018 10:54:13","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,VT2HYo
+312885,"31/08/2018 11:05:08","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,HsDNFZ
+312886,"31/08/2018 11:05:10","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,RCRcSL
+312887,"31/08/2018 11:05:16","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,iNgOA8
+312888,"31/08/2018 11:05:20","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,D4FM+n
+312889,"31/08/2018 11:05:28","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,vI6wFh
+312890,"31/08/2018 11:05:29","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,o0jL+s
+312891,"31/08/2018 11:11:00","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,FmNNTE
+312892,"31/08/2018 11:11:17","-1:00","campbelld","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,f/jUQR
+312893,"31/08/2018 11:11:18","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,oY8lFz
+312894,"31/08/2018 11:12:02","-1:00","campbelld","Alarm","EMERGENCY  On",,5n8KPs
+312895,"31/08/2018 11:12:02","-1:00","campbelld","Alarm","COVER OPEN 4  On",,QYZ/dd
+312896,"31/08/2018 11:12:02","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  On",,YFJpGQ
+312897,"31/08/2018 11:12:02","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  On",,ITsy6S
+312898,"31/08/2018 11:12:02","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  On",,GWYjj3
+312899,"31/08/2018 11:12:02","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  On",,xYJ5Us
+312900,"31/08/2018 11:12:27","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,I29lNc
+312901,"31/08/2018 11:12:29","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,oITEAr
+312902,"31/08/2018 11:12:33","-1:00","campbelld","Alarm","COVER OPEN 4  Off",,6sHmKv
+312903,"31/08/2018 11:12:33","-1:00","campbelld","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,fhP2QA
+312904,"31/08/2018 11:12:34","-1:00","campbelld","Alarm","EMERGENCY  Off",,SLrrOE
+312905,"31/08/2018 11:12:34","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  Off",,+GfDwb
+312906,"31/08/2018 11:12:35","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  Off",,R4a7N0
+312907,"31/08/2018 11:12:35","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  Off",,jzzL44
+312908,"31/08/2018 11:12:35","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  Off",,K7jHxW
+312909,"31/08/2018 11:14:24","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,IJvD1w
+312910,"31/08/2018 11:14:31","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,UZkkD0
+312911,"31/08/2018 11:14:35","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,GuugPp
+312912,"31/08/2018 11:14:36","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,SLxB0V
+312913,"31/08/2018 11:14:44","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,XdbotI
+312914,"31/08/2018 11:14:46","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,wGHQPW
+312915,"31/08/2018 11:14:51","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,fw0prl
+312916,"31/08/2018 11:15:02","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,9tEGH0
+312917,"31/08/2018 11:15:32","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,GjEI7G
+312918,"31/08/2018 11:15:34","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,67orX0
+312919,"31/08/2018 11:20:32","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,ZPGnXC
+312920,"31/08/2018 11:20:48","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,QtC3i/
+312921,"31/08/2018 11:20:56","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,yYtK3X
+312922,"31/08/2018 11:21:24","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,CZy7/W
+312923,"31/08/2018 11:21:25","-1:00","campbelld","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,xFdgKp
+312924,"31/08/2018 11:22:11","-1:00","campbelld","Alarm","EMERGENCY  On",,2k6367
+312925,"31/08/2018 11:22:11","-1:00","campbelld","Alarm","COVER OPEN 3  On",,nLuLUp
+312926,"31/08/2018 11:22:11","-1:00","campbelld","Alarm","COVER OPEN 4  On",,g+Cm+R
+312927,"31/08/2018 11:22:11","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  On",,rHMvyu
+312928,"31/08/2018 11:22:11","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  On",,l8qja6
+312929,"31/08/2018 11:22:11","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  On",,60Vo2D
+312930,"31/08/2018 11:22:11","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  On",,+VH9+Q
+312931,"31/08/2018 11:28:14","-1:00","campbelld","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,3TjV2l
+312932,"31/08/2018 11:28:56","-1:00","campbelld","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,fP9Z5d
+312933,"31/08/2018 11:31:01","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,Pl4SRd
+312934,"31/08/2018 11:31:13","-1:00","campbelld","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,QOjD46
+312935,"31/08/2018 11:31:13","-1:00","campbelld","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,yFDMkk
+312936,"31/08/2018 11:31:13","-1:00","campbelld","Alarm:","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  Acknowledgment",,IqtJmh
+312937,"31/08/2018 11:31:13","-1:00","campbelld","Alarm:","ALARM MISSING CONTAINERS ON THE LOADING BELT  Acknowledgment",,l0xyR4
+312938,"31/08/2018 11:31:13","-1:00","campbelld","Alarm:","ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment",,cE/8cB
+312939,"31/08/2018 11:31:13","-1:00","campbelld","Alarm:","EMERGENCY  Acknowledgment",,1ayWLx
+312940,"31/08/2018 11:31:13","-1:00","campbelld","Alarm:","COVER OPEN 3  Acknowledgment",,0VYULJ
+312941,"31/08/2018 11:31:13","-1:00","campbelld","Alarm:","COVER OPEN 4  Acknowledgment",,62Vcqa
+312942,"31/08/2018 11:31:13","-1:00","campbelld","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,pu4vSr
+312943,"31/08/2018 11:31:13","-1:00","campbelld","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,KqkJ3W
+312944,"31/08/2018 11:31:13","-1:00","campbelld","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,V1TnZs
+312945,"31/08/2018 11:31:13","-1:00","campbelld","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,HdHna+
+312946,"31/08/2018 11:31:13","-1:00","campbelld","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,sV4yMM
+312947,"31/08/2018 11:31:14","-1:00","campbelld","Alarm: 1021","Acknowledgment of 1021 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,uMxjG6
+312948,"31/08/2018 11:31:15","-1:00","campbelld","Alarm: 1021","Acknowledgment of 1021 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,9exBN6
+312949,"31/08/2018 11:31:15","-1:00","campbelld","Alarm: 1021","Acknowledgment of 1021 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,7v+oEM
+312950,"31/08/2018 11:31:20","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,ay3eSv
+312951,"31/08/2018 11:31:21","-1:00","campbelld","Alarm","COVER OPEN 3  Off",,+ezZY3
+312952,"31/08/2018 11:31:21","-1:00","campbelld","Alarm","COVER OPEN 4  Off",,RUG9u6
+312953,"31/08/2018 11:31:21","-1:00","campbelld","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,knQDUI
+312954,"31/08/2018 11:31:22","-1:00","campbelld","Alarm","EMERGENCY  Off",,1K6TIz
+312955,"31/08/2018 11:31:22","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  Off",,4wu90n
+312956,"31/08/2018 11:31:25","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  Off",,N6lJUz
+312957,"31/08/2018 11:31:25","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  Off",,TGNBen
+312958,"31/08/2018 11:31:25","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  Off",,5FNgWy
+312959,"31/08/2018 11:31:50","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,QYv97U
+312960,"31/08/2018 11:32:14","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,ylfhK6
+312961,"31/08/2018 11:32:40","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,sIOZAq
+312962,"31/08/2018 11:33:04","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,KKi+D0
+312963,"31/08/2018 11:33:10","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,i1Hb8p
+312964,"31/08/2018 11:33:12","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,irBLNF
+312965,"31/08/2018 11:33:18","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,g/TFut
+312966,"31/08/2018 11:33:27","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,SQjUpS
+312967,"31/08/2018 11:33:28","-1:00","campbelld","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,MkajPq
+312968,"31/08/2018 11:33:44","-1:00","campbelld","Alarm","EMERGENCY  On",,cJvtj/
+312969,"31/08/2018 11:33:44","-1:00","campbelld","Alarm","COVER OPEN 3  On",,GKfVlj
+312970,"31/08/2018 11:33:44","-1:00","campbelld","Alarm","COVER OPEN 4  On",,tP3d2U
+312971,"31/08/2018 11:33:44","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  On",,+COWqQ
+312972,"31/08/2018 11:33:44","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  On",,hSSS5l
+312973,"31/08/2018 11:33:44","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  On",,27dmvA
+312974,"31/08/2018 11:33:44","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  On",,geaaFO
+312975,"31/08/2018 11:35:30","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,H4+W6b
+312976,"31/08/2018 11:35:36","-1:00","campbelld","Alarm","COVER OPEN 3  Off",,qkf0/k
+312977,"31/08/2018 11:35:36","-1:00","campbelld","Alarm","COVER OPEN 4  Off",,K2rDAy
+312978,"31/08/2018 11:35:36","-1:00","campbelld","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,Hn84ts
+312979,"31/08/2018 11:35:37","-1:00","campbelld","Alarm","EMERGENCY  Off",,X1/HBv
+312980,"31/08/2018 11:35:37","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  Off",,vOuG7Q
+312981,"31/08/2018 11:35:38","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  Off",,oX93/7
+312982,"31/08/2018 11:35:38","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  Off",,MUS978
+312983,"31/08/2018 11:35:38","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  Off",,gIIWY+
+312984,"31/08/2018 11:35:46","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,AFlIiR
+312985,"31/08/2018 11:35:55","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,dhC7AW
+312986,"31/08/2018 11:35:58","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,WV6l4U
+312987,"31/08/2018 11:39:42","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,3eE2xO
+312988,"31/08/2018 11:39:46","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,CeF0p5
+312989,"31/08/2018 11:39:55","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,5u64KS
+312990,"31/08/2018 11:39:59","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,hIYeqf
+312991,"31/08/2018 11:40:01","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,3BOkhx
+312992,"31/08/2018 11:40:10","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,WTHC7P
+312993,"31/08/2018 11:40:16","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,9VwVmJ
+312994,"31/08/2018 11:40:19","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,wzU6BU
+312995,"31/08/2018 11:40:25","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,cyWiPE
+312996,"31/08/2018 11:40:33","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,9f9zO7
+312997,"31/08/2018 11:40:35","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,7M6gjJ
+312998,"31/08/2018 11:40:43","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,qIWe4G
+312999,"31/08/2018 11:40:52","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,XfZHz4
+313000,"31/08/2018 11:40:55","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,RNnj3Y
+313001,"31/08/2018 11:41:01","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,d7/Zkt
+313002,"31/08/2018 11:41:04","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,kwHJ+s
+313003,"31/08/2018 11:41:12","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,gvAnZ8
+313004,"31/08/2018 11:41:13","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,2mJMpf
+313005,"31/08/2018 11:41:23","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,PojSle
+313006,"31/08/2018 11:41:26","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,F4f2eE
+313007,"31/08/2018 11:42:51","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  On",,LLdULD
+313008,"31/08/2018 11:42:58","-1:00","campbelld","Warning","WARNING INFEED BELT MINIM LOAD  Off",,JYlL35
+313009,"31/08/2018 11:42:58","-1:00","campbelld","Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,NiIr82
+313010,"31/08/2018 11:46:23","-1:00","campbelld","Alarm","COVER OPEN 3  On",,Wr6n7K
+313011,"31/08/2018 11:46:23","-1:00","campbelld","Alarm","EMERGENCY  On",,Zt0JGG
+313012,"31/08/2018 11:46:23","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  On",,ikFAl8
+313013,"31/08/2018 11:46:23","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  On",,6j9Lvw
+313014,"31/08/2018 11:46:23","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  On",,UElmpe
+313015,"31/08/2018 11:46:23","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  On",,AdO5H5
+313016,"31/08/2018 11:46:32","-1:00","campbelld","Alarm","COVER OPEN 3  Off",,/znRD7
+313017,"31/08/2018 11:46:33","-1:00","campbelld","Alarm","EMERGENCY  Off",,NBUrZE
+313018,"31/08/2018 11:46:33","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  Off",,xdPRQG
+313019,"31/08/2018 11:46:34","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  Off",,2Hv40T
+313020,"31/08/2018 11:46:34","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  Off",,4W3ktW
+313021,"31/08/2018 11:46:34","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  Off",,wrxxIJ
+313022,"31/08/2018 12:39:52","-1:00","campbelld","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,eA2bb0
+313023,"31/08/2018 12:40:05","-1:00","campbelld","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,4Vh57V
+313024,"31/08/2018 12:52:22","-1:00","System","User administration","User logged off.",,yyUeph
+313025,"31/08/2018 12:52:22","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,La5rvR
+313026,"31/08/2018 12:53:07","-1:00","campbelld","User administration","User 'campbelld' logged on with group 'Operator'.",,/7oFC+
+313027,"31/08/2018 12:53:08","-1:00","campbelld","Alarm","WARNING MISSING LOGIN OPERATION  Off",,pZ3S41
+313028,"31/08/2018 12:54:42","-1:00","campbelld","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,PN007D
+313029,"31/08/2018 12:54:42","-1:00","campbelld","Alarm:","ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment",,aaD9kc
+313030,"31/08/2018 12:54:42","-1:00","campbelld","Alarm:","COVER OPEN 4  Acknowledgment",,J8Bk3u
+313031,"31/08/2018 12:54:42","-1:00","campbelld","Alarm:","COVER OPEN 3  Acknowledgment",,Be7r1s
+313032,"31/08/2018 12:54:42","-1:00","campbelld","Alarm:","EMERGENCY  Acknowledgment",,pjh8h7
+313033,"31/08/2018 12:54:42","-1:00","campbelld","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,GaKGgr
+313034,"31/08/2018 12:54:42","-1:00","campbelld","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,cNLcav
+313035,"31/08/2018 12:54:42","-1:00","campbelld","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,jKiHVi
+313036,"31/08/2018 12:54:42","-1:00","campbelld","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,wtxjrv
+313037,"31/08/2018 12:54:42","-1:00","campbelld","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,xznHl9
+313038,"31/08/2018 12:58:52","-1:00","campbelld","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,qYdTwp
+313039,"31/08/2018 12:59:38","-1:00","campbelld","Alarm","EMERGENCY  On",,W+WLMK
+313040,"31/08/2018 12:59:38","-1:00","campbelld","Alarm","COVER OPEN 3  On",,vS19XN
+313041,"31/08/2018 12:59:38","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  On",,ntPXeV
+313042,"31/08/2018 12:59:39","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  On",,yqk7YZ
+313043,"31/08/2018 12:59:39","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  On",,MBaIN4
+313044,"31/08/2018 12:59:39","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  On",,aeCih7
+313045,"31/08/2018 12:59:40","-1:00","campbelld","Alarm","COVER OPEN 4  On",,Kk/8WZ
+313046,"31/08/2018 13:00:17","-1:00","campbelld","Alarm","COVER OPEN 3  Off",,smCbr+
+313047,"31/08/2018 13:00:17","-1:00","campbelld","Alarm","COVER OPEN 4  Off",,YuztcA
+313048,"31/08/2018 13:00:17","-1:00","campbelld","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,gG5YKU
+313049,"31/08/2018 13:00:17","-1:00","campbelld","Alarm","EMERGENCY  Off",,23tGYQ
+313050,"31/08/2018 13:00:17","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  Off",,69zjI0
+313051,"31/08/2018 13:00:18","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  Off",,LX45dv
+313052,"31/08/2018 13:00:18","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  Off",,bWotVf
+313053,"31/08/2018 13:00:18","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  Off",,4//Fzb
+313054,"31/08/2018 13:08:56","-1:00","campbelld","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,mXfOmr
+313055,"31/08/2018 13:09:31","-1:00","campbelld","Alarm","EMERGENCY  On",,Cuasdh
+313056,"31/08/2018 13:09:31","-1:00","campbelld","Alarm","COVER OPEN 4  On",,sLThy2
+313057,"31/08/2018 13:09:31","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  On",,UL1kqt
+313058,"31/08/2018 13:09:31","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  On",,Ui+qdj
+313059,"31/08/2018 13:09:31","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  On",,ocDiHM
+313060,"31/08/2018 13:09:31","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  On",,0Xx8Bt
+313061,"31/08/2018 13:09:37","-1:00","campbelld","Alarm","COVER OPEN 3  On",,mFd/wX
+313062,"31/08/2018 13:10:08","-1:00","campbelld","Alarm","COVER OPEN 3  Off",,PRwTqr
+313063,"31/08/2018 13:10:08","-1:00","campbelld","Alarm","COVER OPEN 4  Off",,Bfrnea
+313064,"31/08/2018 13:10:08","-1:00","campbelld","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,rpvC8O
+313065,"31/08/2018 13:10:08","-1:00","campbelld","Alarm","EMERGENCY  Off",,wepKeC
+313066,"31/08/2018 13:10:08","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  Off",,xSY6Qx
+313067,"31/08/2018 13:10:09","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  Off",,QHNL9B
+313068,"31/08/2018 13:10:09","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  Off",,DdKQXu
+313069,"31/08/2018 13:10:09","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  Off",,iNtmQr
+313070,"31/08/2018 13:12:30","-1:00","campbelld","Alarm: 4","Acknowledgment of 4 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,xp0Mza
+313071,"31/08/2018 13:12:30","-1:00","campbelld","Alarm:","ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment",,zuhC6S
+313072,"31/08/2018 13:12:30","-1:00","campbelld","Alarm:","EMERGENCY  Acknowledgment",,lNVZvQ
+313073,"31/08/2018 13:12:30","-1:00","campbelld","Alarm:","COVER OPEN 4  Acknowledgment",,Tv0uId
+313074,"31/08/2018 13:12:30","-1:00","campbelld","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,52R1fS
+313075,"31/08/2018 13:12:30","-1:00","campbelld","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,7NPR6U
+313076,"31/08/2018 13:12:30","-1:00","campbelld","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,rL50RA
+313077,"31/08/2018 13:12:30","-1:00","campbelld","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,bQfvuw
+313078,"31/08/2018 13:12:30","-1:00","campbelld","Alarm:","COVER OPEN 3  Acknowledgment",,cI2cgk
+313079,"31/08/2018 13:18:36","-1:00","campbelld","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,iKWUkU
+313080,"31/08/2018 13:19:22","-1:00","campbelld","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,SglJUB
+313081,"31/08/2018 13:34:28","-1:00","campbelld","Alarm","COVER OPEN 3  On",,Vlo2+M
+313082,"31/08/2018 13:34:28","-1:00","campbelld","Alarm","EMERGENCY  On",,kXhN04
+313083,"31/08/2018 13:34:28","-1:00","campbelld","Alarm","COVER OPEN 4  On",,uwcVid
+313084,"31/08/2018 13:34:28","-1:00","campbelld","Alarm","ALARM INFEED BELT MOTOR  On",,pYPTCI
+313085,"31/08/2018 13:34:28","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR  On",,iWCzhr
+313086,"31/08/2018 13:34:28","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 2  On",,Hp58d6
+313087,"31/08/2018 13:34:28","-1:00","campbelld","Alarm","ALARM ROTATION MOTOR 3  On",,jfxr0Y
+313088,"31/08/2018 13:35:01","-1:00","campbelld","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,oVVuLW
+313089,"31/08/2018 13:37:14","-1:00","campbelld","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,wMGeId
+313090,"31/08/2018 14:10:52","-1:00","campbelld","User administration","User logged off.",,EEH2Db
+313091,"31/08/2018 14:10:52","-1:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,uNlj3O
+313092,"31/08/2018 14:10:52","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,FSiu4y
+313093,"31/08/2018 14:11:11","-1:00","System","User administration","User 'yvie' logged on with group 'Operator'.",,Ikmrr/
+313094,"31/08/2018 14:12:48","-1:00","yvie","Alarm","COVER OPEN 3  Off",,hVLm6i
+313095,"31/08/2018 14:12:48","-1:00","yvie","Alarm","COVER OPEN 4  Off",,4PVVct
+313096,"31/08/2018 14:12:48","-1:00","yvie","Alarm","WARNING MISSING LOGIN OPERATION  Off",,B8wxYY
+313097,"31/08/2018 14:12:48","-1:00","yvie","Alarm","EMERGENCY  Off",,+lNGMl
+313098,"31/08/2018 14:12:48","-1:00","yvie","Alarm","ALARM INFEED BELT MOTOR  Off",,RQzp0J
+313099,"31/08/2018 14:12:48","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 2  Off",,dZ338b
+313100,"31/08/2018 14:12:48","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 3  Off",,F90eRu
+313101,"31/08/2018 14:12:48","-1:00","yvie","Alarm","ALARM ROTATION MOTOR  Off",,huVOxU
+313102,"31/08/2018 14:12:54","-1:00","yvie","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  On",,r8muy5
+313103,"31/08/2018 14:13:04","-1:00","yvie","Alarm: 1023","Acknowledgment of 1023 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,zV838G
+313104,"31/08/2018 14:13:04","-1:00","yvie","Alarm:","COVER OPEN 3  Acknowledgment",,1J51pY
+313105,"31/08/2018 14:13:04","-1:00","yvie","Alarm:","EMERGENCY  Acknowledgment",,9fzoKU
+313106,"31/08/2018 14:13:04","-1:00","yvie","Alarm:","COVER OPEN 4  Acknowledgment",,xDcKkI
+313107,"31/08/2018 14:13:04","-1:00","yvie","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,bp0MWJ
+313108,"31/08/2018 14:13:04","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,FQeW99
+313109,"31/08/2018 14:13:04","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,rsEofp
+313110,"31/08/2018 14:13:04","-1:00","yvie","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,5NT3DM
+313111,"31/08/2018 14:13:04","-1:00","yvie","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,bFSQtq
+313112,"31/08/2018 14:13:04","-1:00","yvie","Alarm:","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Acknowledgment",,Sp268D
+313113,"31/08/2018 14:13:06","-1:00","yvie","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Off",,E52yv/
+313114,"31/08/2018 14:15:30","-1:00","yvie","Alarm","EMERGENCY  On",,RLqYFQ
+313115,"31/08/2018 14:15:30","-1:00","yvie","Alarm","COVER OPEN 3  On",,LYMJQC
+313116,"31/08/2018 14:15:30","-1:00","yvie","Alarm","ALARM INFEED BELT MOTOR  On",,AGUzea
+313117,"31/08/2018 14:15:31","-1:00","yvie","Alarm","ALARM ROTATION MOTOR  On",,gY5m2k
+313118,"31/08/2018 14:15:31","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 2  On",,bibDSL
+313119,"31/08/2018 14:15:31","-1:00","yvie","Alarm","ALARM ROTATION MOTOR 3  On",,DRPObe
+313120,"31/08/2018 14:16:17","-1:00","yvie","Alarm","COVER OPEN 4  On",,4cxH5+
+313121,"31/08/2018 14:54:25","-1:00","yvie","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,rSJHd7
+313122,"31/08/2018 14:54:25","-1:00","yvie","Warning","ALARM VACUUM SENSOR  On",,zyQzbl
+313123,"31/08/2018 14:54:25","-1:00","yvie","Warning","WARNING UPS  On",,ATirIO
+313124,"31/08/2018 14:54:28","-1:00","yvie","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,+2wifP
+313125,"31/08/2018 14:54:28","-1:00","yvie","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,98+woP
+313126,"31/08/2018 14:54:28","-1:00","yvie","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,4kwg0N
+313127,"03/09/2018 08:22:36","-1:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,xLwqXp
+0,"03/09/2018 08:22:36","-1:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,Wt07GK
+313128,"03/09/2018 08:22:36","-1:00","System","Application","Change to operating mode 'online'.",,JT41ht
+313129,"03/09/2018 08:22:36","-1:00","System","User administration","Password list imported successfully.",,SOA8CJ
+0,"03/09/2018 08:22:38","-1:00","System","Logs","Log files closed.",,PZuuer
+"$RT_COUNT$",483,kk14ge,,,,,BETtyV

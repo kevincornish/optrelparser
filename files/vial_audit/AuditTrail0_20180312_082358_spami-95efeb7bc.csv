@@ -1,0 +1,67 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"12/03/2018 08:11:19","+0:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,VluN1Y
+413357,"12/03/2018 08:11:19","+0:00","System","Logs","Exporting a log.",,GYGPd0
+413358,"12/03/2018 08:11:35","+0:00",,"Recipe","Loading recipe number 3 ( 50ml Production ) on the interface.",,FlwWGt
+413359,"12/03/2018 08:11:36","+0:00",,"Recipe","Data trasfered to PLC",,FGIMyz
+413360,"12/03/2018 08:11:36","+0:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,ciSDfH
+413361,"12/03/2018 08:11:36","+0:00",,"Alarm","ALARM ROTATION MOTOR  On",,eJKVRz
+413362,"12/03/2018 08:11:36","+0:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,jykfJL
+413363,"12/03/2018 08:11:36","+0:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,38gho0
+413364,"12/03/2018 08:11:36","+0:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,LCT6qk
+413365,"12/03/2018 08:11:36","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,FcgUyl
+413366,"12/03/2018 08:11:36","+0:00",,"Warning","ALARM VACUUM SENSOR  On",,iOx4C5
+413367,"12/03/2018 08:11:36","+0:00",,"Warning","PVSI NOT READY  On",,SR0tob
+413368,"12/03/2018 08:11:36","+0:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,/xD/HY
+413369,"12/03/2018 08:11:36","+0:00",,"Warning","PVSI NOT RUNNING   On",,uCL4Vk
+413370,"12/03/2018 08:11:36","+0:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,kdTI7C
+413371,"12/03/2018 08:11:36","+0:00",,"Alarm","EMERGENCY  On",,U9fRbb
+413372,"12/03/2018 08:11:36","+0:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,Xo8dKW
+413373,"12/03/2018 08:11:36","+0:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,cIHDKV
+413374,"12/03/2018 08:11:36","+0:00",,"Alarm","ALARM TURRET MOTOR NOT READY  On",,o3bypY
+413375,"12/03/2018 08:11:36","+0:00",,"Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,/VtbBV
+413376,"12/03/2018 08:11:40","+0:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,OIhAan
+413377,"12/03/2018 08:15:46","+0:00",,"Alarm","COVER OPEN 4  On",,g5g5r3
+413378,"12/03/2018 08:15:51","+0:00",,"Alarm","COVER OPEN 3  On",,cGuZwB
+413379,"12/03/2018 08:16:52","+0:00","System","User administration","User 'robj' logged on with group 'Operator'.",,OuoqYh
+413380,"12/03/2018 08:17:04","+0:00","robj","Warning","PVSI NOT RUNNING   Off",,6MV62v
+413381,"12/03/2018 08:17:59","+0:00","robj","Alarm","WARNING MISSING LOGIN OPERATION  Off",,dqH9hv
+413382,"12/03/2018 08:17:59","+0:00","robj","Warning","ALARM VACUUM SENSOR  Off",,tLNyMN
+413383,"12/03/2018 08:17:59","+0:00","robj","Warning","PVSI NOT READY  Off",,D4XKTN
+413384,"12/03/2018 08:17:59","+0:00","robj","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,UEbwY0
+413385,"12/03/2018 08:17:59","+0:00","robj","Alarm","COVER OPEN 3  Off",,K75+Ft
+413386,"12/03/2018 08:17:59","+0:00","robj","Alarm","COVER OPEN 4  Off",,jI4YSp
+413387,"12/03/2018 08:17:59","+0:00","robj","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  Off",,zXYy0j
+413388,"12/03/2018 08:17:59","+0:00","robj","Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,lwB6EK
+413389,"12/03/2018 08:17:59","+0:00","robj","Alarm","ALARM TURRET MOTOR NOT READY  Off",,Z+f/Di
+413390,"12/03/2018 08:17:59","+0:00","robj","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  Off",,eOw2Te
+413391,"12/03/2018 08:18:00","+0:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,718CrE
+413392,"12/03/2018 08:18:00","+0:00","robj","Alarm","EMERGENCY  Off",,7TsiJw
+413393,"12/03/2018 08:18:01","+0:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,hYl1KA
+413394,"12/03/2018 08:18:01","+0:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,5MOsRD
+413395,"12/03/2018 08:18:01","+0:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,2Bxuia
+413396,"12/03/2018 08:18:05","+0:00","robj","Alarm: 4","Acknowledgment of 4 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,neP8EN
+413397,"12/03/2018 08:18:05","+0:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,J+YK5Y
+413398,"12/03/2018 08:18:05","+0:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,Rl0I+7
+413399,"12/03/2018 08:18:05","+0:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,n2kv4M
+413400,"12/03/2018 08:18:05","+0:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,mYdGYs
+413401,"12/03/2018 08:18:05","+0:00","robj","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,ya6gDo
+413402,"12/03/2018 08:18:05","+0:00","robj","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,/hy28k
+413403,"12/03/2018 08:18:05","+0:00","robj","Alarm:","EMERGENCY  Acknowledgment",,Sbgih+
+413404,"12/03/2018 08:18:05","+0:00","robj","Alarm:","ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment",,IoAK6Q
+413405,"12/03/2018 08:18:05","+0:00","robj","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,1yDrtD
+413406,"12/03/2018 08:18:05","+0:00","robj","Alarm:","ALARM TURRET MOTOR NOT READY  Acknowledgment",,kinpPP
+413407,"12/03/2018 08:18:05","+0:00","robj","Alarm:","ALARM HOMING NOT DONE TURRET MOTOR  Acknowledgment",,7OENn3
+413408,"12/03/2018 08:18:05","+0:00","robj","Alarm:","COVER OPEN 4  Acknowledgment",,dMFNK5
+413409,"12/03/2018 08:18:05","+0:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,rwdH0m
+413410,"12/03/2018 08:21:52","+0:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,O1ZXO4
+413411,"12/03/2018 08:21:52","+0:00","robj","Alarm","EMERGENCY  On",,R/QIzf
+413412,"12/03/2018 08:21:52","+0:00","robj","Alarm","COVER OPEN 3  On",,eufyyR
+413413,"12/03/2018 08:21:53","+0:00","robj","Alarm","ALARM ROTATION MOTOR  On",,tmPxNA
+413414,"12/03/2018 08:21:53","+0:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,BzGIHT
+413415,"12/03/2018 08:21:53","+0:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,oD1m3a
+413416,"12/03/2018 08:23:57","+0:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,goK2yF
+0,"12/03/2018 08:23:57","+0:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,43CINb
+413417,"12/03/2018 08:23:57","+0:00","System","Application","Change to operating mode 'online'.",,VHLKh/
+413418,"12/03/2018 08:23:57","+0:00","System","User administration","Password list imported successfully.",,DfExNZ
+0,"12/03/2018 08:23:58","+0:00","System","Logs","Log files closed.",,f2HpgE
+"$RT_COUNT$",66,kk14ge,,,,,8HpOJy

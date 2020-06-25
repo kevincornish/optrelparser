@@ -1,0 +1,951 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"19/12/2018 08:23:06","+0:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,ubYffN
+509703,"19/12/2018 08:23:06","+0:00","System","Logs","Exporting a log.",,fXiduH
+509704,"19/12/2018 08:23:12","+0:00",,"Recipe","Loading recipe number 1 ( 1mL Production ) on the interface.",,YAQ7D2
+509705,"19/12/2018 08:23:13","+0:00",,"Recipe","Data trasfered to PLC",,pTjTSQ
+509706,"19/12/2018 08:23:13","+0:00",,"Warning","ALARM OZONE SENSOR  On",,/RtyfJ
+509707,"19/12/2018 08:23:13","+0:00",,"Warning","PVSI NOT RUNNING   On",,2PVSCc
+509708,"19/12/2018 08:23:13","+0:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,hcT4d3
+509709,"19/12/2018 08:23:13","+0:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,QRfX4n
+509710,"19/12/2018 08:23:13","+0:00",,"Alarm","EMERGENCY  On",,L0otwi
+509711,"19/12/2018 08:23:13","+0:00",,"Alarm","COVER OPEN 2  On",,3tyfIQ
+509712,"19/12/2018 08:23:13","+0:00",,"Alarm","COVER OPEN 3  On",,hG6LVN
+509713,"19/12/2018 08:23:13","+0:00",,"Alarm","COVER OPEN 5  On",,sd3F54
+509714,"19/12/2018 08:23:13","+0:00",,"Alarm","COVER OPEN 6  On",,4eQtTE
+509715,"19/12/2018 08:23:13","+0:00",,"Alarm","COVER OPEN 7  On",,8siP+S
+509716,"19/12/2018 08:23:13","+0:00",,"Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,yxHouG
+509717,"19/12/2018 08:23:13","+0:00",,"Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  On",,gvRjGC
+509718,"19/12/2018 08:23:13","+0:00",,"Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,GrHA83
+509719,"19/12/2018 08:23:13","+0:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,dLvPxK
+509720,"19/12/2018 08:23:13","+0:00",,"Alarm","ALARM ROTATION MOTOR 1  On",,nt0GXc
+509721,"19/12/2018 08:23:13","+0:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,ST9ibO
+509722,"19/12/2018 08:23:13","+0:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,Yt015B
+509723,"19/12/2018 08:23:13","+0:00",,"Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   On",,+kYgDE
+509724,"19/12/2018 08:23:13","+0:00",,"Alarm","ALARM MISSING LKD REJECTED TRAYS   On",,Mc+btt
+509725,"19/12/2018 08:23:13","+0:00",,"Alarm","PVSI NOT READY  On",,oFjgTU
+509726,"19/12/2018 08:23:13","+0:00",,"Alarm","PVSI AND WINCC PRODUCT DIFFERENT  On",,A0D3mn
+509727,"19/12/2018 08:23:13","+0:00",,"Alarm","Alarm profibus nodo 3 (encoder)  On",,wKq6nC
+509728,"19/12/2018 08:23:13","+0:00",,"Alarm","Alarm profibus nodo 4 (PC)  On",,YISxI4
+509729,"19/12/2018 08:23:13","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,tTRfU9
+509730,"19/12/2018 08:23:24","+0:00","System","User administration","User 'markw' has unsuccessfully attempted to log on 1 times in succession.",,17DwBl
+509731,"19/12/2018 08:23:24","+0:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,oXVDn4
+509732,"19/12/2018 08:23:34","+0:00","System","User administration","User 'markw' logged on with group 'Operator'.",,/QrIdH
+509733,"19/12/2018 08:23:44","+0:00","markw","Warning","ALARM OZONE SENSOR  Off",,AGeTNM
+509734,"19/12/2018 08:23:44","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,Hp979x
+509735,"19/12/2018 08:23:44","+0:00","markw","Alarm","COVER OPEN 2  Off",,3wWp1G
+509736,"19/12/2018 08:23:44","+0:00","markw","Alarm","COVER OPEN 3  Off",,to/E69
+509737,"19/12/2018 08:23:44","+0:00","markw","Alarm","COVER OPEN 5  Off",,N1MMBS
+509738,"19/12/2018 08:23:44","+0:00","markw","Alarm","COVER OPEN 6  Off",,RuLA2L
+509739,"19/12/2018 08:23:44","+0:00","markw","Alarm","COVER OPEN 7  Off",,LpWxx2
+509740,"19/12/2018 08:23:44","+0:00","markw","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,SR2zSN
+509741,"19/12/2018 08:23:44","+0:00","markw","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  Off",,F+DoJp
+509742,"19/12/2018 08:23:44","+0:00","markw","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off",,PS2wWy
+509743,"19/12/2018 08:23:44","+0:00","markw","Alarm","ALARM ROTATION MOTOR 1  Off",,fgFLOx
+509744,"19/12/2018 08:23:44","+0:00","markw","Alarm","ALARM ROTATION MOTOR 2  Off",,3Wsa+C
+509745,"19/12/2018 08:23:44","+0:00","markw","Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   Off",,HAp5wt
+509746,"19/12/2018 08:23:44","+0:00","markw","Alarm","ALARM MISSING LKD REJECTED TRAYS   Off",,bUEZv7
+509747,"19/12/2018 08:23:44","+0:00","markw","Alarm","Alarm profibus nodo 3 (encoder)  Off",,jRz/FA
+509748,"19/12/2018 08:23:44","+0:00","markw","Alarm","Alarm profibus nodo 4 (PC)  Off",,yEDEIx
+509749,"19/12/2018 08:23:44","+0:00","markw","Alarm","WARNING MISSING LOGIN OPERATION  Off",,zjEC+c
+509750,"19/12/2018 08:23:44","+0:00","markw","Alarm","PVSI NOT READY  Off",,7DA16F
+509751,"19/12/2018 08:23:47","+0:00","markw","Alarm","PVSI AND WINCC PRODUCT DIFFERENT  Off",,MAwfyj
+509752,"19/12/2018 08:23:47","+0:00","markw","Warning","PVSI NOT RUNNING   Off",,pps/vf
+509753,"19/12/2018 08:23:54","+0:00","markw","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,6dbhRu
+509754,"19/12/2018 08:23:54","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,whIr30
+509755,"19/12/2018 08:23:54","+0:00","markw","Alarm:","COVER OPEN 2  Acknowledgment",,88ZQ6I
+509756,"19/12/2018 08:23:54","+0:00","markw","Alarm:","COVER OPEN 3  Acknowledgment",,XsTPSc
+509757,"19/12/2018 08:23:54","+0:00","markw","Alarm:","COVER OPEN 5  Acknowledgment",,n4+naS
+509758,"19/12/2018 08:23:54","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,f3oLkc
+509759,"19/12/2018 08:23:54","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,mt/b1F
+509760,"19/12/2018 08:23:54","+0:00","markw","Alarm:","ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment",,hjTUyh
+509761,"19/12/2018 08:23:54","+0:00","markw","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  Acknowledgment",,dUHtBH
+509762,"19/12/2018 08:23:54","+0:00","markw","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment",,WYsGDM
+509763,"19/12/2018 08:23:54","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,IbBEFP
+509764,"19/12/2018 08:23:54","+0:00","markw","Alarm:","ALARM ROTATION MOTOR 1  Acknowledgment",,IL8OTj
+509765,"19/12/2018 08:23:54","+0:00","markw","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,JCk7EH
+509766,"19/12/2018 08:23:54","+0:00","markw","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,6Wkhue
+509767,"19/12/2018 08:23:54","+0:00","markw","Alarm:","ALARM MISSING ST0 TIP REJECTED TRAYS   Acknowledgment",,bIGnu8
+509768,"19/12/2018 08:23:54","+0:00","markw","Alarm:","ALARM MISSING LKD REJECTED TRAYS   Acknowledgment",,HNW48F
+509769,"19/12/2018 08:23:54","+0:00","markw","Alarm:","PVSI NOT READY  Acknowledgment",,UpEybq
+509770,"19/12/2018 08:23:54","+0:00","markw","Alarm:","PVSI AND WINCC PRODUCT DIFFERENT  Acknowledgment",,3K6yEg
+509771,"19/12/2018 08:23:54","+0:00","markw","Alarm:","Alarm profibus nodo 3 (encoder)  Acknowledgment",,uYQ9Kd
+509772,"19/12/2018 08:23:54","+0:00","markw","Alarm:","Alarm profibus nodo 4 (PC)  Acknowledgment",,0P44sv
+509773,"19/12/2018 08:23:54","+0:00","markw","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,nKgSCu
+509774,"19/12/2018 08:23:54","+0:00","markw","Alarm: 21","Acknowledgment of 21 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,kx2UxM
+509775,"19/12/2018 08:23:54","+0:00","markw","Alarm: 21","Acknowledgment of 21 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,abJfj/
+509776,"19/12/2018 08:23:54","+0:00","markw","Alarm: 21","Acknowledgment of 21 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,vNZ6Sr
+509777,"19/12/2018 08:23:54","+0:00","markw","Alarm: 21","Acknowledgment of 21 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,wKzsE9
+509778,"19/12/2018 08:24:34","+0:00","markw","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,XYC/g+
+509779,"19/12/2018 08:24:34","+0:00","markw","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,omgd4a
+509780,"19/12/2018 08:24:35","+0:00","markw","Alarm","COVER OPEN 1  On",,f6W12T
+509781,"19/12/2018 08:24:37","+0:00","markw","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,pVaFTh
+509782,"19/12/2018 08:24:37","+0:00","markw","Alarm:","OPERATION DENIED, START PRODUCTION REQUIRED  Acknowledgment",,/AW2Ss
+509783,"19/12/2018 08:24:37","+0:00","markw","Alarm:","COVER OPEN 1  Acknowledgment",,8x1UTu
+509784,"19/12/2018 08:24:37","+0:00","markw","Alarm: 60000","Acknowledgment of alarm 60000.",,xG2kiA
+509785,"19/12/2018 08:24:37","+0:00","markw","Alarm: 60000","Acknowledgment of alarm 60000.",,ElkmOI
+509786,"19/12/2018 08:24:37","+0:00","markw","Alarm: 60000","Acknowledgment of alarm 60000.",,CaqMS4
+509787,"19/12/2018 08:24:37","+0:00","markw","Alarm: 60000","Acknowledgment of alarm 60000.",,pHihFz
+509788,"19/12/2018 08:24:37","+0:00","markw","Alarm: 60000","Acknowledgment of alarm 60000.",,9Qk6H5
+509789,"19/12/2018 08:24:38","+0:00","markw","Alarm: 60000","Acknowledgment of alarm 60000.",,JBypJ1
+509790,"19/12/2018 08:24:42","+0:00","markw","Alarm","COVER OPEN 1  Off",,pFj0DI
+509791,"19/12/2018 08:24:42","+0:00","markw","Alarm","EMERGENCY  Off",,QPfWsb
+509792,"19/12/2018 08:24:42","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,q699l4
+509793,"19/12/2018 08:34:12","+0:00","markw","Alarm","EMERGENCY  On",,Eq6mY1
+509794,"19/12/2018 08:34:12","+0:00","markw","Alarm","COVER OPEN 7  On",,qj2g2Q
+509795,"19/12/2018 08:34:12","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,soSZj2
+509796,"19/12/2018 08:34:14","+0:00","markw","Alarm","COVER OPEN 6  On",,TnH5M6
+509797,"19/12/2018 08:37:53","+0:00","markw","Alarm","COVER OPEN 6  Off",,zG57iT
+509798,"19/12/2018 08:37:53","+0:00","markw","Alarm","COVER OPEN 7  Off",,bxwnXI
+509799,"19/12/2018 08:37:53","+0:00","markw","Alarm","EMERGENCY  Off",,1oUEV2
+509800,"19/12/2018 08:37:53","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,5hilUc
+509801,"19/12/2018 08:37:54","+0:00","markw","Alarm: 7","Acknowledgment of 7 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,b33lEm
+509802,"19/12/2018 08:37:54","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,rycv+Q
+509803,"19/12/2018 08:37:54","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,g73puW
+509804,"19/12/2018 08:37:54","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,EyiZDR
+509805,"19/12/2018 08:37:54","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,nAqD5m
+509806,"19/12/2018 08:38:19","+0:00","markw","Alarm","EMERGENCY  On",,1ZVUPp
+509807,"19/12/2018 08:38:19","+0:00","markw","Alarm","COVER OPEN 7  On",,f7ocK3
+509808,"19/12/2018 08:38:19","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,TcU+tQ
+509809,"19/12/2018 08:38:20","+0:00","markw","Alarm","COVER OPEN 6  On",,FBBT0H
+509810,"19/12/2018 08:38:32","+0:00","markw","Alarm","COVER OPEN 6  Off",,b8r9nZ
+509811,"19/12/2018 08:38:32","+0:00","markw","Alarm","COVER OPEN 7  Off",,F6CI52
+509812,"19/12/2018 08:38:32","+0:00","markw","Alarm","EMERGENCY  Off",,lGcrth
+509813,"19/12/2018 08:38:32","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,sqFf2S
+509814,"19/12/2018 08:38:41","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,fFh8Wu
+509815,"19/12/2018 08:38:51","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,iaJBKL
+509816,"19/12/2018 08:38:55","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,dh2byM
+509817,"19/12/2018 08:39:42","+0:00","markw","Alarm","EMERGENCY  On",,YG9BQR
+509818,"19/12/2018 08:39:42","+0:00","markw","Alarm","COVER OPEN 7  On",,RpLvtz
+509819,"19/12/2018 08:39:42","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,7TY1mY
+509820,"19/12/2018 08:39:44","+0:00","markw","Alarm","COVER OPEN 6  On",,4rOvUj
+509821,"19/12/2018 08:40:19","+0:00","markw","Alarm","COVER OPEN 5  On",,5eKCB7
+509822,"19/12/2018 08:41:21","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,hYqpP8
+509823,"19/12/2018 08:41:22","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,VYRASc
+509824,"19/12/2018 08:41:27","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,qWgxZO
+509825,"19/12/2018 08:41:28","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,Wg83GB
+509826,"19/12/2018 08:41:37","+0:00","markw","Alarm","COVER OPEN 5  Off",,XId18u
+509827,"19/12/2018 08:41:37","+0:00","markw","Alarm","COVER OPEN 6  Off",,913+1r
+509828,"19/12/2018 08:41:37","+0:00","markw","Alarm","COVER OPEN 7  Off",,Wt5fUI
+509829,"19/12/2018 08:41:37","+0:00","markw","Alarm","EMERGENCY  Off",,M0FSVe
+509830,"19/12/2018 08:41:37","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,lLthOK
+509831,"19/12/2018 08:42:16","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,pHc1a8
+509832,"19/12/2018 08:42:18","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,5q13aT
+509833,"19/12/2018 08:42:19","+0:00","markw","Alarm","EMERGENCY  On",,gbABVm
+509834,"19/12/2018 08:42:19","+0:00","markw","Alarm","COVER OPEN 5  On",,w+uua+
+509835,"19/12/2018 08:42:19","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,C8dLJ1
+509836,"19/12/2018 08:42:36","+0:00","markw","Alarm","COVER OPEN 7  On",,N1ypEq
+509837,"19/12/2018 08:42:36","+0:00","markw","Alarm","COVER OPEN 6  On",,ZC7odA
+509838,"19/12/2018 08:43:52","+0:00","markw","Alarm","COVER OPEN 5  Off",,INawmu
+509839,"19/12/2018 08:43:52","+0:00","markw","Alarm","COVER OPEN 6  Off",,9dsQLt
+509840,"19/12/2018 08:43:52","+0:00","markw","Alarm","COVER OPEN 7  Off",,B03gf5
+509841,"19/12/2018 08:43:52","+0:00","markw","Alarm","EMERGENCY  Off",,ksOqwN
+509842,"19/12/2018 08:43:52","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,Sc3W7r
+509843,"19/12/2018 08:44:32","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,eXlEW3
+509844,"19/12/2018 08:44:34","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,nr7Za4
+509845,"19/12/2018 08:44:36","+0:00","markw","Alarm","EMERGENCY  On",,xTHCS9
+509846,"19/12/2018 08:44:36","+0:00","markw","Alarm","COVER OPEN 5  On",,xF5Wle
+509847,"19/12/2018 08:44:36","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,w6As0u
+509848,"19/12/2018 08:44:58","+0:00","markw","Alarm","COVER OPEN 7  On",,8GvgGM
+509849,"19/12/2018 08:45:09","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,1XqivU
+509850,"19/12/2018 08:45:11","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,/ka5wK
+509851,"19/12/2018 08:45:18","+0:00","markw","Alarm","COVER OPEN 5  Off",,guhNJ8
+509852,"19/12/2018 08:45:18","+0:00","markw","Alarm","COVER OPEN 7  Off",,pmlDEQ
+509853,"19/12/2018 08:45:18","+0:00","markw","Alarm","EMERGENCY  Off",,jUKpG8
+509854,"19/12/2018 08:45:18","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,moBBRI
+509855,"19/12/2018 08:45:19","+0:00","markw","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,VoUzsw
+509856,"19/12/2018 08:45:19","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,GS46jp
+509857,"19/12/2018 08:45:19","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,iQP+4X
+509858,"19/12/2018 08:45:19","+0:00","markw","Alarm:","COVER OPEN 5  Acknowledgment",,95lO8L
+509859,"19/12/2018 08:45:19","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,TzMCCt
+509860,"19/12/2018 08:45:19","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,Mutt2s
+509861,"19/12/2018 08:45:32","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,iDUdi6
+509862,"19/12/2018 08:45:35","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,b7RcNh
+509863,"19/12/2018 08:46:27","+0:00","markw","Alarm","EMERGENCY  On",,vaxYuu
+509864,"19/12/2018 08:46:27","+0:00","markw","Alarm","COVER OPEN 6  On",,WbHrf0
+509865,"19/12/2018 08:46:27","+0:00","markw","Alarm","COVER OPEN 7  On",,Pl1Fmk
+509866,"19/12/2018 08:46:28","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,5yk4JV
+509867,"19/12/2018 08:46:44","+0:00","markw","Alarm","COVER OPEN 5  On",,BCOENW
+509868,"19/12/2018 08:52:13","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,xRhQG8
+509869,"19/12/2018 08:53:28","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,QexSLx
+509870,"19/12/2018 08:53:29","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,nyDoBy
+509871,"19/12/2018 08:53:31","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,6xqwPs
+509872,"19/12/2018 08:53:32","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,7W3C/y
+509873,"19/12/2018 08:54:20","+0:00","markw","Alarm","COVER OPEN 5  Off",,V1qgfX
+509874,"19/12/2018 08:54:20","+0:00","markw","Alarm","COVER OPEN 6  Off",,4tjvTu
+509875,"19/12/2018 08:54:20","+0:00","markw","Alarm","COVER OPEN 7  Off",,2LOt9O
+509876,"19/12/2018 08:54:20","+0:00","markw","Alarm","EMERGENCY  Off",,SblbrT
+509877,"19/12/2018 08:54:20","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,5DX6AW
+509878,"19/12/2018 08:54:21","+0:00","markw","Alarm: 6","Acknowledgment of 6 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,R00WYl
+509879,"19/12/2018 08:54:21","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,H3jr6x
+509880,"19/12/2018 08:54:21","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,yThKJK
+509881,"19/12/2018 08:54:21","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,Kg/6Yl
+509882,"19/12/2018 08:54:21","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,gPPgDt
+509883,"19/12/2018 08:54:21","+0:00","markw","Alarm:","COVER OPEN 5  Acknowledgment",,7Uq1VG
+509884,"19/12/2018 08:54:22","+0:00","markw","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,hJS4Oz
+509885,"19/12/2018 08:55:40","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,6W636Z
+509886,"19/12/2018 08:55:41","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,lhJ28n
+509887,"19/12/2018 08:55:46","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,9Ey4HN
+509888,"19/12/2018 08:55:48","+0:00","markw","Alarm","EMERGENCY  On",,Iz+ZNP
+509889,"19/12/2018 08:55:48","+0:00","markw","Alarm","COVER OPEN 7  On",,dXpIHz
+509890,"19/12/2018 08:55:48","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,0d+xbk
+509891,"19/12/2018 08:55:48","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,jXxElC
+509892,"19/12/2018 08:56:11","+0:00","markw","Alarm","COVER OPEN 7  Off",,9q8rCh
+509893,"19/12/2018 08:56:11","+0:00","markw","Alarm","EMERGENCY  Off",,J3GLX5
+509894,"19/12/2018 08:56:11","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,Xp/O/D
+509895,"19/12/2018 08:56:12","+0:00","markw","Alarm: 21","Acknowledgment of 21 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Mwesf8
+509896,"19/12/2018 08:56:12","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,q5/O2m
+509897,"19/12/2018 08:56:12","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,1d7jR9
+509898,"19/12/2018 08:56:12","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,VcXuiv
+509899,"19/12/2018 08:56:56","+0:00","markw","Alarm","COVER OPEN 5  On",,35ItXF
+509900,"19/12/2018 08:56:56","+0:00","markw","Alarm","EMERGENCY  On",,yjrMlY
+509901,"19/12/2018 08:56:56","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,wDkbyB
+509902,"19/12/2018 08:57:14","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,3NGqel
+509903,"19/12/2018 08:57:15","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,VOIOsc
+509904,"19/12/2018 08:57:17","+0:00","markw","Alarm","COVER OPEN 7  On",,/xM4kp
+509905,"19/12/2018 08:57:43","+0:00","markw","Alarm","COVER OPEN 5  Off",,fUicJQ
+509906,"19/12/2018 08:57:43","+0:00","markw","Alarm","COVER OPEN 7  Off",,qpAU1Z
+509907,"19/12/2018 08:57:43","+0:00","markw","Alarm","EMERGENCY  Off",,PeA3SX
+509908,"19/12/2018 08:57:43","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,vl0GMR
+509909,"19/12/2018 08:58:25","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,lgXBBr
+509910,"19/12/2018 08:58:26","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,Cub4Mv
+509911,"19/12/2018 09:05:33","+0:00","markw","Alarm","EMERGENCY  On",,4m36lo
+509912,"19/12/2018 09:05:33","+0:00","markw","Alarm","COVER OPEN 1  On",,Rzq4AC
+509913,"19/12/2018 09:05:33","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,OvLtCD
+509914,"19/12/2018 09:50:22","+0:00","markw","Alarm","COVER OPEN 5  On",,p1t6y9
+509915,"19/12/2018 11:05:10","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,/mITWL
+509916,"19/12/2018 11:05:11","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,YlxtOy
+509917,"19/12/2018 11:06:24","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,9+AWJf
+509918,"19/12/2018 11:07:15","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,xpSBvJ
+509919,"19/12/2018 11:10:29","+0:00","markw","Alarm","COVER OPEN 7  On",,sfw0zR
+509920,"19/12/2018 11:10:32","+0:00","markw","Alarm","COVER OPEN 6  On",,Z+8NHp
+509921,"19/12/2018 11:17:55","+0:00","markw","Alarm","COVER OPEN 1  Off",,pUuJHj
+509922,"19/12/2018 11:17:55","+0:00","markw","Alarm","COVER OPEN 5  Off",,l+LmPR
+509923,"19/12/2018 11:17:55","+0:00","markw","Alarm","COVER OPEN 6  Off",,p6qFt3
+509924,"19/12/2018 11:17:55","+0:00","markw","Alarm","COVER OPEN 7  Off",,vZh2hr
+509925,"19/12/2018 11:17:55","+0:00","markw","Alarm","EMERGENCY  Off",,YADvmz
+509926,"19/12/2018 11:17:55","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,SihSXX
+509927,"19/12/2018 11:17:56","+0:00","markw","Alarm: 7","Acknowledgment of 7 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,FCOClc
+509928,"19/12/2018 11:17:56","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,MMdx4F
+509929,"19/12/2018 11:17:56","+0:00","markw","Alarm:","COVER OPEN 1  Acknowledgment",,XJjpCI
+509930,"19/12/2018 11:17:56","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,fSCrkT
+509931,"19/12/2018 11:17:56","+0:00","markw","Alarm:","COVER OPEN 5  Acknowledgment",,zBlkrv
+509932,"19/12/2018 11:17:56","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,aeuqV1
+509933,"19/12/2018 11:17:56","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,PcsqxL
+509934,"19/12/2018 11:20:08","+0:00","markw","Alarm","EMERGENCY  On",,TEsB9j
+509935,"19/12/2018 11:20:08","+0:00","markw","Alarm","COVER OPEN 7  On",,ltc8IG
+509936,"19/12/2018 11:20:08","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,+PSQsr
+509937,"19/12/2018 11:20:09","+0:00","markw","Alarm","COVER OPEN 6  On",,SJASYm
+509938,"19/12/2018 11:21:41","+0:00","markw","Alarm","COVER OPEN 6  Off",,9Cj2sD
+509939,"19/12/2018 11:21:41","+0:00","markw","Alarm","COVER OPEN 7  Off",,4e3HyL
+509940,"19/12/2018 11:21:41","+0:00","markw","Alarm","EMERGENCY  Off",,azBIRn
+509941,"19/12/2018 11:21:41","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,7SoGXp
+509942,"19/12/2018 11:21:41","+0:00","markw","Alarm: 7","Acknowledgment of 7 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,RHXvmU
+509943,"19/12/2018 11:21:41","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,mqc9oa
+509944,"19/12/2018 11:21:41","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,WwFtdt
+509945,"19/12/2018 11:21:41","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,TqNBSC
+509946,"19/12/2018 11:21:41","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,ZagbV7
+509947,"19/12/2018 11:26:29","+0:00","markw","Recipe","Loading recipe number 10 ( Charring 1ml Product ) on the interface.",,Ppfr/G
+509948,"19/12/2018 11:26:29","+0:00","markw","Recipe","Data trasfered to PLC",,4hAVRA
+509949,"19/12/2018 11:26:32","+0:00","markw","Warning","PVSI NOT RUNNING   On",,FSrzjS
+509950,"19/12/2018 11:26:33","+0:00","markw","Warning","PVSI NOT RUNNING   Off",,waedIf
+509951,"19/12/2018 11:26:54","+0:00","markw","Alarm","COVER OPEN 6  On",,YS5QLn
+509952,"19/12/2018 11:26:54","+0:00","markw","Alarm","COVER OPEN 7  On",,ydjVPF
+509953,"19/12/2018 11:26:54","+0:00","markw","Alarm","EMERGENCY  On",,dsYmKO
+509954,"19/12/2018 11:26:54","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,+JaatE
+509955,"19/12/2018 11:27:00","+0:00","markw","Alarm","COVER OPEN 5  On",,fDNYUc
+509956,"19/12/2018 11:27:03","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,c36Xkd
+509957,"19/12/2018 11:27:05","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,yWzrFV
+509958,"19/12/2018 11:28:00","+0:00","markw","Alarm","COVER OPEN 1  On",,Ltmuj/
+509959,"19/12/2018 11:29:47","+0:00","markw","Recipe","Loading recipe number 4 ( 10mL Production ) on the interface.",,0ExHNv
+509960,"19/12/2018 11:29:47","+0:00","markw","Recipe","Data trasfered to PLC",,6vy+xm
+509961,"19/12/2018 11:29:48","+0:00","markw","Alarm","PVSI NOT READY  On",,JPmpgO
+509962,"19/12/2018 11:29:50","+0:00","markw","Warning","PVSI NOT RUNNING   On",,dPDADY
+509963,"19/12/2018 11:29:51","+0:00","markw","Warning","PVSI NOT RUNNING   Off",,BrJiYv
+509964,"19/12/2018 11:30:11","+0:00","markw","Recipe","Loading recipe number 10 ( Charring 1ml Product ) on the interface.",,5r9CKe
+509965,"19/12/2018 11:30:12","+0:00","markw","Recipe","Data trasfered to PLC",,Nx43GD
+509966,"19/12/2018 11:30:15","+0:00","markw","Warning","PVSI NOT RUNNING   On",,Ksu/Ru
+509967,"19/12/2018 11:30:15","+0:00","markw","Warning","PVSI NOT RUNNING   Off",,OmPevc
+509968,"19/12/2018 11:31:00","+0:00","markw","Alarm","COVER OPEN 1  Off",,TBcnov
+509969,"19/12/2018 11:31:00","+0:00","markw","Alarm","COVER OPEN 5  Off",,sOCvSE
+509970,"19/12/2018 11:31:00","+0:00","markw","Alarm","COVER OPEN 6  Off",,xttgmX
+509971,"19/12/2018 11:31:00","+0:00","markw","Alarm","COVER OPEN 7  Off",,ZzHuDp
+509972,"19/12/2018 11:31:00","+0:00","markw","Alarm","PVSI NOT READY  Off",,3453ja
+509973,"19/12/2018 11:31:00","+0:00","markw","Alarm","EMERGENCY  Off",,jc+w5S
+509974,"19/12/2018 11:31:00","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,hEPD5Z
+509975,"19/12/2018 11:32:05","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,UIwE66
+509976,"19/12/2018 11:32:06","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,nav4bD
+509977,"19/12/2018 11:32:38","+0:00","markw","Alarm","EMERGENCY  On",,JeN3ZM
+509978,"19/12/2018 11:32:38","+0:00","markw","Alarm","COVER OPEN 6  On",,S1Xg7O
+509979,"19/12/2018 11:32:38","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,F5P/M9
+509980,"19/12/2018 11:32:40","+0:00","markw","Alarm","COVER OPEN 7  On",,rqKwR4
+509981,"19/12/2018 11:32:43","+0:00","markw","Alarm","COVER OPEN 5  On",,WjN8NE
+509982,"19/12/2018 11:33:57","+0:00","markw","Alarm","COVER OPEN 5  Off",,6cwvQ1
+509983,"19/12/2018 11:33:57","+0:00","markw","Alarm","COVER OPEN 6  Off",,WxJcXQ
+509984,"19/12/2018 11:33:57","+0:00","markw","Alarm","COVER OPEN 7  Off",,iWBp/Q
+509985,"19/12/2018 11:33:57","+0:00","markw","Alarm","EMERGENCY  Off",,TFPoGR
+509986,"19/12/2018 11:33:57","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,NyE5IN
+509987,"19/12/2018 11:34:10","+0:00","markw","Recipe","Loading recipe number 1 ( 1mL Production ) on the interface.",,xbftD7
+509988,"19/12/2018 11:34:10","+0:00","markw","Recipe","Data trasfered to PLC",,bQkc/O
+509989,"19/12/2018 11:34:13","+0:00","markw","Warning","PVSI NOT RUNNING   On",,tlZ5Wu
+509990,"19/12/2018 11:34:13","+0:00","markw","Warning","PVSI NOT RUNNING   Off",,79FqN5
+509991,"19/12/2018 11:35:10","+0:00","markw","Alarm","EMERGENCY  On",,TidXBc
+509992,"19/12/2018 11:35:10","+0:00","markw","Alarm","COVER OPEN 5  On",,S2EAtk
+509993,"19/12/2018 11:35:10","+0:00","markw","Alarm","COVER OPEN 6  On",,MTE2f2
+509994,"19/12/2018 11:35:10","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,J3eGwX
+509995,"19/12/2018 11:35:16","+0:00","markw","Alarm","COVER OPEN 7  On",,ismxsL
+509996,"19/12/2018 11:36:29","+0:00","markw","Recipe","Loading recipe number 10 ( Charring 1ml Product ) on the interface.",,V8DTF0
+509997,"19/12/2018 11:36:29","+0:00","markw","Recipe","Data trasfered to PLC",,yLWXFF
+509998,"19/12/2018 11:36:32","+0:00","markw","Warning","PVSI NOT RUNNING   On",,VH603o
+509999,"19/12/2018 11:36:33","+0:00","markw","Warning","PVSI NOT RUNNING   Off",,eudyUk
+510000,"19/12/2018 11:36:35","+0:00","markw","Alarm","COVER OPEN 5  Off",,Pwt5Qo
+510001,"19/12/2018 11:36:35","+0:00","markw","Alarm","COVER OPEN 6  Off",,2cytC2
+510002,"19/12/2018 11:36:35","+0:00","markw","Alarm","COVER OPEN 7  Off",,zcmR3e
+510003,"19/12/2018 11:36:35","+0:00","markw","Alarm","EMERGENCY  Off",,iS0sid
+510004,"19/12/2018 11:36:35","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,7d0Ejj
+510005,"19/12/2018 11:37:22","+0:00","markw","Alarm","EMERGENCY  On",,RAqZ4U
+510006,"19/12/2018 11:37:22","+0:00","markw","Alarm","COVER OPEN 5  On",,7+n6tH
+510007,"19/12/2018 11:37:22","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,Rg8gcr
+510008,"19/12/2018 11:37:26","+0:00","markw","Alarm","COVER OPEN 6  On",,DuHXBh
+510009,"19/12/2018 11:37:26","+0:00","markw","Alarm","COVER OPEN 7  On",,EGevDP
+510010,"19/12/2018 11:40:10","+0:00","markw","Alarm","COVER OPEN 5  Off",,LC8QJi
+510011,"19/12/2018 11:40:10","+0:00","markw","Alarm","COVER OPEN 6  Off",,z8awF3
+510012,"19/12/2018 11:40:10","+0:00","markw","Alarm","COVER OPEN 7  Off",,7Si1NZ
+510013,"19/12/2018 11:40:10","+0:00","markw","Alarm","EMERGENCY  Off",,9LWzCN
+510014,"19/12/2018 11:40:10","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,OzRz3d
+510015,"19/12/2018 11:41:26","+0:00","markw","Alarm","EMERGENCY  On",,jy5mVg
+510016,"19/12/2018 11:41:26","+0:00","markw","Alarm","COVER OPEN 5  On",,UBw14k
+510017,"19/12/2018 11:41:26","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,D7/T+S
+510018,"19/12/2018 11:41:27","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,Mh/pRV
+510019,"19/12/2018 11:41:29","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,ivUVos
+510020,"19/12/2018 11:41:33","+0:00","markw","Alarm","COVER OPEN 7  On",,Dod4Xm
+510021,"19/12/2018 11:41:34","+0:00","markw","Alarm","COVER OPEN 6  On",,aIJJ3y
+510022,"19/12/2018 13:20:53","+0:00","markw","Recipe","Loading recipe number 1 ( 1mL Production ) on the interface.",,8qEX/c
+510023,"19/12/2018 13:20:54","+0:00","markw","Recipe","Data trasfered to PLC",,hunszc
+510024,"19/12/2018 13:20:57","+0:00","markw","Warning","PVSI NOT RUNNING   On",,3vj/G/
+510025,"19/12/2018 13:20:58","+0:00","markw","Warning","PVSI NOT RUNNING   Off",,s7mt/0
+510026,"19/12/2018 13:21:02","+0:00","markw","Alarm","COVER OPEN 5  Off",,LWS6gc
+510027,"19/12/2018 13:21:02","+0:00","markw","Alarm","COVER OPEN 6  Off",,2YJy/o
+510028,"19/12/2018 13:21:02","+0:00","markw","Alarm","COVER OPEN 7  Off",,mIoUJi
+510029,"19/12/2018 13:21:02","+0:00","markw","Alarm","EMERGENCY  Off",,gbGwzf
+510030,"19/12/2018 13:21:02","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,Zm4e0F
+510031,"19/12/2018 13:21:03","+0:00","markw","Alarm: 7","Acknowledgment of 7 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Cimu/L
+510032,"19/12/2018 13:21:03","+0:00","markw","Alarm:","COVER OPEN 1  Acknowledgment",,lrqqAO
+510033,"19/12/2018 13:21:03","+0:00","markw","Alarm:","PVSI NOT READY  Acknowledgment",,G9INcT
+510034,"19/12/2018 13:21:03","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,LnaZfM
+510035,"19/12/2018 13:21:03","+0:00","markw","Alarm:","COVER OPEN 5  Acknowledgment",,UjNvb1
+510036,"19/12/2018 13:21:03","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,qP26tk
+510037,"19/12/2018 13:21:03","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,lQGha4
+510038,"19/12/2018 13:21:03","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,xcXD+c
+510039,"19/12/2018 13:23:41","+0:00","markw","Alarm","COVER OPEN 5  On",,4t1EXF
+510040,"19/12/2018 13:23:41","+0:00","markw","Alarm","EMERGENCY  On",,76GmoU
+510041,"19/12/2018 13:23:41","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,2+VosS
+510042,"19/12/2018 13:30:35","+0:00","markw","Alarm","COVER OPEN 6  On",,P34ff0
+510043,"19/12/2018 13:30:35","+0:00","markw","Alarm","COVER OPEN 7  On",,bGUffe
+510044,"19/12/2018 13:31:44","+0:00","markw","Alarm","COVER OPEN 5  Off",,lyikMl
+510045,"19/12/2018 13:31:44","+0:00","markw","Alarm","COVER OPEN 6  Off",,K3EDrw
+510046,"19/12/2018 13:31:44","+0:00","markw","Alarm","COVER OPEN 7  Off",,AVqABs
+510047,"19/12/2018 13:31:44","+0:00","markw","Alarm","EMERGENCY  Off",,kAhGH/
+510048,"19/12/2018 13:31:44","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,u+qig2
+510049,"19/12/2018 13:31:45","+0:00","markw","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,XTM4FF
+510050,"19/12/2018 13:31:45","+0:00","markw","Alarm:","COVER OPEN 5  Acknowledgment",,QQtSmD
+510051,"19/12/2018 13:31:45","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,/5S3yR
+510052,"19/12/2018 13:31:45","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,ERe+ez
+510053,"19/12/2018 13:31:45","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,ni+gkk
+510054,"19/12/2018 13:31:45","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,9rGKWd
+510055,"19/12/2018 13:32:09","+0:00","markw","Alarm","COVER OPEN 7  On",,QqMJhh
+510056,"19/12/2018 13:32:10","+0:00","markw","Alarm","EMERGENCY  On",,sa0zao
+510057,"19/12/2018 13:32:10","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,NLY64g
+510058,"19/12/2018 13:32:11","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,BWKpo/
+510059,"19/12/2018 13:32:12","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,Xu8qGv
+510060,"19/12/2018 13:32:15","+0:00","markw","Alarm","COVER OPEN 6  On",,MBmO58
+510061,"19/12/2018 13:32:26","+0:00","markw","Alarm","COVER OPEN 6  Off",,EkOoIT
+510062,"19/12/2018 13:32:26","+0:00","markw","Alarm","COVER OPEN 7  Off",,Ah6ZK1
+510063,"19/12/2018 13:32:26","+0:00","markw","Alarm","EMERGENCY  Off",,op131Q
+510064,"19/12/2018 13:32:26","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,r7Jy6p
+510065,"19/12/2018 13:32:53","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,HspLmX
+510066,"19/12/2018 13:32:55","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,VcMsVW
+510067,"19/12/2018 13:32:56","+0:00","markw","Alarm","EMERGENCY  On",,csQw5M
+510068,"19/12/2018 13:32:56","+0:00","markw","Alarm","COVER OPEN 7  On",,ZPf/ir
+510069,"19/12/2018 13:32:56","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,CnLbAI
+510070,"19/12/2018 13:33:16","+0:00","markw","Alarm","COVER OPEN 7  Off",,PQgwju
+510071,"19/12/2018 13:33:16","+0:00","markw","Alarm","EMERGENCY  Off",,9NJ7uP
+510072,"19/12/2018 13:33:16","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,hVF9Cs
+510073,"19/12/2018 13:33:43","+0:00","markw","Alarm","EMERGENCY  On",,Uv3Dwv
+510074,"19/12/2018 13:33:43","+0:00","markw","Alarm","COVER OPEN 7  On",,/Wq0ZK
+510075,"19/12/2018 13:33:43","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,cKgZO6
+510076,"19/12/2018 13:33:43","+0:00","markw","Alarm","COVER OPEN 6  On",,aq3eU4
+510077,"19/12/2018 13:34:07","+0:00","markw","Alarm","COVER OPEN 6  Off",,/IoO+z
+510078,"19/12/2018 13:34:07","+0:00","markw","Alarm","COVER OPEN 7  Off",,bN9YYF
+510079,"19/12/2018 13:34:07","+0:00","markw","Alarm","EMERGENCY  Off",,e0Lgm/
+510080,"19/12/2018 13:34:07","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,/A2thA
+510081,"19/12/2018 13:35:02","+0:00","markw","Alarm","EMERGENCY  On",,86acpx
+510082,"19/12/2018 13:35:02","+0:00","markw","Alarm","COVER OPEN 7  On",,4sUwas
+510083,"19/12/2018 13:35:02","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,AjXWje
+510084,"19/12/2018 13:35:04","+0:00","markw","Alarm","COVER OPEN 6  On",,GLmEMo
+510085,"19/12/2018 13:35:05","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,Cq3LPY
+510086,"19/12/2018 13:35:06","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,iVDTeU
+510087,"19/12/2018 13:35:15","+0:00","markw","Alarm","COVER OPEN 5  On",,aTT9P8
+510088,"19/12/2018 13:35:41","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,BqU7rB
+510089,"19/12/2018 13:35:43","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,vOd1ah
+510090,"19/12/2018 13:38:39","+0:00","markw","Alarm","COVER OPEN 1  On",,twwfy8
+510091,"19/12/2018 13:40:51","+0:00","markw","Alarm","COVER OPEN 5  Off",,hVO84P
+510092,"19/12/2018 13:40:51","+0:00","markw","Alarm","COVER OPEN 6  Off",,vOQYSy
+510093,"19/12/2018 13:40:51","+0:00","markw","Alarm","COVER OPEN 7  Off",,tDQOIx
+510094,"19/12/2018 13:40:54","+0:00","markw","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,9QrSFh
+510095,"19/12/2018 13:40:54","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,UU1m94
+510096,"19/12/2018 13:40:54","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,4vfBAJ
+510097,"19/12/2018 13:40:54","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,r3MZQz
+510098,"19/12/2018 13:40:54","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,ev/O2u
+510099,"19/12/2018 13:40:54","+0:00","markw","Alarm:","COVER OPEN 5  Acknowledgment",,OekOSR
+510100,"19/12/2018 13:40:54","+0:00","markw","Alarm:","COVER OPEN 1  Acknowledgment",,6XP1dM
+510101,"19/12/2018 13:40:54","+0:00","markw","Alarm: 60000","Acknowledgment of alarm 60000.",,opF1Kh
+510102,"19/12/2018 13:40:54","+0:00","markw","Alarm: 60000","Acknowledgment of alarm 60000.",,WN3kox
+510103,"19/12/2018 13:40:54","+0:00","markw","Alarm: 60000","Acknowledgment of alarm 60000.",,pU9zLU
+510104,"19/12/2018 13:41:13","+0:00","markw","Alarm","COVER OPEN 5  On",,pUzqIL
+510105,"19/12/2018 13:41:14","+0:00","markw","Alarm","COVER OPEN 6  On",,4paQXL
+510106,"19/12/2018 13:41:15","+0:00","markw","Alarm","COVER OPEN 5  Off",,LQ5cbp
+510107,"19/12/2018 13:41:15","+0:00","markw","Alarm","COVER OPEN 6  Off",,cVJXe4
+510108,"19/12/2018 13:41:20","+0:00","markw","Alarm: 7","Acknowledgment of 7 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,nyzQmh
+510109,"19/12/2018 13:41:20","+0:00","markw","Alarm:","COVER OPEN 5  Acknowledgment",,kIsCS3
+510110,"19/12/2018 13:41:20","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,5pS5QQ
+510111,"19/12/2018 13:41:20","+0:00","markw","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,6QTWZx
+510112,"19/12/2018 13:41:20","+0:00","markw","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,SQjZFx
+510113,"19/12/2018 13:41:20","+0:00","markw","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,BTQkEb
+510114,"19/12/2018 13:41:23","+0:00","markw","Alarm","COVER OPEN 4  On",,JbjfDJ
+510115,"19/12/2018 13:41:24","+0:00","markw","Alarm","COVER OPEN 4  Off",,L4LHrW
+510116,"19/12/2018 13:41:24","+0:00","markw","Alarm","COVER OPEN 6  On",,YZ+Z1g
+510117,"19/12/2018 13:41:24","+0:00","markw","Alarm","COVER OPEN 7  On",,EYUlRL
+510118,"19/12/2018 13:41:25","+0:00","markw","Alarm","COVER OPEN 6  Off",,m4ecR8
+510119,"19/12/2018 13:41:25","+0:00","markw","Alarm","COVER OPEN 7  Off",,1szYk2
+510120,"19/12/2018 13:41:31","+0:00","markw","Alarm","COVER OPEN 5  On",,RXakHJ
+510121,"19/12/2018 13:41:32","+0:00","markw","Alarm","COVER OPEN 5  Off",,ZSXbp6
+510122,"19/12/2018 13:41:35","+0:00","markw","Alarm: 6","Acknowledgment of 6 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,wmILT6
+510123,"19/12/2018 13:41:35","+0:00","markw","Alarm:","COVER OPEN 4  Acknowledgment",,mZJZIF
+510124,"19/12/2018 13:41:35","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,uSUD6C
+510125,"19/12/2018 13:41:35","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,hkrBi1
+510126,"19/12/2018 13:41:35","+0:00","markw","Alarm:","COVER OPEN 5  Acknowledgment",,bvaUWK
+510127,"19/12/2018 13:41:35","+0:00","markw","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,V5B1Tx
+510128,"19/12/2018 13:41:35","+0:00","markw","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,yq8bNe
+510129,"19/12/2018 13:41:51","+0:00","markw","Alarm","COVER OPEN 1  Off",,RikzVN
+510130,"19/12/2018 13:41:51","+0:00","markw","Alarm","EMERGENCY  Off",,uAGvSk
+510131,"19/12/2018 13:41:51","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,cpIHKG
+510132,"19/12/2018 13:42:41","+0:00","markw","Alarm","COVER OPEN 1  On",,J5+r1F
+510133,"19/12/2018 13:42:41","+0:00","markw","Alarm","EMERGENCY  On",,JZ3Bwu
+510134,"19/12/2018 13:42:42","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,R2UB1V
+510135,"19/12/2018 13:43:14","+0:00","markw","Alarm","COVER OPEN 7  On",,x3TWI0
+510136,"19/12/2018 13:43:26","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,SN1dmj
+510137,"19/12/2018 13:43:27","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,3awWnS
+510138,"19/12/2018 13:43:46","+0:00","markw","Alarm","COVER OPEN 1  Off",,jVJFBd
+510139,"19/12/2018 13:43:46","+0:00","markw","Alarm","COVER OPEN 7  Off",,43ef5Q
+510140,"19/12/2018 13:43:47","+0:00","markw","Alarm","EMERGENCY  Off",,9iU8JM
+510141,"19/12/2018 13:43:47","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,CsD3GN
+510142,"19/12/2018 13:44:37","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,RIQE9/
+510143,"19/12/2018 13:44:38","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,CA9vwx
+510144,"19/12/2018 13:47:49","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,9JJBDk
+510145,"19/12/2018 13:47:56","+0:00","markw","Alarm","EMERGENCY  On",,WTHXCg
+510146,"19/12/2018 13:47:56","+0:00","markw","Alarm","COVER OPEN 1  On",,GJE73A
+510147,"19/12/2018 13:47:56","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,UdX3Kl
+510148,"19/12/2018 13:49:05","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,00fRbl
+510149,"19/12/2018 13:51:38","+0:00","markw","Alarm","COVER OPEN 1  Off",,CwImsl
+510150,"19/12/2018 13:51:38","+0:00","markw","Alarm","EMERGENCY  Off",,bmkoVO
+510151,"19/12/2018 13:51:38","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,tZfEts
+510152,"19/12/2018 13:52:55","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,/M9vNH
+510153,"19/12/2018 13:53:02","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,5WndKu
+510154,"19/12/2018 13:53:08","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,tclzAT
+510155,"19/12/2018 13:53:28","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,ue4qqP
+510156,"19/12/2018 13:53:33","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,J6vjbN
+510157,"19/12/2018 13:54:04","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,b1A9dS
+510158,"19/12/2018 13:54:38","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,TNq5g0
+510159,"19/12/2018 13:54:47","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Rfp95N
+510160,"19/12/2018 13:57:10","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,wbn9as
+510161,"19/12/2018 13:57:18","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,/d8VSB
+510162,"19/12/2018 13:58:38","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,BSJg53
+510163,"19/12/2018 13:58:41","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,d/q8h+
+510164,"19/12/2018 13:58:44","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,UvOCrW
+510165,"19/12/2018 13:59:14","+0:00","markw","Warning","ALARM LKD REJECTED TRAY MISSING OR FULL  On",,ENJaWd
+510166,"19/12/2018 13:59:17","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,gc/5I0
+510167,"19/12/2018 13:59:55","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Vzu2O1
+510168,"19/12/2018 14:00:06","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,0UUNxx
+510169,"19/12/2018 14:02:42","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,V9G+N0
+510170,"19/12/2018 14:02:53","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,54KHSf
+510171,"19/12/2018 14:04:01","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,1TrHko
+510172,"19/12/2018 14:04:05","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,Ztsme/
+510173,"19/12/2018 14:04:19","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,wsorFW
+510174,"19/12/2018 14:04:22","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,KEMefD
+510175,"19/12/2018 14:05:28","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,QLgCbU
+510176,"19/12/2018 14:05:37","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,qaYDdt
+510177,"19/12/2018 14:08:24","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,e1m5Zd
+510178,"19/12/2018 14:08:42","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,yzTB6a
+510179,"19/12/2018 14:09:17","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,h3lC+n
+510180,"19/12/2018 14:09:21","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,6NdH2b
+510181,"19/12/2018 14:10:18","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,To9idV
+510182,"19/12/2018 14:10:22","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,MzLCVX
+510183,"19/12/2018 14:10:31","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,CZG1Xb
+510184,"19/12/2018 14:10:31","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,Kua7mp
+510185,"19/12/2018 14:10:31","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,OIrrIS
+510186,"19/12/2018 14:10:32","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,jgpSrC
+510187,"19/12/2018 14:10:34","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,RXak+z
+510188,"19/12/2018 14:10:37","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,8Xn/B2
+510189,"19/12/2018 14:10:38","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,q9fxOU
+510190,"19/12/2018 14:10:42","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,6N20xX
+510191,"19/12/2018 14:10:52","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,v/SJMF
+510192,"19/12/2018 14:10:52","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,xEabpm
+510193,"19/12/2018 14:10:53","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,6Qg86B
+510194,"19/12/2018 14:10:56","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,aTr3Bj
+510195,"19/12/2018 14:10:56","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,ZJOeZn
+510196,"19/12/2018 14:10:59","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,zUfk3e
+510197,"19/12/2018 14:11:04","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,MKdhJy
+510198,"19/12/2018 14:11:10","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,uWcKfX
+510199,"19/12/2018 14:11:10","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,BP5w28
+510200,"19/12/2018 14:11:11","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,pNKxL8
+510201,"19/12/2018 14:11:12","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,KrRb4p
+510202,"19/12/2018 14:11:14","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,VyKM5T
+510203,"19/12/2018 14:11:22","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,U7bsGA
+510204,"19/12/2018 14:11:23","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,BwMgx6
+510205,"19/12/2018 14:12:17","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,dnz4U+
+510206,"19/12/2018 14:12:22","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,1E6j5U
+510207,"19/12/2018 14:14:03","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,fjVHCY
+510208,"19/12/2018 14:14:12","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,CQELkD
+510209,"19/12/2018 14:14:12","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,y/2lOn
+510210,"19/12/2018 14:14:14","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,JZa/NB
+510211,"19/12/2018 14:15:50","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,5MESNi
+510212,"19/12/2018 14:15:54","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,8VscLr
+510213,"19/12/2018 14:15:55","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,Da951G
+510214,"19/12/2018 14:15:57","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,pjhnFB
+510215,"19/12/2018 14:16:01","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,lWFEs2
+510216,"19/12/2018 14:16:03","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,apqhQa
+510217,"19/12/2018 14:16:03","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,0Sb78Y
+510218,"19/12/2018 14:16:06","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,vVLhvd
+510219,"19/12/2018 14:16:44","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,2Link+
+510220,"19/12/2018 14:16:55","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Qi0yGb
+510221,"19/12/2018 14:17:08","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,sy8r2m
+510222,"19/12/2018 14:17:11","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,UE0H6b
+510223,"19/12/2018 14:19:32","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,DrAp7x
+510224,"19/12/2018 14:19:42","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,BySQ/v
+510225,"19/12/2018 14:22:18","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,elCD3o
+510226,"19/12/2018 14:22:30","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,pw/H3R
+510227,"19/12/2018 14:23:52","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,GPOPrL
+510228,"19/12/2018 14:23:56","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,wBC+Ry
+510229,"19/12/2018 14:23:56","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,sbBkTL
+510230,"19/12/2018 14:23:57","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,8hcCi+
+510231,"19/12/2018 14:24:00","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,oZ78iV
+510232,"19/12/2018 14:24:09","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,fpXT+p
+510233,"19/12/2018 14:25:05","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,jL8J+k
+510234,"19/12/2018 14:25:15","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,1xcdFo
+510235,"19/12/2018 14:27:53","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,IJIIvQ
+510236,"19/12/2018 14:28:04","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,VPkviA
+510237,"19/12/2018 14:29:12","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,Tg0/yL
+510238,"19/12/2018 14:29:16","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,DlMw0g
+510239,"19/12/2018 14:30:46","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,dUnSkI
+510240,"19/12/2018 14:30:56","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Wc7nb3
+510241,"19/12/2018 14:33:12","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,63hZco
+510242,"19/12/2018 14:33:14","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,io0Zdh
+510243,"19/12/2018 14:33:20","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,tFkNEH
+510244,"19/12/2018 14:33:33","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,39FYi+
+510245,"19/12/2018 14:34:01","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,FWFwwE
+510246,"19/12/2018 14:34:03","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,6llsIh
+510247,"19/12/2018 14:35:45","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,GmI/qO
+510248,"19/12/2018 14:35:54","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,OIPGzv
+510249,"19/12/2018 14:38:05","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,qm7tRJ
+510250,"19/12/2018 14:38:11","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,i1GQFr
+510251,"19/12/2018 14:40:02","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,/igUw6
+510252,"19/12/2018 14:40:07","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,v2mOUG
+510253,"19/12/2018 14:40:48","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,DOOj3g
+510254,"19/12/2018 14:40:57","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,iuORJB
+510255,"19/12/2018 14:41:21","+0:00","markw","Alarm","ALARM NOT EXPECTED CONTAINER ON THE EXIT CHANNEL  On",,Q4K9Rl
+510256,"19/12/2018 14:42:07","+0:00","markw","Alarm","EMERGENCY  On",,R5A6Xz
+510257,"19/12/2018 14:42:07","+0:00","markw","Alarm","COVER OPEN 5  On",,PJhhr6
+510258,"19/12/2018 14:42:07","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,bw9Vyf
+510259,"19/12/2018 14:43:21","+0:00","markw","Warning","ALARM LKD REJECTED TRAY MISSING OR FULL  Off",,mqI1OZ
+510260,"19/12/2018 14:43:21","+0:00","markw","Alarm","COVER OPEN 5  Off",,rfq30X
+510261,"19/12/2018 14:43:21","+0:00","markw","Alarm","ALARM NOT EXPECTED CONTAINER ON THE EXIT CHANNEL  Off",,6UISFs
+510262,"19/12/2018 14:43:21","+0:00","markw","Alarm","EMERGENCY  Off",,P1HRvo
+510263,"19/12/2018 14:43:21","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,h9jEoS
+510264,"19/12/2018 14:43:21","+0:00","markw","Alarm: 21","Acknowledgment of 21 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Gb3odW
+510265,"19/12/2018 14:43:21","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,jf1VcY
+510266,"19/12/2018 14:43:21","+0:00","markw","Alarm:","COVER OPEN 1  Acknowledgment",,yl2xHs
+510267,"19/12/2018 14:43:21","+0:00","markw","Alarm:","ALARM NOT EXPECTED CONTAINER ON THE EXIT CHANNEL  Acknowledgment",,yysvX+
+510268,"19/12/2018 14:43:21","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,ZKvfJc
+510269,"19/12/2018 14:43:21","+0:00","markw","Alarm:","COVER OPEN 5  Acknowledgment",,woESlb
+510270,"19/12/2018 14:43:21","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,6uKQr6
+510271,"19/12/2018 14:43:21","+0:00","markw","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,8KFrYm
+510272,"19/12/2018 14:43:22","+0:00","markw","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,tNxNjz
+510273,"19/12/2018 14:43:53","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,InnFaF
+510274,"19/12/2018 14:43:54","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,zvwics
+510275,"19/12/2018 14:45:40","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,79b3rR
+510276,"19/12/2018 14:45:54","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,DdejFS
+510277,"19/12/2018 14:46:21","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,bHW8H1
+510278,"19/12/2018 14:46:24","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,mAJRn/
+510279,"19/12/2018 14:46:29","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,jf97MM
+510280,"19/12/2018 14:46:56","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,x3n9fH
+510281,"19/12/2018 14:46:56","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,oRytYG
+510282,"19/12/2018 14:46:59","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,2dH40f
+510283,"19/12/2018 14:48:38","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,WMnMRa
+510284,"19/12/2018 14:48:50","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,xzzDLc
+510285,"19/12/2018 14:49:10","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,goIQRy
+510286,"19/12/2018 14:49:12","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,FruX5m
+510287,"19/12/2018 14:49:27","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,IMy6XN
+510288,"19/12/2018 14:49:57","+0:00","markw","Warning","ALARM LKD REJECTED TRAY MISSING OR FULL  On",,adb26C
+510289,"19/12/2018 14:50:04","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,Z21j++
+510290,"19/12/2018 14:51:28","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,7oeyWq
+510291,"19/12/2018 14:51:38","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,4q4dQE
+510292,"19/12/2018 14:51:44","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,MCoMu8
+510293,"19/12/2018 14:51:48","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,A88UYs
+510294,"19/12/2018 14:51:50","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,hjmSPC
+510295,"19/12/2018 14:51:55","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,NyCKo4
+510296,"19/12/2018 14:54:10","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,2755r6
+510297,"19/12/2018 14:54:31","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,+YIyEB
+510298,"19/12/2018 14:54:43","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,UZbai+
+510299,"19/12/2018 14:54:52","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,QiuaGK
+510300,"19/12/2018 14:55:11","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,8w7Bhe
+510301,"19/12/2018 14:55:11","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,L4sJkF
+510302,"19/12/2018 14:55:12","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,9LYUGx
+510303,"19/12/2018 14:55:13","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,XyA8fH
+510304,"19/12/2018 14:55:15","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,g984QS
+510305,"19/12/2018 14:55:17","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,+zIU2C
+510306,"19/12/2018 14:55:18","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,ocQprD
+510307,"19/12/2018 14:55:22","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,UflQHU
+510308,"19/12/2018 14:56:58","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,AzvE9n
+510309,"19/12/2018 14:57:07","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,cWMq9q
+510310,"19/12/2018 14:58:43","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,29hZha
+510311,"19/12/2018 14:58:54","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,ucNAgT
+510312,"19/12/2018 14:59:35","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,VESUvr
+510313,"19/12/2018 14:59:39","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,gPqHkj
+510314,"19/12/2018 14:59:41","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,EQFUYe
+510315,"19/12/2018 14:59:41","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,DehbSc
+510316,"19/12/2018 14:59:44","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,dK9tPc
+510317,"19/12/2018 14:59:52","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,fgQnFs
+510318,"19/12/2018 15:01:44","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,t50y76
+510319,"19/12/2018 15:01:49","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,z/vAJr
+510320,"19/12/2018 15:01:52","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,8GSfRO
+510321,"19/12/2018 15:01:58","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,kMAHzp
+510322,"19/12/2018 15:02:12","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,KKa5L4
+510323,"19/12/2018 15:02:14","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,YTpTzj
+510324,"19/12/2018 15:02:37","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3r7R2m
+510325,"19/12/2018 15:02:47","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,EVeubj
+510326,"19/12/2018 15:04:55","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,LmyAjv
+510327,"19/12/2018 15:05:02","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,AxyV7z
+510328,"19/12/2018 15:05:13","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,d9Y8n6
+510329,"19/12/2018 15:05:14","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,0nsMu0
+510330,"19/12/2018 15:05:15","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,cQSOMk
+510331,"19/12/2018 15:05:19","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,ChR+ad
+510332,"19/12/2018 15:05:22","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,W2KzcZ
+510333,"19/12/2018 15:05:23","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,MEpqyF
+510334,"19/12/2018 15:05:26","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,wbpEYN
+510335,"19/12/2018 15:05:37","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,erWBFV
+510336,"19/12/2018 15:07:53","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,0kS7YG
+510337,"19/12/2018 15:08:02","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,amTDdM
+510338,"19/12/2018 15:08:14","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,f0CCth
+510339,"19/12/2018 15:08:15","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,i74w+s
+510340,"19/12/2018 15:08:16","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,KKWOWD
+510341,"19/12/2018 15:08:16","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,1Wro18
+510342,"19/12/2018 15:08:18","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,NnB/Fm
+510343,"19/12/2018 15:08:22","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,IQYz+H
+510344,"19/12/2018 15:08:25","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,78XWim
+510345,"19/12/2018 15:08:28","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,q2A5j8
+510346,"19/12/2018 15:08:29","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,QB7zZT
+510347,"19/12/2018 15:08:32","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,qgzGgJ
+510348,"19/12/2018 15:10:10","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,NOwV31
+510349,"19/12/2018 15:10:14","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,0CUX3r
+510350,"19/12/2018 15:11:02","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,M6GTon
+510351,"19/12/2018 15:11:13","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,R/0Iex
+510352,"19/12/2018 15:11:27","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,PkdTMe
+510353,"19/12/2018 15:11:31","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,NOvHO6
+510354,"19/12/2018 15:11:32","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,BVM3ex
+510355,"19/12/2018 15:11:35","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,yV/zSl
+510356,"19/12/2018 15:11:38","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,xNy4A1
+510357,"19/12/2018 15:11:39","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,Tzkrze
+510358,"19/12/2018 15:11:40","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,ovcpWN
+510359,"19/12/2018 15:11:43","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,YkeTim
+510360,"19/12/2018 15:13:47","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Nfa8Ap
+510361,"19/12/2018 15:13:57","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,YgkFRG
+510362,"19/12/2018 15:15:31","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,UookNn
+510363,"19/12/2018 15:15:35","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,f/jjk0
+510364,"19/12/2018 15:15:35","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,CK5Acr
+510365,"19/12/2018 15:15:37","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,+nv0Kb
+510366,"19/12/2018 15:15:45","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,hNHPxd
+510367,"19/12/2018 15:15:51","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,mNVmC6
+510368,"19/12/2018 15:16:32","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,0SHVqS
+510369,"19/12/2018 15:16:42","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,5A0XI8
+510370,"19/12/2018 15:19:04","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,1TRbE0
+510371,"19/12/2018 15:19:19","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,mqpLO4
+510372,"19/12/2018 15:21:49","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,C5vSzS
+510373,"19/12/2018 15:22:09","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,DHxP+9
+510374,"19/12/2018 15:23:16","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,TYbbvF
+510375,"19/12/2018 15:23:20","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,WcviAl
+510376,"19/12/2018 15:24:01","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,FugUrX
+510377,"19/12/2018 15:24:03","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,Ae5dpd
+510378,"19/12/2018 15:24:08","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,DKqIlg
+510379,"19/12/2018 15:24:16","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,DyHNf5
+510380,"19/12/2018 15:24:17","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,D8p6qe
+510381,"19/12/2018 15:24:18","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,bAdGBy
+510382,"19/12/2018 15:24:33","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,RV/C8I
+510383,"19/12/2018 15:24:53","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,g4qnvW
+510384,"19/12/2018 15:27:28","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,tgHEmY
+510385,"19/12/2018 15:27:50","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,U8VFBa
+510386,"19/12/2018 15:29:58","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,fPoLa8
+510387,"19/12/2018 15:30:10","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,u1ToxG
+510388,"19/12/2018 15:32:53","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,e/5ZmA
+510389,"19/12/2018 15:32:55","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,e3cEZD
+510390,"19/12/2018 15:32:59","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,wtYH45
+510391,"19/12/2018 15:33:01","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,aGQBTS
+510392,"19/12/2018 15:33:09","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,KHEutv
+510393,"19/12/2018 15:33:12","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,5GQiTz
+510394,"19/12/2018 15:33:34","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,ZQD4hU
+510395,"19/12/2018 15:33:40","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,DCvrkN
+510396,"19/12/2018 15:33:40","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,qYfPej
+510397,"19/12/2018 15:33:40","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,ce3JQj
+510398,"19/12/2018 15:35:35","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,lBQ5nu
+510399,"19/12/2018 15:35:58","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,UfKjWo
+510400,"19/12/2018 15:36:03","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,4TE+IF
+510401,"19/12/2018 15:36:04","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,lUj8IF
+510402,"19/12/2018 15:36:04","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,mIB6Se
+510403,"19/12/2018 15:36:06","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,HNH3v0
+510404,"19/12/2018 15:36:19","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,3Vb+q2
+510405,"19/12/2018 15:36:23","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,72jcfN
+510406,"19/12/2018 15:37:00","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,0a84Zj
+510407,"19/12/2018 15:37:00","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,vAKxEf
+510408,"19/12/2018 15:37:02","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,HiHdoz
+510409,"19/12/2018 15:37:20","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,BhrwU1
+510410,"19/12/2018 15:38:07","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,WHYolC
+510411,"19/12/2018 15:38:09","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,Xt0GOR
+510412,"19/12/2018 15:38:15","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,vfv3xp
+510413,"19/12/2018 15:38:15","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,bv7fDk
+510414,"19/12/2018 15:38:41","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,w/D6+v
+510415,"19/12/2018 15:39:11","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,aDf5wv
+510416,"19/12/2018 15:39:32","+0:00","markw","Alarm","EMERGENCY  On",,+H0wuO
+510417,"19/12/2018 15:39:32","+0:00","markw","Alarm","COVER OPEN 7  On",,dfXCGv
+510418,"19/12/2018 15:39:32","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,1Q32zk
+510419,"19/12/2018 15:39:35","+0:00","markw","Alarm","COVER OPEN 6  On",,OnsAL1
+510420,"19/12/2018 15:43:07","+0:00","markw","Warning","ALARM LKD REJECTED TRAY MISSING OR FULL  Off",,MTzQiV
+510421,"19/12/2018 15:43:07","+0:00","markw","Alarm","COVER OPEN 6  Off",,NNwosq
+510422,"19/12/2018 15:43:07","+0:00","markw","Alarm","COVER OPEN 7  Off",,ROIfHd
+510423,"19/12/2018 15:43:07","+0:00","markw","Alarm","EMERGENCY  Off",,hsscfX
+510424,"19/12/2018 15:43:07","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,MW0AZ9
+510425,"19/12/2018 15:45:15","+0:00","markw","Alarm","COVER OPEN 5  On",,YDPRqA
+510426,"19/12/2018 15:45:15","+0:00","markw","Alarm","EMERGENCY  On",,vUGSCw
+510427,"19/12/2018 15:45:15","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,sroV+t
+510428,"19/12/2018 15:45:33","+0:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,uvFhMa
+510429,"19/12/2018 15:46:06","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,wCBykM
+510430,"19/12/2018 15:46:57","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,EOMEjY
+510431,"19/12/2018 15:47:16","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,+4pV6n
+510432,"19/12/2018 15:47:20","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,emUA38
+510433,"19/12/2018 15:47:21","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,ieODF0
+510434,"19/12/2018 15:47:22","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,WNo1Ww
+510435,"19/12/2018 15:47:23","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,JJ8psx
+510436,"19/12/2018 15:47:24","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,hQm71y
+510437,"19/12/2018 15:47:24","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,PQ2hGt
+510438,"19/12/2018 15:47:25","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,09pC6r
+510439,"19/12/2018 15:48:10","+0:00","markw","Alarm","COVER OPEN 7  On",,BGPZwY
+510440,"19/12/2018 15:48:10","+0:00","markw","Alarm","COVER OPEN 6  On",,ZDkhux
+510441,"19/12/2018 15:48:14","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,SfzAzd
+510442,"19/12/2018 15:48:16","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,YvDJpx
+510443,"19/12/2018 15:48:17","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,ll2jTN
+510444,"19/12/2018 15:48:19","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,i/38O1
+510445,"19/12/2018 15:48:22","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,T97TqU
+510446,"19/12/2018 15:48:24","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,WlSE6a
+510447,"19/12/2018 15:48:25","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,/rYJio
+510448,"19/12/2018 15:48:27","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,XLvrmM
+510449,"19/12/2018 15:49:29","+0:00","markw","Alarm","COVER OPEN 2  On",,Lkomwk
+510450,"19/12/2018 15:49:38","+0:00","markw","Alarm","COVER OPEN 3  On",,CABFo/
+510451,"19/12/2018 15:50:10","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,yu7t1L
+510452,"19/12/2018 15:50:12","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,NEX77y
+510453,"19/12/2018 15:50:12","+0:00","markw","Alarm","ALARM MISSING LKD REJECTED TRAYS   On",,npApQX
+510454,"19/12/2018 15:50:23","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,5jvxNB
+510455,"19/12/2018 15:50:23","+0:00","markw","Alarm","COVER OPEN 5  Off",,pshzkq
+510456,"19/12/2018 15:50:23","+0:00","markw","Alarm","COVER OPEN 6  Off",,5AfBaH
+510457,"19/12/2018 15:50:23","+0:00","markw","Alarm","COVER OPEN 7  Off",,nD/Vrh
+510458,"19/12/2018 15:50:23","+0:00","markw","Alarm","ALARM MISSING LKD REJECTED TRAYS   Off",,DYI3/D
+510459,"19/12/2018 15:50:31","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,XNCO6Z
+510460,"19/12/2018 15:50:33","+0:00","markw","Alarm","COVER OPEN 2  Off",,dI6c0x
+510461,"19/12/2018 15:50:33","+0:00","markw","Alarm","COVER OPEN 3  Off",,y31qKj
+510462,"19/12/2018 15:50:33","+0:00","markw","Alarm","EMERGENCY  Off",,hucUNx
+510463,"19/12/2018 15:50:33","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,WNGdnT
+510464,"19/12/2018 15:50:34","+0:00","markw","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,P17YDs
+510465,"19/12/2018 15:50:34","+0:00","markw","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,E0ayhN
+510466,"19/12/2018 15:50:38","+0:00","markw","Alarm: 97","Acknowledgment of 97 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,y3WJrJ
+510467,"19/12/2018 15:50:38","+0:00","markw","Alarm:","COVER OPEN 5  Acknowledgment",,/GqdL3
+510468,"19/12/2018 15:50:38","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,zumr+s
+510469,"19/12/2018 15:50:38","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,D2J+w7
+510470,"19/12/2018 15:50:38","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,g72mw4
+510471,"19/12/2018 15:50:38","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,3TOXQC
+510472,"19/12/2018 15:50:38","+0:00","markw","Alarm:","COVER OPEN 2  Acknowledgment",,emyWEH
+510473,"19/12/2018 15:50:38","+0:00","markw","Alarm:","COVER OPEN 3  Acknowledgment",,U7xD15
+510474,"19/12/2018 15:50:38","+0:00","markw","Alarm:","ALARM MISSING LKD REJECTED TRAYS   Acknowledgment",,zMWhpH
+510475,"19/12/2018 15:50:38","+0:00","markw","Alarm:","OPERATION DENIED, START PRODUCTION REQUIRED  Acknowledgment",,mtxunO
+510476,"19/12/2018 15:50:41","+0:00","markw","Alarm: 60000","Acknowledgment of alarm 60000.",,h/2VRj
+510477,"19/12/2018 15:51:10","+0:00","markw","Alarm","EMERGENCY  On",,nTGQ2v
+510478,"19/12/2018 15:51:10","+0:00","markw","Alarm","COVER OPEN 6  On",,jXwMAH
+510479,"19/12/2018 15:51:10","+0:00","markw","Alarm","COVER OPEN 7  On",,nvv3Ix
+510480,"19/12/2018 15:51:10","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,W8SyvD
+510481,"19/12/2018 15:51:24","+0:00","markw","Alarm","COVER OPEN 5  On",,6P4abe
+510482,"19/12/2018 15:51:47","+0:00","markw","Alarm","COVER OPEN 5  Off",,L37FCx
+510483,"19/12/2018 15:51:47","+0:00","markw","Alarm","COVER OPEN 6  Off",,hRUnsf
+510484,"19/12/2018 15:51:47","+0:00","markw","Alarm","COVER OPEN 7  Off",,8Pmts6
+510485,"19/12/2018 15:51:47","+0:00","markw","Alarm","EMERGENCY  Off",,mzXOde
+510486,"19/12/2018 15:51:47","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,KcZl05
+510487,"19/12/2018 15:52:08","+0:00","markw","Alarm","EMERGENCY  On",,CyzVLO
+510488,"19/12/2018 15:52:08","+0:00","markw","Alarm","COVER OPEN 6  On",,VHstyy
+510489,"19/12/2018 15:52:08","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,lb1It5
+510490,"19/12/2018 15:52:09","+0:00","markw","Alarm","COVER OPEN 7  On",,auJ1CZ
+510491,"19/12/2018 15:52:18","+0:00","markw","Alarm","COVER OPEN 6  Off",,E6fegd
+510492,"19/12/2018 15:52:18","+0:00","markw","Alarm","COVER OPEN 7  Off",,5+uSJF
+510493,"19/12/2018 15:52:18","+0:00","markw","Alarm","EMERGENCY  Off",,OB15nF
+510494,"19/12/2018 15:52:18","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,ySr9ut
+510495,"19/12/2018 15:52:37","+0:00","markw","Alarm","EMERGENCY  On",,lvLR8O
+510496,"19/12/2018 15:52:37","+0:00","markw","Alarm","COVER OPEN 7  On",,s/oGRc
+510497,"19/12/2018 15:52:37","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,ri7uV3
+510498,"19/12/2018 15:52:42","+0:00","markw","Alarm","COVER OPEN 7  Off",,ZMALUk
+510499,"19/12/2018 15:52:42","+0:00","markw","Alarm","EMERGENCY  Off",,d2+HGa
+510500,"19/12/2018 15:52:42","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,m39YQc
+510501,"19/12/2018 15:52:47","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,aGCacj
+510502,"19/12/2018 15:52:49","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,YlQ9Dt
+510503,"19/12/2018 15:53:03","+0:00","markw","Alarm","EMERGENCY  On",,gRHKQ2
+510504,"19/12/2018 15:53:03","+0:00","markw","Alarm","COVER OPEN 6  On",,xVVQ6T
+510505,"19/12/2018 15:53:03","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,ZQEUJV
+510506,"19/12/2018 15:53:10","+0:00","markw","Alarm","COVER OPEN 6  Off",,v0BSUu
+510507,"19/12/2018 15:53:19","+0:00","markw","Alarm","COVER OPEN 6  On",,wnlGg2
+510508,"19/12/2018 15:53:19","+0:00","markw","Alarm","COVER OPEN 7  On",,8jnzV2
+510509,"19/12/2018 15:53:21","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,tguALJ
+510510,"19/12/2018 15:53:22","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,u91Mc6
+510511,"19/12/2018 15:53:24","+0:00","markw","Alarm","COVER OPEN 6  Off",,1g6j09
+510512,"19/12/2018 15:53:24","+0:00","markw","Alarm","COVER OPEN 7  Off",,iiK9RL
+510513,"19/12/2018 15:53:24","+0:00","markw","Alarm","EMERGENCY  Off",,NAexuT
+510514,"19/12/2018 15:53:24","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,teyFB8
+510515,"19/12/2018 15:53:45","+0:00","markw","Alarm","EMERGENCY  On",,hdlLAt
+510516,"19/12/2018 15:53:45","+0:00","markw","Alarm","COVER OPEN 6  On",,9P4Hvt
+510517,"19/12/2018 15:53:45","+0:00","markw","Alarm","COVER OPEN 7  On",,WalAeH
+510518,"19/12/2018 15:53:45","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,5WQxC+
+510519,"19/12/2018 15:54:12","+0:00","markw","Alarm","COVER OPEN 6  Off",,tCgv6J
+510520,"19/12/2018 15:54:12","+0:00","markw","Alarm","COVER OPEN 7  Off",,Y3PDnN
+510521,"19/12/2018 15:54:12","+0:00","markw","Alarm","EMERGENCY  Off",,r1Zx+L
+510522,"19/12/2018 15:54:12","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,ORy9GE
+510523,"19/12/2018 15:54:18","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,2gAIbp
+510524,"19/12/2018 15:54:27","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,XMYySi
+510525,"19/12/2018 15:54:29","+0:00","markw","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST4  On",,P5JCx5
+510526,"19/12/2018 15:54:32","+0:00","markw","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST4  Off",,Gswg8T
+510527,"19/12/2018 15:54:54","+0:00","markw","Alarm","COVER OPEN 7  On",,+MLBej
+510528,"19/12/2018 15:54:54","+0:00","markw","Alarm","EMERGENCY  On",,ektHkO
+510529,"19/12/2018 15:54:55","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,7aQp+4
+510530,"19/12/2018 15:54:59","+0:00","markw","Alarm","COVER OPEN 6  On",,4FHthe
+510531,"19/12/2018 15:55:04","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,TMRHbt
+510532,"19/12/2018 15:55:05","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,IhPqOA
+510533,"19/12/2018 15:55:07","+0:00","markw","Alarm","COVER OPEN 5  On",,3IjEAN
+510534,"19/12/2018 15:58:30","+0:00","markw","Alarm","COVER OPEN 5  Off",,UR0aDK
+510535,"19/12/2018 15:58:30","+0:00","markw","Alarm","COVER OPEN 6  Off",,B0o2ld
+510536,"19/12/2018 15:58:30","+0:00","markw","Alarm","COVER OPEN 7  Off",,XsfJyI
+510537,"19/12/2018 15:58:30","+0:00","markw","Alarm","EMERGENCY  Off",,CwbX4R
+510538,"19/12/2018 15:58:30","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,8Lk2YU
+510539,"19/12/2018 15:58:31","+0:00","markw","Alarm: 6","Acknowledgment of 6 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,41gXia
+510540,"19/12/2018 15:58:31","+0:00","markw","Alarm:","ALARM MAXIMUM CONSECUTIVE REJECTION ST4  Acknowledgment",,9cAQi7
+510541,"19/12/2018 15:58:31","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,kR2SoR
+510542,"19/12/2018 15:58:31","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,eCx3wk
+510543,"19/12/2018 15:58:31","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,br/oUk
+510544,"19/12/2018 15:58:31","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,W6FFFU
+510545,"19/12/2018 15:58:31","+0:00","markw","Alarm:","COVER OPEN 5  Acknowledgment",,ol6EpF
+510546,"19/12/2018 15:58:32","+0:00","markw","Alarm: 2137","Acknowledgment of alarm 2137 of PLC MCA200+LKD.",,YcLctd
+510547,"19/12/2018 15:58:32","+0:00","markw","Alarm: 2137","Acknowledgment of alarm 2137 of PLC MCA200+LKD.",,NW3Erg
+510548,"19/12/2018 15:58:32","+0:00","markw","Alarm: 2137","Acknowledgment of alarm 2137 of PLC MCA200+LKD.",,UEnENv
+510549,"19/12/2018 16:00:08","+0:00","markw","Alarm","EMERGENCY  On",,gKw99S
+510550,"19/12/2018 16:00:08","+0:00","markw","Alarm","COVER OPEN 7  On",,ZHOxll
+510551,"19/12/2018 16:00:08","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,7Ed0Fq
+510552,"19/12/2018 16:00:09","+0:00","markw","Alarm","COVER OPEN 6  On",,yiguwu
+510553,"19/12/2018 16:01:21","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,B5S91D
+510554,"19/12/2018 16:01:24","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,KJOa3T
+510555,"19/12/2018 16:01:28","+0:00","markw","Alarm","COVER OPEN 6  Off",,a5nDsm
+510556,"19/12/2018 16:01:28","+0:00","markw","Alarm","COVER OPEN 7  Off",,FvrHnp
+510557,"19/12/2018 16:01:29","+0:00","markw","Alarm","EMERGENCY  Off",,jNxSoM
+510558,"19/12/2018 16:01:29","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,ZsMADb
+510559,"19/12/2018 16:01:30","+0:00","markw","Alarm: 7","Acknowledgment of 7 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,J5lBUh
+510560,"19/12/2018 16:01:30","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,ejjmln
+510561,"19/12/2018 16:01:30","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,d5sHwX
+510562,"19/12/2018 16:01:30","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,BMpicf
+510563,"19/12/2018 16:01:30","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,MCgoLc
+510564,"19/12/2018 16:01:34","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,Htm8pz
+510565,"19/12/2018 16:01:47","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,Bpavjk
+510566,"19/12/2018 16:02:16","+0:00","markw","Alarm","COVER OPEN 5  On",,Habn8q
+510567,"19/12/2018 16:02:16","+0:00","markw","Alarm","EMERGENCY  On",,KXzwj6
+510568,"19/12/2018 16:02:16","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,4hvzjw
+510569,"19/12/2018 16:02:30","+0:00","markw","Alarm","COVER OPEN 6  On",,zKOv/N
+510570,"19/12/2018 16:02:30","+0:00","markw","Alarm","COVER OPEN 7  On",,5kD/Ub
+510571,"19/12/2018 16:04:48","+0:00","markw","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,qEuTy0
+510572,"19/12/2018 16:04:48","+0:00","markw","Alarm:","COVER OPEN 5  Acknowledgment",,G6O/8E
+510573,"19/12/2018 16:04:48","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,gjsdG8
+510574,"19/12/2018 16:04:48","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,sJfLjy
+510575,"19/12/2018 16:04:48","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,wvYC1O
+510576,"19/12/2018 16:04:48","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,YqLo7j
+510577,"19/12/2018 16:04:48","+0:00","markw","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ZcTF0J
+510578,"19/12/2018 16:04:48","+0:00","markw","Alarm","COVER OPEN 5  Off",,SC4aJ0
+510579,"19/12/2018 16:04:48","+0:00","markw","Alarm","COVER OPEN 6  Off",,jGOuHq
+510580,"19/12/2018 16:04:48","+0:00","markw","Alarm","COVER OPEN 7  Off",,Rme8ub
+510581,"19/12/2018 16:04:48","+0:00","markw","Alarm","EMERGENCY  Off",,LIeoJ1
+510582,"19/12/2018 16:04:48","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,zpqj68
+510583,"19/12/2018 16:05:33","+0:00","markw","Alarm","COVER OPEN 5  On",,nfWDqb
+510584,"19/12/2018 16:05:33","+0:00","markw","Alarm","EMERGENCY  On",,6BEWJY
+510585,"19/12/2018 16:05:34","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,uxbWo/
+510586,"19/12/2018 16:05:38","+0:00","markw","Alarm","COVER OPEN 7  On",,aY9P7m
+510587,"19/12/2018 16:05:38","+0:00","markw","Alarm","COVER OPEN 6  On",,xT8Az1
+510588,"19/12/2018 16:06:11","+0:00","markw","Alarm","COVER OPEN 5  Off",,6ipRHh
+510589,"19/12/2018 16:06:11","+0:00","markw","Alarm","COVER OPEN 6  Off",,9FidAQ
+510590,"19/12/2018 16:06:11","+0:00","markw","Alarm","COVER OPEN 7  Off",,fYnBny
+510591,"19/12/2018 16:06:12","+0:00","markw","Alarm","EMERGENCY  Off",,BKyRdx
+510592,"19/12/2018 16:06:12","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,IP0wm1
+510593,"19/12/2018 16:06:16","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,5QO7mv
+510594,"19/12/2018 16:06:26","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,dWgKMS
+510595,"19/12/2018 16:06:45","+0:00","markw","Alarm","EMERGENCY  On",,LKbsdT
+510596,"19/12/2018 16:06:45","+0:00","markw","Alarm","COVER OPEN 6  On",,4BqSeC
+510597,"19/12/2018 16:06:45","+0:00","markw","Alarm","COVER OPEN 7  On",,1Lgitx
+510598,"19/12/2018 16:06:45","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,Sb24bS
+510599,"19/12/2018 16:06:57","+0:00","markw","Alarm","COVER OPEN 5  On",,Aao7aS
+510600,"19/12/2018 16:07:12","+0:00","markw","Alarm","COVER OPEN 5  Off",,JjQ+tX
+510601,"19/12/2018 16:07:12","+0:00","markw","Alarm","COVER OPEN 6  Off",,a+N62n
+510602,"19/12/2018 16:07:12","+0:00","markw","Alarm","COVER OPEN 7  Off",,ZhGwoy
+510603,"19/12/2018 16:07:12","+0:00","markw","Alarm","EMERGENCY  Off",,AUz4Jr
+510604,"19/12/2018 16:07:12","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,0WvTEn
+510605,"19/12/2018 16:07:32","+0:00","markw","Alarm","COVER OPEN 6  On",,xY4mDS
+510606,"19/12/2018 16:07:33","+0:00","markw","Alarm","EMERGENCY  On",,nYAkJr
+510607,"19/12/2018 16:07:33","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,2758VE
+510608,"19/12/2018 16:07:37","+0:00","markw","Alarm","COVER OPEN 7  On",,2jJl3F
+510609,"19/12/2018 16:07:42","+0:00","markw","Alarm","COVER OPEN 6  Off",,rQ6Tkp
+510610,"19/12/2018 16:07:42","+0:00","markw","Alarm","COVER OPEN 7  Off",,rnsyP4
+510611,"19/12/2018 16:07:42","+0:00","markw","Alarm","EMERGENCY  Off",,M0krs5
+510612,"19/12/2018 16:07:42","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,pZO18O
+510613,"19/12/2018 16:08:25","+0:00","markw","Alarm","COVER OPEN 5  On",,UEEgYV
+510614,"19/12/2018 16:08:25","+0:00","markw","Alarm","EMERGENCY  On",,wTFpOs
+510615,"19/12/2018 16:08:25","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,8UWpUa
+510616,"19/12/2018 16:08:27","+0:00","markw","Alarm","COVER OPEN 6  On",,D8eVvM
+510617,"19/12/2018 16:08:27","+0:00","markw","Alarm","COVER OPEN 7  On",,9NLcRM
+510618,"19/12/2018 16:08:38","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,kGjnrm
+510619,"19/12/2018 16:09:01","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,GrlgCK
+510620,"19/12/2018 16:12:26","+0:00","markw","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,V2+ZzV
+510621,"19/12/2018 16:12:26","+0:00","markw","Alarm:","COVER OPEN 5  Acknowledgment",,pIctxb
+510622,"19/12/2018 16:12:26","+0:00","markw","Alarm:","EMERGENCY  Acknowledgment",,tQfIrw
+510623,"19/12/2018 16:12:26","+0:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,2Pcopj
+510624,"19/12/2018 16:12:26","+0:00","markw","Alarm:","COVER OPEN 6  Acknowledgment",,R2RWoD
+510625,"19/12/2018 16:12:26","+0:00","markw","Alarm:","COVER OPEN 7  Acknowledgment",,aItHyf
+510626,"19/12/2018 16:12:26","+0:00","markw","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,qnm7F2
+510627,"19/12/2018 16:12:27","+0:00","markw","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,DeAXfE
+510628,"19/12/2018 16:12:27","+0:00","markw","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,PnSml9
+510629,"19/12/2018 16:12:27","+0:00","markw","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,jqa/QY
+510630,"19/12/2018 16:12:27","+0:00","markw","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,PfowSy
+510631,"19/12/2018 16:12:27","+0:00","markw","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,RAG7Sp
+510632,"19/12/2018 16:12:52","+0:00","markw","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,N0jqxf
+510633,"19/12/2018 16:13:30","+0:00","markw","Warning","WARNING UPS  On",,t5zHtW
+510634,"19/12/2018 16:13:30","+0:00","markw","Warning","ALARM OZONE SENSOR  On",,rVtonx
+510635,"19/12/2018 16:13:30","+0:00","markw","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,EeNvKT
+510636,"19/12/2018 16:13:30","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,NhiMCR
+510637,"19/12/2018 16:13:30","+0:00","markw","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,Fsp/LS
+510638,"19/12/2018 16:13:30","+0:00","markw","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,c0uj1r
+510639,"19/12/2018 16:13:30","+0:00","markw","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  On",,pD1ooT
+510640,"19/12/2018 16:13:30","+0:00","markw","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,89dkGf
+510641,"19/12/2018 16:13:30","+0:00","markw","Alarm","ALARM ROTATION MOTOR 1  On",,vlYPDv
+510642,"19/12/2018 16:13:30","+0:00","markw","Alarm","ALARM ROTATION MOTOR 2  On",,N2/xKQ
+510643,"19/12/2018 16:13:30","+0:00","markw","Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   On",,pGaZNN
+510644,"19/12/2018 16:13:30","+0:00","markw","Alarm","ALARM MISSING LKD REJECTED TRAYS   On",,6jnlCF
+510645,"19/12/2018 16:13:30","+0:00","markw","Alarm","Alarm profibus nodo 3 (encoder)  On",,UiYeg4
+510646,"20/12/2018 08:02:17","+0:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,ffZbnU
+0,"20/12/2018 08:02:18","+0:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,R1NiEk
+510647,"20/12/2018 08:02:18","+0:00","System","Application","Change to operating mode 'online'.",,h1fMVv
+510648,"20/12/2018 08:02:18","+0:00","System","User administration","Password list imported successfully.",,ILUuK8
+0,"20/12/2018 08:02:25","+0:00","System","Logs","Log files closed.",,5QngHX
+"$RT_COUNT$",950,kk14ge,,,,,3AOmir

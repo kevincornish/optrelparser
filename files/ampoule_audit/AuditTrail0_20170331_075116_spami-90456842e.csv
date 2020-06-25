@@ -1,0 +1,373 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"31/03/2017 08:07:54","-2:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,Q1DhyO
+106783,"31/03/2017 08:07:53","-2:00","System","Logs","Exporting a log.",,QPTd/V
+106784,"31/03/2017 08:08:00","-2:00",,"Recipe","Loading recipe number 2 ( Production 2ml ) on the interface.",,qxiIN9
+106785,"31/03/2017 08:08:01","-2:00",,"Recipe","Data trasfered to PLC",,CTx59P
+106786,"31/03/2017 08:08:01","-2:00",,"Warning","ALARM OZONE SENSOR  On",,rd+Axp
+106787,"31/03/2017 08:08:01","-2:00",,"Warning","PVSI NOT RUNNING   On",,7+rb8i
+106788,"31/03/2017 08:08:01","-2:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,9wY5+g
+106789,"31/03/2017 08:08:01","-2:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3A6432
+106790,"31/03/2017 08:08:01","-2:00",,"Alarm","EMERGENCY  On",,9AOiHm
+106791,"31/03/2017 08:08:01","-2:00",,"Alarm","COVER OPEN 5  On",,Jv/FxQ
+106792,"31/03/2017 08:08:01","-2:00",,"Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,ivtNE6
+106793,"31/03/2017 08:08:01","-2:00",,"Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  On",,cxyMO2
+106794,"31/03/2017 08:08:01","-2:00",,"Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,F7I7iY
+106795,"31/03/2017 08:08:01","-2:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,XUscX2
+106796,"31/03/2017 08:08:01","-2:00",,"Alarm","ALARM ROTATION MOTOR 1  On",,8bNII9
+106797,"31/03/2017 08:08:01","-2:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,wNwwdt
+106798,"31/03/2017 08:08:01","-2:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,DeqEgX
+106799,"31/03/2017 08:08:01","-2:00",,"Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   On",,shV1/A
+106800,"31/03/2017 08:08:01","-2:00",,"Alarm","ALARM MISSING LKD REJECTED TRAYS   On",,L2OdZV
+106801,"31/03/2017 08:08:01","-2:00",,"Alarm","PVSI NOT READY  On",,jzRgMu
+106802,"31/03/2017 08:08:01","-2:00",,"Alarm","PVSI AND WINCC PRODUCT DIFFERENT  On",,2jBSpP
+106803,"31/03/2017 08:08:01","-2:00",,"Alarm","Alarm profibus nodo 3 (encoder)  On",,Nzx+zf
+106804,"31/03/2017 08:08:01","-2:00",,"Alarm","Alarm profibus nodo 4 (PC)  On",,L/PwqM
+106805,"31/03/2017 08:08:01","-2:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,2bnxAM
+106806,"31/03/2017 08:08:05","-2:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,ig6PKi
+106807,"31/03/2017 08:12:46","-2:00","System","User administration","User 'adaml' logged on with group 'Administrator'.",,Eyajnp
+106808,"31/03/2017 08:12:59","-2:00","adaml","Warning","PVSI NOT RUNNING   Off",,3qV1wG
+106809,"31/03/2017 08:14:40","-2:00","adaml","User administration","User logged off.",,JvSpnt
+106810,"31/03/2017 08:14:40","-2:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,bp0RA8
+106811,"31/03/2017 08:19:18","-2:00",,"Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,XQW4jn
+106812,"31/03/2017 08:19:19","-2:00",,"Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,gfe63u
+106813,"31/03/2017 08:19:19","-2:00",,"Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,vJZdKH
+106814,"31/03/2017 08:19:20","-2:00",,"Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,1drDVA
+106815,"31/03/2017 08:25:06","-2:00",,"Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,rebsSA
+106816,"31/03/2017 08:25:07","-2:00",,"Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,/qAQQ7
+106817,"31/03/2017 08:25:07","-2:00",,"Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,lI7nbK
+106818,"31/03/2017 08:25:08","-2:00",,"Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,Sh/878
+106819,"31/03/2017 08:30:35","-2:00","System","User administration","User 'amaliae' logged on with group 'Operator'.",,iapfEi
+106820,"31/03/2017 08:30:42","-2:00","amaliae","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,IGg7Qp
+106821,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","EMERGENCY  Acknowledgment",,sLVLfW
+106822,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","COVER OPEN 5  Acknowledgment",,LU2L3Z
+106823,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment",,PKRuIZ
+106824,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  Acknowledgment",,6i/xzo
+106825,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment",,eWsLkT
+106826,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,+H+dBo
+106827,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","ALARM ROTATION MOTOR 1  Acknowledgment",,PxD5zf
+106828,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,7kYEO7
+106829,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,1A+6NQ
+106830,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","ALARM MISSING ST0 TIP REJECTED TRAYS   Acknowledgment",,zzzpsb
+106831,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","ALARM MISSING LKD REJECTED TRAYS   Acknowledgment",,OzZvaj
+106832,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","PVSI NOT READY  Acknowledgment",,eUCPsN
+106833,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","PVSI AND WINCC PRODUCT DIFFERENT  Acknowledgment",,WOVhrS
+106834,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","Alarm profibus nodo 3 (encoder)  Acknowledgment",,HQENGQ
+106835,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","Alarm profibus nodo 4 (PC)  Acknowledgment",,SbFBsd
+106836,"31/03/2017 08:30:42","-2:00","amaliae","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,0FMRsh
+106837,"31/03/2017 08:30:42","-2:00","amaliae","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,USfQ5B
+106838,"31/03/2017 08:30:48","-2:00","amaliae","Alarm","COVER OPEN 7  On",,a/sLe6
+106839,"31/03/2017 08:33:28","-2:00","amaliae","Warning","ALARM OZONE SENSOR  Off",,8/oaPR
+106840,"31/03/2017 08:33:28","-2:00","amaliae","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,+Tq0XU
+106841,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","COVER OPEN 5  Off",,3TnbAq
+106842,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","COVER OPEN 7  Off",,/BVuUR
+106843,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,C5OAIk
+106844,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  Off",,AEzout
+106845,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off",,3YGuQY
+106846,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","ALARM ROTATION MOTOR 1  Off",,KsqBTg
+106847,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","ALARM ROTATION MOTOR 2  Off",,LCFQAB
+106848,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   Off",,2YMKcy
+106849,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","ALARM MISSING LKD REJECTED TRAYS   Off",,Uot91i
+106850,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","PVSI NOT READY  Off",,0QlQhI
+106851,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","PVSI AND WINCC PRODUCT DIFFERENT  Off",,j0x7Sg
+106852,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","Alarm profibus nodo 3 (encoder)  Off",,Codzzq
+106853,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","Alarm profibus nodo 4 (PC)  Off",,1Tptfv
+106854,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","WARNING MISSING LOGIN OPERATION  Off",,KpH4P/
+106855,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","EMERGENCY  Off",,ewpHNc
+106856,"31/03/2017 08:33:28","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,6psJlO
+106857,"31/03/2017 08:33:32","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,aPTLIa
+106858,"31/03/2017 08:33:43","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,u9P5da
+106859,"31/03/2017 08:33:44","-2:00","amaliae","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,1/rV8D
+106860,"31/03/2017 08:33:44","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,Uo80Sk
+106861,"31/03/2017 08:33:47","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,nqPO1+
+106862,"31/03/2017 08:33:48","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,SzveWY
+106863,"31/03/2017 08:33:48","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,q7T75r
+106864,"31/03/2017 08:33:48","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,8FwFc+
+106865,"31/03/2017 08:33:49","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,BLQ5nx
+106866,"31/03/2017 08:33:49","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,4PPstp
+106867,"31/03/2017 08:33:55","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,5kccSQ
+106868,"31/03/2017 08:33:55","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,Qhxz+i
+106869,"31/03/2017 08:33:56","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,131KJ5
+106870,"31/03/2017 08:33:56","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,Ti6dRW
+106871,"31/03/2017 08:33:59","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,ulVDYZ
+106872,"31/03/2017 08:34:03","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,6nnPfl
+106873,"31/03/2017 08:34:06","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,0LVNJl
+106874,"31/03/2017 08:34:20","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,tvhjAN
+106875,"31/03/2017 08:34:24","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,ang4Py
+106876,"31/03/2017 08:34:25","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,yR+b2G
+106877,"31/03/2017 08:34:27","-2:00","amaliae","Alarm","EMERGENCY  On",,20bJO5
+106878,"31/03/2017 08:34:27","-2:00","amaliae","Alarm","COVER OPEN 6  On",,GontsF
+106879,"31/03/2017 08:34:27","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,8ol5Qr
+106880,"31/03/2017 08:34:33","-2:00","amaliae","Alarm","COVER OPEN 4  On",,GxUd7y
+106881,"31/03/2017 08:34:44","-2:00","amaliae","Alarm","COVER OPEN 1  On",,wcumTd
+106882,"31/03/2017 08:34:46","-2:00","amaliae","Alarm","COVER OPEN 1  Off",,NOO6Ck
+106883,"31/03/2017 08:34:46","-2:00","amaliae","Alarm","COVER OPEN 4  Off",,6RArNu
+106884,"31/03/2017 08:34:46","-2:00","amaliae","Alarm","COVER OPEN 6  Off",,nxlYMa
+106885,"31/03/2017 08:34:46","-2:00","amaliae","Alarm","EMERGENCY  Off",,vJd4y0
+106886,"31/03/2017 08:34:46","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,RvoAnF
+106887,"31/03/2017 08:34:48","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,XIzeDe
+106888,"31/03/2017 08:34:51","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,bq0IxD
+106889,"31/03/2017 08:34:52","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,tbXh9G
+106890,"31/03/2017 08:34:54","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,j2epVe
+106891,"31/03/2017 08:34:56","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,qVPpUZ
+106892,"31/03/2017 08:34:59","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,JXZngi
+106893,"31/03/2017 08:35:00","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,waMeqq
+106894,"31/03/2017 08:35:02","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,xPCXuG
+106895,"31/03/2017 08:35:03","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,+j3Mby
+106896,"31/03/2017 08:35:04","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,75Ia73
+106897,"31/03/2017 08:35:04","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,uizFyu
+106898,"31/03/2017 08:35:09","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,8Lvlzx
+106899,"31/03/2017 08:35:12","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,xVmC//
+106900,"31/03/2017 08:35:13","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,p8z+fk
+106901,"31/03/2017 08:35:14","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,Fe6GqB
+106902,"31/03/2017 08:35:16","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,hoJdj5
+106903,"31/03/2017 08:35:17","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,1GCGZ8
+106904,"31/03/2017 08:35:18","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,CaGU3W
+106905,"31/03/2017 08:35:22","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,KLydLb
+106906,"31/03/2017 08:35:24","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,cN8wcT
+106907,"31/03/2017 08:36:27","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,hD12wF
+106908,"31/03/2017 08:36:28","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,spxSpL
+106909,"31/03/2017 08:36:29","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,nXweiE
+106910,"31/03/2017 08:36:31","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,R/y52S
+106911,"31/03/2017 08:36:45","-2:00","amaliae","Alarm","EMERGENCY  On",,pkgbeO
+106912,"31/03/2017 08:36:45","-2:00","amaliae","Alarm","COVER OPEN 1  On",,fPyGrQ
+106913,"31/03/2017 08:36:45","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,/eEW6h
+106914,"31/03/2017 08:36:46","-2:00","amaliae","Alarm","COVER OPEN 1  Off",,qILNGI
+106915,"31/03/2017 08:36:46","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,+/uWOO
+106916,"31/03/2017 08:36:47","-2:00","amaliae","Alarm","EMERGENCY  Off",,uOfLJE
+106917,"31/03/2017 08:36:47","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,RrQ7bL
+106918,"31/03/2017 08:36:47","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,JbEZC9
+106919,"31/03/2017 08:36:47","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,lWJELc
+106920,"31/03/2017 08:36:48","-2:00","amaliae","Alarm: 2141","Acknowledgment of alarm 2141 of PLC MCA200+LKD.",,khuilX
+106921,"31/03/2017 08:36:50","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,+7vAAW
+106922,"31/03/2017 08:36:52","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,CL2rGN
+106923,"31/03/2017 08:37:37","-2:00","amaliae","Alarm","COVER OPEN 2  On",,JPu6kl
+106924,"31/03/2017 08:37:37","-2:00","amaliae","Alarm","COVER OPEN 3  On",,Pko2n6
+106925,"31/03/2017 08:37:37","-2:00","amaliae","Alarm","EMERGENCY  On",,Kullct
+106926,"31/03/2017 08:37:37","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,L7Z9XQ
+106927,"31/03/2017 08:37:42","-2:00","amaliae","Alarm","COVER OPEN 4  On",,MHQhSm
+106928,"31/03/2017 08:38:01","-2:00","amaliae","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,csa4iG
+106929,"31/03/2017 08:38:03","-2:00","amaliae","Alarm","COVER OPEN 2  Off",,b12Gd7
+106930,"31/03/2017 08:38:03","-2:00","amaliae","Alarm","COVER OPEN 3  Off",,ZJs9RG
+106931,"31/03/2017 08:38:03","-2:00","amaliae","Alarm","COVER OPEN 4  Off",,RIBliw
+106932,"31/03/2017 08:38:03","-2:00","amaliae","Alarm","EMERGENCY  Off",,gWoFsM
+106933,"31/03/2017 08:38:03","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,xqxuh4
+106934,"31/03/2017 08:38:04","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,QfGtqS
+106935,"31/03/2017 08:38:13","-2:00","amaliae","Alarm","EMERGENCY  On",,9NQdgr
+106936,"31/03/2017 08:38:13","-2:00","amaliae","Alarm","COVER OPEN 6  On",,wHMYvM
+106937,"31/03/2017 08:38:13","-2:00","amaliae","Alarm","COVER OPEN 7  On",,N2o39E
+106938,"31/03/2017 08:38:14","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,PRsRlJ
+106939,"31/03/2017 08:38:19","-2:00","amaliae","Alarm","COVER OPEN 5  On",,avjGcL
+106940,"31/03/2017 08:38:21","-2:00","amaliae","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,2OpAMF
+106941,"31/03/2017 08:38:21","-2:00","amaliae","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,kycDEJ
+106942,"31/03/2017 08:38:22","-2:00","amaliae","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,jwkMZZ
+106943,"31/03/2017 08:38:22","-2:00","amaliae","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,NWcFjI
+106944,"31/03/2017 08:38:26","-2:00","amaliae","Alarm","COVER OPEN 5  Off",,sjaMQG
+106945,"31/03/2017 08:38:26","-2:00","amaliae","Alarm","COVER OPEN 6  Off",,lWfxTy
+106946,"31/03/2017 08:38:26","-2:00","amaliae","Alarm","COVER OPEN 7  Off",,5lJ9Zl
+106947,"31/03/2017 08:38:26","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,BQkSIk
+106948,"31/03/2017 08:38:26","-2:00","amaliae","Alarm","EMERGENCY  Off",,qSogEn
+106949,"31/03/2017 08:38:26","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,QTA9qX
+106950,"31/03/2017 08:38:28","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  On",,z5fRep
+106951,"31/03/2017 08:38:39","-2:00","amaliae","Alarm","OPERATION DENIED, START PRODUCTION REQUIRED  Off",,Vf1TJv
+106952,"31/03/2017 08:38:40","-2:00","amaliae","Alarm: 97","Acknowledgment of 97 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Y5gLP6
+106953,"31/03/2017 08:38:40","-2:00","amaliae","Alarm:","COVER OPEN 1  Acknowledgment",,ezMpbv
+106954,"31/03/2017 08:38:40","-2:00","amaliae","Alarm:","COVER OPEN 2  Acknowledgment",,+M2X94
+106955,"31/03/2017 08:38:40","-2:00","amaliae","Alarm:","COVER OPEN 3  Acknowledgment",,GSTapM
+106956,"31/03/2017 08:38:40","-2:00","amaliae","Alarm:","COVER OPEN 4  Acknowledgment",,F4Wye5
+106957,"31/03/2017 08:38:40","-2:00","amaliae","Alarm:","EMERGENCY  Acknowledgment",,zUmpIg
+106958,"31/03/2017 08:38:40","-2:00","amaliae","Alarm:","COVER OPEN 6  Acknowledgment",,kO3K/l
+106959,"31/03/2017 08:38:40","-2:00","amaliae","Alarm:","COVER OPEN 7  Acknowledgment",,7N1ttz
+106960,"31/03/2017 08:38:40","-2:00","amaliae","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,rNLQu5
+106961,"31/03/2017 08:38:40","-2:00","amaliae","Alarm:","COVER OPEN 5  Acknowledgment",,ApCruB
+106962,"31/03/2017 08:38:40","-2:00","amaliae","Alarm:","OPERATION DENIED, START PRODUCTION REQUIRED  Acknowledgment",,8G9vzT
+106963,"31/03/2017 08:38:53","-2:00","amaliae","Alarm","EMERGENCY  On",,rbYrjs
+106964,"31/03/2017 08:38:53","-2:00","amaliae","Alarm","COVER OPEN 7  On",,TJmA9x
+106965,"31/03/2017 08:38:53","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,yy2Pg0
+106966,"31/03/2017 08:38:55","-2:00","amaliae","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,4eKMEU
+106967,"31/03/2017 08:39:09","-2:00","amaliae","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,cwlJnX
+106968,"31/03/2017 08:39:10","-2:00","amaliae","Alarm","COVER OPEN 6  On",,76k+qQ
+106969,"31/03/2017 08:40:40","-2:00","amaliae","Alarm","COVER OPEN 6  Off",,eHFf0r
+106970,"31/03/2017 08:40:40","-2:00","amaliae","Alarm","COVER OPEN 7  Off",,FHXc/L
+106971,"31/03/2017 08:40:41","-2:00","amaliae","Alarm","EMERGENCY  Off",,XXJ2a3
+106972,"31/03/2017 08:40:41","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,yyb7WB
+106973,"31/03/2017 08:40:48","-2:00","amaliae","Alarm: 7","Acknowledgment of 7 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,eb1MHb
+106974,"31/03/2017 08:40:48","-2:00","amaliae","Alarm:","EMERGENCY  Acknowledgment",,tXxoJu
+106975,"31/03/2017 08:40:48","-2:00","amaliae","Alarm:","COVER OPEN 7  Acknowledgment",,2SBexY
+106976,"31/03/2017 08:40:48","-2:00","amaliae","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,AkHoJF
+106977,"31/03/2017 08:40:48","-2:00","amaliae","Alarm:","COVER OPEN 6  Acknowledgment",,+SY2t1
+106978,"31/03/2017 08:40:57","-2:00","amaliae","Alarm","EMERGENCY  On",,oJylHq
+106979,"31/03/2017 08:40:57","-2:00","amaliae","Alarm","COVER OPEN 7  On",,bxI2O2
+106980,"31/03/2017 08:40:57","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,eW6wsy
+106981,"31/03/2017 08:41:00","-2:00","amaliae","Alarm","COVER OPEN 6  On",,t/+YhR
+106982,"31/03/2017 08:42:09","-2:00","amaliae","Alarm","COVER OPEN 6  Off",,eoKD25
+106983,"31/03/2017 08:42:09","-2:00","amaliae","Alarm","COVER OPEN 7  Off",,q/pGd2
+106984,"31/03/2017 08:42:09","-2:00","amaliae","Alarm","EMERGENCY  Off",,CSyphK
+106985,"31/03/2017 08:42:09","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,NG6NIL
+106986,"31/03/2017 08:42:39","-2:00","amaliae","Alarm","EMERGENCY  On",,SROrij
+106987,"31/03/2017 08:42:39","-2:00","amaliae","Alarm","COVER OPEN 6  On",,wvcDVM
+106988,"31/03/2017 08:42:39","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,YwVxvv
+106989,"31/03/2017 08:42:42","-2:00","amaliae","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,Nxj0yB
+106990,"31/03/2017 08:42:53","-2:00","amaliae","Alarm","COVER OPEN 7  On",,tekKZu
+106991,"31/03/2017 08:43:29","-2:00","amaliae","Alarm","COVER OPEN 6  Off",,cxyYcT
+106992,"31/03/2017 08:43:29","-2:00","amaliae","Alarm","COVER OPEN 7  Off",,IzCtHb
+106993,"31/03/2017 08:43:29","-2:00","amaliae","Alarm","EMERGENCY  Off",,qDHM8e
+106994,"31/03/2017 08:43:30","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,P2/OZR
+106995,"31/03/2017 08:43:42","-2:00","amaliae","Alarm","COVER OPEN 7  On",,zN5QGv
+106996,"31/03/2017 08:43:42","-2:00","amaliae","Alarm","EMERGENCY  On",,O+S1AM
+106997,"31/03/2017 08:43:42","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,IwI78J
+106998,"31/03/2017 08:43:44","-2:00","amaliae","Alarm","COVER OPEN 6  On",,3q28Aa
+106999,"31/03/2017 08:44:32","-2:00","amaliae","Alarm","COVER OPEN 6  Off",,m6eRWu
+107000,"31/03/2017 08:44:32","-2:00","amaliae","Alarm","COVER OPEN 7  Off",,YzKOu1
+107001,"31/03/2017 08:44:32","-2:00","amaliae","Alarm","EMERGENCY  Off",,0L3ULx
+107002,"31/03/2017 08:44:33","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,u7mnLo
+107003,"31/03/2017 08:45:08","-2:00","amaliae","Alarm","EMERGENCY  On",,SbaD0I
+107004,"31/03/2017 08:45:08","-2:00","amaliae","Alarm","COVER OPEN 7  On",,STTMiS
+107005,"31/03/2017 08:45:08","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,FZgCm9
+107006,"31/03/2017 08:45:13","-2:00","amaliae","Alarm","COVER OPEN 5  On",,OQOBeI
+107007,"31/03/2017 08:46:12","-2:00","amaliae","Alarm","COVER OPEN 5  Off",,KJllte
+107008,"31/03/2017 08:46:12","-2:00","amaliae","Alarm","COVER OPEN 7  Off",,uz5WtB
+107009,"31/03/2017 08:46:12","-2:00","amaliae","Alarm","EMERGENCY  Off",,dwvEY6
+107010,"31/03/2017 08:46:12","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,TyfIM0
+107011,"31/03/2017 08:46:24","-2:00","amaliae","Alarm","COVER OPEN 7  On",,jgTCe2
+107012,"31/03/2017 08:46:24","-2:00","amaliae","Alarm","EMERGENCY  On",,XmoyF8
+107013,"31/03/2017 08:46:24","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,xusNRa
+107014,"31/03/2017 08:46:26","-2:00","amaliae","Alarm","COVER OPEN 6  On",,ActRr9
+107015,"31/03/2017 08:47:14","-2:00","amaliae","Alarm","COVER OPEN 6  Off",,fL3Z1z
+107016,"31/03/2017 08:47:14","-2:00","amaliae","Alarm","COVER OPEN 7  Off",,zNdAHb
+107017,"31/03/2017 08:47:14","-2:00","amaliae","Alarm","EMERGENCY  Off",,AZfd2F
+107018,"31/03/2017 08:47:14","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,E+Q9x3
+107019,"31/03/2017 08:47:44","-2:00","amaliae","Alarm","EMERGENCY  On",,ccyRw5
+107020,"31/03/2017 08:47:44","-2:00","amaliae","Alarm","COVER OPEN 6  On",,VE3RGf
+107021,"31/03/2017 08:47:44","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,+oCXnM
+107022,"31/03/2017 08:47:51","-2:00","amaliae","Alarm","COVER OPEN 5  On",,5fSSo3
+107023,"31/03/2017 08:49:15","-2:00","amaliae","Alarm","COVER OPEN 7  On",,UBvp9W
+107024,"31/03/2017 08:49:45","-2:00","amaliae","Alarm","COVER OPEN 5  Off",,vbTmpA
+107025,"31/03/2017 08:49:45","-2:00","amaliae","Alarm","COVER OPEN 6  Off",,2TpAUE
+107026,"31/03/2017 08:49:45","-2:00","amaliae","Alarm","COVER OPEN 7  Off",,GoUlNu
+107027,"31/03/2017 08:49:45","-2:00","amaliae","Alarm","EMERGENCY  Off",,2yp+Jy
+107028,"31/03/2017 08:49:45","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,NQNX9H
+107029,"31/03/2017 08:50:24","-2:00","amaliae","Alarm","EMERGENCY  On",,PpfU/m
+107030,"31/03/2017 08:50:24","-2:00","amaliae","Alarm","COVER OPEN 7  On",,u/FnRd
+107031,"31/03/2017 08:50:24","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,SwVXtU
+107032,"31/03/2017 08:50:48","-2:00","amaliae","Alarm","COVER OPEN 5  On",,usnOZi
+107033,"31/03/2017 08:51:30","-2:00","amaliae","Alarm","COVER OPEN 5  Off",,q+NY3b
+107034,"31/03/2017 08:51:30","-2:00","amaliae","Alarm","COVER OPEN 7  Off",,tPAxCu
+107035,"31/03/2017 08:51:30","-2:00","amaliae","Alarm","EMERGENCY  Off",,k7oxmu
+107036,"31/03/2017 08:51:31","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,8oNZVO
+107037,"31/03/2017 08:52:08","-2:00","amaliae","Alarm","EMERGENCY  On",,f6d83H
+107038,"31/03/2017 08:52:08","-2:00","amaliae","Alarm","COVER OPEN 7  On",,RN4nL8
+107039,"31/03/2017 08:52:08","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,b/dzOS
+107040,"31/03/2017 09:01:45","-2:00","amaliae","Alarm","COVER OPEN 5  On",,Q4vqBe
+107041,"31/03/2017 09:02:16","-2:00","amaliae","Alarm","COVER OPEN 5  Off",,6s7xRj
+107042,"31/03/2017 09:02:16","-2:00","amaliae","Alarm","COVER OPEN 7  Off",,fQqE5h
+107043,"31/03/2017 09:02:16","-2:00","amaliae","Alarm","EMERGENCY  Off",,HS0Veh
+107044,"31/03/2017 09:02:16","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,LUgbV/
+107045,"31/03/2017 09:02:50","-2:00","amaliae","Alarm","EMERGENCY  On",,L7GQVz
+107046,"31/03/2017 09:02:50","-2:00","amaliae","Alarm","COVER OPEN 7  On",,h1fJlW
+107047,"31/03/2017 09:02:50","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,n3bqER
+107048,"31/03/2017 09:02:54","-2:00","amaliae","Alarm","COVER OPEN 5  On",,OTapjd
+107049,"31/03/2017 09:02:58","-2:00","amaliae","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,xrsgyd
+107050,"31/03/2017 09:03:54","-2:00","amaliae","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,G7s3ZY
+107051,"31/03/2017 09:03:54","-2:00","amaliae","Alarm","ALARM MISSING LKD REJECTED TRAYS   On",,PnXqCg
+107052,"31/03/2017 09:09:07","-2:00","amaliae","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,ecYPYj
+107053,"31/03/2017 09:14:58","-2:00","amaliae","Alarm","COVER OPEN 1  On",,81L24Z
+107054,"31/03/2017 09:20:41","-2:00","amaliae","Alarm","COVER OPEN 1  Off",,c5B6/O
+107055,"31/03/2017 09:20:41","-2:00","amaliae","Alarm","COVER OPEN 5  Off",,d/pKCf
+107056,"31/03/2017 09:20:41","-2:00","amaliae","Alarm","COVER OPEN 7  Off",,0MacZb
+107057,"31/03/2017 09:20:41","-2:00","amaliae","Alarm","ALARM MISSING LKD REJECTED TRAYS   Off",,SxEGWk
+107058,"31/03/2017 09:20:41","-2:00","amaliae","Alarm","EMERGENCY  Off",,0tuT55
+107059,"31/03/2017 09:20:41","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,xgLiGI
+107060,"31/03/2017 09:21:53","-2:00","amaliae","Alarm","ALARM DATA VALID  On",,pIAM7o
+107061,"31/03/2017 09:22:11","-2:00","amaliae","Alarm: 33","Acknowledgment of 33 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,x2Yku2
+107062,"31/03/2017 09:22:11","-2:00","amaliae","Alarm:","COVER OPEN 6  Acknowledgment",,dIodWB
+107063,"31/03/2017 09:22:11","-2:00","amaliae","Alarm:","EMERGENCY  Acknowledgment",,c9QRgM
+107064,"31/03/2017 09:22:11","-2:00","amaliae","Alarm:","COVER OPEN 7  Acknowledgment",,X8+3il
+107065,"31/03/2017 09:22:11","-2:00","amaliae","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,w1l+Qz
+107066,"31/03/2017 09:22:11","-2:00","amaliae","Alarm:","COVER OPEN 5  Acknowledgment",,CTpZDv
+107067,"31/03/2017 09:22:11","-2:00","amaliae","Alarm:","ALARM MISSING LKD REJECTED TRAYS   Acknowledgment",,wDa70x
+107068,"31/03/2017 09:22:11","-2:00","amaliae","Alarm:","COVER OPEN 1  Acknowledgment",,S1gbc/
+107069,"31/03/2017 09:22:11","-2:00","amaliae","Alarm:","ALARM DATA VALID  Acknowledgment",,Lk5PQ6
+107070,"31/03/2017 09:22:12","-2:00","amaliae","Alarm","ALARM DATA VALID  Off",,Xj+PDc
+107071,"31/03/2017 09:22:19","-2:00","amaliae","Alarm","ALARM DATA VALID  On",,lfCSH9
+107072,"31/03/2017 09:22:49","-2:00","amaliae","Alarm","ALARM DATA VALID  Off",,8UUFs3
+107073,"31/03/2017 09:22:51","-2:00","amaliae","Alarm: 33","Acknowledgment of 33 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Q0u9GV
+107074,"31/03/2017 09:22:51","-2:00","amaliae","Alarm:","ALARM DATA VALID  Acknowledgment",,jgJ1an
+107075,"31/03/2017 09:22:56","-2:00","amaliae","Alarm","ALARM DATA VALID  On",,2xLdJH
+107076,"31/03/2017 09:24:40","-2:00","amaliae","Alarm","ALARM DATA VALID  Off",,V6m4Su
+107077,"31/03/2017 09:24:43","-2:00","amaliae","Alarm: 33","Acknowledgment of 33 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,jC/OVs
+107078,"31/03/2017 09:24:43","-2:00","amaliae","Alarm:","ALARM DATA VALID  Acknowledgment",,DmwJZb
+107079,"31/03/2017 09:24:57","-2:00","amaliae","Alarm","ALARM DATA VALID  On",,4QZgJj
+107080,"31/03/2017 09:28:21","-2:00","amaliae","Alarm","ALARM DATA VALID  Off",,ylIuLl
+107081,"31/03/2017 09:28:33","-2:00","amaliae","Alarm","ALARM DATA VALID  On",,mNmmKk
+107082,"31/03/2017 09:28:44","-2:00","amaliae","Alarm","COVER OPEN 7  On",,jT7xb+
+107083,"31/03/2017 09:28:44","-2:00","amaliae","Alarm","EMERGENCY  On",,8ByKjQ
+107084,"31/03/2017 09:28:45","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,BU3q5Q
+107085,"31/03/2017 09:28:53","-2:00","amaliae","Alarm","COVER OPEN 1  On",,8A31C9
+107086,"31/03/2017 09:28:54","-2:00","amaliae","Alarm","COVER OPEN 6  On",,fMxziR
+107087,"31/03/2017 09:28:55","-2:00","amaliae","Alarm","COVER OPEN 5  On",,U2uCLc
+107088,"31/03/2017 09:29:03","-2:00","amaliae","Alarm","COVER OPEN 2  On",,XV5jXX
+107089,"31/03/2017 09:29:03","-2:00","amaliae","Alarm","COVER OPEN 3  On",,wwVBNO
+107090,"31/03/2017 09:29:09","-2:00","amaliae","Alarm","COVER OPEN 1  Off",,R2axVK
+107091,"31/03/2017 09:29:09","-2:00","amaliae","Alarm","COVER OPEN 2  Off",,RKkZrk
+107092,"31/03/2017 09:29:09","-2:00","amaliae","Alarm","COVER OPEN 3  Off",,9Y6aE6
+107093,"31/03/2017 09:29:09","-2:00","amaliae","Alarm","COVER OPEN 5  Off",,TQWRGc
+107094,"31/03/2017 09:29:09","-2:00","amaliae","Alarm","COVER OPEN 6  Off",,KiJP3E
+107095,"31/03/2017 09:29:09","-2:00","amaliae","Alarm","COVER OPEN 7  Off",,C2C0eH
+107096,"31/03/2017 09:29:09","-2:00","amaliae","Alarm","ALARM DATA VALID  Off",,V7SFDp
+107097,"31/03/2017 09:29:10","-2:00","amaliae","Alarm","EMERGENCY  Off",,SfaaNU
+107098,"31/03/2017 09:29:10","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,FRIHdT
+107099,"31/03/2017 09:29:20","-2:00","amaliae","Alarm","ALARM DATA VALID  On",,VAYQic
+107100,"31/03/2017 09:35:07","-2:00","amaliae","Alarm","ALARM DATA VALID  Off",,QsEZyY
+107101,"31/03/2017 09:35:17","-2:00","amaliae","Alarm","ALARM DATA VALID  On",,jiQtAa
+107102,"31/03/2017 09:41:56","-2:00","amaliae","Alarm","EMERGENCY  On",,c4Bx4B
+107103,"31/03/2017 09:41:56","-2:00","amaliae","Alarm","COVER OPEN 7  On",,GdbsoL
+107104,"31/03/2017 09:41:56","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  On",,IpQhga
+107105,"31/03/2017 09:43:35","-2:00","amaliae","Alarm","COVER OPEN 7  Off",,btRy92
+107106,"31/03/2017 09:43:35","-2:00","amaliae","Alarm","ALARM DATA VALID  Off",,kK6ugv
+107107,"31/03/2017 09:43:35","-2:00","amaliae","Alarm","EMERGENCY  Off",,axJvN3
+107108,"31/03/2017 09:43:35","-2:00","amaliae","Alarm","ALARM INFEED BELT MOTOR  Off",,9C9ybh
+107109,"31/03/2017 09:44:29","-2:00","amaliae","User administration","User logged off.",,0JYeLE
+107110,"31/03/2017 09:44:29","-2:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,Y/Vk0h
+107111,"31/03/2017 09:44:29","-2:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,3LjoXv
+107112,"31/03/2017 09:44:44","-2:00","System","User administration","User 'simonb' logged on with group 'Supervisor'.",,/MSzz/
+107113,"31/03/2017 09:44:59","-2:00","simonb","Alarm","PVSI NOT READY  On",,mns0gN
+107114,"31/03/2017 09:45:20","-2:00","simonb","Alarm","WARNING MISSING LOGIN OPERATION  Off",,My7oIX
+107115,"31/03/2017 09:45:58","-2:00","simonb","Recipe","Loading recipe number 2 ( Production 2ml ) on the interface.",,j62LIo
+107116,"31/03/2017 09:45:58","-2:00","simonb","Recipe","Data trasfered to PLC",,n1B3lA
+107117,"31/03/2017 09:46:01","-2:00","simonb","Warning","PVSI NOT RUNNING   On",,upfPjQ
+107118,"31/03/2017 09:46:02","-2:00","simonb","Warning","PVSI NOT RUNNING   Off",,bYmFo/
+107119,"31/03/2017 09:46:03","-2:00","simonb","Alarm","PVSI NOT READY  Off",,iY5qe3
+107120,"31/03/2017 09:46:11","-2:00","simonb","Recipe","Loading recipe number 3 ( Production 5ml ) on the interface.",,LUJKut
+107121,"31/03/2017 09:46:12","-2:00","simonb","Recipe","Data trasfered to PLC",,1nt1hB
+107122,"31/03/2017 09:46:15","-2:00","simonb","Warning","PVSI NOT RUNNING   On",,qr5rDB
+107123,"31/03/2017 09:46:15","-2:00","simonb","Warning","PVSI NOT RUNNING   Off",,ZWyTUm
+107124,"31/03/2017 09:46:23","-2:00","simonb","Recipe","Loading recipe number 2 ( Production 2ml ) on the interface.",,pdI1LN
+107125,"31/03/2017 09:46:23","-2:00","simonb","Recipe","Data trasfered to PLC",,6u9fLt
+107126,"31/03/2017 09:46:26","-2:00","simonb","Warning","PVSI NOT RUNNING   On",,arxF2i
+107127,"31/03/2017 09:46:27","-2:00","simonb","Warning","PVSI NOT RUNNING   Off",,+tbDt/
+107128,"31/03/2017 09:47:07","-2:00","simonb","Alarm","PVSI NOT READY  On",,EPN9Fy
+107129,"31/03/2017 09:47:11","-2:00","simonb","Alarm","PVSI NOT READY  Off",,eqdZYZ
+107130,"31/03/2017 09:47:18","-2:00","simonb","Alarm","ALARM DATA VALID  On",,1p5NrV
+107131,"31/03/2017 09:47:50","-2:00","simonb","Warning","WARNING UPS  On",,ZZs6tc
+107132,"31/03/2017 09:47:50","-2:00","simonb","Warning","ALARM OZONE SENSOR  On",,4Epmy/
+107133,"31/03/2017 09:47:50","-2:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,OLyX4O
+107134,"31/03/2017 09:47:50","-2:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,SijVTt
+107135,"31/03/2017 09:47:50","-2:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,ELug6z
+107136,"31/03/2017 09:47:50","-2:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,aPEQSk
+107137,"31/03/2017 09:47:50","-2:00","simonb","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,pwT8wa
+107138,"31/03/2017 09:47:50","-2:00","simonb","Alarm","EMERGENCY  On",,BulUej
+107139,"31/03/2017 09:47:50","-2:00","simonb","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,tirrnc
+107140,"31/03/2017 09:47:50","-2:00","simonb","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  On",,ezT+NC
+107141,"31/03/2017 09:47:50","-2:00","simonb","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,sKY10P
+107142,"31/03/2017 09:47:50","-2:00","simonb","Alarm","ALARM MAIN MOTOR  On",,SMMe8J
+107143,"31/03/2017 09:47:50","-2:00","simonb","Alarm","ALARM ROTATION MOTOR 1  On",,QVunk5
+107144,"31/03/2017 09:47:50","-2:00","simonb","Alarm","ALARM ROTATION MOTOR 2  On",,n9r2KU
+107145,"31/03/2017 09:47:50","-2:00","simonb","Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   On",,jRGbO5
+107146,"31/03/2017 09:47:50","-2:00","simonb","Alarm","ALARM MISSING LKD REJECTED TRAYS   On",,zFV/z8
+107147,"31/03/2017 09:47:50","-2:00","simonb","Alarm","Alarm profibus nodo 3 (encoder)  On",,cV2aKb
+107148,"31/03/2017 09:51:08","-2:00","System","Application","The last known sequential number for operator actions differs from the number in the log. Continuing with a higher number, 107148.",,o74FLz
+0,"31/03/2017 09:51:11","-2:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,O/WGMW
+107149,"31/03/2017 09:51:13","-2:00","System","User administration","Password list imported successfully.",,TN+Lxv
+107150,"31/03/2017 09:51:13","-2:00","System","Application","Change to operating mode 'online'.",,X9VbI3
+0,"31/03/2017 09:51:16","-2:00","System","Logs","Log files closed.",,uhMuA2
+"$RT_COUNT$",372,kk14ge,,,,,Kz4RjI

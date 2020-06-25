@@ -1,0 +1,583 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"15/06/2016 08:12:33","-2:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,3vnyeW
+182270,"15/06/2016 08:12:33","-2:00","System","Logs","Exporting a log.",,RV37hu
+182271,"15/06/2016 08:12:49","-2:00",,"Recipe","Loading recipe number 4 ( 100ml Production ) on the interface.",,BFW8Au
+182272,"15/06/2016 08:12:49","-2:00",,"Recipe","Data trasfered to PLC",,14desm
+182273,"15/06/2016 08:12:49","-2:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,yMFrh+
+182274,"15/06/2016 08:12:49","-2:00",,"Alarm","ALARM ROTATION MOTOR  On",,UzxcZ7
+182275,"15/06/2016 08:12:49","-2:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,9zkaO4
+182276,"15/06/2016 08:12:49","-2:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,rr0M52
+182277,"15/06/2016 08:12:49","-2:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,krYS+a
+182278,"15/06/2016 08:12:49","-2:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,CGOWwS
+182279,"15/06/2016 08:12:49","-2:00",,"Warning","ALARM VACUUM SENSOR  On",,FiAJqC
+182280,"15/06/2016 08:12:49","-2:00",,"Warning","PVSI NOT READY  On",,ceFdOv
+182281,"15/06/2016 08:12:49","-2:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,OAGG+B
+182282,"15/06/2016 08:12:49","-2:00",,"Warning","PVSI NOT RUNNING   On",,sclq64
+182283,"15/06/2016 08:12:49","-2:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,n9NaxZ
+182284,"15/06/2016 08:12:49","-2:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,AKdz0N
+182285,"15/06/2016 08:12:49","-2:00",,"Alarm","EMERGENCY  On",,VUJedz
+182286,"15/06/2016 08:12:49","-2:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,3/pLDq
+182287,"15/06/2016 08:12:49","-2:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,kJGLnp
+182288,"15/06/2016 08:12:49","-2:00",,"Alarm","ALARM TURRET MOTOR NOT READY  On",,jJaIr2
+182289,"15/06/2016 08:12:49","-2:00",,"Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,HylleG
+182290,"15/06/2016 08:12:53","-2:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,YILU+z
+182291,"15/06/2016 08:13:58","-2:00","System","User administration","User 'robj' logged on with group 'Operator'.",,L7a+XC
+182292,"15/06/2016 08:14:01","-2:00","robj","Alarm: 276","Acknowledgment of 276 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,TvBaYV
+182293,"15/06/2016 08:14:01","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,r2kVKF
+182294,"15/06/2016 08:14:01","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,8TZAf4
+182295,"15/06/2016 08:14:01","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,5em90R
+182296,"15/06/2016 08:14:01","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,3+k9xn
+182297,"15/06/2016 08:14:01","-2:00","robj","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,NMb/so
+182298,"15/06/2016 08:14:01","-2:00","robj","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,Pid7n+
+182299,"15/06/2016 08:14:01","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,FtEGTG
+182300,"15/06/2016 08:14:01","-2:00","robj","Alarm:","ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment",,4OtVI4
+182301,"15/06/2016 08:14:01","-2:00","robj","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,+cdkA9
+182302,"15/06/2016 08:14:01","-2:00","robj","Alarm:","ALARM TURRET MOTOR NOT READY  Acknowledgment",,6Kmx+L
+182303,"15/06/2016 08:14:01","-2:00","robj","Alarm:","ALARM HOMING NOT DONE TURRET MOTOR  Acknowledgment",,eTxuRe
+182304,"15/06/2016 08:14:03","-2:00","robj","Alarm","WARNING MISSING LOGIN OPERATION  Off",,/YwQhh
+182305,"15/06/2016 08:14:03","-2:00","robj","Warning","ALARM VACUUM SENSOR  Off",,j+hkW2
+182306,"15/06/2016 08:14:03","-2:00","robj","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  Off",,VkOfmX
+182307,"15/06/2016 08:14:03","-2:00","robj","Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,/SP8HE
+182308,"15/06/2016 08:14:03","-2:00","robj","Alarm","ALARM TURRET MOTOR NOT READY  Off",,Vr3v/e
+182309,"15/06/2016 08:14:03","-2:00","robj","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  Off",,+Ci3+q
+182310,"15/06/2016 08:14:03","-2:00","robj","Alarm","EMERGENCY  Off",,nXEmtT
+182311,"15/06/2016 08:14:03","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,JwOOE9
+182312,"15/06/2016 08:14:09","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,hsZSo4
+182313,"15/06/2016 08:14:09","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,ZRsMSo
+182314,"15/06/2016 08:14:09","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,BgQPXg
+182315,"15/06/2016 08:14:09","-2:00","robj","Warning","PVSI NOT READY  Off",,i85Ckd
+182316,"15/06/2016 08:14:09","-2:00","robj","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,o+p8UM
+182317,"15/06/2016 08:14:10","-2:00","robj","Warning","PVSI NOT RUNNING   Off",,t3vPoq
+182318,"15/06/2016 08:14:27","-2:00","robj","Alarm: 2137","Acknowledgment of alarm 2137 of PLC MCA200+LKD.",,voeDkZ
+182319,"15/06/2016 08:14:27","-2:00","robj","Alarm: 2137","Acknowledgment of alarm 2137 of PLC MCA200+LKD.",,tWJaPG
+182320,"15/06/2016 08:14:39","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,wEVOoi
+182321,"15/06/2016 08:16:19","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,cT/qwi
+182322,"15/06/2016 08:16:33","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,sgPhBh
+182323,"15/06/2016 08:17:32","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,leu9wy
+182324,"15/06/2016 08:17:32","-2:00","robj","Alarm","EMERGENCY  On",,ryEJtJ
+182325,"15/06/2016 08:17:32","-2:00","robj","Alarm","COVER OPEN 3  On",,Fs3A7y
+182326,"15/06/2016 08:17:32","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,4PIvnP
+182327,"15/06/2016 08:17:32","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,ZfUwJg
+182328,"15/06/2016 08:17:32","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,CGaZw7
+182329,"15/06/2016 08:17:43","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,LVNkDr
+182330,"15/06/2016 08:18:03","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,E2S1gE
+182331,"15/06/2016 08:18:13","-2:00","robj","Alarm","COVER OPEN 3  Off",,GVKbq6
+182332,"15/06/2016 08:18:14","-2:00","robj","Alarm","EMERGENCY  Off",,jGh9qn
+182333,"15/06/2016 08:18:14","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,OWWtSx
+182334,"15/06/2016 08:18:15","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,UFkcU0
+182335,"15/06/2016 08:18:15","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,VMCX4I
+182336,"15/06/2016 08:18:15","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,Vehwyg
+182337,"15/06/2016 08:18:19","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,K8sP9h
+182338,"15/06/2016 08:18:19","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,0qPcHK
+182339,"15/06/2016 08:18:19","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,SHcF0w
+182340,"15/06/2016 08:18:19","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,v4rHxu
+182341,"15/06/2016 08:18:19","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,lDeUIk
+182342,"15/06/2016 08:18:19","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,LmMah7
+182343,"15/06/2016 08:18:19","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,D8bAXa
+182344,"15/06/2016 08:20:19","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,rnyLiO
+182345,"15/06/2016 08:20:34","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,rlUo7z
+182346,"15/06/2016 08:21:39","-2:00","robj","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,K/rSUw
+182347,"15/06/2016 08:21:41","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,dKiY0H
+182348,"15/06/2016 08:21:41","-2:00","robj","Alarm","EMERGENCY  On",,krkmOa
+182349,"15/06/2016 08:21:41","-2:00","robj","Alarm","COVER OPEN 3  On",,M0TfWG
+182350,"15/06/2016 08:21:41","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,YRaXso
+182351,"15/06/2016 08:21:41","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,tpVBbu
+182352,"15/06/2016 08:21:41","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,ARW1lH
+182353,"15/06/2016 08:21:56","-2:00","robj","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,vCj+d+
+182354,"15/06/2016 08:21:57","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,XuFwUP
+182355,"15/06/2016 08:22:04","-2:00","robj","Alarm","COVER OPEN 3  Off",,tXvj4T
+182356,"15/06/2016 08:22:05","-2:00","robj","Alarm","EMERGENCY  Off",,fDwnnp
+182357,"15/06/2016 08:22:05","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,q4M1XZ
+182358,"15/06/2016 08:22:06","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,acF9sr
+182359,"15/06/2016 08:22:06","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,W7zSSb
+182360,"15/06/2016 08:22:06","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,pQ2xxd
+182361,"15/06/2016 08:22:06","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,roiShH
+182362,"15/06/2016 08:22:06","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,mMgUsD
+182363,"15/06/2016 08:22:06","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,u1XRQE
+182364,"15/06/2016 08:22:06","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,zzEwxT
+182365,"15/06/2016 08:22:07","-2:00","robj","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  On",,vG44El
+182366,"15/06/2016 08:22:11","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,BXoGBF
+182367,"15/06/2016 08:22:14","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,LozgP4
+182368,"15/06/2016 08:22:14","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,9diauK
+182369,"15/06/2016 08:22:14","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,v6iy6Z
+182370,"15/06/2016 08:22:14","-2:00","robj","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Off",,bkQul5
+182371,"15/06/2016 08:22:15","-2:00","robj","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  On",,yEJ9kO
+182372,"15/06/2016 08:22:21","-2:00","robj","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Off",,wQgfS/
+182373,"15/06/2016 08:22:26","-2:00","robj","Alarm: 1097","Acknowledgment of 1097 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,WPnoje
+182374,"15/06/2016 08:22:26","-2:00","robj","Alarm:","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Acknowledgment",,65jy99
+182375,"15/06/2016 08:23:20","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,rBS5Cr
+182376,"15/06/2016 08:23:20","-2:00","robj","Alarm","EMERGENCY  On",,0GrFEO
+182377,"15/06/2016 08:23:20","-2:00","robj","Alarm","COVER OPEN 3  On",,I/vB+C
+182378,"15/06/2016 08:23:21","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,YRKr6T
+182379,"15/06/2016 08:23:21","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,SppBu7
+182380,"15/06/2016 08:23:21","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,OcwpTo
+182381,"15/06/2016 08:24:00","-2:00","robj","Alarm","COVER OPEN 3  Off",,5Cu8SV
+182382,"15/06/2016 08:24:00","-2:00","robj","Alarm","EMERGENCY  Off",,0cD+p4
+182383,"15/06/2016 08:24:00","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,/QkXUF
+182384,"15/06/2016 08:24:01","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,N3/e0J
+182385,"15/06/2016 08:24:01","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,0o+rV5
+182386,"15/06/2016 08:24:01","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,5J/OsG
+182387,"15/06/2016 08:24:02","-2:00","robj","Warning","WARNING SAFETY DOORS EXCLUDED  On",,Hv3Faj
+182388,"15/06/2016 08:24:03","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,0LuwxT
+182389,"15/06/2016 08:24:03","-2:00","robj","Alarm","EMERGENCY  On",,d0xvqv
+182390,"15/06/2016 08:24:03","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,mmrxJ6
+182391,"15/06/2016 08:24:03","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,H2UCWW
+182392,"15/06/2016 08:24:03","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,XdpbxQ
+182393,"15/06/2016 08:29:19","-2:00","robj","Alarm","WARNING MISSING LOGIN OPERATION  On",,UO03PD
+182394,"15/06/2016 08:29:19","-2:00","robj","Warning","ALARM VACUUM SENSOR  On",,N6vp4h
+182395,"15/06/2016 08:29:19","-2:00","robj","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,0XPhyh
+182396,"15/06/2016 08:29:19","-2:00","robj","Alarm","COVER OPEN 3  On",,QsVu3Z
+182397,"15/06/2016 08:29:19","-2:00","robj","Alarm","COVER OPEN 4  On",,Iy8PIi
+182398,"15/06/2016 08:29:23","-2:00","robj","Warning","WARNING SAFETY DOORS EXCLUDED  On",,6ug4xZ
+182399,"15/06/2016 08:29:25","-2:00","robj","Alarm","WARNING MISSING LOGIN OPERATION  Off",,hMa70i
+182400,"15/06/2016 08:29:25","-2:00","robj","Warning","ALARM VACUUM SENSOR  Off",,mI7nki
+182401,"15/06/2016 08:29:25","-2:00","robj","Alarm","COVER OPEN 3  Off",,44hHij
+182402,"15/06/2016 08:29:25","-2:00","robj","Alarm","COVER OPEN 4  Off",,VzUqok
+182403,"15/06/2016 08:29:27","-2:00","robj","Alarm","WARNING MISSING LOGIN OPERATION  On",,omi9qW
+182404,"15/06/2016 08:29:27","-2:00","robj","Warning","ALARM VACUUM SENSOR  On",,8LMDIu
+182405,"15/06/2016 08:29:27","-2:00","robj","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,wEKgr1
+182406,"15/06/2016 08:29:27","-2:00","robj","Alarm","COVER OPEN 3  On",,/z4GnR
+182407,"15/06/2016 08:29:27","-2:00","robj","Alarm","COVER OPEN 4  On",,E4UhZh
+182408,"15/06/2016 08:29:29","-2:00","robj","Warning","ALARM VACUUM SENSOR  Off",,nzqTd+
+182409,"15/06/2016 08:29:29","-2:00","robj","Alarm","WARNING MISSING LOGIN OPERATION  Off",,y5VgMl
+182410,"15/06/2016 08:29:29","-2:00","robj","Warning","WARNING SAFETY DOORS EXCLUDED  On",,Jlftc2
+182411,"15/06/2016 08:29:29","-2:00","robj","Alarm","COVER OPEN 3  Off",,mNLZ+G
+182412,"15/06/2016 08:29:29","-2:00","robj","Alarm","COVER OPEN 4  Off",,QY52ii
+182413,"15/06/2016 08:29:34","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,8Pks4l
+182414,"15/06/2016 08:29:34","-2:00","robj","Alarm","EMERGENCY  Off",,1PFCPn
+182415,"15/06/2016 08:29:35","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,LjgKG/
+182416,"15/06/2016 08:29:35","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,pMVf6q
+182417,"15/06/2016 08:29:35","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,oGlU9h
+182418,"15/06/2016 08:38:47","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,rX1Dqc
+182419,"15/06/2016 08:38:47","-2:00","robj","Alarm","WARNING MISSING LOGIN OPERATION  On",,1gX6Db
+182420,"15/06/2016 08:38:47","-2:00","robj","Warning","ALARM VACUUM SENSOR  On",,/Zh0wq
+182421,"15/06/2016 08:38:47","-2:00","robj","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,FNG4yw
+182422,"15/06/2016 08:38:47","-2:00","robj","Alarm","EMERGENCY  On",,ZHZeBj
+182423,"15/06/2016 08:38:47","-2:00","robj","Alarm","COVER OPEN 1  On",,c4ZI3d
+182424,"15/06/2016 08:38:47","-2:00","robj","Alarm","COVER OPEN 2  On",,itrixF
+182425,"15/06/2016 08:38:47","-2:00","robj","Alarm","COVER OPEN 3  On",,DTrV0D
+182426,"15/06/2016 08:38:47","-2:00","robj","Alarm","COVER OPEN 4  On",,vbhCNC
+182427,"15/06/2016 08:38:47","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,ATMaYp
+182428,"15/06/2016 08:38:47","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,D5lEd3
+182429,"15/06/2016 08:38:47","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,k9XdT/
+182430,"15/06/2016 08:44:32","-2:00","System","User administration","User logged off.",,mamdce
+182431,"15/06/2016 08:49:24","-2:00",,"Warning","ALARM VACUUM SENSOR  Off",,1d8mFp
+182432,"15/06/2016 08:49:24","-2:00",,"Alarm","COVER OPEN 1  Off",,UGVPu3
+182433,"15/06/2016 08:49:24","-2:00",,"Alarm","COVER OPEN 2  Off",,zS7/w9
+182434,"15/06/2016 08:49:24","-2:00",,"Alarm","COVER OPEN 3  Off",,M+qe01
+182435,"15/06/2016 08:49:24","-2:00",,"Alarm","COVER OPEN 4  Off",,YUnscf
+182436,"15/06/2016 08:49:24","-2:00",,"Alarm","EMERGENCY  Off",,NTF/KK
+182437,"15/06/2016 08:49:24","-2:00",,"Alarm","ALARM INFEED BELT MOTOR  Off",,OSmyfF
+182438,"15/06/2016 08:49:25","-2:00",,"Alarm","ALARM ROTATION MOTOR  Off",,CoVPLh
+182439,"15/06/2016 08:49:25","-2:00",,"Alarm","ALARM ROTATION MOTOR 2  Off",,LZKT/v
+182440,"15/06/2016 08:49:25","-2:00",,"Alarm","ALARM ROTATION MOTOR 3  Off",,700V0S
+182441,"15/06/2016 08:49:32","-2:00","System","User administration","User 'adamb' logged on with group 'Operator'.",,5aQsft
+182442,"15/06/2016 08:49:38","-2:00","adamb","Recipe","Loading recipe number 2 ( 20ml Production ) on the interface.",,RsR30G
+182443,"15/06/2016 08:49:38","-2:00","adamb","Recipe","Data trasfered to PLC",,YE7VpK
+182444,"15/06/2016 08:49:41","-2:00","adamb","Warning","PVSI NOT RUNNING   On",,PWzr/s
+182445,"15/06/2016 08:49:43","-2:00","adamb","Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,uOVZFU
+182446,"15/06/2016 08:49:43","-2:00","adamb","Warning","PVSI NOT RUNNING   Off",,Fx7Q3g
+182447,"15/06/2016 08:49:44","-2:00","adamb","Alarm","WARNING MISSING LOGIN OPERATION  Off",,ETom3A
+182448,"15/06/2016 08:49:44","-2:00","adamb","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,xHvbiC
+182449,"15/06/2016 08:50:16","-2:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,JIixEL
+182450,"15/06/2016 08:50:16","-2:00","adamb","Alarm","EMERGENCY  On",,8Nvo1m
+182451,"15/06/2016 08:50:16","-2:00","adamb","Alarm","COVER OPEN 1  On",,5E6GO+
+182452,"15/06/2016 08:50:16","-2:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,xLATRE
+182453,"15/06/2016 08:50:16","-2:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,cprOMq
+182454,"15/06/2016 08:50:16","-2:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,czT8LF
+182455,"15/06/2016 08:50:17","-2:00","adamb","Alarm","COVER OPEN 2  On",,jMelFR
+182456,"15/06/2016 08:50:34","-2:00","adamb","Alarm","COVER OPEN 1  Off",,DrF2Il
+182457,"15/06/2016 08:50:34","-2:00","adamb","Alarm","COVER OPEN 2  Off",,YG6oZZ
+182458,"15/06/2016 08:50:34","-2:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,0TuKgp
+182459,"15/06/2016 08:50:34","-2:00","adamb","Alarm","EMERGENCY  Off",,Fd5G6i
+182460,"15/06/2016 08:50:35","-2:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,e3L1Fd
+182461,"15/06/2016 08:50:35","-2:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,zk5lvf
+182462,"15/06/2016 08:50:35","-2:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,2AE29z
+182463,"15/06/2016 08:51:09","-2:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,4xpln4
+182464,"15/06/2016 08:51:09","-2:00","adamb","Alarm","EMERGENCY  On",,A3Sw80
+182465,"15/06/2016 08:51:09","-2:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,/z8if5
+182466,"15/06/2016 08:51:09","-2:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,Lwmu7R
+182467,"15/06/2016 08:51:09","-2:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,Lhrwdp
+182468,"15/06/2016 08:51:11","-2:00","adamb","User administration","User logged off.",,ORnUjf
+182469,"15/06/2016 08:51:11","-2:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,35PzPX
+182470,"15/06/2016 08:51:11","-2:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,0vivAK
+182471,"15/06/2016 08:51:12","-2:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  On",,ro/RgK
+182472,"15/06/2016 09:01:39","-2:00",,"Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,FITQHS
+182473,"15/06/2016 09:01:39","-2:00",,"Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,WLfyNk
+182474,"15/06/2016 09:02:03","-2:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,L+/Y2f
+182475,"15/06/2016 09:03:29","-2:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,6dt7CS
+182476,"15/06/2016 09:03:31","-2:00",,"Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,qGQNdf
+182477,"15/06/2016 09:03:37","-2:00",,"Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,tWx8RL
+182478,"15/06/2016 09:16:26","-2:00",,"Warning","ALARM VACUUM SENSOR  On",,82FbWj
+182479,"15/06/2016 09:16:26","-2:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  Off",,UG9MSn
+182480,"15/06/2016 09:16:28","-2:00",,"Warning","ALARM VACUUM SENSOR  Off",,POLFhL
+182481,"15/06/2016 09:16:29","-2:00",,"Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,inH8Uo
+182482,"15/06/2016 09:16:29","-2:00",,"Alarm:","COVER OPEN 3  Acknowledgment",,uE/d+4
+182483,"15/06/2016 09:16:29","-2:00",,"Alarm:","COVER OPEN 4  Acknowledgment",,Hkln86
+182484,"15/06/2016 09:16:29","-2:00",,"Alarm:","COVER OPEN 1  Acknowledgment",,lhgWc4
+182485,"15/06/2016 09:16:29","-2:00",,"Alarm:","COVER OPEN 2  Acknowledgment",,I16sX2
+182486,"15/06/2016 09:16:29","-2:00",,"Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,5SKNPX
+182487,"15/06/2016 09:16:29","-2:00",,"Alarm:","EMERGENCY  Acknowledgment",,LnkJcP
+182488,"15/06/2016 09:16:29","-2:00",,"Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,PZkWMZ
+182489,"15/06/2016 09:16:29","-2:00",,"Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,xHN52X
+182490,"15/06/2016 09:16:29","-2:00",,"Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,kyZaL5
+182491,"15/06/2016 09:16:29","-2:00",,"Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,zaFn0V
+182492,"15/06/2016 09:16:43","-2:00","System","User administration","User 'robj' logged on with group 'Operator'.",,Ocq7O+
+182493,"15/06/2016 09:16:44","-2:00","robj","Alarm","WARNING MISSING LOGIN OPERATION  Off",,bFiQOK
+182494,"15/06/2016 09:16:46","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,W2Jhvf
+182495,"15/06/2016 09:16:56","-2:00","robj","Alarm","EMERGENCY  Off",,/nInMC
+182496,"15/06/2016 09:16:56","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,rHKa0T
+182497,"15/06/2016 09:16:57","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,c5k2Ow
+182498,"15/06/2016 09:16:57","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,zAhre4
+182499,"15/06/2016 09:16:57","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,HJ1Esk
+182500,"15/06/2016 09:17:00","-2:00","robj","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,Xu3/yS
+182501,"15/06/2016 09:19:40","-2:00","robj","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  On",,DPabO5
+182502,"15/06/2016 09:21:04","-2:00","robj","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Off",,+qTNIq
+182503,"15/06/2016 09:21:06","-2:00","robj","Alarm: 1097","Acknowledgment of 1097 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,l4vKmk
+182504,"15/06/2016 09:21:06","-2:00","robj","Alarm:","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Acknowledgment",,q8DqXj
+182505,"15/06/2016 09:21:35","-2:00","robj","Alarm","COVER OPEN 4  On",,BI1aVM
+182506,"15/06/2016 09:21:35","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,o/yjpk
+182507,"15/06/2016 09:21:35","-2:00","robj","Alarm","EMERGENCY  On",,mFRaky
+182508,"15/06/2016 09:21:35","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,9x3FlT
+182509,"15/06/2016 09:21:35","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,LVrUy7
+182510,"15/06/2016 09:21:35","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,bM/nPR
+182511,"15/06/2016 09:22:02","-2:00","robj","Alarm","COVER OPEN 4  Off",,D1jotH
+182512,"15/06/2016 09:22:02","-2:00","robj","Alarm","EMERGENCY  Off",,aYw3SV
+182513,"15/06/2016 09:22:02","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,ioN0d3
+182514,"15/06/2016 09:22:03","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,+La6j+
+182515,"15/06/2016 09:22:03","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,VpWLBl
+182516,"15/06/2016 09:22:03","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,e4B/so
+182517,"15/06/2016 09:22:03","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,KCw7IY
+182518,"15/06/2016 09:22:03","-2:00","robj","Alarm:","COVER OPEN 4  Acknowledgment",,8237lW
+182519,"15/06/2016 09:22:03","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,OrrpLV
+182520,"15/06/2016 09:22:03","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,7O2bie
+182521,"15/06/2016 09:22:03","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,PZbwpf
+182522,"15/06/2016 09:22:03","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,MyL+da
+182523,"15/06/2016 09:22:03","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,m4yCL4
+182524,"15/06/2016 09:22:04","-2:00","robj","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,BDjVB+
+182525,"15/06/2016 09:23:30","-2:00","robj","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,V9X4na
+182526,"15/06/2016 09:23:41","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,x6CY34
+182527,"15/06/2016 09:23:41","-2:00","robj","Alarm","EMERGENCY  On",,cyNPvp
+182528,"15/06/2016 09:23:41","-2:00","robj","Alarm","COVER OPEN 3  On",,Xk7QhV
+182529,"15/06/2016 09:23:41","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,W4yJwb
+182530,"15/06/2016 09:23:41","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,MRLIna
+182531,"15/06/2016 09:23:41","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,lzElWw
+182532,"15/06/2016 09:23:48","-2:00","robj","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,yev58/
+182533,"15/06/2016 09:23:48","-2:00","robj","Alarm","COVER OPEN 3  Off",,m9Iwey
+182534,"15/06/2016 09:23:48","-2:00","robj","Alarm","EMERGENCY  Off",,CNlI+p
+182535,"15/06/2016 09:23:48","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,vvsu5t
+182536,"15/06/2016 09:23:49","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,l0vxJP
+182537,"15/06/2016 09:23:49","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,vnV2bw
+182538,"15/06/2016 09:23:49","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,ip7lLg
+182539,"15/06/2016 09:23:49","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,MJ3oOF
+182540,"15/06/2016 09:23:49","-2:00","robj","Alarm:","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Acknowledgment",,O7uRBR
+182541,"15/06/2016 09:23:49","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,mbZrjH
+182542,"15/06/2016 09:23:49","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,p/5yZw
+182543,"15/06/2016 09:23:49","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,O5p8zr
+182544,"15/06/2016 09:23:49","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,7A8mlF
+182545,"15/06/2016 09:23:49","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,OTauBt
+182546,"15/06/2016 09:23:49","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,a3N1+s
+182547,"15/06/2016 09:23:49","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,QCLaXc
+182548,"15/06/2016 09:24:15","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,tTV0os
+182549,"15/06/2016 09:24:15","-2:00","robj","Alarm","EMERGENCY  On",,Q7B4E8
+182550,"15/06/2016 09:24:15","-2:00","robj","Alarm","COVER OPEN 3  On",,ob5TU8
+182551,"15/06/2016 09:24:15","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,SSWuGg
+182552,"15/06/2016 09:24:15","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,vsv7eb
+182553,"15/06/2016 09:24:15","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,IE5PTq
+182554,"15/06/2016 09:24:40","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,KNMAk9
+182555,"15/06/2016 09:25:09","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,2jLFgU
+182556,"15/06/2016 09:26:05","-2:00","robj","Alarm","COVER OPEN 3  Off",,rZf/Dr
+182557,"15/06/2016 09:26:05","-2:00","robj","Alarm","EMERGENCY  Off",,kageM6
+182558,"15/06/2016 09:26:05","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,Mxnj26
+182559,"15/06/2016 09:26:06","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,3VuoBV
+182560,"15/06/2016 09:26:06","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,d/hgii
+182561,"15/06/2016 09:26:06","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,ZfUZuN
+182562,"15/06/2016 09:26:06","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,cTSsLV
+182563,"15/06/2016 09:26:06","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,qFjLIl
+182564,"15/06/2016 09:26:06","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,i1cotK
+182565,"15/06/2016 09:26:06","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,zX02Kc
+182566,"15/06/2016 09:26:06","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,m9P1G1
+182567,"15/06/2016 09:26:06","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,ZQj4Lj
+182568,"15/06/2016 09:26:06","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,XTxZ9J
+182569,"15/06/2016 09:26:06","-2:00","robj","Alarm: 1022","Acknowledgment of 1022 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,eghuwU
+182570,"15/06/2016 09:26:07","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,aIOqdo
+182571,"15/06/2016 09:26:58","-2:00","robj","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  On",,pU1AGl
+182572,"15/06/2016 09:27:06","-2:00","robj","Alarm: 1097","Acknowledgment of 1097 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,jWwYdu
+182573,"15/06/2016 09:27:11","-2:00","robj","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Off",,xqH2ic
+182574,"15/06/2016 09:27:11","-2:00","robj","Alarm:","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Acknowledgment",,IustBx
+182575,"15/06/2016 09:27:11","-2:00","robj","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  On",,ygTpch
+182576,"15/06/2016 09:27:17","-2:00","robj","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Off",,BfJMcY
+182577,"15/06/2016 09:27:17","-2:00","robj","Alarm: 1097","Acknowledgment of 1097 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,TFRUrl
+182578,"15/06/2016 09:27:17","-2:00","robj","Alarm:","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Acknowledgment",,P0ZIbV
+182579,"15/06/2016 09:28:23","-2:00","robj","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,HjDFBn
+182580,"15/06/2016 09:28:23","-2:00","robj","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,2rEmVj
+182581,"15/06/2016 09:30:50","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,7JLQGZ
+182582,"15/06/2016 09:31:04","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,JBZblv
+182583,"15/06/2016 09:31:40","-2:00","robj","Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,7peT8e
+182584,"15/06/2016 09:32:53","-2:00","robj","Warning","WARNING INFEED BELT MINIM LOAD  On",,qrKVtH
+182585,"15/06/2016 09:32:54","-2:00","robj","Warning","WARNING INFEED BELT MINIM LOAD  Off",,ag/ome
+182586,"15/06/2016 09:33:04","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,xhCxBL
+182587,"15/06/2016 09:33:30","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,9Pn60i
+182588,"15/06/2016 09:34:17","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,hxjK59
+182589,"15/06/2016 09:34:29","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,1xRw+l
+182590,"15/06/2016 09:35:18","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,AAUItw
+182591,"15/06/2016 09:35:36","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,69Nm4y
+182592,"15/06/2016 09:36:10","-2:00","robj","Alarm","ALARM MISSING CONTAINER IN REJECT 2 CHANNEL  On",,F/MZqr
+182593,"15/06/2016 09:36:35","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,x6XIt0
+182594,"15/06/2016 09:36:35","-2:00","robj","Alarm","EMERGENCY  On",,M4xnIf
+182595,"15/06/2016 09:36:35","-2:00","robj","Alarm","COVER OPEN 2  On",,1h7JUC
+182596,"15/06/2016 09:36:36","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,RsxCze
+182597,"15/06/2016 09:36:36","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,X+QxtG
+182598,"15/06/2016 09:36:36","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,rs/t9B
+182599,"15/06/2016 09:36:58","-2:00","robj","Alarm","ALARM MISSING CONTAINER IN REJECT 2 CHANNEL  Off",,1O+B/z
+182600,"15/06/2016 09:36:58","-2:00","robj","Alarm","COVER OPEN 2  Off",,PSNM59
+182601,"15/06/2016 09:36:59","-2:00","robj","Alarm","EMERGENCY  Off",,/ig8U2
+182602,"15/06/2016 09:36:59","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,wx+TAo
+182603,"15/06/2016 09:37:00","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,vwoCkR
+182604,"15/06/2016 09:37:00","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,XtAr5I
+182605,"15/06/2016 09:37:00","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,lAtV15
+182606,"15/06/2016 09:37:12","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Gg5a9l
+182607,"15/06/2016 09:37:12","-2:00","robj","Alarm:","ALARM MISSING CONTAINER IN REJECT 2 CHANNEL  Acknowledgment",,NpCtAE
+182608,"15/06/2016 09:37:12","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,SoHwHS
+182609,"15/06/2016 09:37:12","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,PFRunn
+182610,"15/06/2016 09:37:12","-2:00","robj","Alarm:","COVER OPEN 2  Acknowledgment",,Tk5MnJ
+182611,"15/06/2016 09:37:12","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,r5CIbL
+182612,"15/06/2016 09:37:12","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,zb9xZF
+182613,"15/06/2016 09:37:12","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,f/JfzV
+182614,"15/06/2016 09:37:45","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,XzPgAW
+182615,"15/06/2016 09:38:01","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,rgtQMd
+182616,"15/06/2016 09:38:20","-2:00","robj","Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,TB+eLQ
+182617,"15/06/2016 09:53:21","-2:00","System","User administration","User logged off.",,EVis1Z
+182618,"15/06/2016 09:53:21","-2:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,gm8pD5
+182619,"15/06/2016 10:40:27","-2:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,sRznig
+182620,"15/06/2016 10:41:46","-2:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,0vPRtp
+182621,"15/06/2016 10:43:07","-2:00",,"Warning","WARNING INFEED BELT MINIM LOAD  On",,yvkEWF
+182622,"15/06/2016 10:43:07","-2:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,6BUe4z
+182623,"15/06/2016 10:43:35","-2:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  On",,3wUvCs
+182624,"15/06/2016 10:43:37","-2:00",,"Warning","ALARM VACUUM SENSOR  On",,2viVdi
+182625,"15/06/2016 10:43:37","-2:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  Off",,i0D4eS
+182626,"15/06/2016 10:43:49","-2:00","System","User administration","User 'markw' logged on with group 'Operator'.",,bVB2Ci
+182627,"15/06/2016 10:43:54","-2:00","markw","Alarm","WARNING MISSING LOGIN OPERATION  Off",,+2MMi8
+182628,"15/06/2016 10:43:54","-2:00","markw","Warning","ALARM VACUUM SENSOR  Off",,qmGxss
+182629,"15/06/2016 10:44:07","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  Off",,3y3l9o
+182630,"15/06/2016 10:46:26","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,MlSneL
+182631,"15/06/2016 10:46:26","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vY7PbZ
+182632,"15/06/2016 10:46:37","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,4LRpr5
+182633,"15/06/2016 10:47:09","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,AR7Q97
+182634,"15/06/2016 10:47:59","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,+t2Ua+
+182635,"15/06/2016 10:48:19","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,N0kRI+
+182636,"15/06/2016 10:49:11","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,DarlvS
+182637,"15/06/2016 10:49:12","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,7gIJKO
+182638,"15/06/2016 10:49:16","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,bWaMo+
+182639,"15/06/2016 10:49:17","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,K8SXV7
+182640,"15/06/2016 10:49:18","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,5RnQD8
+182641,"15/06/2016 10:49:28","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  On",,cpCD+w
+182642,"15/06/2016 10:49:33","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,lH/qkv
+182643,"15/06/2016 10:49:43","-2:00","markw","Alarm","ALARM MISSING CONTAINERS ON THE LOADING BELT  On",,yP+Xhy
+182644,"15/06/2016 10:49:43","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  Off",,h52kh8
+182645,"15/06/2016 10:50:23","-2:00","markw","Alarm","ALARM MISSING CONTAINERS ON THE LOADING BELT  Off",,tay6NC
+182646,"15/06/2016 10:50:47","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,r/Bwi/
+182647,"15/06/2016 10:51:15","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,FQ59v0
+182648,"15/06/2016 10:51:48","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,lp67ft
+182649,"15/06/2016 10:52:02","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,KifV5y
+182650,"15/06/2016 10:52:57","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,pxDz7g
+182651,"15/06/2016 10:53:12","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,lzI4SN
+182652,"15/06/2016 10:54:00","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,zlhABh
+182653,"15/06/2016 10:54:19","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,pXMcuP
+182654,"15/06/2016 10:55:12","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,H2YJJy
+182655,"15/06/2016 10:55:32","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,QE1wFW
+182656,"15/06/2016 10:55:48","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Kpu03D
+182657,"15/06/2016 10:56:04","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,BJVW3K
+182658,"15/06/2016 10:57:02","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,hAbN79
+182659,"15/06/2016 10:57:22","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,VEZOpE
+182660,"15/06/2016 10:58:15","-2:00","markw","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On",,PXdPDF
+182661,"15/06/2016 10:58:15","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,/MAHik
+182662,"15/06/2016 10:58:15","-2:00","markw","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,XHsqvd
+182663,"15/06/2016 10:58:31","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,gaP7ns
+182664,"15/06/2016 10:58:38","-2:00","markw","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off",,TMt//j
+182665,"15/06/2016 10:58:38","-2:00","markw","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off",,VbTLVl
+182666,"15/06/2016 10:59:18","-2:00","markw","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,SFAEpR
+182667,"15/06/2016 10:59:19","-2:00","markw","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,/mu7ww
+182668,"15/06/2016 10:59:20","-2:00","markw","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,y3QCPi
+182669,"15/06/2016 10:59:20","-2:00","markw","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,L+72EV
+182670,"15/06/2016 10:59:34","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,38efn4
+182671,"15/06/2016 10:59:55","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,zZvC8l
+182672,"15/06/2016 11:00:46","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,VySEli
+182673,"15/06/2016 11:01:05","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,CgKB0q
+182674,"15/06/2016 11:02:02","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,rtzuCV
+182675,"15/06/2016 11:02:25","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,NZiapt
+182676,"15/06/2016 11:03:01","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,E2ywQY
+182677,"15/06/2016 11:03:01","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Initm2
+182678,"15/06/2016 11:03:02","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,JWHYNO
+182679,"15/06/2016 11:03:02","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,1TlMv6
+182680,"15/06/2016 11:03:04","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,I7jv8p
+182681,"15/06/2016 11:03:05","-2:00","markw","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,RCfxmL
+182682,"15/06/2016 11:03:14","-2:00","markw","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,WMjB5V
+182683,"15/06/2016 11:03:18","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,XFFG+f
+182684,"15/06/2016 11:04:18","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,fHgp+j
+182685,"15/06/2016 11:04:31","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,b53czC
+182686,"15/06/2016 11:05:54","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,PW/EH3
+182687,"15/06/2016 11:06:07","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  On",,T56oCv
+182688,"15/06/2016 11:06:08","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,OeSCku
+182689,"15/06/2016 11:06:22","-2:00","markw","Alarm","ALARM MISSING CONTAINERS ON THE LOADING BELT  On",,dPziil
+182690,"15/06/2016 11:06:22","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  Off",,eQwl64
+182691,"15/06/2016 11:06:37","-2:00","markw","Alarm","ALARM MISSING CONTAINERS ON THE LOADING BELT  Off",,cFPXOS
+182692,"15/06/2016 11:07:39","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,SAF0UN
+182693,"15/06/2016 11:07:48","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,dQs3+j
+182694,"15/06/2016 11:07:50","-2:00","markw","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,GYqOUk
+182695,"15/06/2016 11:07:50","-2:00","markw","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,Eb12xn
+182696,"15/06/2016 11:08:52","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,6RTTlL
+182697,"15/06/2016 11:08:53","-2:00","markw","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,ixHF1v
+182698,"15/06/2016 11:08:58","-2:00","markw","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,GINDB2
+182699,"15/06/2016 11:09:12","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,UQZjDJ
+182700,"15/06/2016 11:10:08","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Wb3dzN
+182701,"15/06/2016 11:10:11","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,E/a7NY
+182702,"15/06/2016 11:10:15","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,D4Q5bd
+182703,"15/06/2016 11:10:36","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,IAF8RE
+182704,"15/06/2016 11:11:39","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,tSFLzw
+182705,"15/06/2016 11:12:12","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,rzKNca
+182706,"15/06/2016 11:13:05","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,c3RAg7
+182707,"15/06/2016 11:13:27","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,KIzRaB
+182708,"15/06/2016 11:14:57","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,GngMcA
+182709,"15/06/2016 11:15:36","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,SUBQAe
+182710,"15/06/2016 11:16:26","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,SCm4B2
+182711,"15/06/2016 11:16:47","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ma+emx
+182712,"15/06/2016 11:16:57","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  On",,w3pDfA
+182713,"15/06/2016 11:17:05","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  Off",,JbLj1C
+182714,"15/06/2016 11:18:02","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,qSmpaH
+182715,"15/06/2016 11:18:41","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,RhQ2Fm
+182716,"15/06/2016 11:19:21","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  On",,N8ZzP9
+182717,"15/06/2016 11:19:24","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  Off",,JrjYCA
+182718,"15/06/2016 11:19:30","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,//ss2+
+182719,"15/06/2016 11:19:32","-2:00","markw","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,hL4psb
+182720,"15/06/2016 11:19:34","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  On",,WCV06V
+182721,"15/06/2016 11:19:41","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  Off",,jcA+KX
+182722,"15/06/2016 11:20:01","-2:00","markw","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,bpXYWP
+182723,"15/06/2016 11:20:02","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,QTwx7t
+182724,"15/06/2016 11:21:18","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,hNMOZp
+182725,"15/06/2016 11:21:49","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ynMewV
+182726,"15/06/2016 11:22:54","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,6TBD7b
+182727,"15/06/2016 11:23:29","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,dy3kD1
+182728,"15/06/2016 11:24:34","-2:00","markw","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On",,mUtUGM
+182729,"15/06/2016 11:24:34","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,fOGdWZ
+182730,"15/06/2016 11:24:43","-2:00","markw","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off",,exwzXQ
+182731,"15/06/2016 11:25:32","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,bM8Hqz
+182732,"15/06/2016 11:26:20","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,MqGUEc
+182733,"15/06/2016 11:26:50","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,eVJhNn
+182734,"15/06/2016 11:28:00","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,cJGO/z
+182735,"15/06/2016 11:28:22","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,xtVNhc
+182736,"15/06/2016 11:28:33","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  On",,fGpnTA
+182737,"15/06/2016 11:28:46","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  Off",,oTxsZf
+182738,"15/06/2016 11:29:36","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,hJYZAQ
+182739,"15/06/2016 11:30:02","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  On",,rpuc4n
+182740,"15/06/2016 11:30:07","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Dm+KIh
+182741,"15/06/2016 11:30:17","-2:00","markw","Alarm","ALARM MISSING CONTAINERS ON THE LOADING BELT  On",,Z3xdPX
+182742,"15/06/2016 11:30:17","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  Off",,lAaF31
+182743,"15/06/2016 11:30:22","-2:00","markw","Alarm","ALARM MISSING CONTAINERS ON THE LOADING BELT  Off",,DvIntW
+182744,"15/06/2016 11:30:22","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  On",,L5jJBA
+182745,"15/06/2016 11:30:36","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  Off",,eBujqW
+182746,"15/06/2016 11:31:31","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Pv+bJU
+182747,"15/06/2016 11:31:59","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,lFMi+X
+182748,"15/06/2016 11:32:56","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,/zJaZF
+182749,"15/06/2016 11:33:23","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,qfudkT
+182750,"15/06/2016 11:34:31","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,mbdC9V
+182751,"15/06/2016 11:35:29","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,47S5RC
+182752,"15/06/2016 11:35:47","-2:00","markw","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On",,pGPWAN
+182753,"15/06/2016 11:35:53","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,SY38gf
+182754,"15/06/2016 11:36:10","-2:00","markw","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off",,aNZl7b
+182755,"15/06/2016 11:37:01","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,IOA2MB
+182756,"15/06/2016 11:37:04","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  On",,roxkg5
+182757,"15/06/2016 11:37:19","-2:00","markw","Alarm","ALARM MISSING CONTAINERS ON THE LOADING BELT  On",,XqdGsU
+182758,"15/06/2016 11:37:19","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  Off",,exR09G
+182759,"15/06/2016 11:37:27","-2:00","markw","Alarm","ALARM MISSING CONTAINERS ON THE LOADING BELT  Off",,NZ7sOb
+182760,"15/06/2016 11:37:27","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  On",,VNIaPv
+182761,"15/06/2016 11:37:33","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  Off",,JEDtUz
+182762,"15/06/2016 11:38:31","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,DJ6aD8
+182763,"15/06/2016 11:39:13","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,MNY+l/
+182764,"15/06/2016 11:39:54","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,AO41Cj
+182765,"15/06/2016 11:40:26","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,X5YXxB
+182766,"15/06/2016 11:41:24","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,jIybcY
+182767,"15/06/2016 11:42:19","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,1RpP8h
+182768,"15/06/2016 11:42:24","-2:00","markw","Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,WqKSX0
+182769,"15/06/2016 11:43:18","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ABxk0D
+182770,"15/06/2016 11:44:10","-2:00","markw","Alarm","EMERGENCY  On",,O0oe+0
+182771,"15/06/2016 11:44:10","-2:00","markw","Alarm","COVER OPEN 2  On",,GQOOES
+182772,"15/06/2016 11:44:10","-2:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,Wn4KPy
+182773,"15/06/2016 11:44:10","-2:00","markw","Alarm","ALARM ROTATION MOTOR  On",,CEVgpo
+182774,"15/06/2016 11:44:10","-2:00","markw","Alarm","ALARM ROTATION MOTOR 2  On",,COZpXu
+182775,"15/06/2016 11:44:10","-2:00","markw","Alarm","ALARM ROTATION MOTOR 3  On",,r51XP4
+182776,"15/06/2016 11:46:19","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  On",,/T0TwT
+182777,"15/06/2016 11:46:19","-2:00","markw","Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,lWx0pl
+182778,"15/06/2016 11:46:34","-2:00","markw","Alarm","COVER OPEN 2  Off",,8wxnXl
+182779,"15/06/2016 11:46:34","-2:00","markw","Alarm","EMERGENCY  Off",,0aYeCj
+182780,"15/06/2016 11:46:34","-2:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,WSemWQ
+182781,"15/06/2016 11:46:35","-2:00","markw","Alarm","ALARM ROTATION MOTOR  Off",,cycBUK
+182782,"15/06/2016 11:46:35","-2:00","markw","Alarm","ALARM ROTATION MOTOR 2  Off",,J4+Zll
+182783,"15/06/2016 11:46:35","-2:00","markw","Alarm","ALARM ROTATION MOTOR 3  Off",,hj6Ow8
+182784,"15/06/2016 11:46:42","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,9HxsSB
+182785,"15/06/2016 11:46:54","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  Off",,pv9I6h
+182786,"15/06/2016 11:49:09","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,k9wrSx
+182787,"15/06/2016 11:49:45","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,koSSSF
+182788,"15/06/2016 11:49:58","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ULuyjy
+182789,"15/06/2016 11:51:03","-2:00","markw","Alarm","ALARM ACCEPTED TRAY FULL  On",,QKbSqq
+182790,"15/06/2016 11:51:04","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,XVnOi1
+182791,"15/06/2016 11:51:12","-2:00","markw","Alarm","ALARM ACCEPTED TRAY FULL  Off",,CqD+ue
+182792,"15/06/2016 11:52:24","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,MlRTl4
+182793,"15/06/2016 11:52:53","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,PS5a8D
+182794,"15/06/2016 11:54:14","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,2I4H6v
+182795,"15/06/2016 11:54:45","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,mlTeKV
+182796,"15/06/2016 11:55:29","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,VSTymZ
+182797,"15/06/2016 11:55:54","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,g4+jH4
+182798,"15/06/2016 11:57:02","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,now+7M
+182799,"15/06/2016 11:57:42","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,f9NIOh
+182800,"15/06/2016 11:57:58","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Br0I9Y
+182801,"15/06/2016 11:59:02","-2:00","markw","Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,VIr6HY
+182802,"15/06/2016 11:59:04","-2:00","markw","Alarm","ALARM ACCEPTED TRAY FULL  On",,7Gt5UJ
+182803,"15/06/2016 11:59:06","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,/gQAWx
+182804,"15/06/2016 11:59:13","-2:00","markw","Alarm","ALARM ACCEPTED TRAY FULL  Off",,KENWO1
+182805,"15/06/2016 12:00:16","-2:00","markw","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,lCERUl
+182806,"15/06/2016 12:00:56","-2:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,aDCaKZ
+182807,"15/06/2016 12:00:56","-2:00","markw","Alarm","EMERGENCY  On",,pczXCN
+182808,"15/06/2016 12:00:56","-2:00","markw","Alarm","COVER OPEN 3  On",,e0oa3f
+182809,"15/06/2016 12:00:56","-2:00","markw","Alarm","ALARM ROTATION MOTOR  On",,BDf7g8
+182810,"15/06/2016 12:00:56","-2:00","markw","Alarm","ALARM ROTATION MOTOR 2  On",,ne9DK2
+182811,"15/06/2016 12:00:56","-2:00","markw","Alarm","ALARM ROTATION MOTOR 3  On",,Q86nL6
+182812,"15/06/2016 12:01:26","-2:00","markw","Warning","WARNING INFEED BELT MINIM LOAD  On",,ur4m7q
+182813,"15/06/2016 12:01:26","-2:00","markw","Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,vaQAT9
+182814,"15/06/2016 12:01:40","-2:00","markw","Alarm","COVER OPEN 3  Off",,Ukos4I
+182815,"15/06/2016 12:01:40","-2:00","markw","Alarm","EMERGENCY  Off",,3HxmIf
+182816,"15/06/2016 12:01:40","-2:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,DpJ8t/
+182817,"15/06/2016 12:01:40","-2:00","markw","Alarm","ALARM ROTATION MOTOR  Off",,4LJKus
+182818,"15/06/2016 12:01:40","-2:00","markw","Alarm","ALARM ROTATION MOTOR 2  Off",,mqZAxE
+182819,"15/06/2016 12:01:40","-2:00","markw","Alarm","ALARM ROTATION MOTOR 3  Off",,0hn3cV
+182820,"15/06/2016 12:04:27","-2:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,4jNOTF
+182821,"15/06/2016 12:04:27","-2:00","markw","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,OAOdos
+182822,"15/06/2016 12:04:27","-2:00","markw","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment",,d72xxI
+182823,"15/06/2016 12:04:27","-2:00","markw","Alarm:","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment",,+YALmN
+182824,"15/06/2016 12:04:27","-2:00","markw","Alarm:","ALARM MISSING CONTAINERS ON THE LOADING BELT  Acknowledgment",,T8ZQo3
+182825,"15/06/2016 12:04:27","-2:00","markw","Alarm:","COVER OPEN 2  Acknowledgment",,2zim9u
+182826,"15/06/2016 12:04:27","-2:00","markw","Alarm:","ALARM ACCEPTED TRAY FULL  Acknowledgment",,tIz5Pt
+182827,"15/06/2016 12:04:27","-2:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,rf/3GQ
+182828,"15/06/2016 12:04:27","-2:00","markw","Alarm:","EMERGENCY  Acknowledgment",,BkraFl
+182829,"15/06/2016 12:04:27","-2:00","markw","Alarm:","COVER OPEN 3  Acknowledgment",,jC9qpK
+182830,"15/06/2016 12:04:27","-2:00","markw","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,XcGqkn
+182831,"15/06/2016 12:04:27","-2:00","markw","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,3jrGPw
+182832,"15/06/2016 12:04:27","-2:00","markw","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,4Iz+ES
+182833,"15/06/2016 12:04:46","-2:00","markw","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,RrSj8d
+182834,"15/06/2016 12:04:46","-2:00","markw","Alarm","ALARM TURRET MOTOR NOT READY  On",,rCN302
+182835,"15/06/2016 12:04:46","-2:00","markw","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,4OMtFT
+182836,"15/06/2016 12:04:46","-2:00","markw","Alarm","ALARM ROTATION MOTOR  On",,GT5QgA
+182837,"15/06/2016 12:04:46","-2:00","markw","Alarm","ALARM ROTATION MOTOR 2  On",,B76Jqt
+182838,"15/06/2016 12:04:46","-2:00","markw","Alarm","ALARM ROTATION MOTOR 3  On",,RAkwMi
+182839,"15/06/2016 12:04:46","-2:00","markw","Warning","WARNING UPS  On",,EYF8IQ
+182840,"15/06/2016 12:04:46","-2:00","markw","Warning","ALARM VACUUM SENSOR  On",,xqyfGn
+182841,"15/06/2016 12:04:49","-2:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,8+E3eI
+182842,"15/06/2016 12:04:49","-2:00","markw","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,te3SBz
+182843,"15/06/2016 12:04:49","-2:00","markw","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,Tc80ey
+182844,"15/06/2016 12:04:49","-2:00","markw","Alarm","EMERGENCY  On",,6XHhjf
+182845,"16/06/2016 11:22:39","-2:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,fbJnuA
+0,"16/06/2016 11:22:39","-2:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,NDQGQu
+182846,"16/06/2016 11:22:39","-2:00","System","Application","Change to operating mode 'online'.",,hrwuK6
+182847,"16/06/2016 11:22:39","-2:00","System","User administration","Password list imported successfully.",,fsSpbr
+0,"16/06/2016 11:22:40","-2:00","System","Logs","Log files closed.",,0TZ6wq
+"$RT_COUNT$",582,kk14ge,,,,,Rv2cwe

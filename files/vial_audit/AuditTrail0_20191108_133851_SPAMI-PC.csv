@@ -1,0 +1,456 @@
+"RecordID";"TimeStamp";"DeltaToUTC";"UserID";"ObjectID";"Description";"Comment";"Checksum"
+0;"08/11/2019 08:08:27";"+0:00";"System";"Application";"New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3";;3pea7P
+328697;"08/11/2019 08:08:27";"+0:00";"System";"Logs";"Exporting a log.";;PRUvKk
+328698;"08/11/2019 08:08:36";"+0:00";;"Recipe";"Loading recipe number 1 ( 10ml Production ) on the interface.";;cok0Le
+328699;"08/11/2019 08:08:36";"+0:00";;"Recipe";"Data trasfered to PLC";;G81xJu
+328700;"08/11/2019 08:08:36";"+0:00";;"Warning";"ALARM VACUUM SENSOR  On";;qGYjPM
+328701;"08/11/2019 08:08:36";"+0:00";;"Warning";"PVSI NOT READY  On";;jKFGZS
+328702;"08/11/2019 08:08:36";"+0:00";;"Warning";"PVSI AND WINCC PRODUCT DIFFERENT  On";;dBeHDZ
+328703;"08/11/2019 08:08:36";"+0:00";;"Warning";"PVSI NOT RUNNING   On";;9R6bum
+328704;"08/11/2019 08:08:36";"+0:00";;"Warning";"WARNING EMPTY PROGRAM ACTIVATED  On";;rSouay
+328705;"08/11/2019 08:08:36";"+0:00";;"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  On";;Ayx69M
+328706;"08/11/2019 08:08:36";"+0:00";;"Warning";"WARNING REJECTED TRAY 2 ALMOST FULL  On";;PDjCFc
+328707;"08/11/2019 08:08:36";"+0:00";;"Alarm";"EMERGENCY  On";;8nt8r0
+328708;"08/11/2019 08:08:36";"+0:00";;"Alarm";"ALARM PROFIBUS NODE 3 (ENCODER)  On";;fNsT2I
+328709;"08/11/2019 08:08:36";"+0:00";;"Alarm";"ALARM PROFIBUS NODE 4 (PC)  On";;jq1j1x
+328710;"08/11/2019 08:08:36";"+0:00";;"Alarm";"ALARM TURRET MOTOR NOT READY  On";;yYRsPb
+328711;"08/11/2019 08:08:36";"+0:00";;"Alarm";"ALARM HOMING NOT DONE TURRET MOTOR  On";;SHIbHq
+328712;"08/11/2019 08:08:36";"+0:00";;"Alarm";"ALARM INFEED BELT MOTOR  On";;RfLo5d
+328713;"08/11/2019 08:08:36";"+0:00";;"Alarm";"ALARM ROTATION MOTOR  On";;WLBGTA
+328714;"08/11/2019 08:08:36";"+0:00";;"Alarm";"ALARM ROTATION MOTOR 2  On";;5I4LLn
+328715;"08/11/2019 08:08:36";"+0:00";;"Alarm";"ALARM ROTATION MOTOR 3  On";;Dux9M6
+328716;"08/11/2019 08:08:36";"+0:00";;"Alarm";"ALARM MISSING COMUNICATION WITH INTERFACE  On";;eDOCja
+328717;"08/11/2019 08:08:36";"+0:00";;"Alarm";"WARNING MISSING LOGIN OPERATION  On";;EpsZfs
+328718;"08/11/2019 08:08:40";"+0:00";;"Alarm";"ALARM MISSING COMUNICATION WITH INTERFACE  Off";;xHVe03
+328719;"08/11/2019 08:08:53";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;Ra3nK9
+328720;"08/11/2019 08:09:09";"+0:00";"nadir";"Warning";"PVSI NOT RUNNING   Off";;vx1T7k
+328721;"08/11/2019 08:09:45";"+0:00";"nadir";"Warning";"KNAPP READY TO START  On";;F5NklF
+328722;"08/11/2019 08:10:24";"+0:00";"nadir";"Warning";"PVSI NOT RUNNING   On";;uAhdP/
+328723;"08/11/2019 08:10:39";"+0:00";"nadir";"User administration";"User logged off.";;iXSEVq
+328724;"08/11/2019 08:10:39";"+0:00";;"Tag: Cicli continui\UserLevel";"Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.";;LLkOBR
+328725;"08/11/2019 08:10:43";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;+yUDoi
+328726;"08/11/2019 08:10:45";"+0:00";"nadir";"Warning";"ALARM VACUUM SENSOR  Off";;ZRAihS
+328727;"08/11/2019 08:10:45";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;gVBofS
+328728;"08/11/2019 08:10:45";"+0:00";"nadir";"Warning";"PVSI AND WINCC PRODUCT DIFFERENT  Off";;iNSXRO
+328729;"08/11/2019 08:10:45";"+0:00";"nadir";"Alarm";"ALARM PROFIBUS NODE 3 (ENCODER)  Off";;qzxMPf
+328730;"08/11/2019 08:10:45";"+0:00";"nadir";"Alarm";"ALARM PROFIBUS NODE 4 (PC)  Off";;yTPQCd
+328731;"08/11/2019 08:10:45";"+0:00";"nadir";"Alarm";"ALARM TURRET MOTOR NOT READY  Off";;+dSK4x
+328732;"08/11/2019 08:10:45";"+0:00";"nadir";"Alarm";"ALARM HOMING NOT DONE TURRET MOTOR  Off";;rXFft3
+328733;"08/11/2019 08:10:45";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;IXArw/
+328734;"08/11/2019 08:10:45";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;sbIkxC
+328735;"08/11/2019 08:10:45";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;Tik2Ve
+328736;"08/11/2019 08:10:49";"+0:00";"nadir";"Warning";"PVSI NOT RUNNING   Off";;UNHW0A
+328737;"08/11/2019 08:10:49";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;O001PT
+328738;"08/11/2019 08:11:00";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;6Qiaso
+328739;"08/11/2019 08:11:00";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;/QVX6u
+328740;"08/11/2019 08:11:00";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;sq2NMw
+328741;"08/11/2019 08:14:01";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;L/VUxE
+328742;"08/11/2019 08:14:01";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;xAa0XL
+328743;"08/11/2019 08:14:01";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;pysdoL
+328744;"08/11/2019 08:14:01";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;j/WNbz
+328745;"08/11/2019 08:14:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;HKpaDB
+328746;"08/11/2019 08:14:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;F/WD1d
+328747;"08/11/2019 08:14:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;tt8WVx
+328748;"08/11/2019 08:14:04";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;6AZxF1
+328749;"08/11/2019 08:14:05";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;VC6hVv
+328750;"08/11/2019 08:14:06";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;38m33l
+328751;"08/11/2019 08:14:06";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;4svmCc
+328752;"08/11/2019 08:14:06";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;nT1Pez
+328753;"08/11/2019 08:14:06";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;dTC+ua
+328754;"08/11/2019 08:14:11";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;HTZSxX
+328755;"08/11/2019 08:14:13";"+0:00";"nadir";"Warning";"KNAPP READY TO START  Off";;Ng9w92
+328756;"08/11/2019 08:14:13";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  On";;vWJJoF
+328757;"08/11/2019 08:14:31";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;pIPT6l
+328758;"08/11/2019 08:14:31";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  On";;8wys0v
+328759;"08/11/2019 08:17:40";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  On";;FfjxNq
+328760;"08/11/2019 08:17:40";"+0:00";"nadir";"Warning";"KNAPP READY TO START  On";;3ykOxc
+328761;"08/11/2019 08:17:40";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  Off";;zvamPq
+328762;"08/11/2019 08:17:50";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;n3TKcu
+328763;"08/11/2019 08:18:24";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  Off";;NQsgvS
+328764;"08/11/2019 08:18:24";"+0:00";"nadir";"Warning";"KNAPP READY TO START  Off";;ggQZ9l
+328765;"08/11/2019 08:18:24";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  On";;sxvaqr
+328766;"08/11/2019 08:18:25";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;ox5rOV
+328767;"08/11/2019 08:18:25";"+0:00";"nadir";"Alarm:";"ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment";;P7v7fT
+328768;"08/11/2019 08:18:25";"+0:00";"nadir";"Alarm:";"ALARM PROFIBUS NODE 4 (PC)  Acknowledgment";;00e6h9
+328769;"08/11/2019 08:18:25";"+0:00";"nadir";"Alarm:";"ALARM TURRET MOTOR NOT READY  Acknowledgment";;M4mYe4
+328770;"08/11/2019 08:18:25";"+0:00";"nadir";"Alarm:";"ALARM HOMING NOT DONE TURRET MOTOR  Acknowledgment";;V0i+7a
+328771;"08/11/2019 08:18:25";"+0:00";"nadir";"Alarm:";"ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment";;NPaL6m
+328772;"08/11/2019 08:18:25";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;psCkl9
+328773;"08/11/2019 08:18:25";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;01CXiN
+328774;"08/11/2019 08:18:25";"+0:00";"nadir";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;SETmgj
+328775;"08/11/2019 08:18:25";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;6/wwVd
+328776;"08/11/2019 08:18:25";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;3dW/2G
+328777;"08/11/2019 08:18:25";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;cbF4on
+328778;"08/11/2019 08:18:28";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;ZTjJKo
+328779;"08/11/2019 08:18:28";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  On";;BWmWFx
+328780;"08/11/2019 08:21:37";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  On";;rhsdzP
+328781;"08/11/2019 08:21:37";"+0:00";"nadir";"Warning";"KNAPP READY TO START  On";;FRkm/U
+328782;"08/11/2019 08:21:37";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  Off";;qQge1s
+328783;"08/11/2019 08:31:14";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;au112G
+328784;"08/11/2019 08:35:11";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;eBndvc
+328785;"08/11/2019 08:35:11";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;rdnhWn
+328786;"08/11/2019 08:35:11";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;X6w3h4
+328787;"08/11/2019 08:35:11";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;Tai6DQ
+328788;"08/11/2019 08:35:11";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;QT9EPf
+328789;"08/11/2019 08:35:11";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;BWugZB
+328790;"08/11/2019 08:35:11";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;HuPejj
+328791;"08/11/2019 08:35:11";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;4MisYx
+328792;"08/11/2019 08:35:11";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;Oo9Mr5
+328793;"08/11/2019 08:35:15";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;sqRnVg
+328794;"08/11/2019 08:42:29";"+0:00";"nadir";"Alarm";"COVER OPEN 1  On";;qbvJWv
+328795;"08/11/2019 08:42:30";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;jR4nSe
+328796;"08/11/2019 08:42:32";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;elmB+k
+328797;"08/11/2019 08:42:32";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;e0djp4
+328798;"08/11/2019 08:42:32";"+0:00";"nadir";"Alarm";"COVER OPEN 1  Off";;fudBVV
+328799;"08/11/2019 08:42:32";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;boaXDf
+328800;"08/11/2019 08:42:32";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;5anL3Y
+328801;"08/11/2019 08:42:32";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;mffCI/
+328802;"08/11/2019 08:42:32";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;2D40jO
+328803;"08/11/2019 08:42:32";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;R3S+p8
+328804;"08/11/2019 08:42:32";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;WE2dFx
+328805;"08/11/2019 08:42:32";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;fQxNlS
+328806;"08/11/2019 08:54:01";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;/gdg4o
+328807;"08/11/2019 08:54:01";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;PHyjfs
+328808;"08/11/2019 08:54:01";"+0:00";"nadir";"Alarm";"COVER OPEN 3  On";;gyy8Gg
+328809;"08/11/2019 08:54:01";"+0:00";"nadir";"Alarm";"COVER OPEN 4  On";;BDJeUC
+328810;"08/11/2019 08:54:01";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;1KXKgx
+328811;"08/11/2019 08:54:01";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;pJxLE3
+328812;"08/11/2019 08:54:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;PvGv9E
+328813;"08/11/2019 08:54:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;AUWqpo
+328814;"08/11/2019 08:54:01";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;kAm1cG
+328815;"08/11/2019 08:54:06";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;tzAavf
+328816;"08/11/2019 08:55:57";"+0:00";"nadir";"Alarm";"COVER OPEN 1  On";;C3L9rv
+328817;"08/11/2019 08:56:10";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;gQJKw7
+328818;"08/11/2019 08:56:12";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;e8sa1Q
+328819;"08/11/2019 08:56:12";"+0:00";"nadir";"Alarm";"COVER OPEN 1  Off";;qVDqbe
+328820;"08/11/2019 08:56:12";"+0:00";"nadir";"Alarm";"COVER OPEN 3  Off";;rXfq48
+328821;"08/11/2019 08:56:12";"+0:00";"nadir";"Alarm";"COVER OPEN 4  Off";;ws0ZJp
+328822;"08/11/2019 08:56:12";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;6k0tGW
+328823;"08/11/2019 08:56:12";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;efaJQu
+328824;"08/11/2019 08:56:12";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;IfDT15
+328825;"08/11/2019 08:56:12";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;8OIvyt
+328826;"08/11/2019 08:56:12";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;zGPy6r
+328827;"08/11/2019 09:00:19";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;GPWmLV
+328828;"08/11/2019 09:00:19";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;2LWBij
+328829;"08/11/2019 09:00:19";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;P75h1e
+328830;"08/11/2019 09:00:19";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;gwB1/J
+328831;"08/11/2019 09:00:19";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;GOM7uY
+328832;"08/11/2019 09:00:19";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;/fL5CY
+328833;"08/11/2019 09:00:19";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;bXACDy
+328834;"08/11/2019 09:00:23";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;w4AJ4w
+328835;"08/11/2019 09:00:24";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;Vl/DFV
+328836;"08/11/2019 09:00:24";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;GD9Uc1
+328837;"08/11/2019 09:00:24";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;670Uai
+328838;"08/11/2019 09:00:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;A871pw
+328839;"08/11/2019 09:00:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;eId8m+
+328840;"08/11/2019 09:00:28";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;g5Ovov
+328841;"08/11/2019 09:00:29";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;lL0Uzu
+328842;"08/11/2019 09:00:29";"+0:00";"nadir";"Alarm:";"COVER OPEN 3  Acknowledgment";;NuOrBX
+328843;"08/11/2019 09:00:29";"+0:00";"nadir";"Alarm:";"COVER OPEN 4  Acknowledgment";;m7XTin
+328844;"08/11/2019 09:00:29";"+0:00";"nadir";"Alarm:";"COVER OPEN 1  Acknowledgment";;r00fBN
+328845;"08/11/2019 09:00:29";"+0:00";"nadir";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;lKMgXE
+328846;"08/11/2019 09:00:29";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;0Fz7+Y
+328847;"08/11/2019 09:00:29";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;4XXMKI
+328848;"08/11/2019 09:00:29";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;KTxx8B
+328849;"08/11/2019 09:00:29";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;MMpL6C
+328850;"08/11/2019 09:00:29";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;dQqLzi
+328851;"08/11/2019 09:00:38";"+0:00";"nadir";"Recipe";"Loading recipe number 8 ( 6ml Amber Production ) on the interface.";;Q0ItO/
+328852;"08/11/2019 09:00:38";"+0:00";"nadir";"Recipe";"Data trasfered to PLC";;qPrU/N
+328853;"08/11/2019 09:00:41";"+0:00";"nadir";"Warning";"PVSI NOT RUNNING   On";;vfxrS0
+328854;"08/11/2019 09:00:43";"+0:00";"nadir";"Warning";"PVSI AND WINCC PRODUCT DIFFERENT  On";;RwmLp1
+328855;"08/11/2019 09:00:43";"+0:00";"nadir";"Warning";"PVSI AND WINCC PRODUCT DIFFERENT  Off";;TcJmXk
+328856;"08/11/2019 09:00:44";"+0:00";"nadir";"Warning";"PVSI NOT RUNNING   Off";;2g9gg8
+328857;"08/11/2019 09:00:52";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  Off";;G+9D1A
+328858;"08/11/2019 09:00:52";"+0:00";"nadir";"Warning";"KNAPP READY TO START  Off";;Do6joM
+328859;"08/11/2019 09:00:52";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  On";;8sIA9+
+328860;"08/11/2019 09:01:01";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;sGGbOv
+328861;"08/11/2019 09:01:01";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  On";;uKhfXq
+328862;"08/11/2019 09:03:39";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  On";;RUqmkw
+328863;"08/11/2019 09:03:39";"+0:00";"nadir";"Warning";"KNAPP READY TO START  On";;aYfS4E
+328864;"08/11/2019 09:03:39";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  Off";;vqkd0/
+328865;"08/11/2019 09:03:56";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;iH5SXd
+328866;"08/11/2019 09:13:34";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;neEVYF
+328867;"08/11/2019 09:16:31";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;sPENGg
+328868;"08/11/2019 09:16:31";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;/CadtU
+328869;"08/11/2019 09:16:31";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;YZSQM2
+328870;"08/11/2019 09:16:31";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;McypGC
+328871;"08/11/2019 09:16:31";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;Uy0Lfv
+328872;"08/11/2019 09:16:31";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;tZt8gf
+328873;"08/11/2019 09:16:31";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;sc/JcR
+328874;"08/11/2019 09:16:33";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;V9pVMe
+328875;"08/11/2019 09:16:34";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;O+31P/
+328876;"08/11/2019 09:16:34";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;aYDSuu
+328877;"08/11/2019 09:16:35";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;TYxMhp
+328878;"08/11/2019 09:16:35";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;bZFpeM
+328879;"08/11/2019 09:16:35";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;PqJx67
+328880;"08/11/2019 09:16:35";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;I6KOpH
+328881;"08/11/2019 09:16:35";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;170/LX
+328882;"08/11/2019 09:16:39";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;OcimOH
+328883;"08/11/2019 09:16:39";"+0:00";"nadir";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;Ul5G8K
+328884;"08/11/2019 09:16:39";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;S3CEfb
+328885;"08/11/2019 09:16:39";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;+e7FP0
+328886;"08/11/2019 09:16:39";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;PcG8cs
+328887;"08/11/2019 09:16:39";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;5ecBs5
+328888;"08/11/2019 09:16:39";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;wW6OTn
+328889;"08/11/2019 09:16:43";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  Off";;seCFdF
+328890;"08/11/2019 09:16:43";"+0:00";"nadir";"Warning";"KNAPP READY TO START  Off";;bzDdkq
+328891;"08/11/2019 09:16:43";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  On";;FXBk79
+328892;"08/11/2019 09:16:52";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;4qKcXd
+328893;"08/11/2019 09:16:52";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  On";;OCBFsE
+328894;"08/11/2019 09:19:29";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  On";;wiohGb
+328895;"08/11/2019 09:19:29";"+0:00";"nadir";"Warning";"KNAPP READY TO START  On";;F5iZFj
+328896;"08/11/2019 09:19:29";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  Off";;C2NE3R
+328897;"08/11/2019 09:19:51";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;DN24LQ
+328898;"08/11/2019 09:20:39";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;6yhcrj
+328899;"08/11/2019 09:23:36";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;BPq2ZI
+328900;"08/11/2019 09:23:36";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;BGmxJe
+328901;"08/11/2019 09:23:36";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;3gxiXJ
+328902;"08/11/2019 09:23:36";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;3Q374D
+328903;"08/11/2019 09:23:36";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;uzl4go
+328904;"08/11/2019 09:23:36";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;hDxdzk
+328905;"08/11/2019 09:23:36";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;uhVwSx
+328906;"08/11/2019 09:23:38";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;JtWGCk
+328907;"08/11/2019 09:23:39";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;PNSKvF
+328908;"08/11/2019 09:23:39";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;P3wsTs
+328909;"08/11/2019 09:23:40";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;aQCHLE
+328910;"08/11/2019 09:23:40";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;xCXiRb
+328911;"08/11/2019 09:23:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;90F2Zu
+328912;"08/11/2019 09:23:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;gNRfk4
+328913;"08/11/2019 09:23:40";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;C1NaHq
+328914;"08/11/2019 09:23:42";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;6QEduh
+328915;"08/11/2019 09:23:42";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;IZ6mnd
+328916;"08/11/2019 09:23:42";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;FwgFJy
+328917;"08/11/2019 09:23:42";"+0:00";"nadir";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;L2r72r
+328918;"08/11/2019 09:23:42";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;DNQItW
+328919;"08/11/2019 09:23:42";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;Az81BY
+328920;"08/11/2019 09:23:42";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;R6xesc
+328921;"08/11/2019 09:23:43";"+0:00";"nadir";"Alarm: 2131";"Acknowledgment of alarm 2131 of PLC MCA200+LKD.";;dQYjlv
+328922;"08/11/2019 09:23:51";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  Off";;ymRO/q
+328923;"08/11/2019 09:23:51";"+0:00";"nadir";"Warning";"KNAPP READY TO START  Off";;GOvd97
+328924;"08/11/2019 09:23:51";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  On";;L9ddG6
+328925;"08/11/2019 09:24:00";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;1Zjy3C
+328926;"08/11/2019 09:24:00";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  On";;GXK1c+
+328927;"08/11/2019 09:26:37";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  On";;aiMlA3
+328928;"08/11/2019 09:26:37";"+0:00";"nadir";"Warning";"KNAPP READY TO START  On";;g2W1Md
+328929;"08/11/2019 09:26:37";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  Off";;U10ix3
+328930;"08/11/2019 09:26:43";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;hrDWNp
+328931;"08/11/2019 09:26:59";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;taAnWO
+328932;"08/11/2019 09:32:09";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;Q9VOgX
+328933;"08/11/2019 09:32:09";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;uG51cn
+328934;"08/11/2019 09:32:09";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;9pjRlL
+328935;"08/11/2019 09:32:09";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;WUI2Np
+328936;"08/11/2019 09:32:09";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;cCXd16
+328937;"08/11/2019 09:32:09";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;Q6Wgc1
+328938;"08/11/2019 09:32:09";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;wXTKqC
+328939;"08/11/2019 09:32:12";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;6W3XKK
+328940;"08/11/2019 09:32:13";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;xK142e
+328941;"08/11/2019 09:32:13";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;A8zwXO
+328942;"08/11/2019 09:32:14";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;A0dOAL
+328943;"08/11/2019 09:32:14";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;bh6oEh
+328944;"08/11/2019 09:32:14";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;4i+sMA
+328945;"08/11/2019 09:32:14";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;EpdgSO
+328946;"08/11/2019 09:32:14";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;UjEGFM
+328947;"08/11/2019 09:32:14";"+0:00";"nadir";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;FHp9eg
+328948;"08/11/2019 09:32:14";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;cQR+m9
+328949;"08/11/2019 09:32:14";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;mZQvs1
+328950;"08/11/2019 09:32:14";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;uyl8wm
+328951;"08/11/2019 09:32:14";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;7LKOWx
+328952;"08/11/2019 09:32:14";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;BpFYay
+328953;"08/11/2019 09:32:14";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;35ldbi
+328954;"08/11/2019 09:32:33";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  Off";;rQwF1E
+328955;"08/11/2019 09:32:33";"+0:00";"nadir";"Warning";"KNAPP READY TO START  Off";;ZedulP
+328956;"08/11/2019 09:32:33";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  On";;ifhdU9
+328957;"08/11/2019 09:32:42";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;T0/dZj
+328958;"08/11/2019 09:32:42";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  On";;5Nmt1f
+328959;"08/11/2019 09:35:20";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  On";;YKd1J7
+328960;"08/11/2019 09:35:20";"+0:00";"nadir";"Warning";"KNAPP READY TO START  On";;2FfXP8
+328961;"08/11/2019 09:35:20";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  Off";;q/eWTW
+328962;"08/11/2019 09:35:39";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;62osfS
+328963;"08/11/2019 09:37:14";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;rjS/aN
+328964;"08/11/2019 09:40:11";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;ApkLnC
+328965;"08/11/2019 09:40:11";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;NkcBEG
+328966;"08/11/2019 09:40:11";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;pmQZSG
+328967;"08/11/2019 09:40:15";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;jjnJN4
+328968;"08/11/2019 09:40:16";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;dikRWR
+328969;"08/11/2019 09:40:24";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  Off";;Nmp/Eu
+328970;"08/11/2019 09:40:24";"+0:00";"nadir";"Warning";"KNAPP READY TO START  Off";;K7VvuP
+328971;"08/11/2019 09:40:24";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  On";;8tOiR3
+328972;"08/11/2019 09:40:32";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;aJlDbU
+328973;"08/11/2019 09:40:32";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  On";;1G2kz2
+328974;"08/11/2019 09:43:10";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  On";;h25LLb
+328975;"08/11/2019 09:43:10";"+0:00";"nadir";"Warning";"KNAPP READY TO START  On";;JJz7E9
+328976;"08/11/2019 09:43:10";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  Off";;TFEUv8
+328977;"08/11/2019 09:43:14";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;wWGJWz
+328978;"08/11/2019 09:43:59";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;OTdm1u
+328979;"08/11/2019 09:46:59";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;fBOJ38
+328980;"08/11/2019 09:46:59";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;fnQvIF
+328981;"08/11/2019 09:46:59";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;TKN3Ox
+328982;"08/11/2019 09:46:59";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;7KDjgw
+328983;"08/11/2019 09:46:59";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;h16CVR
+328984;"08/11/2019 09:46:59";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;yTu347
+328985;"08/11/2019 09:46:59";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;LwXOtK
+328986;"08/11/2019 09:47:02";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;8wX2Vv
+328987;"08/11/2019 09:47:09";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;vRO+jb
+328988;"08/11/2019 09:47:09";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;kruauG
+328989;"08/11/2019 09:47:09";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;+ZPe7U
+328990;"08/11/2019 09:47:09";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;YJesJK
+328991;"08/11/2019 09:47:11";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;/J/U45
+328992;"08/11/2019 09:47:11";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;eTNgYv
+328993;"08/11/2019 09:47:11";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;/vHElx
+328994;"08/11/2019 09:47:12";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  Off";;TmPHoR
+328995;"08/11/2019 09:47:12";"+0:00";"nadir";"Warning";"KNAPP READY TO START  Off";;glmHLx
+328996;"08/11/2019 09:47:12";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  On";;PJm5pj
+328997;"08/11/2019 09:47:22";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;MwFVGe
+328998;"08/11/2019 09:47:22";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  On";;HOikpX
+328999;"08/11/2019 09:49:59";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  On";;qz5q4u
+329000;"08/11/2019 09:49:59";"+0:00";"nadir";"Warning";"KNAPP READY TO START  On";;Ccc6ah
+329001;"08/11/2019 09:49:59";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  Off";;RsK0X4
+329002;"08/11/2019 09:50:14";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;KL+SQO
+329003;"08/11/2019 09:51:35";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;s6cycq
+329004;"08/11/2019 09:55:16";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;Q+hUod
+329005;"08/11/2019 09:55:16";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;33ewY+
+329006;"08/11/2019 09:55:16";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;4KpLCr
+329007;"08/11/2019 09:55:16";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;3bJsTs
+329008;"08/11/2019 09:55:17";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;yUgAT+
+329009;"08/11/2019 09:55:17";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;oOxxr+
+329010;"08/11/2019 09:55:17";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;UhWFGI
+329011;"08/11/2019 09:55:20";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;zXxUtM
+329012;"08/11/2019 09:55:24";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;67N5ka
+329013;"08/11/2019 09:55:24";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;YFxOHB
+329014;"08/11/2019 09:55:24";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;gxlKGa
+329015;"08/11/2019 09:55:24";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;hFdPCL
+329016;"08/11/2019 09:55:26";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;IkcKh9
+329017;"08/11/2019 09:55:26";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;BlhLX1
+329018;"08/11/2019 09:55:26";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;vlz1fs
+329019;"08/11/2019 09:55:27";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;Agm9mv
+329020;"08/11/2019 09:55:27";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;f+64pS
+329021;"08/11/2019 09:55:27";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;dZJQS1
+329022;"08/11/2019 09:55:27";"+0:00";"nadir";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;6Ikqhf
+329023;"08/11/2019 09:55:27";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;kmgxWG
+329024;"08/11/2019 09:55:27";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;uZ2px/
+329025;"08/11/2019 09:55:27";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;E7OSiM
+329026;"08/11/2019 09:55:29";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  Off";;Ogvwlx
+329027;"08/11/2019 09:55:29";"+0:00";"nadir";"Warning";"KNAPP READY TO START  Off";;pbuJYI
+329028;"08/11/2019 09:55:29";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  On";;0RxEQy
+329029;"08/11/2019 09:55:38";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;5vlmjr
+329030;"08/11/2019 09:55:38";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  On";;8Ds1p3
+329031;"08/11/2019 09:58:15";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  On";;RZBgRb
+329032;"08/11/2019 09:58:15";"+0:00";"nadir";"Warning";"KNAPP READY TO START  On";;3Ne4aO
+329033;"08/11/2019 09:58:15";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  Off";;GSeDGl
+329034;"08/11/2019 09:58:23";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;J8xi3I
+329035;"08/11/2019 09:58:44";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;PyrwE3
+329036;"08/11/2019 10:02:33";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;HL8c45
+329037;"08/11/2019 10:02:33";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;5h84d7
+329038;"08/11/2019 10:02:33";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;J2jxS8
+329039;"08/11/2019 10:02:33";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;N/np72
+329040;"08/11/2019 10:02:33";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;Ac6E0m
+329041;"08/11/2019 10:02:33";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;t3wa6u
+329042;"08/11/2019 10:02:33";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;G5UX0/
+329043;"08/11/2019 10:02:36";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;GgMAbr
+329044;"08/11/2019 10:02:37";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;UnXViP
+329045;"08/11/2019 10:02:37";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;Z/tT3a
+329046;"08/11/2019 10:02:38";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;QQMbNC
+329047;"08/11/2019 10:02:38";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;MHrLjK
+329048;"08/11/2019 10:02:38";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;GcaFf+
+329049;"08/11/2019 10:02:38";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;2lXVA5
+329050;"08/11/2019 10:02:38";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;Qv8ExF
+329051;"08/11/2019 10:02:38";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;Vi1Uhf
+329052;"08/11/2019 10:02:38";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;WfPY4O
+329053;"08/11/2019 10:02:38";"+0:00";"nadir";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;Zv4Biy
+329054;"08/11/2019 10:02:38";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;6XsrR2
+329055;"08/11/2019 10:02:38";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;GtSD2C
+329056;"08/11/2019 10:02:38";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;Q3yDsX
+329057;"08/11/2019 10:02:38";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;VSFXWM
+329058;"08/11/2019 10:02:48";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  Off";;QJCr6p
+329059;"08/11/2019 10:02:48";"+0:00";"nadir";"Warning";"KNAPP READY TO START  Off";;P6iGKi
+329060;"08/11/2019 10:02:48";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  On";;w1zmHU
+329061;"08/11/2019 10:02:58";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;5XENES
+329062;"08/11/2019 10:02:58";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  On";;8WrA+A
+329063;"08/11/2019 10:05:36";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  On";;1ul6lK
+329064;"08/11/2019 10:05:36";"+0:00";"nadir";"Warning";"KNAPP READY TO START  On";;0TqgCQ
+329065;"08/11/2019 10:05:36";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  Off";;21lYf6
+329066;"08/11/2019 10:05:47";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;z6cPem
+329067;"08/11/2019 10:06:05";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;LUbg+v
+329068;"08/11/2019 10:08:53";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;ZhfCq1
+329069;"08/11/2019 10:08:53";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;YZuWjB
+329070;"08/11/2019 10:08:53";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;vQLSJy
+329071;"08/11/2019 10:08:56";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;H7vVl2
+329072;"08/11/2019 10:08:57";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;bgDoBL
+329073;"08/11/2019 10:09:03";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  Off";;PNNgEQ
+329074;"08/11/2019 10:09:03";"+0:00";"nadir";"Warning";"KNAPP READY TO START  Off";;hk7shW
+329075;"08/11/2019 10:09:03";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  On";;S/1f/v
+329076;"08/11/2019 10:09:12";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;RnCXZd
+329077;"08/11/2019 10:09:12";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  On";;cKCkkR
+329078;"08/11/2019 10:11:49";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  On";;/CGmjq
+329079;"08/11/2019 10:11:49";"+0:00";"nadir";"Warning";"KNAPP READY TO START  On";;Ztl/Vz
+329080;"08/11/2019 10:11:49";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  Off";;SfcG4b
+329081;"08/11/2019 10:11:54";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;ZFilyj
+329082;"08/11/2019 10:12:12";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;ZTBADQ
+329083;"08/11/2019 10:15:03";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;Oam3pL
+329084;"08/11/2019 10:15:03";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;JnidQC
+329085;"08/11/2019 10:15:03";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;Jh1IXL
+329086;"08/11/2019 10:15:03";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;wE6NX5
+329087;"08/11/2019 10:15:03";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;rNBTjR
+329088;"08/11/2019 10:15:03";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;XsgLLL
+329089;"08/11/2019 10:15:03";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;TBFr04
+329090;"08/11/2019 10:15:05";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;qDeIrb
+329091;"08/11/2019 10:15:06";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;dXSqTu
+329092;"08/11/2019 10:15:06";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;JtEjH6
+329093;"08/11/2019 10:15:06";"+0:00";"nadir";"Alarm";"EMERGENCY  Off";;oN+2ZY
+329094;"08/11/2019 10:15:06";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  Off";;rWqe4C
+329095;"08/11/2019 10:15:07";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  Off";;eUP6zH
+329096;"08/11/2019 10:15:07";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  Off";;VzYuAh
+329097;"08/11/2019 10:15:07";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  Off";;pMrHEw
+329098;"08/11/2019 10:15:12";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  Off";;ehNZZf
+329099;"08/11/2019 10:15:12";"+0:00";"nadir";"Warning";"KNAPP READY TO START  Off";;EuuKII
+329100;"08/11/2019 10:15:12";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  On";;HAqNg5
+329101;"08/11/2019 10:15:13";"+0:00";"nadir";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;yKhXM+
+329102;"08/11/2019 10:15:13";"+0:00";"nadir";"Alarm:";"EMERGENCY  Acknowledgment";;LtL7Hw
+329103;"08/11/2019 10:15:13";"+0:00";"nadir";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;852Wkm
+329104;"08/11/2019 10:15:13";"+0:00";"nadir";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;kMycND
+329105;"08/11/2019 10:15:13";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;nlTewx
+329106;"08/11/2019 10:15:13";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;1XnvtP
+329107;"08/11/2019 10:15:13";"+0:00";"nadir";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;1RjI4c
+329108;"08/11/2019 10:15:21";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;e/LxUj
+329109;"08/11/2019 10:15:21";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  On";;ctFjAa
+329110;"08/11/2019 10:17:59";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  On";;1RJfUx
+329111;"08/11/2019 10:17:59";"+0:00";"nadir";"Warning";"KNAPP READY TO START  On";;8DMW0U
+329112;"08/11/2019 10:17:59";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  Off";;j7XOCp
+329113;"08/11/2019 10:18:12";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;wb1ScE
+329114;"08/11/2019 10:18:33";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;z/2MZg
+329115;"08/11/2019 10:20:30";"+0:00";"nadir";"Warning";"PVSI NOT READY  Off";;1LVjQV
+329116;"08/11/2019 10:20:31";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;k/Jxno
+329117;"08/11/2019 10:20:31";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;UQpXqh
+329118;"08/11/2019 10:20:34";"+0:00";"System";"User administration";"User 'nadir' logged on with group 'Administrator'.";;INgAww
+329119;"08/11/2019 10:20:35";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;Uo/UoB
+329120;"08/11/2019 10:20:36";"+0:00";"nadir";"Alarm: 1135";"Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;ZCc24d
+329121;"08/11/2019 10:20:36";"+0:00";"nadir";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;2ID3qi
+329122;"08/11/2019 10:20:42";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  Off";;ML/Ask
+329123;"08/11/2019 10:20:42";"+0:00";"nadir";"Warning";"KNAPP READY TO START  Off";;1f6JgK
+329124;"08/11/2019 10:20:42";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  On";;TyHkaM
+329125;"08/11/2019 10:21:00";"+0:00";"nadir";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;p55W1n
+329126;"08/11/2019 10:21:00";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  On";;GYmQfi
+329127;"08/11/2019 10:23:38";"+0:00";"nadir";"Warning";"WARNING END KNAPP PROCESS  On";;fVmg7G
+329128;"08/11/2019 10:23:38";"+0:00";"nadir";"Warning";"KNAPP READY TO START  On";;Rtq4BP
+329129;"08/11/2019 10:23:38";"+0:00";"nadir";"Warning";"KNAPP IN PROGRESS  Off";;S4yTkW
+329130;"08/11/2019 10:23:52";"+0:00";"nadir";"Warning";"PVSI NOT READY  On";;dnTdti
+329131;"08/11/2019 10:26:37";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;xZ7kJp
+329132;"08/11/2019 11:10:45";"+0:00";"nadir";"Alarm";"ALARM PROFIBUS NODE 3 (ENCODER)  On";;mTZ2nk
+329133;"08/11/2019 11:10:45";"+0:00";"nadir";"Alarm";"ALARM TURRET MOTOR NOT READY  On";;Uc6K9x
+329134;"08/11/2019 11:10:45";"+0:00";"nadir";"Alarm";"ALARM HOMING NOT DONE TURRET MOTOR  On";;jkaAFd
+329135;"08/11/2019 11:10:45";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR  On";;VAmYi2
+329136;"08/11/2019 11:10:45";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 2  On";;vEKKLe
+329137;"08/11/2019 11:10:45";"+0:00";"nadir";"Alarm";"ALARM ROTATION MOTOR 3  On";;uqprhu
+329138;"08/11/2019 11:10:45";"+0:00";"nadir";"Warning";"WARNING UPS  On";;L/4zYr
+329139;"08/11/2019 11:10:50";"+0:00";"nadir";"Alarm";"ALARM INFEED BELT MOTOR  On";;Deq70w
+329140;"08/11/2019 11:10:50";"+0:00";"nadir";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;GmGoB4
+329141;"08/11/2019 11:10:50";"+0:00";"nadir";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;6c8RaH
+329142;"08/11/2019 11:10:50";"+0:00";"nadir";"Alarm";"EMERGENCY  On";;Yt7WwC
+329143;"08/11/2019 11:10:50";"+0:00";"nadir";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;rVTCCW
+329144;"08/11/2019 11:10:57";"+0:00";"System";"Application";"Shutdown application due to a power supply failure.";;9cLvzt
+0;"08/11/2019 11:10:57";"+0:00";"System";"Application";"Stopping program run of WinCC flexible RT 2008 SP3 on device SPAMI-PC.";;AsEuYt
+0;"08/11/2019 13:38:50";"+0:00";"System";"Application";"Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3";;7fR6M0
+329145;"08/11/2019 13:38:50";"+0:00";"System";"Application";"Change to operating mode 'online'.";;9aMVQy
+329146;"08/11/2019 13:38:50";"+0:00";"System";"User administration";"Password list imported successfully.";;8a+lsz
+0;"08/11/2019 13:38:51";"+0:00";"System";"Logs";"Log files closed.";;YPSw8i
+"$RT_COUNT$";455;WriK3w;;;;;K9PyMe

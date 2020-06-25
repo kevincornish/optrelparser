@@ -1,0 +1,86 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"14/05/2018 14:22:01","-1:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,mAKABx
+295577,"14/05/2018 14:22:01","-1:00","System","Logs","Exporting a log.",,q4CACY
+295578,"14/05/2018 14:22:10","-1:00",,"Recipe","Loading recipe number 3 ( 50ml Production ) on the interface.",,FEImmg
+295579,"14/05/2018 14:22:12","-1:00",,"Recipe","Data trasfered to PLC",,C24z0W
+295580,"14/05/2018 14:22:12","-1:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,WfowOa
+295581,"14/05/2018 14:22:12","-1:00",,"Alarm","ALARM ROTATION MOTOR  On",,N9LfE2
+295582,"14/05/2018 14:22:12","-1:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,HY4ZcF
+295583,"14/05/2018 14:22:12","-1:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,VjOHdz
+295584,"14/05/2018 14:22:12","-1:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,sgHB2B
+295585,"14/05/2018 14:22:12","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,o8OExN
+295586,"14/05/2018 14:22:12","-1:00",,"Warning","ALARM VACUUM SENSOR  On",,gnYETK
+295587,"14/05/2018 14:22:12","-1:00",,"Warning","PVSI NOT READY  On",,Y/RBNJ
+295588,"14/05/2018 14:22:12","-1:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,MEzIIv
+295589,"14/05/2018 14:22:12","-1:00",,"Warning","PVSI NOT RUNNING   On",,qnsq68
+295590,"14/05/2018 14:22:12","-1:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,BSN8u1
+295591,"14/05/2018 14:22:12","-1:00",,"Alarm","EMERGENCY  On",,TZAp7M
+295592,"14/05/2018 14:22:12","-1:00",,"Alarm","COVER OPEN 3  On",,M77Gox
+295593,"14/05/2018 14:22:12","-1:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,uPn4zs
+295594,"14/05/2018 14:22:12","-1:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,vLPkPv
+295595,"14/05/2018 14:22:15","-1:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,KVxO/A
+295596,"14/05/2018 14:23:02","-1:00","System","User administration","User 'markw' logged on with group 'Operator'.",,nz4Q/T
+295597,"14/05/2018 14:23:12","-1:00","markw","Warning","PVSI NOT RUNNING   Off",,F6GO6n
+295598,"14/05/2018 14:24:21","-1:00","markw","Warning","WARNING SAFETY DOORS EXCLUDED  On",,fpZGb9
+295599,"14/05/2018 14:25:38","-1:00","markw","Alarm","WARNING MISSING LOGIN OPERATION  Off",,pyPS9Q
+295600,"14/05/2018 14:25:38","-1:00","markw","Warning","ALARM VACUUM SENSOR  Off",,Txahuf
+295601,"14/05/2018 14:25:38","-1:00","markw","Warning","PVSI NOT READY  Off",,vN+jc/
+295602,"14/05/2018 14:25:38","-1:00","markw","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,Zx816h
+295603,"14/05/2018 14:25:38","-1:00","markw","Alarm","COVER OPEN 3  Off",,5Icgjl
+295604,"14/05/2018 14:25:38","-1:00","markw","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  Off",,5k6Ps4
+295605,"14/05/2018 14:25:38","-1:00","markw","Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,guwrMJ
+295606,"14/05/2018 14:25:38","-1:00","markw","Alarm","EMERGENCY  Off",,5VwpTo
+295607,"14/05/2018 14:25:38","-1:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,825Hcc
+295608,"14/05/2018 14:25:39","-1:00","markw","Alarm","ALARM ROTATION MOTOR 2  Off",,HLjuJ3
+295609,"14/05/2018 14:25:39","-1:00","markw","Alarm","ALARM ROTATION MOTOR 3  Off",,q7hQ3c
+295610,"14/05/2018 14:25:39","-1:00","markw","Alarm","ALARM ROTATION MOTOR  Off",,TEALcP
+295611,"14/05/2018 14:26:53","-1:00","markw","Alarm","WARNING MISSING LOGIN OPERATION  On",,Oiya9e
+295612,"14/05/2018 14:26:53","-1:00","markw","Warning","ALARM VACUUM SENSOR  On",,A2D7dT
+295613,"14/05/2018 14:26:53","-1:00","markw","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,Qzsr9C
+295614,"14/05/2018 14:27:01","-1:00","System","User administration","User 'markw' logged on with group 'Operator'.",,gyqXwD
+295615,"14/05/2018 14:30:32","-1:00","markw","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,u50n9L
+295616,"14/05/2018 14:30:32","-1:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,i3gw/q
+295617,"14/05/2018 14:30:32","-1:00","markw","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,8dDLAC
+295618,"14/05/2018 14:30:32","-1:00","markw","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,OvLm/1
+295619,"14/05/2018 14:30:32","-1:00","markw","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,4BfqBg
+295620,"14/05/2018 14:30:32","-1:00","markw","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,tusvuQ
+295621,"14/05/2018 14:30:32","-1:00","markw","Alarm:","EMERGENCY  Acknowledgment",,zZIQ+0
+295622,"14/05/2018 14:30:32","-1:00","markw","Alarm:","COVER OPEN 3  Acknowledgment",,OKKnvd
+295623,"14/05/2018 14:30:32","-1:00","markw","Alarm:","ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment",,ZN4JuH
+295624,"14/05/2018 14:30:32","-1:00","markw","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,kC/XNL
+295625,"14/05/2018 14:30:32","-1:00","markw","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,gwdt2F
+295626,"14/05/2018 14:30:33","-1:00","markw","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ZHyJUt
+295627,"14/05/2018 14:30:33","-1:00","markw","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,2496FS
+295628,"14/05/2018 14:30:38","-1:00","markw","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,v2Rt7j
+295629,"14/05/2018 14:30:39","-1:00","markw","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,kJFIIj
+295630,"14/05/2018 14:30:39","-1:00","markw","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,RRoO1u
+295631,"14/05/2018 14:30:55","-1:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,toULE+
+295632,"14/05/2018 14:30:55","-1:00","markw","Alarm","EMERGENCY  On",,bXNbpg
+295633,"14/05/2018 14:30:55","-1:00","markw","Alarm","ALARM ROTATION MOTOR  On",,tAokqy
+295634,"14/05/2018 14:30:55","-1:00","markw","Alarm","ALARM ROTATION MOTOR 2  On",,7aRLCS
+295635,"14/05/2018 14:30:55","-1:00","markw","Alarm","ALARM ROTATION MOTOR 3  On",,NH/kcl
+295636,"14/05/2018 14:30:59","-1:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,xxT4+P
+295637,"14/05/2018 14:30:59","-1:00","markw","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,/pyzzz
+295638,"14/05/2018 14:30:59","-1:00","markw","Alarm:","EMERGENCY  Acknowledgment",,GqY958
+295639,"14/05/2018 14:30:59","-1:00","markw","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,uo4r/5
+295640,"14/05/2018 14:30:59","-1:00","markw","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,wlmyhP
+295641,"14/05/2018 14:30:59","-1:00","markw","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,TAc9u7
+295642,"14/05/2018 14:30:59","-1:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,TCXDfg
+295643,"14/05/2018 14:31:00","-1:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Vp8aIP
+295644,"14/05/2018 14:31:00","-1:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,NjeyLW
+295645,"14/05/2018 14:31:00","-1:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,EdEniM
+295646,"14/05/2018 14:31:00","-1:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,JXxkl0
+295647,"14/05/2018 14:31:00","-1:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Mor45m
+295648,"14/05/2018 14:34:04","-1:00","markw","User administration","User logged off.",,Gciiwu
+295649,"14/05/2018 14:34:04","-1:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,gjdKew
+295650,"14/05/2018 14:41:35","-1:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,LHqbQA
+295651,"14/05/2018 14:41:35","-1:00",,"Warning","WARNING UPS  On",,pIYRGo
+295652,"14/05/2018 14:41:41","-1:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Ly5+JJ
+295653,"14/05/2018 14:41:41","-1:00",,"Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,Vc5Q+6
+295654,"14/05/2018 14:41:41","-1:00",,"Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,6O+0In
+295655,"15/05/2018 08:30:30","-1:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,RyI+Am
+0,"15/05/2018 08:30:30","-1:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,Mu9rBG
+295656,"15/05/2018 08:30:30","-1:00","System","Application","Change to operating mode 'online'.",,sL3S6m
+295657,"15/05/2018 08:30:31","-1:00","System","User administration","Password list imported successfully.",,VCpr8V
+0,"15/05/2018 08:30:32","-1:00","System","Logs","Log files closed.",,sC3mXW
+"$RT_COUNT$",85,kk14ge,,,,,0BgxG/

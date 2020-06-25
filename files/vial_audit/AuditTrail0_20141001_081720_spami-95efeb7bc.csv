@@ -1,0 +1,544 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"01/10/2014 09:17:56","-2:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,vIGUU1
+84991,"01/10/2014 09:17:56","-2:00","System","Logs","Exporting a log.",,j0g9EI
+84992,"01/10/2014 09:18:09","-2:00",,"Recipe","Loading recipe number 3 ( Vials 100ml ) on the interface.",,CnUaQj
+84993,"01/10/2014 09:18:10","-2:00",,"Recipe","Data trasfered to PLC",,UaZmYk
+84994,"01/10/2014 09:18:10","-2:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,HsBIUO
+84995,"01/10/2014 09:18:10","-2:00",,"Alarm","ALARM ROTATION MOTOR  On",,r+Nelf
+84996,"01/10/2014 09:18:10","-2:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,ZdVbSI
+84997,"01/10/2014 09:18:10","-2:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,yjIJjc
+84998,"01/10/2014 09:18:10","-2:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,u+ZncW
+84999,"01/10/2014 09:18:10","-2:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,dMl0Kd
+85000,"01/10/2014 09:18:10","-2:00",,"Warning","ALARM VACUUM SENSOR  On",,wGh4aA
+85001,"01/10/2014 09:18:10","-2:00",,"Warning","WARNING ALL STATIONS DISABLED  On",,5wqzHa
+85002,"01/10/2014 09:18:10","-2:00",,"Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,FGcp0X
+85003,"01/10/2014 09:18:10","-2:00",,"Alarm","EMERGENCY  On",,c0Qn1z
+85004,"01/10/2014 09:18:10","-2:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,YTyNz8
+85005,"01/10/2014 09:18:10","-2:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,sRXni6
+85006,"01/10/2014 09:18:10","-2:00",,"Alarm","ALARM TURRET MOTOR NOT READY  On",,U4QVuH
+85007,"01/10/2014 09:18:10","-2:00",,"Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,9Qktci
+85008,"01/10/2014 09:18:14","-2:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,+/c7jg
+85009,"01/10/2014 09:32:47","-2:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  On",,lY51cg
+85010,"01/10/2014 09:53:00","-2:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  Off",,yjS24z
+85011,"01/10/2014 09:53:00","-2:00",,"Alarm","COVER OPEN 3  On",,/dH989
+85012,"01/10/2014 09:53:09","-2:00","System","User administration","User 'Admin' logged on with group 'Administrator'.",,Af4mPl
+85013,"01/10/2014 09:53:18","-2:00","Admin","Warning","WARNING INFEED BELT MINIM LOAD  On",,MiOUmh
+85014,"01/10/2014 09:53:55","-2:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  Off",,kTE3RA
+85015,"01/10/2014 09:53:55","-2:00","Admin","Warning","ALARM VACUUM SENSOR  Off",,9z+/tZ
+85016,"01/10/2014 09:53:55","-2:00","Admin","Alarm","COVER OPEN 3  Off",,38uLhk
+85017,"01/10/2014 09:53:55","-2:00","Admin","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  Off",,16QUgz
+85018,"01/10/2014 09:53:55","-2:00","Admin","Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,V85y8l
+85019,"01/10/2014 09:53:55","-2:00","Admin","Alarm","ALARM TURRET MOTOR NOT READY  Off",,o0NchI
+85020,"01/10/2014 09:53:55","-2:00","Admin","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  Off",,QhOr6j
+85021,"01/10/2014 09:54:06","-2:00","Admin","Alarm: 4","Acknowledgment of 4 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,0wtup+
+85022,"01/10/2014 09:54:06","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,b/Yxmv
+85023,"01/10/2014 09:54:06","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,gKcwOj
+85024,"01/10/2014 09:54:06","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,w/ltyV
+85025,"01/10/2014 09:54:06","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,1YWUs+
+85026,"01/10/2014 09:54:06","-2:00","Admin","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,ClxSHh
+85027,"01/10/2014 09:54:06","-2:00","Admin","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,hZYHyp
+85028,"01/10/2014 09:54:06","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,kvMGL5
+85029,"01/10/2014 09:54:06","-2:00","Admin","Alarm:","ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment",,9Zhw7q
+85030,"01/10/2014 09:54:06","-2:00","Admin","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,Qle2Ei
+85031,"01/10/2014 09:54:06","-2:00","Admin","Alarm:","ALARM TURRET MOTOR NOT READY  Acknowledgment",,ECCgUn
+85032,"01/10/2014 09:54:06","-2:00","Admin","Alarm:","ALARM HOMING NOT DONE TURRET MOTOR  Acknowledgment",,ct4tpQ
+85033,"01/10/2014 09:54:06","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,6pP/Dp
+85034,"01/10/2014 09:54:22","-2:00","Admin","Alarm","COVER OPEN 3  On",,RFxPiq
+85035,"01/10/2014 09:54:24","-2:00","Admin","Alarm","COVER OPEN 3  Off",,hIaK8b
+85036,"01/10/2014 09:54:25","-2:00","Admin","Alarm","EMERGENCY  Off",,I5pV0e
+85037,"01/10/2014 09:54:25","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,kijLQf
+85038,"01/10/2014 09:54:26","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,zXmRrp
+85039,"01/10/2014 09:54:26","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,bgF0Jv
+85040,"01/10/2014 09:54:26","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,/gwLgS
+85041,"01/10/2014 09:54:28","-2:00","Admin","Alarm: 4","Acknowledgment of 4 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,X+T60P
+85042,"01/10/2014 09:54:28","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,/Xmsvg
+85043,"01/10/2014 09:54:44","-2:00","Admin","Warning","WARNING INFEED BELT MINIM LOAD  Off",,7SuHPU
+85044,"01/10/2014 09:55:02","-2:00","Admin","Recipe","Data trasfered to PLC",,coyrVi
+85045,"01/10/2014 09:55:02","-2:00","Admin","Recipe","ST3: Status change to ON",,NE3iXZ
+85046,"01/10/2014 09:55:02","-2:00","Admin","Warning","WARNING ALL STATIONS DISABLED  Off",,y2zjkP
+85047,"01/10/2014 09:55:04","-2:00","Admin","Recipe","New data saved : ST3 change from OFF to ON",,muusTJ
+85048,"01/10/2014 09:55:09","-2:00","Admin","Warning","PVSI NOT READY  On",,d1ZnT5
+85049,"01/10/2014 09:55:28","-2:00","Admin","Warning","PVSI NOT READY  Off",,tb2FTy
+85050,"01/10/2014 09:55:52","-2:00","Admin","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,kPIfOP
+85051,"01/10/2014 09:55:57","-2:00","Admin","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,vBkfZ/
+85052,"01/10/2014 09:55:59","-2:00","Admin","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,zxmTB7
+85053,"01/10/2014 09:56:14","-2:00","Admin","Recipe","Data trasfered to PLC",,7OV5kQ
+85054,"01/10/2014 09:56:14","-2:00","Admin","Recipe","PIECES ON REJECT TRAY: Value change from 20 to 5",,Hg9pcr
+85055,"01/10/2014 09:56:14","-2:00","Admin","Recipe","New data saved : PIECES ON REJECT TRAY change from 20 to 5",,Pyuf4P
+85056,"01/10/2014 09:56:26","-2:00","Admin","Alarm","ALARM REJECTED TRAY 1 MISSING OR FULL  On",,+9lnIa
+85057,"01/10/2014 09:56:37","-2:00","Admin","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,ulJYiG
+85058,"01/10/2014 09:56:40","-2:00","Admin","Alarm","ALARM REJECTED TRAY 1 MISSING OR FULL  Off",,MZDu5H
+85059,"01/10/2014 09:56:42","-2:00","Admin","Alarm: 1061","Acknowledgment of 1061 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,20HHmJ
+85060,"01/10/2014 09:56:42","-2:00","Admin","Alarm:","ALARM REJECTED TRAY 1 MISSING OR FULL  Acknowledgment",,m5UVYn
+85061,"01/10/2014 09:57:13","-2:00","Admin","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,+pKbGy
+85062,"01/10/2014 09:57:29","-2:00","Admin","Warning","PVSI NOT READY  On",,RCs8tx
+85063,"01/10/2014 09:58:29","-2:00","Admin","Recipe","Data trasfered to PLC",,QZY/fO
+85064,"01/10/2014 09:58:29","-2:00","Admin","Recipe","ST1: Status change to ON",,p9LbF2
+85065,"01/10/2014 09:58:29","-2:00","Admin","Recipe","ST3: Status change to OFF",,MsBhmr
+85066,"01/10/2014 09:58:30","-2:00","Admin","Recipe","New data saved : ST1 change from OFF to ON",,tlY/FG
+85067,"01/10/2014 09:58:30","-2:00","Admin","Recipe","New data saved : ST3 change from ON to OFF",,FY53Nh
+85068,"01/10/2014 09:58:45","-2:00","Admin","Recipe","Data trasfered to PLC",,WWdtNY
+85069,"01/10/2014 09:58:45","-2:00","Admin","Recipe","PIECES ON GOOD TRAY: Value change from 50 to 25",,qwUQ6I
+85070,"01/10/2014 09:58:45","-2:00","Admin","Recipe","PIECES ON REJECT TRAY: Value change from 5 to 25",,S00auQ
+85071,"01/10/2014 09:58:45","-2:00","Admin","Recipe","PIECES ON REJECT TRAY 2: Value change from 20 to 5",,51cCBj
+85072,"01/10/2014 09:58:46","-2:00","Admin","Recipe","New data saved : PIECES ON GOOD TRAY change from 50 to 25",,Fy4rdr
+85073,"01/10/2014 09:58:46","-2:00","Admin","Recipe","New data saved : PIECES ON REJECT TRAY change from 5 to 25",,qHUgWD
+85074,"01/10/2014 09:58:46","-2:00","Admin","Recipe","New data saved : PIECES ON REJECT TRAY 2 change from 20 to 5",,8QK471
+85075,"01/10/2014 09:59:00","-2:00","Admin","Warning","PVSI NOT READY  Off",,Uo0HUA
+85076,"01/10/2014 09:59:23","-2:00","Admin","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,4imgJc
+85077,"01/10/2014 09:59:27","-2:00","Admin","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,9UVk2f
+85078,"01/10/2014 09:59:29","-2:00","Admin","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,x8M/8X
+85079,"01/10/2014 09:59:36","-2:00","Admin","Alarm","ALARM REJECTED TRAY 2 FULL  On",,Sk9Kj1
+85080,"01/10/2014 09:59:48","-2:00","Admin","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,SaaT4k
+85081,"01/10/2014 09:59:52","-2:00","Admin","Alarm","ALARM REJECTED TRAY 2 FULL  Off",,aJ3bip
+85082,"01/10/2014 09:59:53","-2:00","Admin","Alarm: 93","Acknowledgment of 93 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,D1yoxl
+85083,"01/10/2014 09:59:53","-2:00","Admin","Alarm:","ALARM REJECTED TRAY 2 FULL  Acknowledgment",,mhwkNi
+85084,"01/10/2014 10:00:11","-2:00","Admin","Recipe","Data trasfered to PLC",,pAAGxE
+85085,"01/10/2014 10:00:11","-2:00","Admin","Recipe","ST1: Status change to OFF",,CyIQUs
+85086,"01/10/2014 10:00:11","-2:00","Admin","Warning","WARNING ALL STATIONS DISABLED  On",,FgjSCz
+85087,"01/10/2014 10:00:13","-2:00","Admin","Recipe","New data saved : ST1 change from ON to OFF",,tkKuJ0
+85088,"01/10/2014 10:00:28","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,iIKLZp
+85089,"01/10/2014 10:00:28","-2:00","Admin","Alarm","EMERGENCY  On",,ixW2G+
+85090,"01/10/2014 10:00:29","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,M2slzn
+85091,"01/10/2014 10:00:29","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,1qhf6f
+85092,"01/10/2014 10:00:29","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,FEDLgq
+85093,"01/10/2014 10:00:51","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,9+MKUk
+85094,"01/10/2014 10:00:51","-2:00","Admin","Alarm","EMERGENCY  Off",,MrSJSF
+85095,"01/10/2014 10:00:52","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,uSHdSO
+85096,"01/10/2014 10:00:52","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,uu50es
+85097,"01/10/2014 10:00:52","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,67b8V2
+85098,"01/10/2014 10:01:07","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,uq9Oy0
+85099,"01/10/2014 10:01:07","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,YagqOS
+85100,"01/10/2014 10:01:07","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,pT0qhX
+85101,"01/10/2014 10:01:07","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,MkvZih
+85102,"01/10/2014 10:01:07","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,XDR3kd
+85103,"01/10/2014 10:01:07","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,y2jKLg
+85104,"01/10/2014 10:04:43","-2:00","Admin","Warning","WARNING INFEED BELT MINIM LOAD  On",,XFWkMv
+85105,"01/10/2014 10:08:04","-2:00","Admin","Warning","WARNING INFEED BELT MINIM LOAD  Off",,oWNtRV
+85106,"01/10/2014 10:08:09","-2:00","Admin","Warning","WARNING INFEED BELT MINIM LOAD  On",,pzIzoR
+85107,"01/10/2014 10:08:13","-2:00","Admin","Warning","WARNING INFEED BELT MINIM LOAD  Off",,93ORmW
+85108,"01/10/2014 10:09:08","-2:00","Admin","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,6zTGEx
+85109,"01/10/2014 10:10:09","-2:00","Admin","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,0U2UT5
+85110,"01/10/2014 10:10:10","-2:00","Admin","Alarm: 1049","Acknowledgment of 1049 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,QZ4hq2
+85111,"01/10/2014 10:10:10","-2:00","Admin","Alarm:","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Acknowledgment",,X6z7e0
+85112,"01/10/2014 10:10:30","-2:00","Admin","Alarm","ALARM NOT EXPECTED CONTAINER ON THE ACCEPTED CHANNEL  On",,eoKTQU
+85113,"01/10/2014 10:10:30","-2:00","Admin","Alarm","REMOVE VIAL MANUALLY  On",,JQhF1k
+85114,"01/10/2014 10:11:22","-2:00","Admin","Alarm","ALARM NOT EXPECTED CONTAINER ON THE ACCEPTED CHANNEL  Off",,tlp/Th
+85115,"01/10/2014 10:11:22","-2:00","Admin","Alarm","REMOVE VIAL MANUALLY  Off",,uYReiA
+85116,"01/10/2014 10:11:23","-2:00","Admin","Alarm: 1098","Acknowledgment of 1098 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,n9zhfN
+85117,"01/10/2014 10:11:23","-2:00","Admin","Alarm:","ALARM NOT EXPECTED CONTAINER ON THE ACCEPTED CHANNEL  Acknowledgment",,iAT6Ua
+85118,"01/10/2014 10:11:23","-2:00","Admin","Alarm:","REMOVE VIAL MANUALLY  Acknowledgment",,Yp/CgJ
+85119,"01/10/2014 10:11:32","-2:00","Admin","Recipe","Data trasfered to PLC",,Voqlwk
+85120,"01/10/2014 10:11:32","-2:00","Admin","Recipe","ST3: Status change to ON",,FYDukR
+85121,"01/10/2014 10:11:32","-2:00","Admin","Warning","WARNING ALL STATIONS DISABLED  Off",,QNnago
+85122,"01/10/2014 10:11:33","-2:00","Admin","Recipe","New data saved : ST3 change from OFF to ON",,O0YVXO
+85123,"01/10/2014 10:11:37","-2:00","Admin","Warning","PVSI NOT READY  On",,JPXkQR
+85124,"01/10/2014 10:12:00","-2:00","Admin","Warning","PVSI NOT READY  Off",,kAWc4V
+85125,"01/10/2014 10:12:39","-2:00","Admin","Alarm","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  On",,I6Q3ME
+85126,"01/10/2014 10:13:33","-2:00","Admin","Alarm","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  Off",,tauqCx
+85127,"01/10/2014 10:13:55","-2:00","Admin","Alarm","ALARM NOT EXPECTED CONTAINER IN REJECT 1 CHANNEL  On",,nUAp68
+85128,"01/10/2014 10:14:40","-2:00","Admin","Alarm","ALARM NOT EXPECTED CONTAINER IN REJECT 1 CHANNEL  Off",,8Nn6WK
+85129,"01/10/2014 10:14:44","-2:00","Admin","Warning","PVSI NOT READY  On",,/xt0bx
+85130,"01/10/2014 10:15:06","-2:00","Admin","Recipe","Data trasfered to PLC",,DEjYx9
+85131,"01/10/2014 10:15:06","-2:00","Admin","Recipe","ST1: Status change to ON",,QZgfBg
+85132,"01/10/2014 10:15:06","-2:00","Admin","Recipe","ST3: Status change to OFF",,zVqPo4
+85133,"01/10/2014 10:15:06","-2:00","Admin","Recipe","New data saved : ST1 change from OFF to ON",,NZVO13
+85134,"01/10/2014 10:15:06","-2:00","Admin","Recipe","New data saved : ST3 change from ON to OFF",,BGsYuk
+85135,"01/10/2014 10:15:17","-2:00","Admin","Alarm: 1052","Acknowledgment of 1052 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,uzuXqV
+85136,"01/10/2014 10:15:17","-2:00","Admin","Alarm:","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  Acknowledgment",,Vqn0wX
+85137,"01/10/2014 10:15:17","-2:00","Admin","Alarm:","ALARM NOT EXPECTED CONTAINER IN REJECT 1 CHANNEL  Acknowledgment",,PL8rcB
+85138,"01/10/2014 10:15:18","-2:00","Admin","Warning","PVSI NOT READY  Off",,8JX8Qj
+85139,"01/10/2014 10:15:55","-2:00","Admin","Alarm","ALARM MISSING CONTAINER IN REJECT 2 CHANNEL  On",,XwrFGn
+85140,"01/10/2014 10:16:55","-2:00","Admin","Alarm","ALARM MISSING CONTAINER IN REJECT 2 CHANNEL  Off",,Z8ZRg5
+85141,"01/10/2014 10:17:14","-2:00","Admin","Alarm","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  On",,HM86il
+85142,"01/10/2014 10:20:28","-2:00","Admin","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST1  On",,F3dxHF
+85143,"01/10/2014 10:20:28","-2:00","Admin","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST3  On",,B2yzq0
+85144,"01/10/2014 10:20:30","-2:00","Admin","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST1  Off",,2CVZap
+85145,"01/10/2014 10:20:30","-2:00","Admin","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST3  Off",,8CV+B8
+85146,"01/10/2014 10:20:30","-2:00","Admin","Alarm","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  Off",,nM/nGO
+85147,"01/10/2014 10:20:31","-2:00","Admin","Alarm: 1068","Acknowledgment of 1068 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,OY4aMd
+85148,"01/10/2014 10:20:31","-2:00","Admin","Alarm:","ALARM MISSING CONTAINER IN REJECT 2 CHANNEL  Acknowledgment",,wVokB8
+85149,"01/10/2014 10:20:31","-2:00","Admin","Alarm:","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  Acknowledgment",,50PLOr
+85150,"01/10/2014 10:20:31","-2:00","Admin","Alarm:","ALARM MAXIMUM CONSECUTIVE REJECTION ST1  Acknowledgment",,ilEEjr
+85151,"01/10/2014 10:20:31","-2:00","Admin","Alarm:","ALARM MAXIMUM CONSECUTIVE REJECTION ST3  Acknowledgment",,ipHnwc
+85152,"01/10/2014 10:20:50","-2:00","Admin","Recipe","Data trasfered to PLC",,2mVdL8
+85153,"01/10/2014 10:21:50","-2:00","Admin","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST1  On",,Xvec/K
+85154,"01/10/2014 10:21:57","-2:00","Admin","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST1  Off",,p3xnhg
+85155,"01/10/2014 10:22:49","-2:00","Admin","Recipe","Data trasfered to PLC",,HUIdWr
+85156,"01/10/2014 10:22:49","-2:00","Admin","Recipe","ST1: Status change to OFF",,/5Z5Xp
+85157,"01/10/2014 10:22:49","-2:00","Admin","Recipe","ST2: Status change to ON",,B/IftI
+85158,"01/10/2014 10:22:51","-2:00","Admin","Recipe","New data saved : ST1 change from ON to OFF",,doM/TW
+85159,"01/10/2014 10:22:51","-2:00","Admin","Recipe","New data saved : ST2 change from OFF to ON",,5bcp5o
+85160,"01/10/2014 10:24:23","-2:00","Admin","Alarm: 1066","Acknowledgment of 1066 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,FHDKb5
+85161,"01/10/2014 10:24:23","-2:00","Admin","Alarm:","ALARM MAXIMUM CONSECUTIVE REJECTION ST1  Acknowledgment",,KfUVMj
+85162,"01/10/2014 10:24:30","-2:00","Admin","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST2  On",,9dVFDv
+85163,"01/10/2014 10:24:36","-2:00","Admin","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST2  Off",,TTEYQy
+85164,"01/10/2014 10:25:05","-2:00","Admin","Alarm: 1067","Acknowledgment of 1067 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Abbbir
+85165,"01/10/2014 10:25:05","-2:00","Admin","Alarm:","ALARM MAXIMUM CONSECUTIVE REJECTION ST2  Acknowledgment",,BvOuLq
+85166,"01/10/2014 10:25:13","-2:00","Admin","Recipe","Data trasfered to PLC",,mmql3I
+85167,"01/10/2014 10:25:13","-2:00","Admin","Recipe","ST2: Status change to OFF",,liJCiK
+85168,"01/10/2014 10:25:13","-2:00","Admin","Recipe","ST3: Status change to ON",,1CnjOg
+85169,"01/10/2014 10:25:15","-2:00","Admin","Recipe","New data saved : ST2 change from ON to OFF",,Iseu5q
+85170,"01/10/2014 10:25:15","-2:00","Admin","Recipe","New data saved : ST3 change from OFF to ON",,bKSlbV
+85171,"01/10/2014 10:25:43","-2:00","Admin","Warning","PVSI NOT READY  On",,lNRPdD
+85172,"01/10/2014 10:25:59","-2:00","Admin","Warning","PVSI NOT READY  Off",,BTvFid
+85173,"01/10/2014 10:26:25","-2:00","Admin","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST3  On",,LRzexw
+85174,"01/10/2014 10:26:32","-2:00","Admin","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST3  Off",,5LxOH2
+85175,"01/10/2014 10:26:40","-2:00","Admin","Alarm: 1068","Acknowledgment of 1068 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,uQ9N1A
+85176,"01/10/2014 10:26:40","-2:00","Admin","Alarm:","ALARM MAXIMUM CONSECUTIVE REJECTION ST3  Acknowledgment",,a7Fii3
+85177,"01/10/2014 10:27:17","-2:00","Admin","Recipe","Data trasfered to PLC",,z9aVcD
+85178,"01/10/2014 10:27:17","-2:00","Admin","Recipe","ST3: Status change to OFF",,ja58cX
+85179,"01/10/2014 10:27:17","-2:00","Admin","Recipe","ST4: Status change to ON",,/X/SuQ
+85180,"01/10/2014 10:27:19","-2:00","Admin","Recipe","New data saved : ST3 change from ON to OFF",,Jo4hS3
+85181,"01/10/2014 10:27:19","-2:00","Admin","Recipe","New data saved : ST4 change from OFF to ON",,tEwFOP
+85182,"01/10/2014 10:27:24","-2:00","Admin","Warning","PVSI NOT READY  On",,QXoIsT
+85183,"01/10/2014 10:27:46","-2:00","Admin","Warning","PVSI NOT READY  Off",,RXVQim
+85184,"01/10/2014 10:28:51","-2:00","Admin","Recipe","Data trasfered to PLC",,B6kiD1
+85185,"01/10/2014 10:29:29","-2:00","Admin","Warning","PVSI NOT READY  On",,Oi0Yuq
+85186,"01/10/2014 10:30:55","-2:00","Admin","Warning","PVSI IN MANUAL MODE  On",,t48n5x
+85187,"01/10/2014 10:32:15","-2:00","Admin","Warning","PVSI NOT READY  Off",,M9qYfO
+85188,"01/10/2014 10:32:23","-2:00","Admin","Alarm","ALARM DATA VALID ERROR  On",,wcC2QB
+85189,"01/10/2014 10:32:27","-2:00","Admin","Alarm","ALARM DATA VALID ERROR  Off",,mxQwE0
+85190,"01/10/2014 10:32:27","-2:00","Admin","Warning","PVSI IN MANUAL MODE  Off",,vzRPYE
+85191,"01/10/2014 10:33:06","-2:00","Admin","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,syfjoF
+85192,"01/10/2014 10:33:35","-2:00","Admin","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,TLf0mv
+85193,"01/10/2014 10:34:17","-2:00","Admin","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST4  On",,iUFwv2
+85194,"01/10/2014 10:34:42","-2:00","Admin","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,L07hzE
+85195,"01/10/2014 10:35:11","-2:00","Admin","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,XxBM0N
+85196,"01/10/2014 10:35:21","-2:00","Admin","Warning","PVSI NOT READY  On",,5DBQPw
+85197,"01/10/2014 10:36:02","-2:00","Admin","Recipe","Data trasfered to PLC",,4MMP+I
+85198,"01/10/2014 10:36:02","-2:00","Admin","Recipe","ST4: Status change to OFF",,bAuYgI
+85199,"01/10/2014 10:36:02","-2:00","Admin","Recipe","ST5: Status change to ON",,RBpQIi
+85200,"01/10/2014 10:36:04","-2:00","Admin","Recipe","New data saved : ST4 change from ON to OFF",,VzuuaH
+85201,"01/10/2014 10:36:04","-2:00","Admin","Recipe","New data saved : ST5 change from OFF to ON",,NwHntu
+85202,"01/10/2014 10:36:16","-2:00","Admin","Recipe","Data trasfered to PLC",,gVFX65
+85203,"01/10/2014 10:36:16","-2:00","Admin","Recipe","ST5: Status change to OFF",,hj71Jc
+85204,"01/10/2014 10:36:16","-2:00","Admin","Warning","WARNING ALL STATIONS DISABLED  On",,VIjVX3
+85205,"01/10/2014 10:36:16","-2:00","Admin","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST4  Off",,XWu6hc
+85206,"01/10/2014 10:36:16","-2:00","Admin","Warning","PVSI NOT READY  Off",,UgTlwT
+85207,"01/10/2014 10:36:48","-2:00","Admin","Recipe","Data trasfered to PLC",,e9DHVm
+85208,"01/10/2014 10:36:48","-2:00","Admin","Recipe","ST5: Status change to ON",,7ThdNm
+85209,"01/10/2014 10:36:48","-2:00","Admin","Warning","WARNING ALL STATIONS DISABLED  Off",,BsfQua
+85210,"01/10/2014 10:36:50","-2:00","Admin","Alarm: 1069","Acknowledgment of 1069 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,CgblRd
+85211,"01/10/2014 10:36:50","-2:00","Admin","Alarm:","ALARM DATA VALID ERROR  Acknowledgment",,XBlSum
+85212,"01/10/2014 10:36:50","-2:00","Admin","Alarm:","ALARM MAXIMUM CONSECUTIVE REJECTION ST4  Acknowledgment",,flmGPJ
+85213,"01/10/2014 10:37:20","-2:00","Admin","Warning","PVSI NOT READY  On",,k486+/
+85214,"01/10/2014 10:38:05","-2:00","Admin","Warning","PVSI NOT READY  Off",,vipajO
+85215,"01/10/2014 10:38:22","-2:00","Admin","Warning","PVSI NOT READY  On",,SX4XEZ
+85216,"01/10/2014 10:39:08","-2:00","Admin","Alarm: 2110","Acknowledgment of alarm 2110 of PLC MCA200+LKD.",,rCKs/j
+85217,"01/10/2014 10:39:08","-2:00","Admin","Alarm: 2110","Acknowledgment of alarm 2110 of PLC MCA200+LKD.",,lKO4VV
+85218,"01/10/2014 10:39:12","-2:00","Admin","Warning","PVSI NOT READY  Off",,1wyi48
+85219,"01/10/2014 10:39:40","-2:00","Admin","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST5  On",,WuynHP
+85220,"01/10/2014 10:39:51","-2:00","Admin","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST5  Off",,STi8ar
+85221,"01/10/2014 10:40:32","-2:00","Admin","Recipe","Data trasfered to PLC",,Qpq0f+
+85222,"01/10/2014 10:40:32","-2:00","Admin","Recipe","ST1: Status change to ON",,9SRQF9
+85223,"01/10/2014 10:40:32","-2:00","Admin","Recipe","ST2: Status change to ON",,xVi6EP
+85224,"01/10/2014 10:40:32","-2:00","Admin","Recipe","ST3: Status change to ON",,bSI2w+
+85225,"01/10/2014 10:40:32","-2:00","Admin","Recipe","ST4: Status change to ON",,8Ts6ES
+85226,"01/10/2014 10:40:32","-2:00","Admin","Recipe","ST5: Status change to OFF",,ihbQYL
+85227,"01/10/2014 10:40:32","-2:00","Admin","Recipe","New data saved : ST1 change from OFF to ON",,G9EKHt
+85228,"01/10/2014 10:40:32","-2:00","Admin","Recipe","New data saved : ST2 change from OFF to ON",,D8F4U5
+85229,"01/10/2014 10:40:32","-2:00","Admin","Recipe","New data saved : ST3 change from OFF to ON",,tYfM5r
+85230,"01/10/2014 10:40:32","-2:00","Admin","Recipe","New data saved : ST4 change from OFF to ON",,lspCcQ
+85231,"01/10/2014 10:40:32","-2:00","Admin","Recipe","New data saved : ST5 change from ON to OFF",,7GCIVf
+85232,"01/10/2014 10:40:35","-2:00","Admin","Alarm: 1064","Acknowledgment of 1064 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,h1zvGn
+85233,"01/10/2014 10:40:35","-2:00","Admin","Alarm:","ALARM MAXIMUM CONSECUTIVE REJECTION ST5  Acknowledgment",,NgGPAu
+85234,"01/10/2014 10:40:57","-2:00","Admin","Warning","PVSI NOT READY  On",,BGaDAL
+85235,"01/10/2014 10:41:02","-2:00","Admin","Warning","PVSI NOT READY  Off",,oMHjEM
+85236,"01/10/2014 10:41:33","-2:00","Admin","Warning","PVSI NOT READY  On",,y9Wqde
+85237,"01/10/2014 10:42:17","-2:00","Admin","Warning","PVSI NOT READY  Off",,Teq8Jq
+85238,"01/10/2014 10:42:24","-2:00","Admin","Alarm","ALARM LOW LIGHT ST1  On",,qQSy6C
+85239,"01/10/2014 10:42:35","-2:00","Admin","Recipe","Data trasfered to PLC",,IZAra4
+85240,"01/10/2014 10:42:35","-2:00","Admin","Recipe","ST1: Status change to OFF",,MmkenO
+85241,"01/10/2014 10:42:36","-2:00","Admin","Recipe","New data saved : ST1 change from ON to OFF",,NTLcEW
+85242,"01/10/2014 10:42:37","-2:00","Admin","Alarm","ALARM LOW LIGHT ST1  Off",,XH9I0l
+85243,"01/10/2014 10:42:39","-2:00","Admin","Alarm: 45","Acknowledgment of 45 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Isx0CU
+85244,"01/10/2014 10:42:39","-2:00","Admin","Alarm:","ALARM LOW LIGHT ST1  Acknowledgment",,CUSRPM
+85245,"01/10/2014 10:43:17","-2:00","Admin","Warning","PVSI NOT READY  On",,ckAoG1
+85246,"01/10/2014 10:43:28","-2:00","Admin","Warning","PVSI NOT READY  Off",,AJjnYm
+85247,"01/10/2014 10:43:35","-2:00","Admin","Alarm","ALARM LOW LIGHT ST2  On",,30edm2
+85248,"01/10/2014 10:43:49","-2:00","Admin","Recipe","Data trasfered to PLC",,XRkcfT
+85249,"01/10/2014 10:43:49","-2:00","Admin","Recipe","ST2: Status change to OFF",,6gw8dq
+85250,"01/10/2014 10:43:50","-2:00","Admin","Recipe","New data saved : ST2 change from ON to OFF",,MxfxUU
+85251,"01/10/2014 10:43:51","-2:00","Admin","Alarm","ALARM LOW LIGHT ST2  Off",,gr/V87
+85252,"01/10/2014 10:44:01","-2:00","Admin","Alarm","ALARM LOW LIGHT ST3  On",,SKxEbn
+85253,"01/10/2014 10:44:09","-2:00","Admin","Alarm","ALARM LOW LIGHT ST3  Off",,viM0m7
+85254,"01/10/2014 10:44:10","-2:00","Admin","Alarm: 47","Acknowledgment of 47 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,prcqv8
+85255,"01/10/2014 10:44:10","-2:00","Admin","Alarm:","ALARM LOW LIGHT ST2  Acknowledgment",,M5GDam
+85256,"01/10/2014 10:44:10","-2:00","Admin","Alarm:","ALARM LOW LIGHT ST3  Acknowledgment",,+7P/U4
+85257,"01/10/2014 10:44:16","-2:00","Admin","Alarm","ALARM LOW LIGHT ST3  On",,Jn4dti
+85258,"01/10/2014 10:44:20","-2:00","Admin","Alarm","ALARM LOW LIGHT ST3  Off",,rs9A9w
+85259,"01/10/2014 10:44:29","-2:00","Admin","Alarm: 47","Acknowledgment of 47 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,b9KXUv
+85260,"01/10/2014 10:44:29","-2:00","Admin","Alarm:","ALARM LOW LIGHT ST3  Acknowledgment",,n/Kviq
+85261,"01/10/2014 10:44:34","-2:00","Admin","Alarm","ALARM LOW LIGHT ST4  On",,jINS2/
+85262,"01/10/2014 10:44:45","-2:00","Admin","Alarm","ALARM LOW LIGHT ST4  Off",,12BX6d
+85263,"01/10/2014 10:45:25","-2:00","Admin","Recipe","Data trasfered to PLC",,QWDoRB
+85264,"01/10/2014 10:45:25","-2:00","Admin","Recipe","ST5: Status change to ON",,sZF6Cx
+85265,"01/10/2014 10:45:26","-2:00","Admin","Recipe","New data saved : ST5 change from OFF to ON",,yuRKMY
+85266,"01/10/2014 10:45:35","-2:00","Admin","Alarm","ALARM LOW LIGHT ST5  On",,imnIDw
+85267,"01/10/2014 10:50:37","-2:00","Admin","Warning","PVSI NOT READY  On",,lpwU1R
+85268,"01/10/2014 10:51:58","-2:00","Admin","Recipe","Data trasfered to PLC",,jQ/mCL
+85269,"01/10/2014 10:51:58","-2:00","Admin","Recipe","ST1: Status change to ON",,FZJaAS
+85270,"01/10/2014 10:51:58","-2:00","Admin","Recipe","ST5: Status change to OFF",,NLyg12
+85271,"01/10/2014 10:52:00","-2:00","Admin","Recipe","New data saved : ST1 change from OFF to ON",,bzCAyN
+85272,"01/10/2014 10:52:00","-2:00","Admin","Recipe","New data saved : ST5 change from ON to OFF",,UasmFN
+85273,"01/10/2014 10:52:01","-2:00","Admin","Alarm","ALARM LOW LIGHT ST5  Off",,elNxUv
+85274,"01/10/2014 10:52:02","-2:00","Admin","Alarm: 1063","Acknowledgment of 1063 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,/6umT3
+85275,"01/10/2014 10:52:02","-2:00","Admin","Alarm:","ALARM LOW LIGHT ST4  Acknowledgment",,5sAgOU
+85276,"01/10/2014 10:52:02","-2:00","Admin","Alarm:","ALARM LOW LIGHT ST5  Acknowledgment",,+hVG10
+85277,"01/10/2014 10:52:07","-2:00","Admin","Warning","PVSI NOT READY  Off",,RGS8uQ
+85278,"01/10/2014 10:52:13","-2:00","Admin","Alarm","ALARM LOW LIGHT ST1  On",,FaioIY
+85279,"01/10/2014 10:52:18","-2:00","Admin","Alarm","ALARM LOW LIGHT ST1  Off",,LM9DyM
+85280,"01/10/2014 10:52:25","-2:00","Admin","Alarm","ALARM LOW LIGHT ST1  On",,8CNbxN
+85281,"01/10/2014 10:52:29","-2:00","Admin","Warning","PVSI NOT READY  On",,mb9VLG
+85282,"01/10/2014 10:52:54","-2:00","Admin","Warning","PVSI NOT READY  Off",,s7sTDa
+85283,"01/10/2014 10:52:54","-2:00","Admin","Alarm","ALARM LOW LIGHT ST1  Off",,5hOA2s
+85284,"01/10/2014 10:53:00","-2:00","Admin","Alarm","ALARM LOW LIGHT ST1  On",,ZdVYH9
+85285,"01/10/2014 10:53:02","-2:00","Admin","Alarm","ALARM LOW LIGHT ST1  Off",,/K1KXk
+85286,"01/10/2014 10:53:24","-2:00","Admin","Warning","PVSI NOT READY  On",,DP7unk
+85287,"01/10/2014 10:53:45","-2:00","Admin","Warning","PVSI NOT READY  Off",,bA75D6
+85288,"01/10/2014 10:54:07","-2:00","Admin","Warning","PVSI NOT READY  On",,zvgEqf
+85289,"01/10/2014 10:54:23","-2:00","Admin","Warning","PVSI NOT READY  Off",,Kz3PWN
+85290,"01/10/2014 10:54:27","-2:00","Admin","Warning","PVSI NOT RUNNING   On",,Swzjx+
+85291,"01/10/2014 10:54:30","-2:00","Admin","Alarm","ALARM DATA VALID ERROR  On",,8YqNLY
+85292,"01/10/2014 10:55:06","-2:00","Admin","User administration","User logged off.",,zLJE2d
+85293,"01/10/2014 10:55:06","-2:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,RT3Ssp
+85294,"01/10/2014 10:55:06","-2:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,byFrf+
+85295,"01/10/2014 10:55:11","-2:00","System","User administration","User 'Admin' logged on with group 'Administrator'.",,OmK7Ed
+85296,"01/10/2014 10:55:13","-2:00","Admin","Warning","PVSI NOT READY  On",,9Tfqfx
+85297,"01/10/2014 10:55:13","-2:00","Admin","Warning","PVSI NOT RUNNING   Off",,N7+OLp
+85298,"01/10/2014 10:55:16","-2:00","Admin","Warning","PVSI NOT RUNNING   On",,QWHdWs
+85299,"01/10/2014 10:55:19","-2:00","Admin","Warning","PVSI NOT RUNNING   Off",,M455x0
+85300,"01/10/2014 10:55:22","-2:00","Admin","Alarm","ALARM DATA VALID ERROR  Off",,e4uJSh
+85301,"01/10/2014 10:55:22","-2:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  Off",,wdsUI6
+85302,"01/10/2014 10:55:22","-2:00","Admin","Warning","PVSI NOT READY  Off",,mRAzLp
+85303,"01/10/2014 10:55:24","-2:00","Admin","Warning","PVSI NOT READY  On",,HGeJ9Z
+85304,"01/10/2014 10:56:20","-2:00","Admin","Recipe","Data trasfered to PLC",,F0+Hl7
+85305,"01/10/2014 10:56:20","-2:00","Admin","Recipe","ST4: Status change to OFF",,uCa+yR
+85306,"01/10/2014 10:56:21","-2:00","Admin","Recipe","New data saved : ST4 change from ON to OFF",,dir7Qr
+85307,"01/10/2014 10:56:22","-2:00","Admin","Warning","PVSI NOT READY  Off",,dJUjk6
+85308,"01/10/2014 10:56:24","-2:00","Admin","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,OBNH2f
+85309,"01/10/2014 10:56:24","-2:00","Admin","Alarm:","ALARM LOW LIGHT ST1  Acknowledgment",,Y/d3xE
+85310,"01/10/2014 10:56:24","-2:00","Admin","Alarm:","ALARM DATA VALID ERROR  Acknowledgment",,+Dp5y3
+85311,"01/10/2014 10:56:24","-2:00","Admin","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,YZLPYK
+85312,"01/10/2014 10:56:26","-2:00","Admin","Warning","PVSI NOT RUNNING   On",,MAjWEO
+85313,"01/10/2014 10:56:29","-2:00","Admin","Alarm","ALARM DATA VALID ERROR  On",,9FaHqW
+85314,"01/10/2014 10:56:32","-2:00","Admin","Alarm: 1033","Acknowledgment of 1033 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,PzOW6Z
+85315,"01/10/2014 10:56:32","-2:00","Admin","Alarm:","ALARM DATA VALID ERROR  Acknowledgment",,QxiVZO
+85316,"01/10/2014 10:56:33","-2:00","Admin","Warning","PVSI NOT RUNNING   Off",,NHPa+c
+85317,"01/10/2014 10:56:35","-2:00","Admin","Alarm","ALARM DATA VALID ERROR  Off",,otgkvw
+85318,"01/10/2014 10:56:39","-2:00","Admin","Warning","PVSI NOT RUNNING   On",,Z6XyY3
+85319,"01/10/2014 10:56:42","-2:00","Admin","Alarm","ALARM DATA VALID ERROR  On",,yxwrHB
+85320,"01/10/2014 10:56:47","-2:00","Admin","Warning","PVSI NOT RUNNING   Off",,06aP/x
+85321,"01/10/2014 10:56:58","-2:00","Admin","Warning","PVSI NOT READY  On",,5CQ6u/
+85322,"01/10/2014 10:59:14","-2:00","Admin","Alarm","ALARM DATA VALID ERROR  Off",,6ycYfn
+85323,"01/10/2014 10:59:14","-2:00","Admin","Warning","PVSI NOT READY  Off",,/4fbwu
+85324,"01/10/2014 10:59:14","-2:00","Admin","Alarm: 1033","Acknowledgment of 1033 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,4Uv4B2
+85325,"01/10/2014 10:59:14","-2:00","Admin","Alarm:","ALARM DATA VALID ERROR  Acknowledgment",,ByL2Lr
+85326,"01/10/2014 10:59:27","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,fMnnVT
+85327,"01/10/2014 10:59:27","-2:00","Admin","Alarm","EMERGENCY  On",,jzO1t+
+85328,"01/10/2014 10:59:27","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,xhH5mv
+85329,"01/10/2014 10:59:27","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,+WCohy
+85330,"01/10/2014 10:59:27","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,17VW0O
+85331,"01/10/2014 10:59:32","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,d1kig7
+85332,"01/10/2014 10:59:32","-2:00","Admin","Alarm","EMERGENCY  Off",,PxlyDE
+85333,"01/10/2014 10:59:33","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,c+hwPk
+85334,"01/10/2014 10:59:33","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,vVoO1Q
+85335,"01/10/2014 10:59:33","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,IF/LRw
+85336,"01/10/2014 10:59:34","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,2ET6jo
+85337,"01/10/2014 10:59:34","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,soa0Xj
+85338,"01/10/2014 10:59:34","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,I5ktJE
+85339,"01/10/2014 10:59:34","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,pqY9bp
+85340,"01/10/2014 10:59:34","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,Uj8FDn
+85341,"01/10/2014 10:59:34","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,yIPZ1r
+85342,"01/10/2014 10:59:46","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,2MW92z
+85343,"01/10/2014 10:59:46","-2:00","Admin","Alarm","EMERGENCY  On",,Gk2zli
+85344,"01/10/2014 10:59:47","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,xb63bE
+85345,"01/10/2014 10:59:47","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,zDiKI8
+85346,"01/10/2014 10:59:47","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,QAzeVl
+85347,"01/10/2014 11:00:19","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,2DRprw
+85348,"01/10/2014 11:00:19","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,+oiwkD
+85349,"01/10/2014 11:00:19","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,CAFld5
+85350,"01/10/2014 11:00:19","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,lm5VIt
+85351,"01/10/2014 11:00:19","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,ME43cR
+85352,"01/10/2014 11:00:19","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,LuQN/n
+85353,"01/10/2014 11:00:30","-2:00","Admin","Alarm","EMERGENCY  Off",,I8uQX6
+85354,"01/10/2014 11:00:30","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,Ap611G
+85355,"01/10/2014 11:00:31","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,EqVW1S
+85356,"01/10/2014 11:00:31","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,fyZchh
+85357,"01/10/2014 11:00:31","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,hvErGN
+85358,"01/10/2014 11:00:43","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,7+6jPi
+85359,"01/10/2014 11:00:43","-2:00","Admin","Alarm","EMERGENCY  On",,+pqTkC
+85360,"01/10/2014 11:00:43","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,VQ+D50
+85361,"01/10/2014 11:00:43","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,XjWzl+
+85362,"01/10/2014 11:00:43","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,7WHb+n
+85363,"01/10/2014 11:00:47","-2:00","Admin","Alarm","EMERGENCY  Off",,GJPxCR
+85364,"01/10/2014 11:00:48","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,WOwUa6
+85365,"01/10/2014 11:00:48","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,aIHyL0
+85366,"01/10/2014 11:00:48","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,waTeYR
+85367,"01/10/2014 11:00:48","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,itTVtL
+85368,"01/10/2014 11:00:50","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,po1Siz
+85369,"01/10/2014 11:00:50","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,e1aUzZ
+85370,"01/10/2014 11:00:50","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,685aTU
+85371,"01/10/2014 11:00:50","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,rhKqYB
+85372,"01/10/2014 11:00:50","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,Fk806H
+85373,"01/10/2014 11:00:50","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,uJTzPa
+85374,"01/10/2014 11:00:57","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,dcSlIi
+85375,"01/10/2014 11:00:57","-2:00","Admin","Alarm","EMERGENCY  On",,F5OVI9
+85376,"01/10/2014 11:00:57","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,xbd9bU
+85377,"01/10/2014 11:00:58","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,1n9n8b
+85378,"01/10/2014 11:00:58","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,+U1Q8H
+85379,"01/10/2014 11:01:03","-2:00","Admin","Alarm","EMERGENCY  Off",,rgoaVn
+85380,"01/10/2014 11:01:03","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,noigKP
+85381,"01/10/2014 11:01:04","-2:00","Admin","Alarm: 1023","Acknowledgment of 1023 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,n+Z3IL
+85382,"01/10/2014 11:01:04","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,0XSHIj
+85383,"01/10/2014 11:01:04","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,BNnA6Q
+85384,"01/10/2014 11:01:04","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,LGmRCL
+85385,"01/10/2014 11:01:04","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,LP2S2Z
+85386,"01/10/2014 11:01:04","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,rmIHcb
+85387,"01/10/2014 11:01:04","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,AGl5oZ
+85388,"01/10/2014 11:01:04","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,/BeaFJ
+85389,"01/10/2014 11:01:04","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,vgBaSy
+85390,"01/10/2014 11:01:34","-2:00","Admin","Alarm","COVER OPEN 1  On",,TUFHDB
+85391,"01/10/2014 11:01:34","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,vQqGPp
+85392,"01/10/2014 11:01:34","-2:00","Admin","Alarm","EMERGENCY  On",,NsEG3H
+85393,"01/10/2014 11:01:34","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,JD/5Dg
+85394,"01/10/2014 11:01:34","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,RxrcdO
+85395,"01/10/2014 11:01:34","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,yXCE87
+85396,"01/10/2014 11:02:42","-2:00","Admin","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,lpWR6E
+85397,"01/10/2014 11:02:42","-2:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,gHC4Qn
+85398,"01/10/2014 11:02:42","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,nw+kxV
+85399,"01/10/2014 11:02:42","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,Kq5Cxq
+85400,"01/10/2014 11:02:42","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,FezrVY
+85401,"01/10/2014 11:02:42","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,n2XThL
+85402,"01/10/2014 11:02:42","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,FbHbWf
+85403,"01/10/2014 11:02:57","-2:00","Admin","Alarm","COVER OPEN 2  On",,e2fIPR
+85404,"01/10/2014 11:03:14","-2:00","Admin","Alarm","COVER OPEN 4  On",,LLZDLa
+85405,"01/10/2014 11:03:16","-2:00","Admin","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,CNBWnW
+85406,"01/10/2014 11:03:16","-2:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,bsvDc9
+85407,"01/10/2014 11:03:16","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,Ymyrd2
+85408,"01/10/2014 11:03:18","-2:00","Admin","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,OGy4IO
+85409,"01/10/2014 11:03:19","-2:00","Admin","Alarm","COVER OPEN 1  Off",,SJ6ws8
+85410,"01/10/2014 11:03:19","-2:00","Admin","Alarm","COVER OPEN 2  Off",,xQbRtK
+85411,"01/10/2014 11:03:23","-2:00","Admin","Alarm","COVER OPEN 4  Off",,Lf3ds1
+85412,"01/10/2014 11:03:24","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,9K/SaC
+85413,"01/10/2014 11:03:24","-2:00","Admin","Alarm","EMERGENCY  Off",,vDIN8N
+85414,"01/10/2014 11:03:25","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,KU/9nx
+85415,"01/10/2014 11:03:25","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,CKH2Ea
+85416,"01/10/2014 11:03:25","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,B476lD
+85417,"01/10/2014 11:03:26","-2:00","Admin","Alarm","COVER OPEN 4  On",,7AheDM
+85418,"01/10/2014 11:03:27","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,WHv+Cp
+85419,"01/10/2014 11:03:27","-2:00","Admin","Alarm","EMERGENCY  On",,BNKX31
+85420,"01/10/2014 11:03:27","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,O7OAEY
+85421,"01/10/2014 11:03:27","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,g4ARis
+85422,"01/10/2014 11:03:27","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,fNF41S
+85423,"01/10/2014 11:03:37","-2:00","Admin","Alarm","COVER OPEN 3  On",,G4I9kq
+85424,"01/10/2014 11:03:43","-2:00","Admin","Alarm","COVER OPEN 4  Off",,P3biZb
+85425,"01/10/2014 11:03:46","-2:00","Admin","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Swu9oS
+85426,"01/10/2014 11:03:46","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,p+ueIZ
+85427,"01/10/2014 11:03:46","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,D2GmAn
+85428,"01/10/2014 11:03:46","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,5MhUDO
+85429,"01/10/2014 11:03:46","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,UQtVUB
+85430,"01/10/2014 11:03:46","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,/Jof3w
+85431,"01/10/2014 11:03:46","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,eBpWRE
+85432,"01/10/2014 11:03:46","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,WLGMKz
+85433,"01/10/2014 11:03:48","-2:00","Admin","Alarm","COVER OPEN 3  Off",,JRfGZ4
+85434,"01/10/2014 11:03:49","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,oB+Mtu
+85435,"01/10/2014 11:03:49","-2:00","Admin","Alarm","EMERGENCY  Off",,LYljEp
+85436,"01/10/2014 11:03:50","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,P2B6R7
+85437,"01/10/2014 11:03:50","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,efa0VY
+85438,"01/10/2014 11:03:50","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,N/HqoR
+85439,"01/10/2014 11:03:51","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,rZf6QE
+85440,"01/10/2014 11:03:51","-2:00","Admin","Alarm","EMERGENCY  On",,kx+F5/
+85441,"01/10/2014 11:03:51","-2:00","Admin","Alarm","COVER OPEN 3  On",,f0SCD3
+85442,"01/10/2014 11:03:51","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,2AGpD5
+85443,"01/10/2014 11:03:51","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,GtazG+
+85444,"01/10/2014 11:03:51","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,abpygd
+85445,"01/10/2014 11:04:11","-2:00","Admin","Alarm","COVER OPEN 3  Off",,KnqJMO
+85446,"01/10/2014 11:04:12","-2:00","Admin","Alarm","EMERGENCY  Off",,VFymJM
+85447,"01/10/2014 11:04:12","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,KKkhMB
+85448,"01/10/2014 11:04:13","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,EkeQ8v
+85449,"01/10/2014 11:04:13","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,nCwn6P
+85450,"01/10/2014 11:04:13","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,9Y0Jw/
+85451,"01/10/2014 11:04:13","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,7kR9dT
+85452,"01/10/2014 11:04:13","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,08MO17
+85453,"01/10/2014 11:04:13","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,rD39fw
+85454,"01/10/2014 11:04:13","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,Ux0RHm
+85455,"01/10/2014 11:04:13","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,xol+CQ
+85456,"01/10/2014 11:04:13","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,+PymCb
+85457,"01/10/2014 11:04:13","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,2mY0j0
+85458,"01/10/2014 11:04:14","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,c8Jycd
+85459,"01/10/2014 11:04:14","-2:00","Admin","Alarm","EMERGENCY  On",,ZN+Lz/
+85460,"01/10/2014 11:04:14","-2:00","Admin","Alarm","COVER OPEN 2  On",,BzDu5a
+85461,"01/10/2014 11:04:14","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,j+HXXw
+85462,"01/10/2014 11:04:14","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,+HpQXl
+85463,"01/10/2014 11:04:14","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,vJcVma
+85464,"01/10/2014 10:06:11","-2:00","Admin","Alarm","COVER OPEN 2  Off",,0ccDuK
+85465,"01/10/2014 10:06:11","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,niHV9X
+85466,"01/10/2014 10:06:11","-2:00","Admin","Alarm","EMERGENCY  Off",,D6T4g6
+85467,"01/10/2014 10:06:12","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,GdrJ/T
+85468,"01/10/2014 10:06:12","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,PwEF95
+85469,"01/10/2014 10:06:12","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,oqT966
+85470,"01/10/2014 10:06:15","-2:00","Admin","Warning","PVSI IN MANUAL MODE  On",,EaBEVe
+85471,"01/10/2014 10:06:25","-2:00","Admin","Warning","PVSI IN MANUAL MODE  Off",,iBXLPQ
+85472,"01/10/2014 10:06:54","-2:00","Admin","Warning","PVSI NOT RUNNING   On",,mgLJ6Y
+85473,"01/10/2014 10:06:55","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,hLn1Lq
+85474,"01/10/2014 10:06:55","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,O95Lju
+85475,"01/10/2014 10:06:55","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,ngekCP
+85476,"01/10/2014 10:06:55","-2:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,5bw4qT
+85477,"01/10/2014 10:06:55","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,tkI6tV
+85478,"01/10/2014 10:06:55","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,Fq03kQ
+85479,"01/10/2014 10:06:55","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,Gylkdp
+85480,"01/10/2014 10:07:02","-2:00","Admin","User administration","User logged off.",,zK9EeZ
+85481,"01/10/2014 10:07:02","-2:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,XzZtjo
+85482,"01/10/2014 10:07:02","-2:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,0TFV7S
+85483,"01/10/2014 10:07:06","-2:00","System","User administration","User 'Admin' logged on with group 'Administrator'.",,2FvH0d
+85484,"01/10/2014 10:07:08","-2:00","Admin","Warning","PVSI NOT READY  On",,zVemeD
+85485,"01/10/2014 10:07:13","-2:00","Admin","Warning","PVSI NOT RUNNING   Off",,JgOu3K
+85486,"01/10/2014 10:07:14","-2:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  Off",,wHXYdK
+85487,"01/10/2014 10:07:14","-2:00","Admin","Warning","PVSI NOT READY  Off",,ae53eS
+85488,"01/10/2014 10:08:02","-2:00","Admin","Warning","PVSI NOT READY  On",,6tmrte
+85489,"01/10/2014 10:08:20","-2:00","Admin","Warning","PVSI NOT READY  Off",,YN2N2E
+85490,"01/10/2014 10:09:29","-2:00","Admin","Warning","PVSI NOT RUNNING   On",,MzjvmV
+85491,"01/10/2014 10:09:31","-2:00","Admin","Warning","PVSI NOT RUNNING   Off",,FIe12X
+85492,"01/10/2014 10:09:36","-2:00","Admin","Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,NypsMJ
+85493,"01/10/2014 10:09:48","-2:00","Admin","Warning","PVSI NOT READY  On",,dCINm+
+85494,"01/10/2014 10:09:50","-2:00","Admin","Warning","PVSI NOT RUNNING   On",,Du+xqP
+85495,"01/10/2014 10:09:52","-2:00","Admin","Warning","PVSI NOT RUNNING   Off",,otpQF6
+85496,"01/10/2014 10:09:53","-2:00","Admin","Warning","PVSI NOT READY  Off",,KGubzc
+85497,"01/10/2014 10:09:53","-2:00","Admin","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,1W5YGE
+85498,"01/10/2014 10:11:47","-2:00","Admin","Recipe","Data trasfered to PLC",,AFkSr+
+85499,"01/10/2014 10:11:47","-2:00","Admin","Recipe","ST1: Status change to OFF",,oPRLJt
+85500,"01/10/2014 10:11:47","-2:00","Admin","Recipe","ST4: Status change to ON",,Huju0i
+85501,"01/10/2014 10:11:48","-2:00","Admin","Recipe","New data saved : ST1 change from ON to OFF",,GScB3e
+85502,"01/10/2014 10:11:48","-2:00","Admin","Recipe","New data saved : ST4 change from OFF to ON",,mtfoL5
+85503,"01/10/2014 10:13:58","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,WNwv/H
+85504,"01/10/2014 10:13:58","-2:00","Admin","Alarm","EMERGENCY  On",,GLf3FW
+85505,"01/10/2014 10:13:58","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,P/LQri
+85506,"01/10/2014 10:13:58","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,SCK0gV
+85507,"01/10/2014 10:13:58","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,UPo9Ok
+85508,"01/10/2014 10:13:59","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,aXCi3K
+85509,"01/10/2014 10:13:59","-2:00","Admin","Alarm","EMERGENCY  Off",,e/NIR/
+85510,"01/10/2014 10:14:00","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,mokQoy
+85511,"01/10/2014 10:14:00","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,443jzi
+85512,"01/10/2014 10:14:00","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,p1Prma
+85513,"01/10/2014 10:14:31","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,iBwPYO
+85514,"01/10/2014 10:14:31","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,ZQWvnQ
+85515,"01/10/2014 10:14:31","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,hSWPJj
+85516,"01/10/2014 10:14:31","-2:00","Admin","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,0p0Omm
+85517,"01/10/2014 10:14:31","-2:00","Admin","Alarm","ALARM TURRET MOTOR NOT READY  On",,ArGr+f
+85518,"01/10/2014 10:14:31","-2:00","Admin","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,b8+WwX
+85519,"01/10/2014 10:14:31","-2:00","Admin","Warning","WARNING UPS  On",,PzxIVQ
+85520,"01/10/2014 10:14:31","-2:00","Admin","Warning","ALARM VACUUM SENSOR  On",,RCAHdF
+85521,"01/10/2014 10:14:33","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,zaDZLx
+85522,"01/10/2014 10:14:33","-2:00","Admin","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,e+7+Xr
+85523,"01/10/2014 10:14:33","-2:00","Admin","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,FwkMcd
+85524,"01/10/2014 10:14:33","-2:00","Admin","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,8L1Aiw
+85525,"01/10/2014 10:14:33","-2:00","Admin","Alarm","EMERGENCY  On",,SbYTKY
+85526,"01/10/2014 10:14:34","-2:00","Admin","Warning","WARNING INFEED BELT MINIM LOAD  On",,nPkSN5
+85527,"01/10/2014 10:17:18","-2:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,TI49bx
+0,"01/10/2014 10:17:19","-2:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,R3xoVY
+85528,"01/10/2014 10:17:19","-2:00","System","User administration","Password list imported successfully.",,VL7IXp
+85529,"01/10/2014 10:17:19","-2:00","System","Application","Change to operating mode 'online'.",,Eur8z6
+0,"01/10/2014 10:17:20","-2:00","System","Logs","Log files closed.",,8J7aF7
+"$RT_COUNT$",543,kk14ge,,,,,kfXGzN

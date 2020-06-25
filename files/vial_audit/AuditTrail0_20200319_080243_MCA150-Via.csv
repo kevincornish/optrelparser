@@ -1,0 +1,782 @@
+"RecordID";"TimeStamp";"DeltaToUTC";"UserID";"ObjectID";"Description";"Comment";"Checksum"
+0;"18/03/2020 08:02:38";"+0:00";"System";"Application";"New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3";;jZFTek
+375696;"18/03/2020 08:02:38";"+0:00";"System";"Logs";"Exporting a log.";;cHEHY/
+375697;"18/03/2020 08:02:46";"+0:00";;"Recipe";"Loading recipe number 2 ( 20ml Production ) on the interface.";;jXZ9Ix
+375698;"18/03/2020 08:02:47";"+0:00";;"Recipe";"Data trasfered to PLC";;/1VAYc
+375699;"18/03/2020 08:02:47";"+0:00";;"Warning";"PVSI NOT READY  On";;3EnrMw
+375700;"18/03/2020 08:02:47";"+0:00";;"Warning";"PVSI AND WINCC PRODUCT DIFFERENT  On";;XLNNjc
+375701;"18/03/2020 08:02:47";"+0:00";;"Warning";"WARNING EMPTY PROGRAM ACTIVATED  On";;h2QyOu
+375702;"18/03/2020 08:02:47";"+0:00";;"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;pHD2t2
+375703;"18/03/2020 08:02:47";"+0:00";;"Warning";"MACHINE ONLINE  On";;K+YBij
+375704;"18/03/2020 08:02:47";"+0:00";;"Alarm";"EMERGENCY  On";;oD4xUO
+375705;"18/03/2020 08:02:47";"+0:00";;"Alarm";"ALARM PROFIBUS NODE 3 (ENCODER)  On";;nzkkb/
+375706;"18/03/2020 08:02:47";"+0:00";;"Alarm";"ALARM PROFIBUS NODE 4 (PC)  On";;pTUyoc
+375707;"18/03/2020 08:02:47";"+0:00";;"Alarm";"ALARM TURRET MOTOR NOT READY  On";;hNp8ca
+375708;"18/03/2020 08:02:47";"+0:00";;"Alarm";"ALARM HOMING NOT DONE TURRET MOTOR  On";;O/28sf
+375709;"18/03/2020 08:02:47";"+0:00";;"Alarm";"ALARM INFEED BELT MOTOR  On";;X6Ubgt
+375710;"18/03/2020 08:02:47";"+0:00";;"Alarm";"ALARM ROTATION MOTOR  On";;Jnhp/V
+375711;"18/03/2020 08:02:47";"+0:00";;"Alarm";"ALARM ROTATION MOTOR 2  On";;jQv1SH
+375712;"18/03/2020 08:02:47";"+0:00";;"Alarm";"ALARM ROTATION MOTOR 3  On";;EAkfXJ
+375713;"18/03/2020 08:02:47";"+0:00";;"Alarm";"ALARM MISSING COMUNICATION WITH INTERFACE  On";;bKV1f/
+375714;"18/03/2020 08:02:47";"+0:00";;"Alarm";"WARNING MISSING LOGIN OPERATION  On";;1+/VXa
+375715;"18/03/2020 08:02:51";"+0:00";;"Alarm";"ALARM MISSING COMUNICATION WITH INTERFACE  Off";;hFKkYy
+375716;"18/03/2020 08:02:53";"+0:00";;"Warning";"ALARM VACUUM SENSOR  On";;wqlnI4
+375717;"18/03/2020 08:02:53";"+0:00";;"Warning";"PVSI NOT RUNNING   On";;ENR0UF
+375718;"18/03/2020 08:02:53";"+0:00";;"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;HEj8w8
+375719;"18/03/2020 08:03:00";"+0:00";"System";"User administration";"User 'robj' logged on with group 'Operator'.";;maXBoS
+375720;"18/03/2020 08:03:26";"+0:00";"robj";"Warning";"PVSI NOT RUNNING   Off";;0ozarK
+375721;"18/03/2020 08:03:51";"+0:00";"robj";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;qMIxAS
+375722;"18/03/2020 08:03:54";"+0:00";"robj";"Warning";"ALARM VACUUM SENSOR  Off";;kHNQEl
+375723;"18/03/2020 08:03:54";"+0:00";"robj";"Warning";"PVSI NOT READY  Off";;NrvABN
+375724;"18/03/2020 08:03:54";"+0:00";"robj";"Warning";"PVSI AND WINCC PRODUCT DIFFERENT  Off";;pmn+jA
+375725;"18/03/2020 08:03:54";"+0:00";"robj";"Alarm";"ALARM PROFIBUS NODE 3 (ENCODER)  Off";;pBAb96
+375726;"18/03/2020 08:03:54";"+0:00";"robj";"Alarm";"ALARM PROFIBUS NODE 4 (PC)  Off";;Csp1g3
+375727;"18/03/2020 08:03:54";"+0:00";"robj";"Alarm";"ALARM TURRET MOTOR NOT READY  Off";;sC49Up
+375728;"18/03/2020 08:03:54";"+0:00";"robj";"Alarm";"ALARM HOMING NOT DONE TURRET MOTOR  Off";;sYDrCF
+375729;"18/03/2020 08:03:54";"+0:00";"robj";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;Kk5F48
+375730;"18/03/2020 08:03:54";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;AdgrNX
+375731;"18/03/2020 08:03:54";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;Ace7Fp
+375732;"18/03/2020 08:03:55";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;g/F10q
+375733;"18/03/2020 08:03:55";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;32G0oe
+375734;"18/03/2020 08:03:55";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;GTsP00
+375735;"18/03/2020 08:05:43";"+0:00";"robj";"Warning";"ALARM VACUUM SENSOR  On";;zaaxQc
+375736;"18/03/2020 08:05:43";"+0:00";"robj";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;kp0OZI
+375737;"18/03/2020 08:05:43";"+0:00";"robj";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;5kTE/X
+375738;"18/03/2020 08:05:43";"+0:00";"robj";"Alarm";"EMERGENCY  On";;FIwUuW
+375739;"18/03/2020 08:05:43";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;YP6Gwg
+375740;"18/03/2020 08:05:44";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;FfHS4A
+375741;"18/03/2020 08:05:44";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;i6ZJ7z
+375742;"18/03/2020 08:05:44";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;RLDgjT
+375743;"18/03/2020 08:05:55";"+0:00";"System";"User administration";"User 'robknapps' logged on with group 'Administrator'.";;rboWWT
+375744;"18/03/2020 08:06:04";"+0:00";"robknapps";"Warning";"PVSI NOT READY  On";;1KpxTj
+375745;"18/03/2020 08:06:23";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  On";;MnCpHM
+375746;"18/03/2020 08:06:24";"+0:00";"robknapps";"Warning";"ALARM VACUUM SENSOR  Off";;pS213P
+375747;"18/03/2020 08:06:24";"+0:00";"robknapps";"Warning";"PVSI NOT READY  Off";;dLBaf/
+375748;"18/03/2020 08:06:24";"+0:00";"robknapps";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;atXZu5
+375749;"18/03/2020 08:06:24";"+0:00";"robknapps";"Alarm";"EMERGENCY  Off";;ByK0Xk
+375750;"18/03/2020 08:06:24";"+0:00";"robknapps";"Alarm";"ALARM INFEED BELT MOTOR  Off";;MtswQq
+375751;"18/03/2020 08:06:25";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR  Off";;TSl0wn
+375752;"18/03/2020 08:06:25";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 2  Off";;ROF/0N
+375753;"18/03/2020 08:06:25";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 3  Off";;W7Gxpx
+375754;"18/03/2020 08:06:29";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  Off";;GaY5Yr
+375755;"18/03/2020 08:06:29";"+0:00";"robknapps";"Warning";"E16.7   WARNING KNAPP HOMING  On";;eUDp28
+375756;"18/03/2020 08:06:44";"+0:00";"robknapps";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;m4TUsZ
+375757;"18/03/2020 08:06:44";"+0:00";"robknapps";"Warning";"KNAPP IN PROGRESS  On";;fkGLk5
+375758;"18/03/2020 08:09:53";"+0:00";"robknapps";"Warning";"WARNING END KNAPP PROCESS  On";;vuufv9
+375759;"18/03/2020 08:09:53";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  On";;JAUBvK
+375760;"18/03/2020 08:09:53";"+0:00";"robknapps";"Warning";"KNAPP IN PROGRESS  Off";;kVQWn4
+375761;"18/03/2020 08:10:09";"+0:00";"robknapps";"Warning";"PVSI NOT READY  On";;2i9mL+
+375762;"18/03/2020 08:10:58";"+0:00";"robknapps";"Alarm";"EMERGENCY  On";;5vS9gZ
+375763;"18/03/2020 08:10:58";"+0:00";"robknapps";"Alarm";"COVER OPEN 3  On";;Oy3FK9
+375764;"18/03/2020 08:10:58";"+0:00";"robknapps";"Alarm";"ALARM INFEED BELT MOTOR  On";;p//Bkc
+375765;"18/03/2020 08:10:59";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR  On";;fSTu9+
+375766;"18/03/2020 08:10:59";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 2  On";;dMrWmW
+375767;"18/03/2020 08:10:59";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 3  On";;kkAY30
+375768;"18/03/2020 08:11:29";"+0:00";"robknapps";"Alarm";"COVER OPEN 4  On";;aqXUfd
+375769;"18/03/2020 08:11:59";"+0:00";"robknapps";"Warning";"PVSI NOT READY  Off";;ZdT9+3
+375770;"18/03/2020 08:11:59";"+0:00";"robknapps";"Alarm";"COVER OPEN 3  Off";;0lGh38
+375771;"18/03/2020 08:11:59";"+0:00";"robknapps";"Alarm";"COVER OPEN 4  Off";;gGwAtV
+375772;"18/03/2020 08:11:59";"+0:00";"robknapps";"Alarm";"EMERGENCY  Off";;/L3G/8
+375773;"18/03/2020 08:12:00";"+0:00";"robknapps";"Alarm";"ALARM INFEED BELT MOTOR  Off";;I5JpKs
+375774;"18/03/2020 08:12:00";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR  Off";;OOfK6L
+375775;"18/03/2020 08:12:00";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 2  Off";;gxqA9x
+375776;"18/03/2020 08:12:00";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 3  Off";;fMr0fX
+375777;"18/03/2020 08:12:03";"+0:00";"robknapps";"Warning";"WARNING END KNAPP PROCESS  Off";;3URWrt
+375778;"18/03/2020 08:12:03";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  Off";;YAjNTo
+375779;"18/03/2020 08:12:03";"+0:00";"robknapps";"Warning";"E16.7   WARNING KNAPP HOMING  On";;gSYtrP
+375780;"18/03/2020 08:12:07";"+0:00";"robknapps";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;Tbb4Wl
+375781;"18/03/2020 08:12:07";"+0:00";"robknapps";"Warning";"KNAPP IN PROGRESS  On";;SZtj+9
+375782;"18/03/2020 08:15:17";"+0:00";"robknapps";"Warning";"WARNING END KNAPP PROCESS  On";;fvV7hv
+375783;"18/03/2020 08:15:17";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  On";;gBI8LC
+375784;"18/03/2020 08:15:17";"+0:00";"robknapps";"Warning";"KNAPP IN PROGRESS  Off";;vN0kVP
+375785;"18/03/2020 08:15:32";"+0:00";"robknapps";"Warning";"PVSI NOT READY  On";;qc6TmS
+375786;"18/03/2020 08:16:00";"+0:00";"robknapps";"Warning";"PVSI NOT RUNNING   On";;qj/6kZ
+375787;"18/03/2020 08:20:05";"+0:00";"robknapps";"Warning";"PVSI NOT RUNNING   Off";;wzvjvA
+375788;"18/03/2020 08:20:05";"+0:00";"robknapps";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;LNIdVk
+375789;"18/03/2020 08:20:10";"+0:00";"robknapps";"Warning";"PVSI NOT RUNNING   On";;PTgdwp
+375790;"18/03/2020 08:20:10";"+0:00";"robknapps";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;H/bBV/
+375791;"18/03/2020 08:20:10";"+0:00";"robknapps";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;fK0VFC
+375792;"18/03/2020 08:20:16";"+0:00";"System";"User administration";"User 'robknapps' logged on with group 'Administrator'.";;UUXgbE
+375793;"18/03/2020 08:20:28";"+0:00";"robknapps";"Warning";"PVSI NOT RUNNING   Off";;7fK3ou
+375794;"18/03/2020 08:22:00";"+0:00";"robknapps";"Alarm";"EMERGENCY  On";;vKATqW
+375795;"18/03/2020 08:22:00";"+0:00";"robknapps";"Alarm";"COVER OPEN 3  On";;1nQ8aJ
+375796;"18/03/2020 08:22:00";"+0:00";"robknapps";"Alarm";"ALARM INFEED BELT MOTOR  On";;KmDmP8
+375797;"18/03/2020 08:22:01";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR  On";;4cKQiA
+375798;"18/03/2020 08:22:01";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 2  On";;Ku+sk1
+375799;"18/03/2020 08:22:01";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 3  On";;OVM8Ef
+375800;"18/03/2020 08:23:01";"+0:00";"robknapps";"Warning";"PVSI NOT RUNNING   On";;fDjav8
+375801;"18/03/2020 08:23:13";"+0:00";"robknapps";"Warning";"PVSI NOT RUNNING   Off";;0ggyme
+375802;"18/03/2020 08:23:13";"+0:00";"robknapps";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;2bXc6F
+375803;"18/03/2020 08:23:17";"+0:00";"robknapps";"Warning";"PVSI NOT RUNNING   On";;cnR2on
+375804;"18/03/2020 08:23:17";"+0:00";"robknapps";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;1I9iD9
+375805;"18/03/2020 08:23:23";"+0:00";"System";"User administration";"User logged off.";;hINICF
+375806;"18/03/2020 08:23:23";"+0:00";"System";"User administration";"User 'robknapps' has unsuccessfully attempted to log on 1 times in succession.";;wZyugk
+375807;"18/03/2020 08:23:29";"+0:00";"System";"User administration";"User 'robknapps' logged on with group 'Administrator'.";;diD6Zm
+375808;"18/03/2020 08:23:41";"+0:00";"robknapps";"Warning";"PVSI NOT RUNNING   Off";;mZVVQ8
+375809;"18/03/2020 08:23:51";"+0:00";"robknapps";"Warning";"PVSI NOT READY  Off";;Z+Sz1z
+375810;"18/03/2020 08:23:51";"+0:00";"robknapps";"Alarm";"COVER OPEN 3  Off";;9VxEe2
+375811;"18/03/2020 08:23:51";"+0:00";"robknapps";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;KkFF2s
+375812;"18/03/2020 08:23:51";"+0:00";"robknapps";"Alarm";"EMERGENCY  Off";;U7C7S9
+375813;"18/03/2020 08:23:51";"+0:00";"robknapps";"Alarm";"ALARM INFEED BELT MOTOR  Off";;H7vrj3
+375814;"18/03/2020 08:23:52";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR  Off";;F6utoM
+375815;"18/03/2020 08:23:52";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 2  Off";;x7GE/K
+375816;"18/03/2020 08:23:52";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 3  Off";;CNHAkI
+375817;"18/03/2020 08:23:54";"+0:00";"robknapps";"Warning";"WARNING END KNAPP PROCESS  Off";;o1k8qz
+375818;"18/03/2020 08:23:54";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  Off";;3RnkiM
+375819;"18/03/2020 08:23:54";"+0:00";"robknapps";"Warning";"E16.7   WARNING KNAPP HOMING  On";;/OMDmw
+375820;"18/03/2020 08:23:59";"+0:00";"robknapps";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;MKRd2t
+375821;"18/03/2020 08:23:59";"+0:00";"robknapps";"Warning";"KNAPP IN PROGRESS  On";;iTV8XC
+375822;"18/03/2020 08:27:08";"+0:00";"robknapps";"Warning";"WARNING END KNAPP PROCESS  On";;Zak1mv
+375823;"18/03/2020 08:27:08";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  On";;hh2awT
+375824;"18/03/2020 08:27:08";"+0:00";"robknapps";"Warning";"KNAPP IN PROGRESS  Off";;1rzFn/
+375825;"18/03/2020 08:27:47";"+0:00";"robknapps";"Warning";"PVSI NOT READY  On";;kZtlWJ
+375826;"18/03/2020 08:29:12";"+0:00";"robknapps";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;lYJHEq
+375827;"18/03/2020 08:31:40";"+0:00";"robknapps";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;zo/Yym
+375828;"18/03/2020 08:31:40";"+0:00";"robknapps";"Alarm";"EMERGENCY  On";;bjgy29
+375829;"18/03/2020 08:31:40";"+0:00";"robknapps";"Alarm";"ALARM INFEED BELT MOTOR  On";;ePmCZy
+375830;"18/03/2020 08:31:40";"+0:00";"robknapps";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;lt4rFx
+375831;"18/03/2020 08:31:40";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR  On";;cai+Px
+375832;"18/03/2020 08:31:40";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 2  On";;b7lX37
+375833;"18/03/2020 08:31:40";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 3  On";;JXRGIW
+375834;"18/03/2020 08:31:45";"+0:00";"System";"User administration";"User 'robknapps' logged on with group 'Administrator'.";;RCOUGd
+375835;"18/03/2020 08:31:46";"+0:00";"robknapps";"Warning";"PVSI NOT READY  Off";;uLGseZ
+375836;"18/03/2020 08:31:46";"+0:00";"robknapps";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;N0XyL1
+375837;"18/03/2020 08:31:46";"+0:00";"robknapps";"Alarm";"EMERGENCY  Off";;oIiM/5
+375838;"18/03/2020 08:31:46";"+0:00";"robknapps";"Alarm";"ALARM INFEED BELT MOTOR  Off";;PtPupq
+375839;"18/03/2020 08:31:47";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR  Off";;c7fkQT
+375840;"18/03/2020 08:31:47";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 2  Off";;wWsOJ7
+375841;"18/03/2020 08:31:47";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 3  Off";;yVch51
+375842;"18/03/2020 08:31:49";"+0:00";"robknapps";"Warning";"WARNING END KNAPP PROCESS  Off";;htKjiV
+375843;"18/03/2020 08:31:49";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  Off";;QgxYuN
+375844;"18/03/2020 08:31:49";"+0:00";"robknapps";"Warning";"E16.7   WARNING KNAPP HOMING  On";;TefvaM
+375845;"18/03/2020 08:31:59";"+0:00";"robknapps";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;6L3uWQ
+375846;"18/03/2020 08:31:59";"+0:00";"robknapps";"Warning";"KNAPP IN PROGRESS  On";;bfzhkO
+375847;"18/03/2020 08:35:08";"+0:00";"robknapps";"Warning";"WARNING END KNAPP PROCESS  On";;0Ss6hd
+375848;"18/03/2020 08:35:08";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  On";;NAWGzd
+375849;"18/03/2020 08:35:08";"+0:00";"robknapps";"Warning";"KNAPP IN PROGRESS  Off";;f88jOu
+375850;"18/03/2020 08:35:12";"+0:00";"robknapps";"Warning";"PVSI NOT RUNNING   On";;ufzSBU
+375851;"18/03/2020 08:36:43";"+0:00";"robknapps";"Warning";"PVSI NOT RUNNING   Off";;QAkvVV
+375852;"18/03/2020 08:36:43";"+0:00";"robknapps";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;0IwsMq
+375853;"18/03/2020 08:37:03";"+0:00";"robknapps";"Warning";"PVSI NOT RUNNING   On";;bErimx
+375854;"18/03/2020 08:37:03";"+0:00";"robknapps";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;KH7EyI
+375855;"18/03/2020 08:37:03";"+0:00";"robknapps";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;3xduPl
+375856;"18/03/2020 08:37:08";"+0:00";"System";"User administration";"User 'robknapps' logged on with group 'Administrator'.";;1g1iNM
+375857;"18/03/2020 08:37:15";"+0:00";"robknapps";"Warning";"PVSI NOT READY  On";;MxiLQV
+375858;"18/03/2020 08:37:20";"+0:00";"robknapps";"Warning";"PVSI NOT RUNNING   Off";;eaqg4c
+375859;"18/03/2020 08:37:53";"+0:00";"robknapps";"Warning";"PVSI NOT READY  Off";;472xBq
+375860;"18/03/2020 08:37:53";"+0:00";"robknapps";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;CkRrLg
+375861;"18/03/2020 08:37:55";"+0:00";"robknapps";"Warning";"WARNING END KNAPP PROCESS  Off";;EVprIc
+375862;"18/03/2020 08:37:55";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  Off";;JI3tuY
+375863;"18/03/2020 08:37:55";"+0:00";"robknapps";"Warning";"E16.7   WARNING KNAPP HOMING  On";;N7JD2A
+375864;"18/03/2020 08:37:59";"+0:00";"robknapps";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;5fkyTK
+375865;"18/03/2020 08:37:59";"+0:00";"robknapps";"Warning";"KNAPP IN PROGRESS  On";;gTm56A
+375866;"18/03/2020 08:41:09";"+0:00";"robknapps";"Warning";"WARNING END KNAPP PROCESS  On";;L/xnza
+375867;"18/03/2020 08:41:09";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  On";;p6DkU3
+375868;"18/03/2020 08:41:09";"+0:00";"robknapps";"Warning";"KNAPP IN PROGRESS  Off";;15xRST
+375869;"18/03/2020 08:41:48";"+0:00";"robknapps";"Warning";"PVSI NOT READY  On";;1tbpsj
+375870;"18/03/2020 08:51:30";"+0:00";"robknapps";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;WgZdcI
+375871;"18/03/2020 08:54:22";"+0:00";"robknapps";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;e5ANvF
+375872;"18/03/2020 08:54:22";"+0:00";"robknapps";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;EwMg/8
+375873;"18/03/2020 08:54:22";"+0:00";"robknapps";"Alarm";"EMERGENCY  On";;FpAJc0
+375874;"18/03/2020 08:54:22";"+0:00";"robknapps";"Alarm";"ALARM INFEED BELT MOTOR  On";;dyPY7N
+375875;"18/03/2020 08:54:23";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR  On";;wBq7nY
+375876;"18/03/2020 08:54:23";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 2  On";;G1pt3e
+375877;"18/03/2020 08:54:23";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 3  On";;7tb+0f
+375878;"18/03/2020 08:54:28";"+0:00";"System";"User administration";"User 'robknapps' logged on with group 'Administrator'.";;0j7sk+
+375879;"18/03/2020 08:54:29";"+0:00";"robknapps";"Warning";"PVSI NOT READY  Off";;9Ems/y
+375880;"18/03/2020 08:54:29";"+0:00";"robknapps";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;hnL+0I
+375881;"18/03/2020 08:54:29";"+0:00";"robknapps";"Alarm";"EMERGENCY  Off";;y/CuqP
+375882;"18/03/2020 08:54:29";"+0:00";"robknapps";"Alarm";"ALARM INFEED BELT MOTOR  Off";;N6UpN7
+375883;"18/03/2020 08:54:30";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR  Off";;yYd7t6
+375884;"18/03/2020 08:54:30";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 2  Off";;eIXJlI
+375885;"18/03/2020 08:54:30";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 3  Off";;f0nvjZ
+375886;"18/03/2020 08:54:37";"+0:00";"robknapps";"Warning";"ALARM VACUUM SENSOR  On";;UOY5r+
+375887;"18/03/2020 08:54:37";"+0:00";"robknapps";"Warning";"WARNING END KNAPP PROCESS  Off";;4fGvVh
+375888;"18/03/2020 08:54:37";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  Off";;NQR35z
+375889;"18/03/2020 08:54:40";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  On";;h1Kwdq
+375890;"18/03/2020 08:54:41";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  Off";;7jCh4v
+375891;"18/03/2020 08:54:41";"+0:00";"robknapps";"Warning";"E16.7   WARNING KNAPP HOMING  On";;YxS4ni
+375892;"18/03/2020 08:54:55";"+0:00";"robknapps";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;wPJ9ao
+375893;"18/03/2020 08:54:55";"+0:00";"robknapps";"Warning";"KNAPP IN PROGRESS  On";;A+1c9J
+375894;"18/03/2020 08:58:04";"+0:00";"robknapps";"Warning";"WARNING END KNAPP PROCESS  On";;7yGMsk
+375895;"18/03/2020 08:58:04";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  On";;/YXpTS
+375896;"18/03/2020 08:58:04";"+0:00";"robknapps";"Warning";"KNAPP IN PROGRESS  Off";;bxOgF2
+375897;"18/03/2020 09:11:01";"+0:00";"robknapps";"Warning";"PVSI NOT READY  On";;dQPyDc
+375898;"18/03/2020 09:12:13";"+0:00";"robknapps";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;nIYNy3
+375899;"18/03/2020 09:16:41";"+0:00";"robknapps";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;TQHBo6
+375900;"18/03/2020 09:16:41";"+0:00";"robknapps";"Alarm";"EMERGENCY  On";;xEQnU6
+375901;"18/03/2020 09:16:41";"+0:00";"robknapps";"Alarm";"ALARM INFEED BELT MOTOR  On";;MlROVg
+375902;"18/03/2020 09:16:41";"+0:00";"robknapps";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;qRBcJq
+375903;"18/03/2020 09:16:41";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR  On";;ZRNamE
+375904;"18/03/2020 09:16:41";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 2  On";;N9RxAI
+375905;"18/03/2020 09:16:41";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 3  On";;/ZPBGw
+375906;"18/03/2020 09:16:46";"+0:00";"System";"User administration";"User 'robknapps' logged on with group 'Administrator'.";;3EOEdx
+375907;"18/03/2020 09:16:47";"+0:00";"robknapps";"Warning";"ALARM VACUUM SENSOR  Off";;KqdFM0
+375908;"18/03/2020 09:16:47";"+0:00";"robknapps";"Warning";"PVSI NOT READY  Off";;SpcpS2
+375909;"18/03/2020 09:16:47";"+0:00";"robknapps";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;HeVK31
+375910;"18/03/2020 09:16:47";"+0:00";"robknapps";"Alarm";"EMERGENCY  Off";;eW61V/
+375911;"18/03/2020 09:16:47";"+0:00";"robknapps";"Alarm";"ALARM INFEED BELT MOTOR  Off";;0n4WSE
+375912;"18/03/2020 09:16:48";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR  Off";;WMpkaG
+375913;"18/03/2020 09:16:48";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 2  Off";;/C9egO
+375914;"18/03/2020 09:16:48";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 3  Off";;X+j26B
+375915;"18/03/2020 09:16:50";"+0:00";"robknapps";"Warning";"WARNING END KNAPP PROCESS  Off";;jHcwk8
+375916;"18/03/2020 09:16:50";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  Off";;JHnClD
+375917;"18/03/2020 09:16:50";"+0:00";"robknapps";"Warning";"E16.7   WARNING KNAPP HOMING  On";;K8/KZG
+375918;"18/03/2020 09:17:09";"+0:00";"robknapps";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;Xr9rk4
+375919;"18/03/2020 09:17:09";"+0:00";"robknapps";"Warning";"KNAPP IN PROGRESS  On";;Fp6cFs
+375920;"18/03/2020 09:20:19";"+0:00";"robknapps";"Warning";"WARNING END KNAPP PROCESS  On";;HJAqKU
+375921;"18/03/2020 09:20:19";"+0:00";"robknapps";"Warning";"KNAPP READY TO START  On";;89IBnq
+375922;"18/03/2020 09:20:19";"+0:00";"robknapps";"Warning";"KNAPP IN PROGRESS  Off";;WMIr0B
+375923;"18/03/2020 09:21:23";"+0:00";"robknapps";"Warning";"PVSI NOT READY  On";;ky8lEC
+375924;"18/03/2020 09:22:17";"+0:00";"robknapps";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;Ie6mY5
+375925;"18/03/2020 09:26:28";"+0:00";"robknapps";"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;6ttQcS
+375926;"18/03/2020 09:26:28";"+0:00";"robknapps";"Alarm";"EMERGENCY  On";;u4V1pX
+375927;"18/03/2020 09:26:28";"+0:00";"robknapps";"Alarm";"COVER OPEN 1  On";;XK1+Fc
+375928;"18/03/2020 09:26:28";"+0:00";"robknapps";"Alarm";"ALARM INFEED BELT MOTOR  On";;LXmRMl
+375929;"18/03/2020 09:26:28";"+0:00";"robknapps";"Alarm";"WARNING MISSING LOGIN OPERATION  On";;bpQYc0
+375930;"18/03/2020 09:26:29";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR  On";;3CcJtr
+375931;"18/03/2020 09:26:29";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 2  On";;j05ROc
+375932;"18/03/2020 09:26:29";"+0:00";"robknapps";"Alarm";"ALARM ROTATION MOTOR 3  On";;mfOhMx
+375933;"18/03/2020 09:26:36";"+0:00";"System";"User administration";"User 'robknapps' logged on with group 'Administrator'.";;N06mMB
+375934;"18/03/2020 09:27:04";"+0:00";"robknapps";"User administration";"User logged off.";;+O7rCq
+375935;"18/03/2020 09:27:04";"+0:00";;"Tag: Cicli continui\UserLevel";"Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.";;GwasV4
+375936;"18/03/2020 09:45:55";"+0:00";;"Alarm";"COVER OPEN 4  On";;HL58WO
+375937;"18/03/2020 09:45:56";"+0:00";;"Alarm";"COVER OPEN 3  On";;nf6jq1
+375938;"18/03/2020 09:56:53";"+0:00";;"Alarm";"COVER OPEN 2  On";;qTHNrs
+375939;"18/03/2020 10:32:53";"+0:00";"System";"User administration";"User 'robj' logged on with group 'Operator'.";;5I2gvP
+375940;"18/03/2020 10:32:54";"+0:00";"robj";"Warning";"WARNING SAFETY DOORS EXCLUDED  On";;J/uLCI
+375941;"18/03/2020 10:32:57";"+0:00";"robj";"Warning";"PVSI NOT READY  Off";;llQppq
+375942;"18/03/2020 10:32:57";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;jjooUu
+375943;"18/03/2020 10:32:57";"+0:00";"robj";"Alarm";"COVER OPEN 1  Off";;F2n2J0
+375944;"18/03/2020 10:32:57";"+0:00";"robj";"Alarm";"COVER OPEN 2  Off";;NDVIuS
+375945;"18/03/2020 10:32:57";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;ko6fNB
+375946;"18/03/2020 10:32:57";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;q6ZZw9
+375947;"18/03/2020 10:32:57";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;i00Y5H
+375948;"18/03/2020 10:32:57";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;AC0E0N
+375949;"18/03/2020 10:32:57";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;pOcM3I
+375950;"18/03/2020 10:32:57";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;PdvlDH
+375951;"18/03/2020 10:32:57";"+0:00";"robj";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;aXXdrg
+375952;"18/03/2020 10:47:58";"+0:00";"System";"User administration";"User logged off.";;+4m4Nk
+375953;"18/03/2020 10:47:58";"+0:00";;"Alarm";"WARNING MISSING LOGIN OPERATION  On";;Ek0CzD
+375954;"18/03/2020 11:01:03";"+0:00";;"Warning";"WARNING SAFETY DOORS EXCLUDED  Off";;YgxQJX
+375955;"18/03/2020 11:01:03";"+0:00";;"Alarm";"EMERGENCY  On";;hXKkBV
+375956;"18/03/2020 11:01:03";"+0:00";;"Alarm";"COVER OPEN 3  On";;+HcSRc
+375957;"18/03/2020 11:01:03";"+0:00";;"Alarm";"COVER OPEN 4  On";;KDiDba
+375958;"18/03/2020 11:01:03";"+0:00";;"Alarm";"ALARM INFEED BELT MOTOR  On";;RKRd4L
+375959;"18/03/2020 11:01:03";"+0:00";;"Alarm";"ALARM ROTATION MOTOR  On";;lN5r0O
+375960;"18/03/2020 11:01:03";"+0:00";;"Alarm";"ALARM ROTATION MOTOR 2  On";;UWJ4ZL
+375961;"18/03/2020 11:01:03";"+0:00";;"Alarm";"ALARM ROTATION MOTOR 3  On";;cd0tl8
+375962;"18/03/2020 11:01:16";"+0:00";"System";"User administration";"User 'robj' has unsuccessfully attempted to log on 1 times in succession.";;pi2CCN
+375963;"18/03/2020 11:01:25";"+0:00";"System";"User administration";"User 'robj' logged on with group 'Operator'.";;tm691r
+375964;"18/03/2020 11:01:31";"+0:00";"robj";"Recipe";"Loading recipe number 4 ( 100ml Production ) on the interface.";;wYbiAw
+375965;"18/03/2020 11:01:31";"+0:00";"robj";"Recipe";"Data trasfered to PLC";;MooEgg
+375966;"18/03/2020 11:01:34";"+0:00";"robj";"Warning";"PVSI NOT RUNNING   On";;BkSlSf
+375967;"18/03/2020 11:01:36";"+0:00";"robj";"Warning";"PVSI AND WINCC PRODUCT DIFFERENT  On";;skMm7v
+375968;"18/03/2020 11:01:37";"+0:00";"robj";"Warning";"PVSI NOT RUNNING   Off";;A9bz+f
+375969;"18/03/2020 11:02:25";"+0:00";"robj";"Warning";"PVSI AND WINCC PRODUCT DIFFERENT  Off";;UaFU7x
+375970;"18/03/2020 11:02:25";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;LWgXA8
+375971;"18/03/2020 11:02:25";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;OtFaMO
+375972;"18/03/2020 11:02:25";"+0:00";"robj";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;D+e5qP
+375973;"18/03/2020 11:02:25";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;m0FmZD
+375974;"18/03/2020 11:02:25";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;p1OPkB
+375975;"18/03/2020 11:02:28";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;ov0ydW
+375976;"18/03/2020 11:02:28";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;0N8ni/
+375977;"18/03/2020 11:02:28";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;V8odiD
+375978;"18/03/2020 11:02:28";"+0:00";"robj";"Alarm";"ALARM HOMING NOT DONE TURRET MOTOR  On";;g2yQ9v
+375979;"18/03/2020 11:04:32";"+0:00";"robj";"Alarm";"ALARM HOMING NOT DONE TURRET MOTOR  Off";;F3dEla
+375980;"18/03/2020 11:04:37";"+0:00";"robj";"Warning";"WARNING END KNAPP PROCESS  Off";;olRPWY
+375981;"18/03/2020 11:04:37";"+0:00";"robj";"Warning";"KNAPP READY TO START  Off";;ruMRtL
+375982;"18/03/2020 11:04:37";"+0:00";"robj";"Warning";"E16.7   WARNING KNAPP HOMING  On";;2qrEzh
+375983;"18/03/2020 11:04:45";"+0:00";"robj";"Warning";"E16.7   WARNING KNAPP HOMING  Off";;5vHXj0
+375984;"18/03/2020 11:04:45";"+0:00";"robj";"Warning";"KNAPP IN PROGRESS  On";;PQzDCj
+375985;"18/03/2020 11:04:46";"+0:00";"robj";"Warning";"ALARM VACUUM SENSOR  On";;NzxmFy
+375986;"18/03/2020 11:04:46";"+0:00";"robj";"Warning";"KNAPP ABORTED  On";;P2CPsQ
+375987;"18/03/2020 11:04:46";"+0:00";"robj";"Warning";"KNAPP IN PROGRESS  Off";;EdAC/F
+375988;"18/03/2020 11:04:47";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;V+Isa+
+375989;"18/03/2020 11:04:47";"+0:00";"robj";"Alarm";"EMERGENCY  On";;10suCf
+375990;"18/03/2020 11:04:47";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;kIwW2r
+375991;"18/03/2020 11:04:47";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;2/+BTk
+375992;"18/03/2020 11:04:47";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;wXQBuJ
+375993;"18/03/2020 11:04:47";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;+gs/Br
+375994;"18/03/2020 11:04:48";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;x+l+Pm
+375995;"18/03/2020 11:05:14";"+0:00";"robj";"Warning";"ALARM VACUUM SENSOR  Off";;8Mk5+5
+375996;"18/03/2020 11:05:14";"+0:00";"robj";"Warning";"KNAPP ABORTED  Off";;bbdZLG
+375997;"18/03/2020 11:05:14";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;3I2eWe
+375998;"18/03/2020 11:05:14";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;WBJ5i9
+375999;"18/03/2020 11:05:15";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;ald64g
+376000;"18/03/2020 11:05:15";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;55naMi
+376001;"18/03/2020 11:05:15";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;bqR1MB
+376002;"18/03/2020 11:05:16";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;ImDBZF
+376003;"18/03/2020 11:05:16";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;/E644R
+376004;"18/03/2020 11:09:03";"+0:00";"robj";"Alarm";"ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On";;+vKQWi
+376005;"18/03/2020 11:09:07";"+0:00";"robj";"Alarm";"ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off";;8Z368Z
+376006;"18/03/2020 11:09:17";"+0:00";"robj";"Alarm";"ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On";;IS3PhO
+376007;"18/03/2020 11:09:20";"+0:00";"robj";"Alarm";"ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off";;Evac1S
+376008;"18/03/2020 11:09:35";"+0:00";"robj";"Alarm";"EMERGENCY  On";;wgSZY8
+376009;"18/03/2020 11:09:35";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;QwKfXE
+376010;"18/03/2020 11:09:35";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;F9ULx9
+376011;"18/03/2020 11:09:35";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;rNNikj
+376012;"18/03/2020 11:09:35";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;SWaqwV
+376013;"18/03/2020 11:09:35";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;g052uP
+376014;"18/03/2020 11:09:36";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;j5gtdB
+376015;"18/03/2020 11:10:07";"+0:00";"robj";"Alarm";"COVER OPEN 1  On";;xNdYu3
+376016;"18/03/2020 11:10:08";"+0:00";"robj";"Alarm";"COVER OPEN 2  On";;0FoUeV
+376017;"18/03/2020 11:10:52";"+0:00";"robj";"Alarm";"COVER OPEN 1  Off";;BU+QHV
+376018;"18/03/2020 11:10:52";"+0:00";"robj";"Alarm";"COVER OPEN 2  Off";;y8jqXY
+376019;"18/03/2020 11:10:52";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;2K+1qo
+376020;"18/03/2020 11:10:52";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;qV30uj
+376021;"18/03/2020 11:10:53";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;4DvUzW
+376022;"18/03/2020 11:10:53";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;rRQyXe
+376023;"18/03/2020 11:10:54";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;IWJj/S
+376024;"18/03/2020 11:10:54";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;ZAUZni
+376025;"18/03/2020 11:10:54";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;nprB55
+376026;"18/03/2020 11:11:41";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;NJIhZe
+376027;"18/03/2020 11:11:41";"+0:00";"robj";"Alarm";"EMERGENCY  On";;0YWCVg
+376028;"18/03/2020 11:11:41";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;m+tgGv
+376029;"18/03/2020 11:11:41";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;II3x7j
+376030;"18/03/2020 11:11:41";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;IRFg4Q
+376031;"18/03/2020 11:11:41";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;jHapZl
+376032;"18/03/2020 11:11:55";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;JBGrUR
+376033;"18/03/2020 11:12:01";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;kR8lKs
+376034;"18/03/2020 11:12:01";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;lCAr6S
+376035;"18/03/2020 11:12:01";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;p1Orml
+376036;"18/03/2020 11:12:01";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;8EJfOV
+376037;"18/03/2020 11:12:02";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;Q58Ilm
+376038;"18/03/2020 11:12:02";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;qxKJhY
+376039;"18/03/2020 11:12:02";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;yCmZLV
+376040;"18/03/2020 11:13:02";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;HX0WkG
+376041;"18/03/2020 11:13:02";"+0:00";"robj";"Alarm";"EMERGENCY  On";;S6CpBe
+376042;"18/03/2020 11:13:02";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;9+yRMn
+376043;"18/03/2020 11:13:03";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;huvwrS
+376044;"18/03/2020 11:13:03";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;yJN8/F
+376045;"18/03/2020 11:13:03";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;Tnv63a
+376046;"18/03/2020 11:13:03";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;nXOvtz
+376047;"18/03/2020 11:16:37";"+0:00";"robj";"Alarm";"COVER OPEN 2  On";;7ZDPPo
+376048;"18/03/2020 11:16:37";"+0:00";"robj";"Alarm";"COVER OPEN 1  On";;brRFkG
+376049;"18/03/2020 11:17:12";"+0:00";"robj";"Alarm";"COVER OPEN 1  Off";;mBLYjL
+376050;"18/03/2020 11:17:12";"+0:00";"robj";"Alarm";"COVER OPEN 2  Off";;wu4c8B
+376051;"18/03/2020 11:17:12";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;9y5rt5
+376052;"18/03/2020 11:17:12";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;C82hpv
+376053;"18/03/2020 11:17:13";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;2Cjl5N
+376054;"18/03/2020 11:17:13";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;j9iYf4
+376055;"18/03/2020 11:17:14";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;hxC1hM
+376056;"18/03/2020 11:17:14";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;ol71et
+376057;"18/03/2020 11:17:14";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;njTf39
+376058;"18/03/2020 11:17:21";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;ccvpiF
+376059;"18/03/2020 11:17:21";"+0:00";"robj";"Alarm";"EMERGENCY  On";;cRIlxv
+376060;"18/03/2020 11:17:21";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;v1NeKW
+376061;"18/03/2020 11:17:21";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;h9NXvo
+376062;"18/03/2020 11:17:21";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;1bUfPw
+376063;"18/03/2020 11:17:21";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;dNrr/t
+376064;"18/03/2020 11:17:30";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;xFPS5j
+376065;"18/03/2020 11:17:30";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;uc2R4C
+376066;"18/03/2020 11:17:30";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;GiopPJ
+376067;"18/03/2020 11:17:31";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;Y4H7/F
+376068;"18/03/2020 11:17:31";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;BEHjHk
+376069;"18/03/2020 11:17:31";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;jSwzND
+376070;"18/03/2020 11:18:21";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;nagXa5
+376071;"18/03/2020 11:18:21";"+0:00";"robj";"Alarm";"EMERGENCY  On";;pZrote
+376072;"18/03/2020 11:18:21";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;rE9rDd
+376073;"18/03/2020 11:18:21";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;nDpwnx
+376074;"18/03/2020 11:18:21";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;roj+sd
+376075;"18/03/2020 11:18:21";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;LcoY9M
+376076;"18/03/2020 11:19:22";"+0:00";"robj";"Alarm";"COVER OPEN 1  On";;db/xYB
+376077;"18/03/2020 11:19:23";"+0:00";"robj";"Alarm";"COVER OPEN 2  On";;DGCEUz
+376078;"18/03/2020 11:20:13";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;A8qRIf
+376079;"18/03/2020 11:20:26";"+0:00";"robj";"Alarm";"COVER OPEN 1  Off";;Ns+hv0
+376080;"18/03/2020 11:20:26";"+0:00";"robj";"Alarm";"COVER OPEN 2  Off";;3QNWCm
+376081;"18/03/2020 11:20:26";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;OgbXnz
+376082;"18/03/2020 11:20:26";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;lr+BOa
+376083;"18/03/2020 11:20:26";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;hmkEpv
+376084;"18/03/2020 11:20:26";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;NadkhF
+376085;"18/03/2020 11:20:27";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;X4nNBW
+376086;"18/03/2020 11:20:27";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;MlIwOR
+376087;"18/03/2020 11:20:27";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;BgK7Lo
+376088;"18/03/2020 11:21:24";"+0:00";"robj";"Alarm";"EMERGENCY  On";;Ugv71a
+376089;"18/03/2020 11:21:24";"+0:00";"robj";"Alarm";"COVER OPEN 1  On";;g9fe67
+376090;"18/03/2020 11:21:24";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;dey+11
+376091;"18/03/2020 11:21:24";"+0:00";"robj";"Alarm";"COVER OPEN 2  On";;uYGPKI
+376092;"18/03/2020 11:21:24";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;Xqp1+Y
+376093;"18/03/2020 11:21:24";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;xWW9ep
+376094;"18/03/2020 11:21:24";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;HljrrW
+376095;"18/03/2020 11:25:50";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;XOm7f8
+376096;"18/03/2020 11:25:51";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;F9NSxI
+376097;"18/03/2020 11:26:24";"+0:00";"robj";"Alarm";"COVER OPEN 1  Off";;kqrZz7
+376098;"18/03/2020 11:26:24";"+0:00";"robj";"Alarm";"COVER OPEN 2  Off";;yMR63y
+376099;"18/03/2020 11:26:24";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;Trxfmk
+376100;"18/03/2020 11:26:24";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;v2HmGI
+376101;"18/03/2020 11:26:25";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;k411U0
+376102;"18/03/2020 11:26:25";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;dkLkWT
+376103;"18/03/2020 11:26:33";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;dLlVwR
+376104;"18/03/2020 11:26:33";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;zde5M5
+376105;"18/03/2020 11:26:33";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;cRDCfi
+376106;"18/03/2020 11:27:35";"+0:00";"robj";"Alarm";"EMERGENCY  On";;0FnqzR
+376107;"18/03/2020 11:27:35";"+0:00";"robj";"Alarm";"COVER OPEN 1  On";;TV+IYi
+376108;"18/03/2020 11:27:35";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;cS03/Y
+376109;"18/03/2020 11:27:35";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;v5HQkN
+376110;"18/03/2020 11:27:35";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;3aYfC+
+376111;"18/03/2020 11:27:35";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;/ZVfcV
+376112;"18/03/2020 11:27:36";"+0:00";"robj";"Alarm";"COVER OPEN 2  On";;wtyXjl
+376113;"18/03/2020 11:27:48";"+0:00";"robj";"Alarm";"COVER OPEN 1  Off";;74N0aC
+376114;"18/03/2020 11:27:48";"+0:00";"robj";"Alarm";"COVER OPEN 2  Off";;NMliMz
+376115;"18/03/2020 11:27:48";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;SkvGmN
+376116;"18/03/2020 11:27:48";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;E8AvpF
+376117;"18/03/2020 11:27:49";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;p5JV5n
+376118;"18/03/2020 11:27:49";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;0KeIJK
+376119;"18/03/2020 11:27:49";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;fltqfL
+376120;"18/03/2020 11:28:09";"+0:00";"robj";"Alarm";"EMERGENCY  On";;UddVmX
+376121;"18/03/2020 11:28:09";"+0:00";"robj";"Alarm";"COVER OPEN 1  On";;iAAH9w
+376122;"18/03/2020 11:28:09";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;xRSE1X
+376123;"18/03/2020 11:28:10";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;CHSvMS
+376124;"18/03/2020 11:28:10";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;QWcpRL
+376125;"18/03/2020 11:28:10";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;xFj50C
+376126;"18/03/2020 11:28:10";"+0:00";"robj";"Alarm";"COVER OPEN 2  On";;FXCISy
+376127;"18/03/2020 11:28:29";"+0:00";"robj";"Alarm";"COVER OPEN 1  Off";;1bjtLK
+376128;"18/03/2020 11:28:29";"+0:00";"robj";"Alarm";"COVER OPEN 2  Off";;ZZEB2A
+376129;"18/03/2020 11:28:29";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;0Va+6a
+376130;"18/03/2020 11:28:30";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;s2f3kb
+376131;"18/03/2020 11:28:30";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;TygkI4
+376132;"18/03/2020 11:28:30";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;sidhYx
+376133;"18/03/2020 11:28:30";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;gBTYWx
+376134;"18/03/2020 11:29:16";"+0:00";"robj";"Alarm";"COVER OPEN 2  On";;tsoOvg
+376135;"18/03/2020 11:29:17";"+0:00";"robj";"Alarm";"EMERGENCY  On";;G/xiL/
+376136;"18/03/2020 11:29:17";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;L6w1uV
+376137;"18/03/2020 11:29:17";"+0:00";"robj";"Alarm";"COVER OPEN 1  On";;VSHN/T
+376138;"18/03/2020 11:29:17";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;idd5k2
+376139;"18/03/2020 11:29:17";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;hxoIlg
+376140;"18/03/2020 11:29:17";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;JbSrXA
+376141;"18/03/2020 11:29:40";"+0:00";"robj";"Alarm";"COVER OPEN 1  Off";;FDbfGe
+376142;"18/03/2020 11:29:40";"+0:00";"robj";"Alarm";"COVER OPEN 2  Off";;Zo34Tl
+376143;"18/03/2020 11:29:40";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;kpUAvb
+376144;"18/03/2020 11:29:40";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;VNlNgk
+376145;"18/03/2020 11:29:41";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;WSGGQB
+376146;"18/03/2020 11:29:41";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;OVtRZt
+376147;"18/03/2020 11:29:41";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;hveCbG
+376148;"18/03/2020 11:30:24";"+0:00";"robj";"Alarm";"EMERGENCY  On";;VmR2DI
+376149;"18/03/2020 11:30:24";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;iGWdms
+376150;"18/03/2020 11:30:24";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;RlYED2
+376151;"18/03/2020 11:30:25";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;O6pJLj
+376152;"18/03/2020 11:30:25";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;eu4+II
+376153;"18/03/2020 11:30:25";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;JMYR3G
+376154;"18/03/2020 11:30:38";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;lPHVfo
+376155;"18/03/2020 11:30:38";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;m1sJf2
+376156;"18/03/2020 11:30:38";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;mLVaIF
+376157;"18/03/2020 11:30:39";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;fmrhs2
+376158;"18/03/2020 11:30:39";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;S3fM89
+376159;"18/03/2020 11:30:39";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;NbLMhH
+376160;"18/03/2020 11:31:32";"+0:00";"robj";"Alarm";"EMERGENCY  On";;gIgstC
+376161;"18/03/2020 11:31:32";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;5jso2s
+376162;"18/03/2020 11:31:32";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;S3MPKn
+376163;"18/03/2020 11:31:32";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;9dX9Q4
+376164;"18/03/2020 11:31:32";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;yrcTcz
+376165;"18/03/2020 11:31:32";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;2ahesK
+376166;"18/03/2020 11:31:39";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;cYhOee
+376167;"18/03/2020 11:31:40";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;l7Ia92
+376168;"18/03/2020 11:31:40";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;p6vMV2
+376169;"18/03/2020 11:31:40";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;joTlim
+376170;"18/03/2020 11:31:41";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;gYMP3I
+376171;"18/03/2020 11:31:41";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;yq/UIh
+376172;"18/03/2020 11:32:26";"+0:00";"robj";"Alarm";"EMERGENCY  On";;9iY13B
+376173;"18/03/2020 11:32:26";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;i5Yz89
+376174;"18/03/2020 11:32:26";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;bpZWIg
+376175;"18/03/2020 11:32:26";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;1LBKPS
+376176;"18/03/2020 11:32:26";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;Z1MRJ8
+376177;"18/03/2020 11:32:26";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;y4mKXj
+376178;"18/03/2020 11:32:44";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;zCaU9o
+376179;"18/03/2020 11:33:55";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;ST5rNC
+376180;"18/03/2020 11:33:55";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;PXejA7
+376181;"18/03/2020 11:33:55";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;4yIOds
+376182;"18/03/2020 11:33:55";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;Jeb3BI
+376183;"18/03/2020 11:33:56";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;Q1vyNG
+376184;"18/03/2020 11:33:56";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;iVj9Ft
+376185;"18/03/2020 11:33:56";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;kHd5UG
+376186;"18/03/2020 11:34:40";"+0:00";"robj";"Alarm";"EMERGENCY  On";;UTQiUA
+376187;"18/03/2020 11:34:40";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;2vXWRw
+376188;"18/03/2020 11:34:40";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;+tWSQ/
+376189;"18/03/2020 11:34:40";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;31o6vt
+376190;"18/03/2020 11:34:40";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;M3bI6o
+376191;"18/03/2020 11:34:40";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;Xa+LXC
+376192;"18/03/2020 11:35:00";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;4/tncA
+376193;"18/03/2020 11:35:00";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;+XiRlj
+376194;"18/03/2020 11:35:00";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;lgQrkx
+376195;"18/03/2020 11:35:01";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;Ps5UWP
+376196;"18/03/2020 11:35:01";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;zPVN+V
+376197;"18/03/2020 11:35:01";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;wrkPRI
+376198;"18/03/2020 11:35:14";"+0:00";"robj";"Alarm";"EMERGENCY  On";;aBF+Gi
+376199;"18/03/2020 11:35:14";"+0:00";"robj";"Alarm";"COVER OPEN 2  On";;z02AzZ
+376200;"18/03/2020 11:35:14";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;9bPq/0
+376201;"18/03/2020 11:35:14";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;Gh1uL4
+376202;"18/03/2020 11:35:14";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;FNxWLn
+376203;"18/03/2020 11:35:14";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;83yZHr
+376204;"18/03/2020 11:35:15";"+0:00";"robj";"Alarm";"COVER OPEN 1  On";;L+5ey+
+376205;"18/03/2020 11:35:36";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;c8iT3O
+376206;"18/03/2020 11:37:47";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;7FYL4Z
+376207;"18/03/2020 11:52:45";"+0:00";"System";"User administration";"User logged off.";;8Ez0ke
+376208;"18/03/2020 11:52:45";"+0:00";;"Alarm";"WARNING MISSING LOGIN OPERATION  On";;MIhVcz
+376209;"18/03/2020 11:53:59";"+0:00";;"Warning";"WARNING REJECTED TRAY 2 ALMOST FULL  On";;hD33N7
+376210;"18/03/2020 11:54:00";"+0:00";;"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  On";;2Hpn1M
+376211;"18/03/2020 11:54:01";"+0:00";;"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;fdGX7H
+376212;"18/03/2020 11:54:02";"+0:00";;"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;74FaIv
+376213;"18/03/2020 11:54:03";"+0:00";;"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  Off";;kdCedL
+376214;"18/03/2020 12:12:03";"+0:00";;"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;OMlJ+q
+376215;"18/03/2020 12:21:37";"+0:00";"System";"User administration";"User 'robj' logged on with group 'Operator'.";;t04o9q
+376216;"18/03/2020 12:21:59";"+0:00";"robj";"Alarm";"COVER OPEN 1  Off";;h0bHOR
+376217;"18/03/2020 12:21:59";"+0:00";"robj";"Alarm";"COVER OPEN 2  Off";;gi7G3j
+376218;"18/03/2020 12:21:59";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;+Ctcas
+376219;"18/03/2020 12:21:59";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;qMcHQG
+376220;"18/03/2020 12:21:59";"+0:00";"robj";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;uHwa1N
+376221;"18/03/2020 12:21:59";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;DcZk/Q
+376222;"18/03/2020 12:21:59";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;Jzic0Y
+376223;"18/03/2020 12:22:00";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;tvabXc
+376224;"18/03/2020 12:22:00";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;EPRFHt
+376225;"18/03/2020 12:22:00";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;dMbc6c
+376226;"18/03/2020 12:23:46";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;iNlup4
+376227;"18/03/2020 12:23:46";"+0:00";"robj";"Alarm";"EMERGENCY  On";;raOua1
+376228;"18/03/2020 12:23:46";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;A3DIqc
+376229;"18/03/2020 12:23:46";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;gKdtyg
+376230;"18/03/2020 12:23:46";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;rEJd0A
+376231;"18/03/2020 12:23:46";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;h9cAp5
+376232;"18/03/2020 12:23:46";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;5HKCFE
+376233;"18/03/2020 12:25:29";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;7lmAEf
+376234;"18/03/2020 12:25:29";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;Ep2cTQ
+376235;"18/03/2020 12:25:29";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;zgrjRv
+376236;"18/03/2020 12:25:30";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;a0O5Ey
+376237;"18/03/2020 12:25:30";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;gaGbXY
+376238;"18/03/2020 12:25:30";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;Ab/GL+
+376239;"18/03/2020 12:25:30";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;y3hFOB
+376240;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm: 1024";"Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;mcYE7C
+376241;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment";;CX9MGE
+376242;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"ALARM PROFIBUS NODE 4 (PC)  Acknowledgment";;8gHCjM
+376243;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"ALARM TURRET MOTOR NOT READY  Acknowledgment";;mlEaxi
+376244;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment";;1LQkR6
+376245;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"ALARM HOMING NOT DONE TURRET MOTOR  Acknowledgment";;c6EJ1Z
+376246;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Acknowledgment";;KKPiA4
+376247;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"COVER OPEN 2  Acknowledgment";;ufZ030
+376248;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"COVER OPEN 1  Acknowledgment";;t/LFC+
+376249;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;9WS4ud
+376250;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"COVER OPEN 4  Acknowledgment";;bMX4zr
+376251;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"EMERGENCY  Acknowledgment";;aa8BqT
+376252;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"COVER OPEN 3  Acknowledgment";;ITiFxR
+376253;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;QKg8J9
+376254;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;5HkUHO
+376255;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;lhhvQi
+376256;"18/03/2020 12:25:34";"+0:00";"robj";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;QZrula
+376257;"18/03/2020 12:26:21";"+0:00";"robj";"Alarm";"EMERGENCY  On";;BwDbKs
+376258;"18/03/2020 12:26:21";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;rtL1xE
+376259;"18/03/2020 12:26:21";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;vfQR9C
+376260;"18/03/2020 12:26:22";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;rZv+Xg
+376261;"18/03/2020 12:26:22";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;J/NWAg
+376262;"18/03/2020 12:26:22";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;Z6O/qP
+376263;"18/03/2020 12:26:42";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;eSlx2S
+376264;"18/03/2020 12:26:51";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;minqjL
+376265;"18/03/2020 12:26:51";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;LUq+j8
+376266;"18/03/2020 12:26:51";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;wU/VHL
+376267;"18/03/2020 12:26:52";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;UE4WKi
+376268;"18/03/2020 12:26:52";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;37Cbep
+376269;"18/03/2020 12:26:52";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;2tAEDG
+376270;"18/03/2020 12:26:52";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;fIKc1N
+376271;"18/03/2020 12:27:34";"+0:00";"robj";"Alarm";"EMERGENCY  On";;wV/5BI
+376272;"18/03/2020 12:27:34";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;XZNA48
+376273;"18/03/2020 12:27:34";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;oPpxrz
+376274;"18/03/2020 12:27:34";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;NDUNye
+376275;"18/03/2020 12:27:34";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;Os2lyk
+376276;"18/03/2020 12:27:34";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;lXdQ9u
+376277;"18/03/2020 12:27:46";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;HlJ5X5
+376278;"18/03/2020 12:28:06";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;ZINwCZ
+376279;"18/03/2020 12:28:06";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;Dd2nuE
+376280;"18/03/2020 12:28:06";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;1uHznw
+376281;"18/03/2020 12:28:06";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;gRCPhS
+376282;"18/03/2020 12:28:07";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;CL3wKN
+376283;"18/03/2020 12:28:07";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;Dbsj2d
+376284;"18/03/2020 12:28:07";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;2QRwgF
+376285;"18/03/2020 12:29:09";"+0:00";"robj";"Alarm";"EMERGENCY  On";;LThGha
+376286;"18/03/2020 12:29:09";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;rMper7
+376287;"18/03/2020 12:29:09";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;3IQt7K
+376288;"18/03/2020 12:29:09";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;0if/Ku
+376289;"18/03/2020 12:29:09";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;Vn+zgv
+376290;"18/03/2020 12:29:09";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;KSnwBc
+376291;"18/03/2020 12:29:15";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;aPlDgm
+376292;"18/03/2020 12:29:15";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;/0vjra
+376293;"18/03/2020 12:29:15";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;a/KLpW
+376294;"18/03/2020 12:29:16";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;BLJbfg
+376295;"18/03/2020 12:29:16";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;exy5y1
+376296;"18/03/2020 12:29:16";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;e7wolE
+376297;"18/03/2020 12:31:51";"+0:00";"robj";"Alarm";"EMERGENCY  On";;I1ylt+
+376298;"18/03/2020 12:31:51";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;ovuD0z
+376299;"18/03/2020 12:31:51";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;tqvXj6
+376300;"18/03/2020 12:31:51";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;H/HsyA
+376301;"18/03/2020 12:31:51";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;qkLKiP
+376302;"18/03/2020 12:31:51";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;MIKW3y
+376303;"18/03/2020 12:31:52";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;tB3NOG
+376304;"18/03/2020 12:33:59";"+0:00";"robj";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  Off";;qEe5Zr
+376305;"18/03/2020 12:34:00";"+0:00";"robj";"Warning";"WARNING REJECTED TRAY 2 ALMOST FULL  Off";;VRQF6r
+376306;"18/03/2020 12:34:56";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;ISkZuX
+376307;"18/03/2020 12:34:56";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;pys1e/
+376308;"18/03/2020 12:34:56";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;5h6ydx
+376309;"18/03/2020 12:34:56";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;IEzXR4
+376310;"18/03/2020 12:34:57";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;6U2ib0
+376311;"18/03/2020 12:34:57";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;dgo2gm
+376312;"18/03/2020 12:34:57";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;69fC5v
+376313;"18/03/2020 12:40:01";"+0:00";"robj";"Alarm";"EMERGENCY  On";;jHvFvD
+376314;"18/03/2020 12:40:01";"+0:00";"robj";"Alarm";"COVER OPEN 2  On";;XZUR54
+376315;"18/03/2020 12:40:01";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;FpUdCG
+376316;"18/03/2020 12:40:02";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;FvNvF5
+376317;"18/03/2020 12:40:02";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;BzuQJS
+376318;"18/03/2020 12:40:02";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;+qUv6s
+376319;"18/03/2020 12:40:02";"+0:00";"robj";"Alarm";"COVER OPEN 1  On";;hvtGFo
+376320;"18/03/2020 12:40:23";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;fOWOj/
+376321;"18/03/2020 12:40:23";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;P8nGr7
+376322;"18/03/2020 12:42:14";"+0:00";"robj";"Alarm";"COVER OPEN 1  Off";;/YEuEd
+376323;"18/03/2020 12:42:14";"+0:00";"robj";"Alarm";"COVER OPEN 2  Off";;Kqzp8A
+376324;"18/03/2020 12:42:14";"+0:00";"robj";"Alarm";"COVER OPEN 3  Off";;CZ4qgI
+376325;"18/03/2020 12:42:14";"+0:00";"robj";"Alarm";"COVER OPEN 4  Off";;xolAP2
+376326;"18/03/2020 12:42:14";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;/bivhC
+376327;"18/03/2020 12:42:14";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;BtQPgx
+376328;"18/03/2020 12:42:15";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;gS+zt0
+376329;"18/03/2020 12:42:15";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;m5rcSy
+376330;"18/03/2020 12:42:15";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;s0cOAn
+376331;"18/03/2020 12:45:23";"+0:00";"robj";"Alarm";"EMERGENCY  On";;jf35mw
+376332;"18/03/2020 12:45:23";"+0:00";"robj";"Alarm";"COVER OPEN 1  On";;LiHo3L
+376333;"18/03/2020 12:45:23";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;HYq+IX
+376334;"18/03/2020 12:45:24";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;S1Iws2
+376335;"18/03/2020 12:45:24";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;+Ym4h9
+376336;"18/03/2020 12:45:24";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;Joa9IY
+376337;"18/03/2020 12:45:24";"+0:00";"robj";"Alarm";"COVER OPEN 2  On";;1Rburj
+376338;"18/03/2020 12:46:49";"+0:00";"robj";"Alarm";"COVER OPEN 1  Off";;1j8hwQ
+376339;"18/03/2020 12:46:49";"+0:00";"robj";"Alarm";"COVER OPEN 2  Off";;SC97mH
+376340;"18/03/2020 12:46:49";"+0:00";"robj";"Alarm";"EMERGENCY  Off";;eawV3i
+376341;"18/03/2020 12:46:49";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  Off";;j/f62U
+376342;"18/03/2020 12:46:50";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  Off";;MjKhr+
+376343;"18/03/2020 12:46:50";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  Off";;BNwkPo
+376344;"18/03/2020 12:46:50";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  Off";;UXRV5j
+376345;"18/03/2020 12:47:49";"+0:00";"robj";"Alarm";"EMERGENCY  On";;Xp7QLM
+376346;"18/03/2020 12:47:49";"+0:00";"robj";"Alarm";"COVER OPEN 1  On";;jIZbOG
+376347;"18/03/2020 12:47:49";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;g+i4gi
+376348;"18/03/2020 12:47:50";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;Zs1cbp
+376349;"18/03/2020 12:47:50";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;vUSTX4
+376350;"18/03/2020 12:47:50";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;b+BHFr
+376351;"18/03/2020 12:47:50";"+0:00";"robj";"Alarm";"COVER OPEN 2  On";;SVpLtH
+376352;"18/03/2020 12:55:17";"+0:00";"System";"User administration";"User logged off.";;ymgQXy
+376353;"18/03/2020 12:55:17";"+0:00";;"Alarm";"WARNING MISSING LOGIN OPERATION  On";;KzpGjq
+376354;"18/03/2020 13:34:34";"+0:00";"System";"User administration";"User 'kevc' logged on with group 'Operator'.";;0q7PtI
+376355;"18/03/2020 13:34:39";"+0:00";"kevc";"Alarm";"COVER OPEN 4  On";;IwhEWy
+376356;"18/03/2020 13:34:40";"+0:00";"kevc";"Alarm";"COVER OPEN 3  On";;VxT+We
+376357;"18/03/2020 13:35:01";"+0:00";"kevc";"Alarm";"COVER OPEN 1  Off";;i3WMAx
+376358;"18/03/2020 13:35:01";"+0:00";"kevc";"Alarm";"COVER OPEN 2  Off";;Huced/
+376359;"18/03/2020 13:35:01";"+0:00";"kevc";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;Q8wEus
+376360;"18/03/2020 13:35:02";"+0:00";"kevc";"Alarm";"COVER OPEN 3  Off";;fggIyX
+376361;"18/03/2020 13:35:02";"+0:00";"kevc";"Alarm";"COVER OPEN 4  Off";;2JuIwb
+376362;"18/03/2020 13:35:02";"+0:00";"kevc";"Alarm";"EMERGENCY  Off";;i9WbKs
+376363;"18/03/2020 13:35:02";"+0:00";"kevc";"Alarm";"ALARM INFEED BELT MOTOR  Off";;+lrKQR
+376364;"18/03/2020 13:35:03";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR 2  Off";;vXHN6v
+376365;"18/03/2020 13:35:03";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR 3  Off";;EojXKX
+376366;"18/03/2020 13:35:03";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR  Off";;seypjT
+376367;"18/03/2020 13:35:34";"+0:00";"kevc";"Alarm: 3";"Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;qjtXvH
+376368;"18/03/2020 13:35:34";"+0:00";"kevc";"Alarm:";"EMERGENCY  Acknowledgment";;shTMSB
+376369;"18/03/2020 13:35:34";"+0:00";"kevc";"Alarm:";"COVER OPEN 1  Acknowledgment";;6b9l4L
+376370;"18/03/2020 13:35:34";"+0:00";"kevc";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;taE9Kt
+376371;"18/03/2020 13:35:34";"+0:00";"kevc";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;hVIQ+G
+376372;"18/03/2020 13:35:34";"+0:00";"kevc";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;wVylf5
+376373;"18/03/2020 13:35:34";"+0:00";"kevc";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;YSTQ4P
+376374;"18/03/2020 13:35:34";"+0:00";"kevc";"Alarm:";"COVER OPEN 2  Acknowledgment";;+uhivC
+376375;"18/03/2020 13:35:34";"+0:00";"kevc";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;I4OPxo
+376376;"18/03/2020 13:35:34";"+0:00";"kevc";"Alarm:";"COVER OPEN 4  Acknowledgment";;bBbZRe
+376377;"18/03/2020 13:35:34";"+0:00";"kevc";"Alarm:";"COVER OPEN 3  Acknowledgment";;hCEojQ
+376378;"18/03/2020 13:36:19";"+0:00";"kevc";"Alarm";"COVER OPEN 4  On";;K63sZm
+376379;"18/03/2020 13:36:19";"+0:00";"kevc";"Alarm";"EMERGENCY  On";;ZG/X2D
+376380;"18/03/2020 13:36:19";"+0:00";"kevc";"Alarm";"ALARM INFEED BELT MOTOR  On";;kAXFVs
+376381;"18/03/2020 13:36:19";"+0:00";"kevc";"Alarm";"COVER OPEN 3  On";;H+hAUO
+376382;"18/03/2020 13:36:19";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR  On";;iunzYy
+376383;"18/03/2020 13:36:19";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR 2  On";;ZiNc2w
+376384;"18/03/2020 13:36:19";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR 3  On";;J+egGC
+376385;"18/03/2020 13:36:32";"+0:00";"kevc";"Alarm";"COVER OPEN 3  Off";;nMkQgB
+376386;"18/03/2020 13:36:32";"+0:00";"kevc";"Alarm";"COVER OPEN 4  Off";;rRNQxN
+376387;"18/03/2020 13:36:32";"+0:00";"kevc";"Alarm";"EMERGENCY  Off";;NuSaQP
+376388;"18/03/2020 13:36:32";"+0:00";"kevc";"Alarm";"ALARM INFEED BELT MOTOR  Off";;UF0Hw0
+376389;"18/03/2020 13:36:33";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR  Off";;rv6ESq
+376390;"18/03/2020 13:36:33";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR 2  Off";;oIxSQX
+376391;"18/03/2020 13:36:33";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR 3  Off";;L4tu9G
+376392;"18/03/2020 13:39:11";"+0:00";"kevc";"Alarm";"EMERGENCY  On";;ADLFvb
+376393;"18/03/2020 13:39:11";"+0:00";"kevc";"Alarm";"COVER OPEN 2  On";;DOgrAp
+376394;"18/03/2020 13:39:11";"+0:00";"kevc";"Alarm";"ALARM INFEED BELT MOTOR  On";;732yA0
+376395;"18/03/2020 13:39:12";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR  On";;DaaqqK
+376396;"18/03/2020 13:39:12";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR 2  On";;rZBUj8
+376397;"18/03/2020 13:39:12";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR 3  On";;+D6FjI
+376398;"18/03/2020 13:39:24";"+0:00";"kevc";"Alarm";"COVER OPEN 1  On";;2xzbM/
+376399;"18/03/2020 13:42:11";"+0:00";"kevc";"Alarm";"COVER OPEN 4  On";;6y7FnJ
+376400;"18/03/2020 13:42:11";"+0:00";"kevc";"Alarm";"COVER OPEN 3  On";;zDblsS
+376401;"18/03/2020 13:42:22";"+0:00";"kevc";"Alarm";"COVER OPEN 1  Off";;h4deee
+376402;"18/03/2020 13:42:22";"+0:00";"kevc";"Alarm";"COVER OPEN 2  Off";;sdMgkO
+376403;"18/03/2020 13:42:22";"+0:00";"kevc";"Alarm";"COVER OPEN 3  Off";;Huup3g
+376404;"18/03/2020 13:42:22";"+0:00";"kevc";"Alarm";"COVER OPEN 4  Off";;39j3xZ
+376405;"18/03/2020 13:42:22";"+0:00";"kevc";"Alarm";"EMERGENCY  Off";;kd4OLi
+376406;"18/03/2020 13:42:22";"+0:00";"kevc";"Alarm";"ALARM INFEED BELT MOTOR  Off";;1ZrD1r
+376407;"18/03/2020 13:42:23";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR 2  Off";;4dwHoW
+376408;"18/03/2020 13:42:23";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR 3  Off";;rN3Ns+
+376409;"18/03/2020 13:42:23";"+0:00";"kevc";"Alarm";"ALARM ROTATION MOTOR  Off";;ARFaN2
+376410;"18/03/2020 13:45:41";"+0:00";"kevc";"Alarm";"ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  On";;wV0z0q
+376411;"18/03/2020 13:45:52";"+0:00";"kevc";"Alarm";"ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  Off";;8bcEYU
+376412;"18/03/2020 13:49:18";"+0:00";"kevc";"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  On";;6OGrOP
+376413;"18/03/2020 13:49:28";"+0:00";"kevc";"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  Off";;KP3sXA
+376414;"18/03/2020 13:59:41";"+0:00";"System";"User administration";"User logged off.";;FANIrk
+376415;"18/03/2020 14:04:33";"+0:00";;"Warning";"WARNING REJECTED TRAY 2 ALMOST FULL  On";;e8UeWs
+376416;"18/03/2020 14:04:44";"+0:00";;"Warning";"WARNING REJECTED TRAY 2 ALMOST FULL  Off";;RX0jEB
+376417;"18/03/2020 14:10:51";"+0:00";;"Alarm";"WARNING MISSING LOGIN OPERATION  On";;2iPtEF
+376418;"18/03/2020 14:43:39";"+0:00";"System";"User administration";"User 'robj' logged on with group 'Operator'.";;R9uAVA
+376419;"18/03/2020 14:44:22";"+0:00";"robj";"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  On";;/x/dXL
+376420;"18/03/2020 14:44:33";"+0:00";"robj";"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  Off";;VGS2Gx
+376421;"18/03/2020 14:44:59";"+0:00";"robj";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;zHcIGA
+376422;"18/03/2020 14:48:21";"+0:00";"robj";"Alarm: 1135";"Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.";;E9ggHQ
+376423;"18/03/2020 14:48:21";"+0:00";"robj";"Alarm:";"EMERGENCY  Acknowledgment";;t2I087
+376424;"18/03/2020 14:48:21";"+0:00";"robj";"Alarm:";"COVER OPEN 2  Acknowledgment";;uPc3m7
+376425;"18/03/2020 14:48:21";"+0:00";"robj";"Alarm:";"ALARM INFEED BELT MOTOR  Acknowledgment";;iF4Xl5
+376426;"18/03/2020 14:48:21";"+0:00";"robj";"Alarm:";"ALARM ROTATION MOTOR  Acknowledgment";;O932W0
+376427;"18/03/2020 14:48:21";"+0:00";"robj";"Alarm:";"ALARM ROTATION MOTOR 2  Acknowledgment";;SjrsqY
+376428;"18/03/2020 14:48:21";"+0:00";"robj";"Alarm:";"ALARM ROTATION MOTOR 3  Acknowledgment";;Cluwbw
+376429;"18/03/2020 14:48:21";"+0:00";"robj";"Alarm:";"COVER OPEN 1  Acknowledgment";;iBAv87
+376430;"18/03/2020 14:48:21";"+0:00";"robj";"Alarm:";"COVER OPEN 4  Acknowledgment";;Xy5zs0
+376431;"18/03/2020 14:48:21";"+0:00";"robj";"Alarm:";"COVER OPEN 3  Acknowledgment";;+DLxIW
+376432;"18/03/2020 14:48:21";"+0:00";"robj";"Alarm:";"ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  Acknowledgment";;hVtd5C
+376433;"18/03/2020 14:48:21";"+0:00";"robj";"Alarm:";"WARNING MISSING LOGIN OPERATION  Acknowledgment";;WI1L56
+376434;"18/03/2020 14:59:17";"+0:00";"robj";"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  On";;kimRLy
+376435;"18/03/2020 14:59:26";"+0:00";"robj";"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  Off";;Dc5DYw
+376436;"18/03/2020 15:03:23";"+0:00";"System";"User administration";"User logged off.";;+o5VYC
+376437;"18/03/2020 15:11:27";"+0:00";;"Warning";"WARNING REJECTED TRAY 2 ALMOST FULL  On";;DasOqM
+376438;"18/03/2020 15:11:38";"+0:00";;"Warning";"WARNING REJECTED TRAY 2 ALMOST FULL  Off";;+hEtxi
+376439;"18/03/2020 15:22:06";"+0:00";;"Warning";"WARNING REJECTED TRAY 2 ALMOST FULL  On";;JjLUc7
+376440;"18/03/2020 15:22:14";"+0:00";;"Warning";"WARNING REJECTED TRAY 2 ALMOST FULL  Off";;/TvfXU
+376441;"18/03/2020 15:22:25";"+0:00";;"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  On";;Ury8i2
+376442;"18/03/2020 15:22:32";"+0:00";;"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  Off";;dWGa9d
+376443;"18/03/2020 15:31:58";"+0:00";;"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  On";;LsAs2E
+376444;"18/03/2020 15:32:04";"+0:00";;"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  Off";;UUODUe
+376445;"18/03/2020 15:46:13";"+0:00";;"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  On";;BXZtpD
+376446;"18/03/2020 15:46:23";"+0:00";;"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  Off";;4wKJAg
+376447;"18/03/2020 15:55:05";"+0:00";;"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  On";;I5cMAu
+376448;"18/03/2020 15:55:23";"+0:00";;"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  Off";;COBImx
+376449;"18/03/2020 16:00:36";"+0:00";;"Warning";"WARNING REJECTED TRAY 2 ALMOST FULL  On";;AMO4jk
+376450;"18/03/2020 16:02:09";"+0:00";;"Alarm";"WARNING MISSING LOGIN OPERATION  On";;2+cZR6
+376451;"18/03/2020 16:02:25";"+0:00";"System";"User administration";"User 'robj' logged on with group 'Operator'.";;RikzZ2
+376452;"18/03/2020 16:02:26";"+0:00";"robj";"Alarm";"WARNING MISSING LOGIN OPERATION  Off";;M0ls52
+376453;"18/03/2020 16:03:41";"+0:00";"robj";"Alarm";"COVER OPEN 4  On";;MCfULd
+376454;"18/03/2020 16:03:41";"+0:00";"robj";"Alarm";"EMERGENCY  On";;z3y5wz
+376455;"18/03/2020 16:03:41";"+0:00";"robj";"Alarm";"COVER OPEN 3  On";;E2oH82
+376456;"18/03/2020 16:03:41";"+0:00";"robj";"Alarm";"ALARM INFEED BELT MOTOR  On";;Fx63cc
+376457;"18/03/2020 16:03:41";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR  On";;k7m1yS
+376458;"18/03/2020 16:03:41";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 2  On";;E2PzKq
+376459;"18/03/2020 16:03:41";"+0:00";"robj";"Alarm";"ALARM ROTATION MOTOR 3  On";;/J0HYl
+376460;"18/03/2020 16:05:04";"+0:00";"robj";"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  On";;RuuSUR
+376461;"18/03/2020 16:05:22";"+0:00";"robj";"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  Off";;QeI1/2
+376462;"18/03/2020 16:05:26";"+0:00";"robj";"Warning";"WARNING REJECTED TRAY 2 ALMOST FULL  Off";;cW9hHr
+376463;"18/03/2020 16:09:56";"+0:00";"robj";"Alarm";"ALARM PROFIBUS NODE 3 (ENCODER)  On";;8xb6Ot
+376464;"18/03/2020 16:09:56";"+0:00";"robj";"Warning";"WARNING UPS  On";;RtUSSe
+376465;"18/03/2020 16:09:56";"+0:00";"robj";"Warning";"ALARM VACUUM SENSOR  On";;7GAsM9
+376466;"18/03/2020 16:09:59";"+0:00";"robj";"Warning";"WARNING ACCEPTED TRAY ALMOST FULL  On";;NZVY+U
+376467;"18/03/2020 16:09:59";"+0:00";"robj";"Warning";"WARNING REJECTED TRAY 1 ALMOST FULL  On";;j8ajGr
+376468;"18/03/2020 16:09:59";"+0:00";"robj";"Warning";"WARNING REJECTED TRAY 2 ALMOST FULL  On";;JPbeQq
+376469;"18/03/2020 16:10:08";"+0:00";"System";"Application";"Shutdown application due to a power supply failure.";;RDev5/
+0;"18/03/2020 16:10:08";"+0:00";"System";"Application";"Stopping program run of WinCC flexible RT 2008 SP3 on device MCA150-Via.";;xKqX0c
+0;"19/03/2020 08:02:41";"+0:00";"System";"Application";"Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3";;Pa6eRE
+376470;"19/03/2020 08:02:41";"+0:00";"System";"Application";"Change to operating mode 'online'.";;J9mxFS
+376471;"19/03/2020 08:02:41";"+0:00";"System";"User administration";"Password list imported successfully.";;GeB/10
+0;"19/03/2020 08:02:43";"+0:00";"System";"Logs";"Log files closed.";;JB5zaG
+"$RT_COUNT$";781;WriK3w;;;;;QYS+xl

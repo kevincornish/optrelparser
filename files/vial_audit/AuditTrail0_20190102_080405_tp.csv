@@ -1,0 +1,878 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"31/12/2018 11:21:18","+0:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,tTCnze
+344353,"31/12/2018 11:21:18","+0:00","System","Logs","Exporting a log.",,sxhNCI
+344354,"31/12/2018 11:21:32","+0:00",,"Recipe","Loading recipe number 3 ( 50ml Production ) on the interface.",,z85SJP
+344355,"31/12/2018 11:21:32","+0:00",,"Recipe","Data trasfered to PLC",,filaxG
+344356,"31/12/2018 11:21:33","+0:00",,"Warning","ALARM VACUUM SENSOR  On",,kSiZo4
+344357,"31/12/2018 11:21:33","+0:00",,"Warning","PVSI NOT READY  On",,MHFW44
+344358,"31/12/2018 11:21:33","+0:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,TGzXuA
+344359,"31/12/2018 11:21:33","+0:00",,"Warning","PVSI NOT RUNNING   On",,gaQ59O
+344360,"31/12/2018 11:21:33","+0:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,WkmQsg
+344361,"31/12/2018 11:21:33","+0:00",,"Alarm","EMERGENCY  On",,2dZKcg
+344362,"31/12/2018 11:21:33","+0:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,I7zBgv
+344363,"31/12/2018 11:21:33","+0:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,0c4PJY
+344364,"31/12/2018 11:21:33","+0:00",,"Alarm","ALARM TURRET MOTOR NOT READY  On",,aTSkPO
+344365,"31/12/2018 11:21:33","+0:00",,"Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,Xr/IWU
+344366,"31/12/2018 11:21:33","+0:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,L6cSaA
+344367,"31/12/2018 11:21:33","+0:00",,"Alarm","ALARM ROTATION MOTOR  On",,zUbyq2
+344368,"31/12/2018 11:21:33","+0:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,5a/t3W
+344369,"31/12/2018 11:21:33","+0:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,0v8KI6
+344370,"31/12/2018 11:21:33","+0:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,EEO3Mj
+344371,"31/12/2018 11:21:33","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,fmFkUC
+344372,"31/12/2018 11:21:33","+0:00",,"Warning","PVSI NOT RUNNING   Off",,KJqtQa
+344373,"31/12/2018 11:21:41","+0:00","System","User administration","User 'knapps' logged on with group 'Administrator'.",,y6rpJf
+344374,"31/12/2018 11:21:41","+0:00","knapps","Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,ogsUrp
+344375,"31/12/2018 11:21:44","+0:00","knapps","Warning","ALARM VACUUM SENSOR  Off",,JwwHy/
+344376,"31/12/2018 11:21:44","+0:00","knapps","Warning","PVSI NOT READY  Off",,UpY6Gt
+344377,"31/12/2018 11:21:44","+0:00","knapps","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,Vsybop
+344378,"31/12/2018 11:21:44","+0:00","knapps","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  Off",,Ptcaq3
+344379,"31/12/2018 11:21:44","+0:00","knapps","Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,hfWTv9
+344380,"31/12/2018 11:21:44","+0:00","knapps","Alarm","ALARM TURRET MOTOR NOT READY  Off",,TLUZl2
+344381,"31/12/2018 11:21:44","+0:00","knapps","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  Off",,TNpDVL
+344382,"31/12/2018 11:21:44","+0:00","knapps","Alarm","WARNING MISSING LOGIN OPERATION  Off",,eMM7Np
+344383,"31/12/2018 11:21:44","+0:00","knapps","Alarm","EMERGENCY  Off",,NWvFpE
+344384,"31/12/2018 11:21:44","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,2tkp2h
+344385,"31/12/2018 11:21:45","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,hdH4e+
+344386,"31/12/2018 11:21:45","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,fm+OPd
+344387,"31/12/2018 11:21:45","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,e+ROLY
+344388,"31/12/2018 11:21:49","+0:00","knapps","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,D83QQI
+344389,"31/12/2018 11:23:36","+0:00","knapps","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  Off",,src7qU
+344390,"31/12/2018 11:23:37","+0:00","knapps","Alarm: 276","Acknowledgment of 276 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,iMQYSv
+344391,"31/12/2018 11:23:37","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,Io/LyO
+344392,"31/12/2018 11:23:37","+0:00","knapps","Alarm:","ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment",,Mg27Qa
+344393,"31/12/2018 11:23:37","+0:00","knapps","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,XN799L
+344394,"31/12/2018 11:23:37","+0:00","knapps","Alarm:","ALARM TURRET MOTOR NOT READY  Acknowledgment",,k+VACk
+344395,"31/12/2018 11:23:37","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,V4kjRe
+344396,"31/12/2018 11:23:37","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,duPKKt
+344397,"31/12/2018 11:23:37","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,QVeL92
+344398,"31/12/2018 11:23:37","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,zFt/Cq
+344399,"31/12/2018 11:23:37","+0:00","knapps","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,mxxRFo
+344400,"31/12/2018 11:23:37","+0:00","knapps","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,VIK1A6
+344401,"31/12/2018 11:23:37","+0:00","knapps","Alarm:","ALARM HOMING NOT DONE TURRET MOTOR  Acknowledgment",,P8ZzUn
+344402,"31/12/2018 11:23:37","+0:00","knapps","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,uGl1VC
+344403,"31/12/2018 11:23:37","+0:00","knapps","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,FHpoBn
+344404,"31/12/2018 11:23:39","+0:00","knapps","Alarm","EMERGENCY  On",,0S8B42
+344405,"31/12/2018 11:23:39","+0:00","knapps","Alarm","COVER OPEN 1  On",,WMGEhW
+344406,"31/12/2018 11:23:39","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,MGBLIo
+344407,"31/12/2018 11:23:39","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,EgB5Ex
+344408,"31/12/2018 11:23:39","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,/o+VrG
+344409,"31/12/2018 11:23:39","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,ur0oD7
+344410,"31/12/2018 11:23:47","+0:00","knapps","Warning","KNAPP READY TO START  On",,s80C7L
+344411,"31/12/2018 11:23:51","+0:00","knapps","Alarm","COVER OPEN 1  Off",,PyZ+Xf
+344412,"31/12/2018 11:23:52","+0:00","knapps","Alarm","EMERGENCY  Off",,FPfbfM
+344413,"31/12/2018 11:23:52","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,ga4nuu
+344414,"31/12/2018 11:23:52","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,uXoidd
+344415,"31/12/2018 11:23:52","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,AMab6C
+344416,"31/12/2018 11:23:52","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,7z9NmK
+344417,"31/12/2018 11:23:53","+0:00","knapps","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Y9djz9
+344418,"31/12/2018 11:23:53","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,tlk4ag
+344419,"31/12/2018 11:23:53","+0:00","knapps","Alarm:","COVER OPEN 1  Acknowledgment",,VBYacX
+344420,"31/12/2018 11:23:53","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,6jVvPH
+344421,"31/12/2018 11:23:53","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,wAo7y2
+344422,"31/12/2018 11:23:53","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,IVAUar
+344423,"31/12/2018 11:23:53","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,3GAop9
+344424,"31/12/2018 11:23:53","+0:00","knapps","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,oFZBMF
+344425,"31/12/2018 11:23:55","+0:00","knapps","Warning","KNAPP READY TO START  Off",,w3maJL
+344426,"31/12/2018 11:23:55","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,M21fd6
+344427,"31/12/2018 11:24:03","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,2c8gUi
+344428,"31/12/2018 11:24:03","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,rj8B7F
+344429,"31/12/2018 11:26:00","+0:00","knapps","Warning","ALARM VACUUM SENSOR  On",,xl98uh
+344430,"31/12/2018 11:26:00","+0:00","knapps","Warning","KNAPP ABORTED  On",,rLdlGC
+344431,"31/12/2018 11:26:00","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,Iaekoe
+344432,"31/12/2018 11:26:14","+0:00","knapps","Recipe","Loading recipe number 4 ( 100ml Production ) on the interface.",,7g77iH
+344433,"31/12/2018 11:26:14","+0:00","knapps","Recipe","Data trasfered to PLC",,OtKAxc
+344434,"31/12/2018 11:26:14","+0:00","knapps","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,ZttVxr
+344435,"31/12/2018 11:26:17","+0:00","knapps","Warning","PVSI NOT RUNNING   On",,VG7Wbm
+344436,"31/12/2018 11:26:19","+0:00","knapps","Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,bADseN
+344437,"31/12/2018 11:26:20","+0:00","knapps","Warning","PVSI NOT RUNNING   Off",,K9SWvf
+344438,"31/12/2018 11:27:39","+0:00","knapps","Warning","ALARM VACUUM SENSOR  Off",,ws0X20
+344439,"31/12/2018 11:27:39","+0:00","knapps","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,y57YZC
+344440,"31/12/2018 11:27:39","+0:00","knapps","Warning","KNAPP ABORTED  Off",,e+wgSX
+344441,"31/12/2018 11:27:39","+0:00","knapps","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  Off",,Tl3Tcb
+344442,"31/12/2018 11:27:46","+0:00","knapps","Warning","PVSI NOT READY  On",,dt/KNj
+344443,"31/12/2018 11:28:22","+0:00","knapps","Warning","KNAPP READY TO START  On",,RM/HeE
+344444,"31/12/2018 11:28:24","+0:00","knapps","Warning","KNAPP READY TO START  Off",,hsZqoA
+344445,"31/12/2018 11:28:24","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,tnPqVQ
+344446,"31/12/2018 11:28:24","+0:00","knapps","Alarm: 276","Acknowledgment of 276 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Dr0m9M
+344447,"31/12/2018 11:28:24","+0:00","knapps","Alarm:","ALARM HOMING NOT DONE TURRET MOTOR  Acknowledgment",,EesXvR
+344448,"31/12/2018 11:28:25","+0:00","knapps","Alarm: 2144","Acknowledgment of alarm 2144 of PLC MCA200+LKD.",,281Ppd
+344449,"31/12/2018 11:28:25","+0:00","knapps","Alarm: 2144","Acknowledgment of alarm 2144 of PLC MCA200+LKD.",,XgHf2S
+344450,"31/12/2018 11:28:25","+0:00","knapps","Alarm: 2144","Acknowledgment of alarm 2144 of PLC MCA200+LKD.",,NLGf2c
+344451,"31/12/2018 11:28:25","+0:00","knapps","Alarm: 2144","Acknowledgment of alarm 2144 of PLC MCA200+LKD.",,2Ku7jO
+344452,"31/12/2018 11:28:31","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,1AGJiU
+344453,"31/12/2018 11:28:31","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,npgV0p
+344454,"31/12/2018 11:31:40","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,qdIkX+
+344455,"31/12/2018 11:31:40","+0:00","knapps","Warning","KNAPP READY TO START  On",,YTFvX8
+344456,"31/12/2018 11:31:40","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,n9RX+b
+344457,"31/12/2018 11:31:46","+0:00","knapps","Alarm","COVER OPEN 3  On",,003F0O
+344458,"31/12/2018 11:31:46","+0:00","knapps","Alarm","EMERGENCY  On",,ExawIk
+344459,"31/12/2018 11:31:46","+0:00","knapps","Alarm","COVER OPEN 4  On",,8wcp7Z
+344460,"31/12/2018 11:31:46","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,teTPLY
+344461,"31/12/2018 11:31:46","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,zg+scL
+344462,"31/12/2018 11:31:46","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,PmX1k9
+344463,"31/12/2018 11:31:46","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,SAZ75k
+344464,"31/12/2018 11:32:06","+0:00","knapps","Alarm","COVER OPEN 1  On",,3Dy26w
+344465,"31/12/2018 11:32:06","+0:00","knapps","Alarm","COVER OPEN 2  On",,8utp2T
+344466,"31/12/2018 11:33:32","+0:00","knapps","Warning","PVSI NOT READY  Off",,05kCtF
+344467,"31/12/2018 11:33:32","+0:00","knapps","Alarm","COVER OPEN 1  Off",,mSxDEm
+344468,"31/12/2018 11:33:32","+0:00","knapps","Alarm","COVER OPEN 2  Off",,6AJ6yb
+344469,"31/12/2018 11:33:32","+0:00","knapps","Alarm","COVER OPEN 3  Off",,sZ5NSU
+344470,"31/12/2018 11:33:32","+0:00","knapps","Alarm","COVER OPEN 4  Off",,tszQbO
+344471,"31/12/2018 11:33:32","+0:00","knapps","Alarm","EMERGENCY  Off",,yg3zLK
+344472,"31/12/2018 11:33:32","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,pWVnQI
+344473,"31/12/2018 11:33:33","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,IKpdRI
+344474,"31/12/2018 11:33:33","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,f6nzYV
+344475,"31/12/2018 11:33:33","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,Tenst3
+344476,"31/12/2018 11:33:40","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,2uOE2d
+344477,"31/12/2018 11:33:40","+0:00","knapps","Warning","KNAPP READY TO START  Off",,2mtjhx
+344478,"31/12/2018 11:33:40","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,tnbzZq
+344479,"31/12/2018 11:33:45","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,o5BIea
+344480,"31/12/2018 11:33:45","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,bKbW33
+344481,"31/12/2018 11:36:54","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,zTpGhS
+344482,"31/12/2018 11:36:54","+0:00","knapps","Warning","KNAPP READY TO START  On",,Rqn2Ks
+344483,"31/12/2018 11:36:54","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,E+6loo
+344484,"31/12/2018 11:37:10","+0:00","knapps","Alarm","EMERGENCY  On",,KxzfRc
+344485,"31/12/2018 11:37:10","+0:00","knapps","Alarm","COVER OPEN 3  On",,6kq4/1
+344486,"31/12/2018 11:37:10","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,fIfKqK
+344487,"31/12/2018 11:37:10","+0:00","knapps","Alarm","COVER OPEN 4  On",,2Ye74M
+344488,"31/12/2018 11:37:10","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,P4PVgn
+344489,"31/12/2018 11:37:10","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,D028mh
+344490,"31/12/2018 11:37:10","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,eRvpXZ
+344491,"31/12/2018 11:37:16","+0:00","knapps","Warning","PVSI NOT READY  On",,YsV6dq
+344492,"31/12/2018 11:37:29","+0:00","knapps","Alarm","COVER OPEN 1  On",,D/x/5I
+344493,"31/12/2018 11:37:29","+0:00","knapps","Alarm","COVER OPEN 2  On",,Jt86aG
+344494,"31/12/2018 11:38:31","+0:00","knapps","Warning","PVSI NOT READY  Off",,oSbNUy
+344495,"31/12/2018 11:38:31","+0:00","knapps","Alarm","COVER OPEN 1  Off",,XYpua1
+344496,"31/12/2018 11:38:31","+0:00","knapps","Alarm","COVER OPEN 2  Off",,Uo0Y2N
+344497,"31/12/2018 11:38:31","+0:00","knapps","Alarm","COVER OPEN 3  Off",,kvxn0z
+344498,"31/12/2018 11:38:31","+0:00","knapps","Alarm","COVER OPEN 4  Off",,gohHK0
+344499,"31/12/2018 11:38:31","+0:00","knapps","Alarm","EMERGENCY  Off",,IKneyJ
+344500,"31/12/2018 11:38:31","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,jXvWez
+344501,"31/12/2018 11:38:32","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,P04VGX
+344502,"31/12/2018 11:38:32","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,v3BuXU
+344503,"31/12/2018 11:38:32","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,lxlT7Q
+344504,"31/12/2018 11:38:34","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,7lU/iP
+344505,"31/12/2018 11:38:34","+0:00","knapps","Warning","KNAPP READY TO START  Off",,gHeWZK
+344506,"31/12/2018 11:38:34","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,o1xP4z
+344507,"31/12/2018 11:38:39","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,bqWawY
+344508,"31/12/2018 11:38:39","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,ixoUU8
+344509,"31/12/2018 11:41:48","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,zEGFDF
+344510,"31/12/2018 11:41:48","+0:00","knapps","Warning","KNAPP READY TO START  On",,sJZESw
+344511,"31/12/2018 11:41:48","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,FEo353
+344512,"31/12/2018 11:41:52","+0:00","knapps","Warning","PVSI NOT READY  On",,d2np7k
+344513,"31/12/2018 11:42:02","+0:00","knapps","Alarm","EMERGENCY  On",,ZwrvLZ
+344514,"31/12/2018 11:42:02","+0:00","knapps","Alarm","COVER OPEN 4  On",,x1mySJ
+344515,"31/12/2018 11:42:02","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,HF8Qmm
+344516,"31/12/2018 11:42:03","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,OEXW/e
+344517,"31/12/2018 11:42:03","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,2DOCEy
+344518,"31/12/2018 11:42:03","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,8myU3G
+344519,"31/12/2018 11:42:03","+0:00","knapps","Alarm","COVER OPEN 3  On",,vTpoz4
+344520,"31/12/2018 11:42:21","+0:00","knapps","Alarm","COVER OPEN 2  On",,zP0Izc
+344521,"31/12/2018 11:42:21","+0:00","knapps","Alarm","COVER OPEN 1  On",,R4xVm6
+344522,"31/12/2018 11:43:26","+0:00","knapps","Warning","PVSI NOT READY  Off",,i5hSfV
+344523,"31/12/2018 11:43:26","+0:00","knapps","Alarm","COVER OPEN 1  Off",,OMx/E4
+344524,"31/12/2018 11:43:26","+0:00","knapps","Alarm","COVER OPEN 2  Off",,xdmrVM
+344525,"31/12/2018 11:43:26","+0:00","knapps","Alarm","COVER OPEN 3  Off",,W4k6DK
+344526,"31/12/2018 11:43:26","+0:00","knapps","Alarm","COVER OPEN 4  Off",,FBaMNs
+344527,"31/12/2018 11:43:26","+0:00","knapps","Alarm","EMERGENCY  Off",,8WphYi
+344528,"31/12/2018 11:43:26","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,VB22Fj
+344529,"31/12/2018 11:43:27","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,Yr0KIb
+344530,"31/12/2018 11:43:27","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,65uJFM
+344531,"31/12/2018 11:43:27","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,J+7Yfc
+344532,"31/12/2018 11:43:27","+0:00","knapps","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Zm7Slj
+344533,"31/12/2018 11:43:27","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,sMfqGp
+344534,"31/12/2018 11:43:27","+0:00","knapps","Alarm:","COVER OPEN 4  Acknowledgment",,tr/gJT
+344535,"31/12/2018 11:43:27","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,6oP34/
+344536,"31/12/2018 11:43:27","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,G673S/
+344537,"31/12/2018 11:43:27","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,yvuawQ
+344538,"31/12/2018 11:43:27","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,8ywrA+
+344539,"31/12/2018 11:43:27","+0:00","knapps","Alarm:","COVER OPEN 3  Acknowledgment",,+jPCKd
+344540,"31/12/2018 11:43:27","+0:00","knapps","Alarm:","COVER OPEN 2  Acknowledgment",,slOgI+
+344541,"31/12/2018 11:43:27","+0:00","knapps","Alarm:","COVER OPEN 1  Acknowledgment",,Uka0sv
+344542,"31/12/2018 11:43:27","+0:00","knapps","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,ZDcgAF
+344543,"31/12/2018 11:43:29","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,jppWrq
+344544,"31/12/2018 11:43:29","+0:00","knapps","Warning","KNAPP READY TO START  Off",,R7dkAD
+344545,"31/12/2018 11:43:29","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,hEhu66
+344546,"31/12/2018 11:43:34","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,BTK3h+
+344547,"31/12/2018 11:43:34","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,14zsHy
+344548,"31/12/2018 11:46:43","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,DNBBW8
+344549,"31/12/2018 11:46:43","+0:00","knapps","Warning","KNAPP READY TO START  On",,fqYW41
+344550,"31/12/2018 11:46:43","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,RSi0+x
+344551,"31/12/2018 11:46:45","+0:00","knapps","Warning","PVSI NOT READY  On",,ga9ofa
+344552,"31/12/2018 11:46:54","+0:00","knapps","Alarm","EMERGENCY  On",,8WMB4z
+344553,"31/12/2018 11:46:54","+0:00","knapps","Alarm","COVER OPEN 4  On",,pOxSrw
+344554,"31/12/2018 11:46:54","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,SbFBme
+344555,"31/12/2018 11:46:54","+0:00","knapps","Alarm","COVER OPEN 3  On",,uMgHUg
+344556,"31/12/2018 11:46:54","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,YMt40f
+344557,"31/12/2018 11:46:54","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,uDda/o
+344558,"31/12/2018 11:46:54","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,L0YTmd
+344559,"31/12/2018 11:47:10","+0:00","knapps","Alarm","COVER OPEN 1  On",,0MKKo+
+344560,"31/12/2018 11:47:10","+0:00","knapps","Alarm","COVER OPEN 2  On",,tRstxQ
+344561,"31/12/2018 11:48:32","+0:00","knapps","Warning","PVSI NOT READY  Off",,XInvQg
+344562,"31/12/2018 11:48:32","+0:00","knapps","Alarm","COVER OPEN 1  Off",,8M1uMX
+344563,"31/12/2018 11:48:32","+0:00","knapps","Alarm","COVER OPEN 2  Off",,Jy7W+N
+344564,"31/12/2018 11:48:32","+0:00","knapps","Alarm","COVER OPEN 3  Off",,Wb3Az2
+344565,"31/12/2018 11:48:32","+0:00","knapps","Alarm","COVER OPEN 4  Off",,m79Xa6
+344566,"31/12/2018 11:48:32","+0:00","knapps","Alarm","EMERGENCY  Off",,pO1cJF
+344567,"31/12/2018 11:48:32","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,Nd5WP9
+344568,"31/12/2018 11:48:33","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,ChPPpd
+344569,"31/12/2018 11:48:33","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,0qS7BG
+344570,"31/12/2018 11:48:33","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,kMf1r/
+344571,"31/12/2018 11:48:35","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,Kd40Qk
+344572,"31/12/2018 11:48:35","+0:00","knapps","Warning","KNAPP READY TO START  Off",,DgST1J
+344573,"31/12/2018 11:48:35","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,d+XyIf
+344574,"31/12/2018 11:48:40","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,C7gBEu
+344575,"31/12/2018 11:48:40","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,zLFV6U
+344576,"31/12/2018 11:51:49","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,BQaufy
+344577,"31/12/2018 11:51:49","+0:00","knapps","Warning","KNAPP READY TO START  On",,sonQM6
+344578,"31/12/2018 11:51:49","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,tXc5Ve
+344579,"31/12/2018 11:51:51","+0:00","knapps","Warning","PVSI NOT READY  On",,NIliUe
+344580,"31/12/2018 11:52:00","+0:00","knapps","Alarm","EMERGENCY  On",,Wwwa5T
+344581,"31/12/2018 11:52:00","+0:00","knapps","Alarm","COVER OPEN 4  On",,Ep/r4G
+344582,"31/12/2018 11:52:00","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,p1vfqG
+344583,"31/12/2018 11:52:00","+0:00","knapps","Alarm","COVER OPEN 3  On",,Ppdu1j
+344584,"31/12/2018 11:52:00","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,geHowq
+344585,"31/12/2018 11:52:00","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,vRxWFO
+344586,"31/12/2018 11:52:00","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,7TmAJW
+344587,"31/12/2018 11:52:14","+0:00","knapps","Alarm","COVER OPEN 2  On",,wlMhOl
+344588,"31/12/2018 11:52:15","+0:00","knapps","Alarm","COVER OPEN 1  On",,foIyDy
+344589,"31/12/2018 11:54:15","+0:00","knapps","Warning","PVSI NOT READY  Off",,0FMdcv
+344590,"31/12/2018 11:54:15","+0:00","knapps","Alarm","COVER OPEN 1  Off",,3v5ZLQ
+344591,"31/12/2018 11:54:15","+0:00","knapps","Alarm","COVER OPEN 2  Off",,6tQ8DZ
+344592,"31/12/2018 11:54:15","+0:00","knapps","Alarm","COVER OPEN 3  Off",,fYcoSZ
+344593,"31/12/2018 11:54:15","+0:00","knapps","Alarm","COVER OPEN 4  Off",,kccGqG
+344594,"31/12/2018 11:54:15","+0:00","knapps","Alarm","EMERGENCY  Off",,aCAZTJ
+344595,"31/12/2018 11:54:15","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,k6c7Jw
+344596,"31/12/2018 11:54:16","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,tCJZgd
+344597,"31/12/2018 11:54:16","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,Z6lqRn
+344598,"31/12/2018 11:54:16","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,lRIIAD
+344599,"31/12/2018 11:54:17","+0:00","knapps","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,IATPwV
+344600,"31/12/2018 11:54:17","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,y7Kw1B
+344601,"31/12/2018 11:54:17","+0:00","knapps","Alarm:","COVER OPEN 4  Acknowledgment",,nyoj5g
+344602,"31/12/2018 11:54:17","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,1DgUyZ
+344603,"31/12/2018 11:54:17","+0:00","knapps","Alarm:","COVER OPEN 3  Acknowledgment",,XlLYX3
+344604,"31/12/2018 11:54:17","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,acCsAx
+344605,"31/12/2018 11:54:17","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,5Z62mD
+344606,"31/12/2018 11:54:17","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,X5ZRRx
+344607,"31/12/2018 11:54:17","+0:00","knapps","Alarm:","COVER OPEN 2  Acknowledgment",,xtHu+O
+344608,"31/12/2018 11:54:17","+0:00","knapps","Alarm:","COVER OPEN 1  Acknowledgment",,GXUD3a
+344609,"31/12/2018 11:54:17","+0:00","knapps","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,2w5hmr
+344610,"31/12/2018 11:54:18","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,Y9HKFm
+344611,"31/12/2018 11:54:18","+0:00","knapps","Warning","KNAPP READY TO START  Off",,WYhf/O
+344612,"31/12/2018 11:54:18","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,AEXj9j
+344613,"31/12/2018 11:54:23","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,fm1QzK
+344614,"31/12/2018 11:54:23","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,SoOM/m
+344615,"31/12/2018 11:57:32","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,i3g/sn
+344616,"31/12/2018 11:57:32","+0:00","knapps","Warning","KNAPP READY TO START  On",,2AhwjY
+344617,"31/12/2018 11:57:32","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,4EwJFW
+344618,"31/12/2018 11:57:37","+0:00","knapps","Warning","PVSI NOT READY  On",,fbu4Yj
+344619,"31/12/2018 11:57:45","+0:00","knapps","Alarm","EMERGENCY  On",,hoJe8H
+344620,"31/12/2018 11:57:45","+0:00","knapps","Alarm","COVER OPEN 4  On",,nUtdbn
+344621,"31/12/2018 11:57:45","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,DBrrip
+344622,"31/12/2018 11:57:45","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,MUf671
+344623,"31/12/2018 11:57:45","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,zChqBo
+344624,"31/12/2018 11:57:45","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,4voTB/
+344625,"31/12/2018 11:57:46","+0:00","knapps","Alarm","COVER OPEN 3  On",,jp51JB
+344626,"31/12/2018 11:57:53","+0:00","knapps","Alarm","COVER OPEN 2  On",,BecMmj
+344627,"31/12/2018 11:57:53","+0:00","knapps","Alarm","COVER OPEN 1  On",,g2n3ll
+344628,"31/12/2018 11:59:52","+0:00","knapps","Warning","PVSI NOT READY  Off",,H/SvOB
+344629,"31/12/2018 11:59:52","+0:00","knapps","Alarm","COVER OPEN 1  Off",,UV18f5
+344630,"31/12/2018 11:59:52","+0:00","knapps","Alarm","COVER OPEN 2  Off",,hD2Wfq
+344631,"31/12/2018 11:59:52","+0:00","knapps","Alarm","COVER OPEN 3  Off",,drkNvl
+344632,"31/12/2018 11:59:52","+0:00","knapps","Alarm","COVER OPEN 4  Off",,2rPIZG
+344633,"31/12/2018 11:59:53","+0:00","knapps","Alarm","EMERGENCY  Off",,7YXawj
+344634,"31/12/2018 11:59:53","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,1nLnUJ
+344635,"31/12/2018 11:59:54","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,SeW3G6
+344636,"31/12/2018 11:59:54","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,vW80qI
+344637,"31/12/2018 11:59:54","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,p/eNHW
+344638,"31/12/2018 11:59:54","+0:00","knapps","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,0y90GQ
+344639,"31/12/2018 11:59:54","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,WAC9XX
+344640,"31/12/2018 11:59:54","+0:00","knapps","Alarm:","COVER OPEN 4  Acknowledgment",,gQimeV
+344641,"31/12/2018 11:59:54","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,f+AnIG
+344642,"31/12/2018 11:59:54","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,YPL4ua
+344643,"31/12/2018 11:59:54","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,x2IY7D
+344644,"31/12/2018 11:59:54","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,XCnXoN
+344645,"31/12/2018 11:59:54","+0:00","knapps","Alarm:","COVER OPEN 3  Acknowledgment",,xHakdi
+344646,"31/12/2018 11:59:54","+0:00","knapps","Alarm:","COVER OPEN 2  Acknowledgment",,iDPWGT
+344647,"31/12/2018 11:59:54","+0:00","knapps","Alarm:","COVER OPEN 1  Acknowledgment",,+fSy92
+344648,"31/12/2018 11:59:54","+0:00","knapps","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,1pMe2q
+344649,"31/12/2018 11:59:56","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,Krr3OX
+344650,"31/12/2018 11:59:56","+0:00","knapps","Warning","KNAPP READY TO START  Off",,zYIm6T
+344651,"31/12/2018 11:59:56","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,q4aBS/
+344652,"31/12/2018 12:00:01","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,H1tWPj
+344653,"31/12/2018 12:00:01","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,M/4n3T
+344654,"31/12/2018 12:03:09","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,agRgwE
+344655,"31/12/2018 12:03:09","+0:00","knapps","Warning","KNAPP READY TO START  On",,pu6/oT
+344656,"31/12/2018 12:03:09","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,ksFXAy
+344657,"31/12/2018 12:03:12","+0:00","knapps","Alarm","EMERGENCY  On",,JpHhRH
+344658,"31/12/2018 12:03:12","+0:00","knapps","Alarm","COVER OPEN 3  On",,67oOvC
+344659,"31/12/2018 12:03:12","+0:00","knapps","Alarm","COVER OPEN 4  On",,0f6WeJ
+344660,"31/12/2018 12:03:12","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,gogNUq
+344661,"31/12/2018 12:03:13","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,Ycz81p
+344662,"31/12/2018 12:03:13","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,lrsYQC
+344663,"31/12/2018 12:03:13","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,PtvsTw
+344664,"31/12/2018 12:04:08","+0:00","knapps","Alarm","COVER OPEN 2  On",,4+UWfB
+344665,"31/12/2018 12:04:10","+0:00","knapps","Alarm","COVER OPEN 1  On",,uJP6dr
+344666,"31/12/2018 12:07:37","+0:00","knapps","Alarm","COVER OPEN 1  Off",,wwnNpY
+344667,"31/12/2018 12:07:37","+0:00","knapps","Alarm","COVER OPEN 2  Off",,Q2c0Mv
+344668,"31/12/2018 12:07:37","+0:00","knapps","Alarm","COVER OPEN 3  Off",,icSNOF
+344669,"31/12/2018 12:07:37","+0:00","knapps","Alarm","COVER OPEN 4  Off",,Hmu58S
+344670,"31/12/2018 12:07:37","+0:00","knapps","Alarm","EMERGENCY  Off",,OQxxux
+344671,"31/12/2018 12:07:37","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,IHGPuh
+344672,"31/12/2018 12:07:38","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,oG9DTi
+344673,"31/12/2018 12:07:38","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,WQohd8
+344674,"31/12/2018 12:07:38","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,8QYVcO
+344675,"31/12/2018 12:07:40","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,Ckg0hM
+344676,"31/12/2018 12:07:40","+0:00","knapps","Warning","KNAPP READY TO START  Off",,t8fXSI
+344677,"31/12/2018 12:07:40","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,7NgSkU
+344678,"31/12/2018 12:07:45","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,s+Rkkt
+344679,"31/12/2018 12:07:45","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,Y+TgnC
+344680,"31/12/2018 12:10:54","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,T3I8fd
+344681,"31/12/2018 12:10:54","+0:00","knapps","Warning","KNAPP READY TO START  On",,xdCDuD
+344682,"31/12/2018 12:10:54","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,IITgGb
+344683,"31/12/2018 12:10:56","+0:00","knapps","Alarm","EMERGENCY  On",,JooDSq
+344684,"31/12/2018 12:10:56","+0:00","knapps","Alarm","COVER OPEN 3  On",,iV8X5D
+344685,"31/12/2018 12:10:56","+0:00","knapps","Alarm","COVER OPEN 4  On",,MErFTl
+344686,"31/12/2018 12:10:56","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,zKJXVd
+344687,"31/12/2018 12:10:57","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,d6/T5l
+344688,"31/12/2018 12:10:57","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,7g+j0k
+344689,"31/12/2018 12:10:57","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,hkfRn2
+344690,"31/12/2018 12:11:41","+0:00","knapps","Alarm","COVER OPEN 1  On",,Spx2vi
+344691,"31/12/2018 12:11:41","+0:00","knapps","Alarm","COVER OPEN 2  On",,Ivq9rX
+344692,"31/12/2018 12:13:03","+0:00","knapps","Warning","PVSI NOT READY  On",,GOSSVT
+344693,"31/12/2018 12:13:57","+0:00","knapps","Warning","PVSI NOT READY  Off",,JS5/sM
+344694,"31/12/2018 12:13:57","+0:00","knapps","Alarm","COVER OPEN 1  Off",,DiWPMZ
+344695,"31/12/2018 12:13:57","+0:00","knapps","Alarm","COVER OPEN 2  Off",,EkZlIY
+344696,"31/12/2018 12:13:57","+0:00","knapps","Alarm","COVER OPEN 3  Off",,9zM8K8
+344697,"31/12/2018 12:13:57","+0:00","knapps","Alarm","COVER OPEN 4  Off",,sH4J7K
+344698,"31/12/2018 12:13:57","+0:00","knapps","Alarm","EMERGENCY  Off",,KSriip
+344699,"31/12/2018 12:13:57","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,5nuHn9
+344700,"31/12/2018 12:13:58","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,JtepcR
+344701,"31/12/2018 12:13:58","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,dA7ukt
+344702,"31/12/2018 12:13:58","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,zInb+h
+344703,"31/12/2018 12:14:00","+0:00","knapps","Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,WOq6E2
+344704,"31/12/2018 12:14:00","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,keg1yN
+344705,"31/12/2018 12:14:00","+0:00","knapps","Alarm:","COVER OPEN 3  Acknowledgment",,iXjlwk
+344706,"31/12/2018 12:14:00","+0:00","knapps","Alarm:","COVER OPEN 4  Acknowledgment",,BJaXq4
+344707,"31/12/2018 12:14:00","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,GssLBL
+344708,"31/12/2018 12:14:00","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,cizNIv
+344709,"31/12/2018 12:14:00","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,XNPkoo
+344710,"31/12/2018 12:14:00","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,cPgN7c
+344711,"31/12/2018 12:14:00","+0:00","knapps","Alarm:","COVER OPEN 1  Acknowledgment",,Sz1H65
+344712,"31/12/2018 12:14:00","+0:00","knapps","Alarm:","COVER OPEN 2  Acknowledgment",,NuRFXm
+344713,"31/12/2018 12:14:00","+0:00","knapps","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,5sDYTE
+344714,"31/12/2018 12:14:01","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,Qxnd1R
+344715,"31/12/2018 12:14:01","+0:00","knapps","Warning","KNAPP READY TO START  Off",,nZIlF/
+344716,"31/12/2018 12:14:01","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,jfFXQR
+344717,"31/12/2018 12:14:05","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,Bf/Sry
+344718,"31/12/2018 12:14:05","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,u3sPLd
+344719,"31/12/2018 12:17:14","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,1HjEeN
+344720,"31/12/2018 12:17:14","+0:00","knapps","Warning","KNAPP READY TO START  On",,B0pRF3
+344721,"31/12/2018 12:17:14","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,L2qDR/
+344722,"31/12/2018 12:17:18","+0:00","knapps","Alarm","COVER OPEN 3  On",,smggSi
+344723,"31/12/2018 12:17:18","+0:00","knapps","Alarm","EMERGENCY  On",,9aoOWH
+344724,"31/12/2018 12:17:18","+0:00","knapps","Alarm","COVER OPEN 4  On",,jL1ZlA
+344725,"31/12/2018 12:17:18","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,DrQZz8
+344726,"31/12/2018 12:17:19","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,LKzXex
+344727,"31/12/2018 12:17:19","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,/lDmmg
+344728,"31/12/2018 12:17:19","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,gRMx1W
+344729,"31/12/2018 12:17:22","+0:00","knapps","Warning","PVSI NOT READY  On",,wjczO3
+344730,"31/12/2018 12:17:35","+0:00","knapps","Alarm","COVER OPEN 1  On",,hOblUx
+344731,"31/12/2018 12:17:35","+0:00","knapps","Alarm","COVER OPEN 2  On",,cCaGlm
+344732,"31/12/2018 12:18:41","+0:00","knapps","Warning","PVSI NOT READY  Off",,RwN1ke
+344733,"31/12/2018 12:18:41","+0:00","knapps","Alarm","COVER OPEN 1  Off",,Sit2lG
+344734,"31/12/2018 12:18:41","+0:00","knapps","Alarm","COVER OPEN 2  Off",,qCR23h
+344735,"31/12/2018 12:18:41","+0:00","knapps","Alarm","COVER OPEN 3  Off",,CpTAyo
+344736,"31/12/2018 12:18:41","+0:00","knapps","Alarm","COVER OPEN 4  Off",,2jEoxx
+344737,"31/12/2018 12:18:42","+0:00","knapps","Alarm","EMERGENCY  Off",,WVyAG8
+344738,"31/12/2018 12:18:42","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,iSgOkg
+344739,"31/12/2018 12:18:43","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,JziZsp
+344740,"31/12/2018 12:18:43","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,PHJoCF
+344741,"31/12/2018 12:18:43","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,BHGD1N
+344742,"31/12/2018 12:18:45","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,XqExtv
+344743,"31/12/2018 12:18:45","+0:00","knapps","Warning","KNAPP READY TO START  Off",,oSqnHE
+344744,"31/12/2018 12:18:45","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,8i0cN5
+344745,"31/12/2018 12:18:50","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,fsusKA
+344746,"31/12/2018 12:18:50","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,LD9HtV
+344747,"31/12/2018 12:21:59","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,R2jSjW
+344748,"31/12/2018 12:21:59","+0:00","knapps","Warning","KNAPP READY TO START  On",,+KkBjh
+344749,"31/12/2018 12:21:59","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,2OUKz1
+344750,"31/12/2018 12:22:00","+0:00","knapps","Alarm","EMERGENCY  On",,giEPuy
+344751,"31/12/2018 12:22:00","+0:00","knapps","Alarm","COVER OPEN 3  On",,Iv3Asd
+344752,"31/12/2018 12:22:00","+0:00","knapps","Alarm","COVER OPEN 4  On",,Xs8EPK
+344753,"31/12/2018 12:22:00","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,N5CuT7
+344754,"31/12/2018 12:22:01","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,3+fFGH
+344755,"31/12/2018 12:22:01","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,moV27o
+344756,"31/12/2018 12:22:01","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,pjOdzh
+344757,"31/12/2018 12:22:03","+0:00","knapps","Warning","PVSI NOT READY  On",,r/FJQh
+344758,"31/12/2018 12:22:18","+0:00","knapps","Alarm","COVER OPEN 2  On",,PJQ5Ru
+344759,"31/12/2018 12:22:18","+0:00","knapps","Alarm","COVER OPEN 1  On",,2Dzv6B
+344760,"31/12/2018 12:23:56","+0:00","knapps","Warning","PVSI NOT READY  Off",,kxVD4B
+344761,"31/12/2018 12:23:56","+0:00","knapps","Alarm","COVER OPEN 1  Off",,uJV/ja
+344762,"31/12/2018 12:23:56","+0:00","knapps","Alarm","COVER OPEN 2  Off",,QZZ2V7
+344763,"31/12/2018 12:23:56","+0:00","knapps","Alarm","COVER OPEN 3  Off",,DF/zv7
+344764,"31/12/2018 12:23:56","+0:00","knapps","Alarm","COVER OPEN 4  Off",,02SSMG
+344765,"31/12/2018 12:23:56","+0:00","knapps","Alarm","EMERGENCY  Off",,1Xf7JN
+344766,"31/12/2018 12:23:56","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,rHxVyC
+344767,"31/12/2018 12:23:57","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,y0bqly
+344768,"31/12/2018 12:23:57","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,cML51o
+344769,"31/12/2018 12:23:57","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,e/vm+D
+344770,"31/12/2018 12:23:59","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,UunsID
+344771,"31/12/2018 12:23:59","+0:00","knapps","Warning","KNAPP READY TO START  Off",,KqxcgP
+344772,"31/12/2018 12:23:59","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,hn6pBd
+344773,"31/12/2018 12:24:04","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,V/gfTg
+344774,"31/12/2018 12:24:04","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,w2rIJA
+344775,"31/12/2018 12:27:07","+0:00","knapps","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,kMwu/y
+344776,"31/12/2018 12:27:07","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,8fkDXx
+344777,"31/12/2018 12:27:07","+0:00","knapps","Alarm:","COVER OPEN 3  Acknowledgment",,vZ2lju
+344778,"31/12/2018 12:27:07","+0:00","knapps","Alarm:","COVER OPEN 4  Acknowledgment",,Q18NVG
+344779,"31/12/2018 12:27:07","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,oDvCmS
+344780,"31/12/2018 12:27:07","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,rp+b5z
+344781,"31/12/2018 12:27:07","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,oKcB8Y
+344782,"31/12/2018 12:27:07","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,5FdfTN
+344783,"31/12/2018 12:27:07","+0:00","knapps","Alarm:","COVER OPEN 2  Acknowledgment",,ZTptSh
+344784,"31/12/2018 12:27:07","+0:00","knapps","Alarm:","COVER OPEN 1  Acknowledgment",,3InL43
+344785,"31/12/2018 12:27:07","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,UdWl0Z
+344786,"31/12/2018 12:27:07","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,mGZrhX
+344787,"31/12/2018 12:27:12","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,YBe8wF
+344788,"31/12/2018 12:27:12","+0:00","knapps","Warning","KNAPP READY TO START  On",,tPfPKZ
+344789,"31/12/2018 12:27:12","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,OeLjaA
+344790,"31/12/2018 12:27:15","+0:00","knapps","Warning","PVSI NOT READY  On",,7qHgGX
+344791,"31/12/2018 12:27:17","+0:00","knapps","Alarm","EMERGENCY  On",,KHTl6h
+344792,"31/12/2018 12:27:17","+0:00","knapps","Alarm","COVER OPEN 3  On",,yaPONg
+344793,"31/12/2018 12:27:17","+0:00","knapps","Alarm","COVER OPEN 4  On",,nkdNTv
+344794,"31/12/2018 12:27:17","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,/+BWkr
+344795,"31/12/2018 12:27:17","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,mlqR03
+344796,"31/12/2018 12:27:17","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,gUeXWI
+344797,"31/12/2018 12:27:17","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,nqAwI5
+344798,"31/12/2018 12:27:30","+0:00","knapps","Alarm","COVER OPEN 1  On",,s2vwXN
+344799,"31/12/2018 12:27:30","+0:00","knapps","Alarm","COVER OPEN 2  On",,kEpuWX
+344800,"31/12/2018 12:28:57","+0:00","knapps","Warning","PVSI NOT READY  Off",,qlz/k0
+344801,"31/12/2018 12:28:57","+0:00","knapps","Alarm","COVER OPEN 1  Off",,Y/Xh+s
+344802,"31/12/2018 12:28:57","+0:00","knapps","Alarm","COVER OPEN 2  Off",,i0IsSC
+344803,"31/12/2018 12:28:57","+0:00","knapps","Alarm","COVER OPEN 4  Off",,LMbQ6I
+344804,"31/12/2018 12:28:57","+0:00","knapps","Alarm","COVER OPEN 3  Off",,vLIOFu
+344805,"31/12/2018 12:28:58","+0:00","knapps","Alarm","EMERGENCY  Off",,zxW2Ip
+344806,"31/12/2018 12:28:58","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,tUENdS
+344807,"31/12/2018 12:28:59","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,xVvQtx
+344808,"31/12/2018 12:28:59","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,2/Du5R
+344809,"31/12/2018 12:28:59","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,meUdI9
+344810,"31/12/2018 12:28:59","+0:00","knapps","Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,RqdHhE
+344811,"31/12/2018 12:28:59","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,xlXMeF
+344812,"31/12/2018 12:28:59","+0:00","knapps","Alarm:","COVER OPEN 3  Acknowledgment",,ssD5ny
+344813,"31/12/2018 12:28:59","+0:00","knapps","Alarm:","COVER OPEN 4  Acknowledgment",,P6s+VY
+344814,"31/12/2018 12:28:59","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,ZQhia5
+344815,"31/12/2018 12:28:59","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,N702q5
+344816,"31/12/2018 12:28:59","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,8XdkKA
+344817,"31/12/2018 12:28:59","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,W0gpDY
+344818,"31/12/2018 12:28:59","+0:00","knapps","Alarm:","COVER OPEN 1  Acknowledgment",,AcQe2h
+344819,"31/12/2018 12:28:59","+0:00","knapps","Alarm:","COVER OPEN 2  Acknowledgment",,8WJPN5
+344820,"31/12/2018 12:28:59","+0:00","knapps","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,tgjqRd
+344821,"31/12/2018 12:29:00","+0:00","knapps","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,MMxgyo
+344822,"31/12/2018 12:29:01","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,7grBSC
+344823,"31/12/2018 12:29:01","+0:00","knapps","Warning","KNAPP READY TO START  Off",,U87LWv
+344824,"31/12/2018 12:29:01","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,s7efRS
+344825,"31/12/2018 12:29:06","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,txD8jK
+344826,"31/12/2018 12:29:06","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,Wia+aI
+344827,"31/12/2018 12:32:14","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,YPpVqC
+344828,"31/12/2018 12:32:14","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,oIGRJN
+344829,"31/12/2018 12:32:14","+0:00","knapps","Warning","KNAPP READY TO START  On",,vTGp4H
+344830,"31/12/2018 12:32:16","+0:00","knapps","Alarm","EMERGENCY  On",,N3THr4
+344831,"31/12/2018 12:32:16","+0:00","knapps","Alarm","COVER OPEN 4  On",,M2k52X
+344832,"31/12/2018 12:32:16","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,pdOK9I
+344833,"31/12/2018 12:32:16","+0:00","knapps","Alarm","COVER OPEN 3  On",,j66koU
+344834,"31/12/2018 12:32:16","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,Ay2YDM
+344835,"31/12/2018 12:32:16","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,sPtKx5
+344836,"31/12/2018 12:32:16","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,doLOSG
+344837,"31/12/2018 12:32:24","+0:00","knapps","Warning","PVSI NOT READY  On",,t+0TwB
+344838,"31/12/2018 12:32:36","+0:00","knapps","Alarm","COVER OPEN 1  On",,IjDZmY
+344839,"31/12/2018 12:32:36","+0:00","knapps","Alarm","COVER OPEN 2  On",,hSWzbd
+344840,"31/12/2018 12:33:37","+0:00","knapps","Warning","PVSI NOT READY  Off",,ljqNtY
+344841,"31/12/2018 12:33:37","+0:00","knapps","Alarm","COVER OPEN 1  Off",,RzLfcH
+344842,"31/12/2018 12:33:37","+0:00","knapps","Alarm","COVER OPEN 2  Off",,kaz3+J
+344843,"31/12/2018 12:33:37","+0:00","knapps","Alarm","COVER OPEN 3  Off",,RjizLZ
+344844,"31/12/2018 12:33:37","+0:00","knapps","Alarm","COVER OPEN 4  Off",,DDa7YE
+344845,"31/12/2018 12:33:37","+0:00","knapps","Alarm","EMERGENCY  Off",,n0VP0u
+344846,"31/12/2018 12:33:37","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,2lSc9m
+344847,"31/12/2018 12:33:38","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,OALNWI
+344848,"31/12/2018 12:33:38","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,I8cXjH
+344849,"31/12/2018 12:33:38","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,nWA6ZU
+344850,"31/12/2018 12:33:41","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,7IUrjx
+344851,"31/12/2018 12:33:41","+0:00","knapps","Warning","KNAPP READY TO START  Off",,m9L+Z7
+344852,"31/12/2018 12:33:41","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,sBbHxi
+344853,"31/12/2018 12:33:46","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,FVHQhS
+344854,"31/12/2018 12:33:46","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,w4cmoR
+344855,"31/12/2018 12:36:54","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,KPb9kZ
+344856,"31/12/2018 12:36:54","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,6LJuLv
+344857,"31/12/2018 12:36:55","+0:00","knapps","Warning","KNAPP READY TO START  On",,dl85zo
+344858,"31/12/2018 12:36:58","+0:00","knapps","Warning","PVSI NOT READY  On",,QsGnmd
+344859,"31/12/2018 12:36:59","+0:00","knapps","Alarm","EMERGENCY  On",,yCwrU5
+344860,"31/12/2018 12:36:59","+0:00","knapps","Alarm","COVER OPEN 3  On",,eDvYed
+344861,"31/12/2018 12:36:59","+0:00","knapps","Alarm","COVER OPEN 4  On",,3zQM9s
+344862,"31/12/2018 12:36:59","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,RBEmPY
+344863,"31/12/2018 12:37:00","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,ZVreXM
+344864,"31/12/2018 12:37:00","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,LP73GN
+344865,"31/12/2018 12:37:00","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,s2MiMm
+344866,"31/12/2018 12:37:15","+0:00","knapps","Alarm","COVER OPEN 1  On",,35MJRO
+344867,"31/12/2018 12:37:15","+0:00","knapps","Alarm","COVER OPEN 2  On",,GqFjki
+344868,"31/12/2018 12:38:17","+0:00","knapps","Warning","PVSI NOT READY  Off",,Lvkvxw
+344869,"31/12/2018 12:38:17","+0:00","knapps","Alarm","COVER OPEN 1  Off",,VVKz3d
+344870,"31/12/2018 12:38:17","+0:00","knapps","Alarm","COVER OPEN 2  Off",,mZGRHW
+344871,"31/12/2018 12:38:17","+0:00","knapps","Alarm","COVER OPEN 3  Off",,iLbN0/
+344872,"31/12/2018 12:38:17","+0:00","knapps","Alarm","COVER OPEN 4  Off",,l2657O
+344873,"31/12/2018 12:38:17","+0:00","knapps","Alarm","EMERGENCY  Off",,Q+uDNo
+344874,"31/12/2018 12:38:17","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,4pDQXO
+344875,"31/12/2018 12:38:18","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,pqbHsO
+344876,"31/12/2018 12:38:18","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,uKzogU
+344877,"31/12/2018 12:38:19","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,t33hFH
+344878,"31/12/2018 12:38:20","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,id1R7l
+344879,"31/12/2018 12:38:21","+0:00","knapps","Warning","KNAPP READY TO START  Off",,L+Ura1
+344880,"31/12/2018 12:38:21","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,zH/QLB
+344881,"31/12/2018 12:38:25","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,ZtNHDp
+344882,"31/12/2018 12:38:25","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,VYoijo
+344883,"31/12/2018 12:41:08","+0:00","knapps","Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,4bS/sF
+344884,"31/12/2018 12:41:08","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,R1gCrJ
+344885,"31/12/2018 12:41:08","+0:00","knapps","Alarm:","COVER OPEN 3  Acknowledgment",,98W5Kk
+344886,"31/12/2018 12:41:08","+0:00","knapps","Alarm:","COVER OPEN 4  Acknowledgment",,QHW4k4
+344887,"31/12/2018 12:41:08","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,wX0gYU
+344888,"31/12/2018 12:41:08","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,x7sfTy
+344889,"31/12/2018 12:41:08","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,JwyHvP
+344890,"31/12/2018 12:41:08","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,JGcU6j
+344891,"31/12/2018 12:41:08","+0:00","knapps","Alarm:","COVER OPEN 1  Acknowledgment",,Y3qPhu
+344892,"31/12/2018 12:41:08","+0:00","knapps","Alarm:","COVER OPEN 2  Acknowledgment",,R6A0nK
+344893,"31/12/2018 12:41:08","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,lnsS4G
+344894,"31/12/2018 12:41:34","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,ggee8q
+344895,"31/12/2018 12:41:34","+0:00","knapps","Warning","KNAPP READY TO START  On",,E7BirO
+344896,"31/12/2018 12:41:34","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,mAg6FM
+344897,"31/12/2018 12:41:37","+0:00","knapps","Alarm","EMERGENCY  On",,Jw3J7u
+344898,"31/12/2018 12:41:37","+0:00","knapps","Alarm","COVER OPEN 3  On",,kgxstp
+344899,"31/12/2018 12:41:37","+0:00","knapps","Alarm","COVER OPEN 4  On",,O74ES9
+344900,"31/12/2018 12:41:37","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,d19Mta
+344901,"31/12/2018 12:41:37","+0:00","knapps","Warning","PVSI NOT READY  On",,l3DqWm
+344902,"31/12/2018 12:41:38","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,I/pPjZ
+344903,"31/12/2018 12:41:38","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,Sg+G3x
+344904,"31/12/2018 12:41:38","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,h2ZAnq
+344905,"31/12/2018 12:41:54","+0:00","knapps","Alarm","COVER OPEN 2  On",,+1c07l
+344906,"31/12/2018 12:41:55","+0:00","knapps","Alarm","COVER OPEN 1  On",,FkIYqd
+344907,"31/12/2018 12:43:20","+0:00","knapps","Warning","PVSI NOT READY  Off",,o7HZSH
+344908,"31/12/2018 12:43:20","+0:00","knapps","Alarm","COVER OPEN 1  Off",,lq++6l
+344909,"31/12/2018 12:43:20","+0:00","knapps","Alarm","COVER OPEN 2  Off",,iMHrE4
+344910,"31/12/2018 12:43:20","+0:00","knapps","Alarm","COVER OPEN 3  Off",,3tIJjc
+344911,"31/12/2018 12:43:20","+0:00","knapps","Alarm","COVER OPEN 4  Off",,Mqg+Tq
+344912,"31/12/2018 12:43:20","+0:00","knapps","Alarm","EMERGENCY  Off",,YLPosX
+344913,"31/12/2018 12:43:20","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,hbtpFH
+344914,"31/12/2018 12:43:21","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,rYnBn5
+344915,"31/12/2018 12:43:21","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,zFMNFg
+344916,"31/12/2018 12:43:21","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,1ICo3I
+344917,"31/12/2018 12:43:24","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,ZGc4os
+344918,"31/12/2018 12:43:24","+0:00","knapps","Warning","KNAPP READY TO START  Off",,Q8Hib7
+344919,"31/12/2018 12:43:24","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,ehfeXF
+344920,"31/12/2018 12:43:28","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,zUmOPP
+344921,"31/12/2018 12:43:28","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,TvFUAv
+344922,"31/12/2018 12:46:26","+0:00","knapps","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,eIBG+e
+344923,"31/12/2018 12:46:26","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,1SH3f0
+344924,"31/12/2018 12:46:26","+0:00","knapps","Alarm:","COVER OPEN 3  Acknowledgment",,+iEVZU
+344925,"31/12/2018 12:46:26","+0:00","knapps","Alarm:","COVER OPEN 4  Acknowledgment",,iX5kJ/
+344926,"31/12/2018 12:46:26","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,ejlTlG
+344927,"31/12/2018 12:46:26","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,vEybAX
+344928,"31/12/2018 12:46:26","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,JMYUtr
+344929,"31/12/2018 12:46:26","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,2+SAGW
+344930,"31/12/2018 12:46:26","+0:00","knapps","Alarm:","COVER OPEN 2  Acknowledgment",,LJd8iG
+344931,"31/12/2018 12:46:26","+0:00","knapps","Alarm:","COVER OPEN 1  Acknowledgment",,Cm7Aw4
+344932,"31/12/2018 12:46:37","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,hKMID4
+344933,"31/12/2018 12:46:37","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,r6Ccqa
+344934,"31/12/2018 12:46:37","+0:00","knapps","Warning","KNAPP READY TO START  On",,py2v0g
+344935,"31/12/2018 12:46:40","+0:00","knapps","Alarm","EMERGENCY  On",,38Irwe
+344936,"31/12/2018 12:46:40","+0:00","knapps","Alarm","COVER OPEN 3  On",,Gxm8WH
+344937,"31/12/2018 12:46:40","+0:00","knapps","Alarm","COVER OPEN 4  On",,RYB+ae
+344938,"31/12/2018 12:46:40","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,f170L8
+344939,"31/12/2018 12:46:41","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,5V2MfN
+344940,"31/12/2018 12:46:41","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,GPp56f
+344941,"31/12/2018 12:46:41","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,7XEqp2
+344942,"31/12/2018 12:46:41","+0:00","knapps","Warning","PVSI NOT READY  On",,52zpzw
+344943,"31/12/2018 12:46:57","+0:00","knapps","Alarm","COVER OPEN 1  On",,ciE6DQ
+344944,"31/12/2018 12:46:57","+0:00","knapps","Alarm","COVER OPEN 2  On",,rIapbN
+344945,"31/12/2018 12:48:06","+0:00","knapps","Warning","PVSI NOT READY  Off",,qXrxJ+
+344946,"31/12/2018 12:48:06","+0:00","knapps","Alarm","COVER OPEN 1  Off",,YfquBQ
+344947,"31/12/2018 12:48:06","+0:00","knapps","Alarm","COVER OPEN 2  Off",,LQmJNP
+344948,"31/12/2018 12:48:06","+0:00","knapps","Alarm","COVER OPEN 3  Off",,lji2Jp
+344949,"31/12/2018 12:48:06","+0:00","knapps","Alarm","COVER OPEN 4  Off",,Bhh8ni
+344950,"31/12/2018 12:48:06","+0:00","knapps","Alarm","EMERGENCY  Off",,CHiW0x
+344951,"31/12/2018 12:48:06","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,diL/V3
+344952,"31/12/2018 12:48:07","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,Uyk/K5
+344953,"31/12/2018 12:48:07","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,PD8Ax3
+344954,"31/12/2018 12:48:07","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,+FqjOQ
+344955,"31/12/2018 12:48:09","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,nCiEa8
+344956,"31/12/2018 12:48:09","+0:00","knapps","Warning","KNAPP READY TO START  Off",,ZKilZa
+344957,"31/12/2018 12:48:09","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,wIjndE
+344958,"31/12/2018 12:48:14","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,YmVAyG
+344959,"31/12/2018 12:48:14","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,hW5vS4
+344960,"31/12/2018 12:51:23","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,UAmxXi
+344961,"31/12/2018 12:51:23","+0:00","knapps","Warning","KNAPP READY TO START  On",,tLasAH
+344962,"31/12/2018 12:51:23","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,qXYHQ1
+344963,"31/12/2018 12:51:26","+0:00","knapps","Warning","PVSI NOT READY  On",,2YrtqK
+344964,"31/12/2018 12:51:27","+0:00","knapps","Alarm","EMERGENCY  On",,VV0DBd
+344965,"31/12/2018 12:51:27","+0:00","knapps","Alarm","COVER OPEN 3  On",,CHJExL
+344966,"31/12/2018 12:51:27","+0:00","knapps","Alarm","COVER OPEN 4  On",,YhTcFs
+344967,"31/12/2018 12:51:27","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,lfJ7WY
+344968,"31/12/2018 12:51:27","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,zD2JTz
+344969,"31/12/2018 12:51:27","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,pLPrJk
+344970,"31/12/2018 12:51:27","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,9GGzBf
+344971,"31/12/2018 12:51:39","+0:00","knapps","Alarm","COVER OPEN 2  On",,oqYFtU
+344972,"31/12/2018 12:51:42","+0:00","knapps","Alarm","COVER OPEN 1  On",,YM9+/8
+344973,"31/12/2018 12:52:59","+0:00","knapps","Warning","PVSI NOT READY  Off",,fUuTyN
+344974,"31/12/2018 12:52:59","+0:00","knapps","Alarm","COVER OPEN 1  Off",,J35yGD
+344975,"31/12/2018 12:52:59","+0:00","knapps","Alarm","COVER OPEN 2  Off",,HHO5qv
+344976,"31/12/2018 12:52:59","+0:00","knapps","Alarm","COVER OPEN 3  Off",,qQRREG
+344977,"31/12/2018 12:52:59","+0:00","knapps","Alarm","COVER OPEN 4  Off",,SxcyLX
+344978,"31/12/2018 12:52:59","+0:00","knapps","Alarm","EMERGENCY  Off",,pbD7AZ
+344979,"31/12/2018 12:52:59","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,gccyu+
+344980,"31/12/2018 12:53:00","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,ypR8CV
+344981,"31/12/2018 12:53:00","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,K9fvyZ
+344982,"31/12/2018 12:53:00","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,B9VA2W
+344983,"31/12/2018 12:53:02","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,f2kBwu
+344984,"31/12/2018 12:53:02","+0:00","knapps","Warning","KNAPP READY TO START  Off",,3fAwrK
+344985,"31/12/2018 12:53:02","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,fgZLKC
+344986,"31/12/2018 12:53:07","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,vwvr7T
+344987,"31/12/2018 12:53:07","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,tb9Iz5
+344988,"31/12/2018 12:56:16","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,Y+Tz2k
+344989,"31/12/2018 12:56:16","+0:00","knapps","Warning","KNAPP READY TO START  On",,1dgHsm
+344990,"31/12/2018 12:56:16","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,ynAQzm
+344991,"31/12/2018 12:56:18","+0:00","knapps","Alarm","EMERGENCY  On",,SMXBuz
+344992,"31/12/2018 12:56:18","+0:00","knapps","Alarm","COVER OPEN 3  On",,n7d2BM
+344993,"31/12/2018 12:56:18","+0:00","knapps","Alarm","COVER OPEN 4  On",,nYyRFq
+344994,"31/12/2018 12:56:18","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,7tF2le
+344995,"31/12/2018 12:56:18","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,PhgRmO
+344996,"31/12/2018 12:56:18","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,5cJafJ
+344997,"31/12/2018 12:56:18","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,Kcwuss
+344998,"31/12/2018 12:56:20","+0:00","knapps","Warning","PVSI NOT READY  On",,UZ+VAE
+344999,"31/12/2018 12:56:35","+0:00","knapps","Alarm","COVER OPEN 1  On",,vRykJ5
+345000,"31/12/2018 12:56:35","+0:00","knapps","Alarm","COVER OPEN 2  On",,H9mzY7
+345001,"31/12/2018 12:57:44","+0:00","knapps","Warning","PVSI NOT READY  Off",,D7Xr35
+345002,"31/12/2018 12:57:44","+0:00","knapps","Alarm","COVER OPEN 1  Off",,ZAjq4H
+345003,"31/12/2018 12:57:44","+0:00","knapps","Alarm","COVER OPEN 2  Off",,CBTlHJ
+345004,"31/12/2018 12:57:44","+0:00","knapps","Alarm","COVER OPEN 3  Off",,Pm3YY/
+345005,"31/12/2018 12:57:44","+0:00","knapps","Alarm","COVER OPEN 4  Off",,zG6RXZ
+345006,"31/12/2018 12:57:45","+0:00","knapps","Alarm","EMERGENCY  Off",,nPlbY+
+345007,"31/12/2018 12:57:45","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,/QpuYW
+345008,"31/12/2018 12:57:46","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,gUfJSw
+345009,"31/12/2018 12:57:46","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,3fNqIJ
+345010,"31/12/2018 12:57:46","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,/f1rq8
+345011,"31/12/2018 12:57:48","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,6ED/b5
+345012,"31/12/2018 12:57:48","+0:00","knapps","Warning","KNAPP READY TO START  Off",,p5FoNt
+345013,"31/12/2018 12:57:48","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,Tt/lpz
+345014,"31/12/2018 12:57:53","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,5HmpZu
+345015,"31/12/2018 12:57:53","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,dnezx1
+345016,"31/12/2018 12:59:19","+0:00","knapps","Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,s5T2HV
+345017,"31/12/2018 12:59:19","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,KOWP56
+345018,"31/12/2018 12:59:19","+0:00","knapps","Alarm:","COVER OPEN 3  Acknowledgment",,8D0RnD
+345019,"31/12/2018 12:59:19","+0:00","knapps","Alarm:","COVER OPEN 4  Acknowledgment",,s1cZ+v
+345020,"31/12/2018 12:59:19","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,C16g2S
+345021,"31/12/2018 12:59:19","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,mQ2Ub9
+345022,"31/12/2018 12:59:19","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,0oh/f0
+345023,"31/12/2018 12:59:19","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,4PJAyZ
+345024,"31/12/2018 12:59:19","+0:00","knapps","Alarm:","COVER OPEN 1  Acknowledgment",,iEX+z0
+345025,"31/12/2018 12:59:19","+0:00","knapps","Alarm:","COVER OPEN 2  Acknowledgment",,uz+Nqa
+345026,"31/12/2018 12:59:19","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,ivfS9U
+345027,"31/12/2018 12:59:19","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,6LkJAA
+345028,"31/12/2018 12:59:19","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,Xgoyuz
+345029,"31/12/2018 12:59:20","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,arDCP1
+345030,"31/12/2018 13:01:02","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,fL0bKF
+345031,"31/12/2018 13:01:02","+0:00","knapps","Warning","KNAPP READY TO START  On",,aJmahf
+345032,"31/12/2018 13:01:02","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,4FkXee
+345033,"31/12/2018 13:01:03","+0:00","knapps","Alarm","EMERGENCY  On",,sL06Jy
+345034,"31/12/2018 13:01:03","+0:00","knapps","Alarm","COVER OPEN 3  On",,uYxPkW
+345035,"31/12/2018 13:01:03","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,PlRTEs
+345036,"31/12/2018 13:01:03","+0:00","knapps","Warning","PVSI NOT READY  On",,r9nRCb
+345037,"31/12/2018 13:01:03","+0:00","knapps","Alarm","COVER OPEN 4  On",,y9wa4f
+345038,"31/12/2018 13:01:04","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,cUlyMQ
+345039,"31/12/2018 13:01:04","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,35qfGo
+345040,"31/12/2018 13:01:04","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,DmF+D4
+345041,"31/12/2018 13:01:17","+0:00","knapps","Alarm","COVER OPEN 2  On",,NaRvES
+345042,"31/12/2018 13:01:17","+0:00","knapps","Alarm","COVER OPEN 1  On",,Sz6ojR
+345043,"31/12/2018 13:02:17","+0:00","knapps","Warning","PVSI NOT READY  Off",,uA9AxE
+345044,"31/12/2018 13:02:17","+0:00","knapps","Alarm","COVER OPEN 1  Off",,dp6wZo
+345045,"31/12/2018 13:02:17","+0:00","knapps","Alarm","COVER OPEN 2  Off",,9USzH2
+345046,"31/12/2018 13:02:17","+0:00","knapps","Alarm","COVER OPEN 3  Off",,hfyjdd
+345047,"31/12/2018 13:02:17","+0:00","knapps","Alarm","COVER OPEN 4  Off",,wXKMzZ
+345048,"31/12/2018 13:02:17","+0:00","knapps","Alarm","EMERGENCY  Off",,t+5+mM
+345049,"31/12/2018 13:02:17","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,l79NYt
+345050,"31/12/2018 13:02:18","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,86oGYL
+345051,"31/12/2018 13:02:18","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,8tAOnu
+345052,"31/12/2018 13:02:18","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,h29S+k
+345053,"31/12/2018 13:02:21","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,qoO4pe
+345054,"31/12/2018 13:02:21","+0:00","knapps","Warning","KNAPP READY TO START  Off",,9piwGv
+345055,"31/12/2018 13:02:21","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,1DQvz4
+345056,"31/12/2018 13:02:26","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,Z380+i
+345057,"31/12/2018 13:02:26","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,HEYKJp
+345058,"31/12/2018 13:04:01","+0:00","knapps","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,oQuCxD
+345059,"31/12/2018 13:04:01","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,yaNATz
+345060,"31/12/2018 13:04:01","+0:00","knapps","Alarm:","COVER OPEN 3  Acknowledgment",,eYKJqb
+345061,"31/12/2018 13:04:01","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,n7PycI
+345062,"31/12/2018 13:04:01","+0:00","knapps","Alarm:","COVER OPEN 4  Acknowledgment",,R563s4
+345063,"31/12/2018 13:04:01","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,OKPMgn
+345064,"31/12/2018 13:04:01","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,adgAEz
+345065,"31/12/2018 13:04:01","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,etCvED
+345066,"31/12/2018 13:04:01","+0:00","knapps","Alarm:","COVER OPEN 2  Acknowledgment",,sQsxnj
+345067,"31/12/2018 13:04:01","+0:00","knapps","Alarm:","COVER OPEN 1  Acknowledgment",,vompLS
+345068,"31/12/2018 13:04:02","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,E6vkCp
+345069,"31/12/2018 13:04:02","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,oY5uTi
+345070,"31/12/2018 13:05:34","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,qsKaMG
+345071,"31/12/2018 13:05:34","+0:00","knapps","Warning","KNAPP READY TO START  On",,7pPxjU
+345072,"31/12/2018 13:05:34","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,K/pD8B
+345073,"31/12/2018 13:05:37","+0:00","knapps","Warning","PVSI NOT READY  On",,NUs0CZ
+345074,"31/12/2018 13:05:39","+0:00","knapps","Alarm","EMERGENCY  On",,ArCKsQ
+345075,"31/12/2018 13:05:39","+0:00","knapps","Alarm","COVER OPEN 3  On",,b9+/h4
+345076,"31/12/2018 13:05:39","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,Dp8qlK
+345077,"31/12/2018 13:05:39","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,0svicZ
+345078,"31/12/2018 13:05:39","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,HgKuFi
+345079,"31/12/2018 13:05:39","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,ux1w6B
+345080,"31/12/2018 13:05:39","+0:00","knapps","Alarm","COVER OPEN 4  On",,nCCmWE
+345081,"31/12/2018 13:05:50","+0:00","knapps","Alarm","COVER OPEN 1  On",,iBfylW
+345082,"31/12/2018 13:05:50","+0:00","knapps","Alarm","COVER OPEN 2  On",,5lX1YA
+345083,"31/12/2018 13:07:05","+0:00","knapps","Warning","PVSI NOT READY  Off",,QtPoNa
+345084,"31/12/2018 13:07:05","+0:00","knapps","Alarm","COVER OPEN 1  Off",,HXksUa
+345085,"31/12/2018 13:07:05","+0:00","knapps","Alarm","COVER OPEN 2  Off",,DGtVwZ
+345086,"31/12/2018 13:07:05","+0:00","knapps","Alarm","COVER OPEN 3  Off",,bhtOmW
+345087,"31/12/2018 13:07:05","+0:00","knapps","Alarm","COVER OPEN 4  Off",,uBDnuv
+345088,"31/12/2018 13:07:05","+0:00","knapps","Alarm","EMERGENCY  Off",,/7J6Rg
+345089,"31/12/2018 13:07:05","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,tMBYU+
+345090,"31/12/2018 13:07:07","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,gYJOeR
+345091,"31/12/2018 13:07:07","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,3zMh2v
+345092,"31/12/2018 13:07:07","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,PsLUjz
+345093,"31/12/2018 13:07:08","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,EulxFe
+345094,"31/12/2018 13:07:08","+0:00","knapps","Warning","KNAPP READY TO START  Off",,YzGt6N
+345095,"31/12/2018 13:07:08","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,QHHNWJ
+345096,"31/12/2018 13:07:13","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,aUd6Uk
+345097,"31/12/2018 13:07:13","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,zRJq4n
+345098,"31/12/2018 13:07:23","+0:00","knapps","Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,8Iy1hj
+345099,"31/12/2018 13:07:23","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,CNJiFk
+345100,"31/12/2018 13:07:23","+0:00","knapps","Alarm:","COVER OPEN 3  Acknowledgment",,pzTfPS
+345101,"31/12/2018 13:07:23","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,pBv9jB
+345102,"31/12/2018 13:07:23","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,BvNyUw
+345103,"31/12/2018 13:07:23","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,5a0CRC
+345104,"31/12/2018 13:07:23","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,1JBAP+
+345105,"31/12/2018 13:07:23","+0:00","knapps","Alarm:","COVER OPEN 4  Acknowledgment",,ijkxgZ
+345106,"31/12/2018 13:07:23","+0:00","knapps","Alarm:","COVER OPEN 1  Acknowledgment",,8iHxiq
+345107,"31/12/2018 13:07:23","+0:00","knapps","Alarm:","COVER OPEN 2  Acknowledgment",,HrVKzD
+345108,"31/12/2018 13:10:21","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,oeVkGI
+345109,"31/12/2018 13:10:21","+0:00","knapps","Warning","KNAPP READY TO START  On",,+4JtPR
+345110,"31/12/2018 13:10:21","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,3yR9tO
+345111,"31/12/2018 13:10:28","+0:00","knapps","Alarm","COVER OPEN 4  On",,PvFfkk
+345112,"31/12/2018 13:10:28","+0:00","knapps","Alarm","EMERGENCY  On",,7zeA2l
+345113,"31/12/2018 13:10:28","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,g7NQl4
+345114,"31/12/2018 13:10:29","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,7dOqsv
+345115,"31/12/2018 13:10:29","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,J7XgSw
+345116,"31/12/2018 13:10:29","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,43xzkL
+345117,"31/12/2018 13:10:29","+0:00","knapps","Warning","PVSI NOT READY  On",,DQSmsv
+345118,"31/12/2018 13:10:29","+0:00","knapps","Alarm","COVER OPEN 3  On",,DrN641
+345119,"31/12/2018 13:10:41","+0:00","knapps","Alarm","COVER OPEN 1  On",,589jPj
+345120,"31/12/2018 13:10:41","+0:00","knapps","Alarm","COVER OPEN 2  On",,ejEqnX
+345121,"31/12/2018 13:12:25","+0:00","knapps","Warning","PVSI NOT READY  Off",,juHqUo
+345122,"31/12/2018 13:12:25","+0:00","knapps","Alarm","COVER OPEN 1  Off",,GRf/y7
+345123,"31/12/2018 13:12:25","+0:00","knapps","Alarm","COVER OPEN 2  Off",,/2cncT
+345124,"31/12/2018 13:12:25","+0:00","knapps","Alarm","COVER OPEN 3  Off",,Cm07tW
+345125,"31/12/2018 13:12:25","+0:00","knapps","Alarm","COVER OPEN 4  Off",,w1+Cz5
+345126,"31/12/2018 13:12:25","+0:00","knapps","Alarm","EMERGENCY  Off",,yoKf/E
+345127,"31/12/2018 13:12:25","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,Psf2Cn
+345128,"31/12/2018 13:12:26","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,MMS5ZF
+345129,"31/12/2018 13:12:26","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,rODBaU
+345130,"31/12/2018 13:12:26","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,NXauDO
+345131,"31/12/2018 13:12:29","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,UMnJO5
+345132,"31/12/2018 13:12:29","+0:00","knapps","Warning","KNAPP READY TO START  Off",,MNGHx6
+345133,"31/12/2018 13:12:29","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,QUtQ52
+345134,"31/12/2018 13:12:34","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,SNPUQz
+345135,"31/12/2018 13:12:34","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,uvQWpw
+345136,"31/12/2018 13:15:08","+0:00","knapps","Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,yTXiAh
+345137,"31/12/2018 13:15:08","+0:00","knapps","Alarm:","COVER OPEN 4  Acknowledgment",,VMCAM3
+345138,"31/12/2018 13:15:08","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,9Sy3T9
+345139,"31/12/2018 13:15:08","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,33tst2
+345140,"31/12/2018 13:15:08","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,1WdG9Q
+345141,"31/12/2018 13:15:08","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,Is6TrY
+345142,"31/12/2018 13:15:08","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,dRZBgy
+345143,"31/12/2018 13:15:08","+0:00","knapps","Alarm:","COVER OPEN 3  Acknowledgment",,ZBT9XG
+345144,"31/12/2018 13:15:08","+0:00","knapps","Alarm:","COVER OPEN 1  Acknowledgment",,ef0fOz
+345145,"31/12/2018 13:15:08","+0:00","knapps","Alarm:","COVER OPEN 2  Acknowledgment",,UACZY+
+345146,"31/12/2018 13:15:09","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,EFqLuN
+345147,"31/12/2018 13:15:15","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,QuREl0
+345148,"31/12/2018 13:15:15","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,9LRuiC
+345149,"31/12/2018 13:15:15","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,lM4zPm
+345150,"31/12/2018 13:15:16","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,93ymPm
+345151,"31/12/2018 13:15:16","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,fl0rpr
+345152,"31/12/2018 13:15:16","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,SX02s5
+345153,"31/12/2018 13:15:16","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,pS5b5T
+345154,"31/12/2018 13:15:16","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,OaNhk3
+345155,"31/12/2018 13:15:16","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,GBc15k
+345156,"31/12/2018 13:15:17","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,085UtF
+345157,"31/12/2018 13:15:17","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,ox47DB
+345158,"31/12/2018 13:15:17","+0:00","knapps","Alarm: 2149","Acknowledgment of alarm 2149 of PLC MCA200+LKD.",,ff2rw3
+345159,"31/12/2018 13:15:42","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,fp2me2
+345160,"31/12/2018 13:15:42","+0:00","knapps","Warning","KNAPP READY TO START  On",,D1YL9x
+345161,"31/12/2018 13:15:42","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,kflDda
+345162,"31/12/2018 13:15:45","+0:00","knapps","Alarm","EMERGENCY  On",,AvcOoY
+345163,"31/12/2018 13:15:45","+0:00","knapps","Alarm","COVER OPEN 4  On",,9u/BMe
+345164,"31/12/2018 13:15:45","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,uS5Hhx
+345165,"31/12/2018 13:15:45","+0:00","knapps","Alarm","COVER OPEN 3  On",,4EO05K
+345166,"31/12/2018 13:15:45","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,O7UACM
+345167,"31/12/2018 13:15:45","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,gEwSTB
+345168,"31/12/2018 13:15:45","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,Xedwwy
+345169,"31/12/2018 13:15:45","+0:00","knapps","Warning","PVSI NOT READY  On",,uLa7lh
+345170,"31/12/2018 13:15:57","+0:00","knapps","Alarm","COVER OPEN 1  On",,8E4MhH
+345171,"31/12/2018 13:15:57","+0:00","knapps","Alarm","COVER OPEN 2  On",,OS9mWW
+345172,"31/12/2018 13:17:20","+0:00","knapps","Warning","PVSI NOT READY  Off",,XlDvvu
+345173,"31/12/2018 13:17:20","+0:00","knapps","Alarm","COVER OPEN 1  Off",,qxYcIt
+345174,"31/12/2018 13:17:20","+0:00","knapps","Alarm","COVER OPEN 2  Off",,HkqS6q
+345175,"31/12/2018 13:17:20","+0:00","knapps","Alarm","COVER OPEN 3  Off",,OulpVs
+345176,"31/12/2018 13:17:20","+0:00","knapps","Alarm","COVER OPEN 4  Off",,j+p069
+345177,"31/12/2018 13:17:20","+0:00","knapps","Alarm","EMERGENCY  Off",,eW9dhQ
+345178,"31/12/2018 13:17:20","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  Off",,Z4gSWv
+345179,"31/12/2018 13:17:21","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  Off",,rW5Mc+
+345180,"31/12/2018 13:17:21","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  Off",,b7zH3F
+345181,"31/12/2018 13:17:21","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  Off",,zoodRK
+345182,"31/12/2018 13:17:22","+0:00","knapps","Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,kMaPlS
+345183,"31/12/2018 13:17:22","+0:00","knapps","Alarm:","EMERGENCY  Acknowledgment",,gAZW//
+345184,"31/12/2018 13:17:22","+0:00","knapps","Alarm:","COVER OPEN 4  Acknowledgment",,dg+CuX
+345185,"31/12/2018 13:17:22","+0:00","knapps","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,erpv5+
+345186,"31/12/2018 13:17:22","+0:00","knapps","Alarm:","COVER OPEN 3  Acknowledgment",,X+Z/XU
+345187,"31/12/2018 13:17:22","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,E3MoyA
+345188,"31/12/2018 13:17:22","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,gpJNxp
+345189,"31/12/2018 13:17:22","+0:00","knapps","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,D4k2KF
+345190,"31/12/2018 13:17:22","+0:00","knapps","Alarm:","COVER OPEN 1  Acknowledgment",,1Un7O7
+345191,"31/12/2018 13:17:22","+0:00","knapps","Alarm:","COVER OPEN 2  Acknowledgment",,fDjuIU
+345192,"31/12/2018 13:17:22","+0:00","knapps","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,ENyglY
+345193,"31/12/2018 13:17:22","+0:00","knapps","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,q+89Q7
+345194,"31/12/2018 13:17:23","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,BwH6eq
+345195,"31/12/2018 13:17:23","+0:00","knapps","Warning","KNAPP READY TO START  Off",,tBMI1v
+345196,"31/12/2018 13:17:23","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  On",,O9PHCE
+345197,"31/12/2018 13:17:28","+0:00","knapps","Warning","E16.7   WARNING KNAPP HOMING  Off",,56UQKl
+345198,"31/12/2018 13:17:28","+0:00","knapps","Warning","KNAPP IN PROGRESS  On",,p367MR
+345199,"31/12/2018 13:20:37","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  On",,AjD/bm
+345200,"31/12/2018 13:20:37","+0:00","knapps","Warning","KNAPP READY TO START  On",,C687zG
+345201,"31/12/2018 13:20:37","+0:00","knapps","Warning","KNAPP IN PROGRESS  Off",,/1pr2b
+345202,"31/12/2018 13:20:38","+0:00","knapps","Alarm","COVER OPEN 3  On",,yboLZW
+345203,"31/12/2018 13:20:38","+0:00","knapps","Alarm","COVER OPEN 4  On",,Jjv6dE
+345204,"31/12/2018 13:20:39","+0:00","knapps","Alarm","EMERGENCY  On",,BqUDv6
+345205,"31/12/2018 13:20:39","+0:00","knapps","Alarm","ALARM INFEED BELT MOTOR  On",,yA5v4y
+345206,"31/12/2018 13:20:39","+0:00","knapps","Alarm","ALARM ROTATION MOTOR  On",,xNh8Lv
+345207,"31/12/2018 13:20:39","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 2  On",,5vvCTF
+345208,"31/12/2018 13:20:39","+0:00","knapps","Alarm","ALARM ROTATION MOTOR 3  On",,dv8Y3Y
+345209,"31/12/2018 13:20:39","+0:00","knapps","Warning","PVSI NOT READY  On",,2w1pJQ
+345210,"31/12/2018 13:20:49","+0:00","knapps","Warning","ALARM VACUUM SENSOR  On",,2qLTDe
+345211,"31/12/2018 13:20:49","+0:00","knapps","Warning","WARNING END KNAPP PROCESS  Off",,KSv0/o
+345212,"31/12/2018 13:20:49","+0:00","knapps","Warning","KNAPP READY TO START  Off",,Dgbx4F
+345213,"31/12/2018 13:20:55","+0:00","knapps","User administration","User logged off.",,8CCZM6
+345214,"31/12/2018 13:20:55","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,q4Z1lz
+345215,"31/12/2018 13:20:55","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,9WUVxf
+345216,"31/12/2018 13:21:01","+0:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,a9Iqq/
+345217,"31/12/2018 13:21:01","+0:00",,"Warning","WARNING UPS  On",,YuHi4O
+345218,"31/12/2018 13:21:02","+0:00",,"Alarm","COVER OPEN 2  On",,uLEm4L
+345219,"31/12/2018 13:21:02","+0:00",,"Alarm","COVER OPEN 1  On",,GvyxoJ
+345220,"31/12/2018 13:21:04","+0:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Bf4hFH
+345221,"31/12/2018 13:21:04","+0:00",,"Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,80UmZK
+345222,"31/12/2018 13:21:04","+0:00",,"Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,9MtvLj
+345223,"02/01/2019 08:04:03","+0:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,cBICqs
+0,"02/01/2019 08:04:03","+0:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,vZBP09
+345224,"02/01/2019 08:04:03","+0:00","System","Application","Change to operating mode 'online'.",,4UUTFi
+345225,"02/01/2019 08:04:03","+0:00","System","User administration","Password list imported successfully.",,gDVB5I
+0,"02/01/2019 08:04:05","+0:00","System","Logs","Log files closed.",,nI48sN
+"$RT_COUNT$",877,kk14ge,,,,,f/lCL4

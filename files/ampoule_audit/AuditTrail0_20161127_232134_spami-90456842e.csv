@@ -1,0 +1,369 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"27/11/2016 01:43:12","-1:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,qdf2OT
+79699,"27/11/2016 01:43:11","-1:00","System","Logs","Exporting a log.",,k2Arj4
+79700,"27/11/2016 01:43:18","-1:00",,"Recipe","Loading recipe number 4 ( Production 10ml ) on the interface.",,jsnsen
+79701,"27/11/2016 01:43:19","-1:00",,"Recipe","Data trasfered to PLC",,j2pQzY
+79702,"27/11/2016 01:43:19","-1:00",,"Warning","ALARM OZONE SENSOR  On",,51PjSn
+79703,"27/11/2016 01:43:19","-1:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,7QvU+h
+79704,"27/11/2016 01:43:19","-1:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  On",,lTZWQ6
+79705,"27/11/2016 01:43:19","-1:00",,"Alarm","EMERGENCY  On",,kC6THm
+79706,"27/11/2016 01:43:19","-1:00",,"Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,D50hXA
+79707,"27/11/2016 01:43:19","-1:00",,"Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  On",,tjEZbK
+79708,"27/11/2016 01:43:19","-1:00",,"Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,XezQ31
+79709,"27/11/2016 01:43:19","-1:00",,"Alarm","ALARM MAIN MOTOR  On",,JmktnG
+79710,"27/11/2016 01:43:19","-1:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,13FwYu
+79711,"27/11/2016 01:43:19","-1:00",,"Alarm","ALARM ROTATION MOTOR 1  On",,qRUSDS
+79712,"27/11/2016 01:43:19","-1:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,0lC8MS
+79713,"27/11/2016 01:43:19","-1:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,zu7s6G
+79714,"27/11/2016 01:43:19","-1:00",,"Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   On",,kuNnAB
+79715,"27/11/2016 01:43:19","-1:00",,"Alarm","ALARM MISSING LKD REJECTED TRAYS   On",,0X/kmf
+79716,"27/11/2016 01:43:19","-1:00",,"Alarm","PVSI NOT READY  On",,Zy1uiw
+79717,"27/11/2016 01:43:19","-1:00",,"Alarm","PVSI AND WINCC PRODUCT DIFFERENT  On",,0zmwSS
+79718,"27/11/2016 01:43:19","-1:00",,"Alarm","Alarm profibus nodo 3 (encoder)  On",,S0jGYC
+79719,"27/11/2016 01:43:19","-1:00",,"Alarm","Alarm profibus nodo 4 (PC)  On",,1mThBH
+79720,"27/11/2016 01:43:19","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,JrXRcq
+79721,"27/11/2016 01:43:21","-1:00",,"Warning","PVSI NOT RUNNING   On",,5AnzEe
+79722,"27/11/2016 01:43:21","-1:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  Off",,Xn5wO3
+79723,"27/11/2016 01:43:21","-1:00",,"Alarm","COVER OPEN 5  On",,fvnJz9
+79724,"27/11/2016 01:43:30","-1:00","System","User administration","User 'adamb' logged on with group 'Operator'.",,8pVGRb
+79725,"27/11/2016 01:43:31","-1:00","adamb","Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,PWTeh4
+79726,"27/11/2016 01:43:33","-1:00","adamb","Warning","ALARM OZONE SENSOR  Off",,6VIQ05
+79727,"27/11/2016 01:43:33","-1:00","adamb","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,YcUk7H
+79728,"27/11/2016 01:43:33","-1:00","adamb","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  Off",,TgzRc6
+79729,"27/11/2016 01:43:33","-1:00","adamb","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off",,ENK1++
+79730,"27/11/2016 01:43:33","-1:00","adamb","Alarm","ALARM MAIN MOTOR  Off",,TGjtxe
+79731,"27/11/2016 01:43:33","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 1  Off",,pX7ib8
+79732,"27/11/2016 01:43:33","-1:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,TX6e0J
+79733,"27/11/2016 01:43:33","-1:00","adamb","Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   Off",,IX5j1v
+79734,"27/11/2016 01:43:33","-1:00","adamb","Alarm","ALARM MISSING LKD REJECTED TRAYS   Off",,HSuLC1
+79735,"27/11/2016 01:43:33","-1:00","adamb","Alarm","Alarm profibus nodo 3 (encoder)  Off",,kegwyu
+79736,"27/11/2016 01:43:33","-1:00","adamb","Alarm","Alarm profibus nodo 4 (PC)  Off",,5XNna8
+79737,"27/11/2016 01:43:33","-1:00","adamb","Alarm","WARNING MISSING LOGIN OPERATION  Off",,OVKxDa
+79738,"27/11/2016 01:43:38","-1:00","adamb","Alarm: 6","Acknowledgment of 6 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,vTQKJO
+79739,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,PryAw9
+79740,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment",,3Itx1Z
+79741,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  Acknowledgment",,HhRlE7
+79742,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment",,fkw9N9
+79743,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","ALARM MAIN MOTOR  Acknowledgment",,31yQUm
+79744,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,4U9Y5h
+79745,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 1  Acknowledgment",,BDin3d
+79746,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,ue8gKK
+79747,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,DSfya8
+79748,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","ALARM MISSING ST0 TIP REJECTED TRAYS   Acknowledgment",,4VjS5+
+79749,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","ALARM MISSING LKD REJECTED TRAYS   Acknowledgment",,FqXE/g
+79750,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","PVSI NOT READY  Acknowledgment",,271BSh
+79751,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","PVSI AND WINCC PRODUCT DIFFERENT  Acknowledgment",,9OSMFM
+79752,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","Alarm profibus nodo 3 (encoder)  Acknowledgment",,AZHdL/
+79753,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","Alarm profibus nodo 4 (PC)  Acknowledgment",,kdm7X/
+79754,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,xRdO2O
+79755,"27/11/2016 01:43:38","-1:00","adamb","Alarm:","COVER OPEN 5  Acknowledgment",,ioMwy+
+79756,"27/11/2016 01:43:38","-1:00","adamb","Alarm: 6","Acknowledgment of 6 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,AWWPWD
+79757,"27/11/2016 01:43:38","-1:00","adamb","Alarm: 6","Acknowledgment of 6 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,lT98KW
+79758,"27/11/2016 01:43:40","-1:00","adamb","Alarm","PVSI NOT READY  Off",,tsXf0R
+79759,"27/11/2016 01:43:44","-1:00","adamb","Warning","PVSI NOT RUNNING   Off",,UCwTUL
+79760,"27/11/2016 01:48:16","-1:00","adamb","Alarm","COVER OPEN 6  On",,8uAeEs
+79761,"27/11/2016 01:48:18","-1:00","adamb","Alarm","COVER OPEN 7  On",,3A2r8I
+79762,"27/11/2016 01:50:13","-1:00","adamb","Alarm","COVER OPEN 1  On",,xp50a1
+79763,"27/11/2016 01:51:17","-1:00","adamb","Alarm","COVER OPEN 3  On",,4kGAR5
+79764,"27/11/2016 01:51:19","-1:00","adamb","Alarm","COVER OPEN 2  On",,EfdBpt
+79765,"27/11/2016 01:51:21","-1:00","adamb","Warning","WARNING SAFETY DOORS EXCLUDED  On",,iWSe5G
+79766,"27/11/2016 01:51:23","-1:00","adamb","Alarm","EMERGENCY  Off",,8MiCzy
+79767,"27/11/2016 01:51:23","-1:00","adamb","Alarm","COVER OPEN 1  Off",,ZXf0Mn
+79768,"27/11/2016 01:51:23","-1:00","adamb","Alarm","COVER OPEN 2  Off",,5tIEFG
+79769,"27/11/2016 01:51:23","-1:00","adamb","Alarm","COVER OPEN 3  Off",,4+QQQO
+79770,"27/11/2016 01:51:23","-1:00","adamb","Alarm","COVER OPEN 5  Off",,GOcPl3
+79771,"27/11/2016 01:51:23","-1:00","adamb","Alarm","COVER OPEN 6  Off",,//ZRNx
+79772,"27/11/2016 01:51:23","-1:00","adamb","Alarm","COVER OPEN 7  Off",,HX6O+y
+79773,"27/11/2016 01:51:23","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,7khUnk
+79774,"27/11/2016 01:51:23","-1:00","adamb","Alarm","PVSI AND WINCC PRODUCT DIFFERENT  Off",,QaQVxQ
+79775,"27/11/2016 01:51:28","-1:00","adamb","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,OuqZlK
+79776,"27/11/2016 01:51:28","-1:00","adamb","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,9i61eT
+79777,"27/11/2016 02:04:35","-1:00","adamb","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,ll8tr7
+79778,"27/11/2016 02:04:35","-1:00","adamb","Alarm","EMERGENCY  On",,7n4RlV
+79779,"27/11/2016 02:04:35","-1:00","adamb","Alarm","WARNING MISSING LOGIN OPERATION  On",,aal6Gd
+79780,"27/11/2016 02:04:35","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,LA2Lxb
+79781,"27/11/2016 02:04:39","-1:00","System","User administration","User 'adamb' logged on with group 'Operator'.",,FmE3hZ
+79782,"27/11/2016 02:04:41","-1:00","adamb","Alarm","WARNING MISSING LOGIN OPERATION  Off",,CovbLa
+79783,"27/11/2016 02:04:41","-1:00","adamb","Alarm","EMERGENCY  Off",,ahmP7R
+79784,"27/11/2016 02:04:41","-1:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,pjrPEV
+79785,"27/11/2016 02:04:53","-1:00","adamb","Recipe","Loading recipe number 3 ( Production 5ml ) on the interface.",,KGigc6
+79786,"27/11/2016 02:04:53","-1:00","adamb","Recipe","Data trasfered to PLC",,rEmg53
+79787,"27/11/2016 02:04:56","-1:00","adamb","Warning","PVSI NOT RUNNING   On",,83T54K
+79788,"27/11/2016 02:04:57","-1:00","adamb","Warning","PVSI NOT RUNNING   Off",,AwJcsH
+79789,"27/11/2016 02:05:09","-1:00","adamb","User administration","User logged off.",,7qDcfM
+79790,"27/11/2016 02:05:09","-1:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,RPCmte
+79791,"27/11/2016 02:05:09","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,vXtlw9
+79792,"27/11/2016 02:05:11","-1:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  On",,4Ojenw
+79793,"27/11/2016 04:50:57","-1:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  Off",,SWexFX
+79794,"27/11/2016 04:50:57","-1:00",,"Alarm","EMERGENCY  On",,BfA50H
+79795,"27/11/2016 04:50:57","-1:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,4tJDh4
+79796,"27/11/2016 04:51:12","-1:00","System","User administration","User 'simonb' logged on with group 'Supervisor'.",,B1cl1t
+79797,"27/11/2016 04:51:27","-1:00","simonb","Recipe","Loading recipe number 7 ( Ascorbic 5ml ) on the interface.",,hbdk+D
+79798,"27/11/2016 04:51:27","-1:00","simonb","Recipe","Data trasfered to PLC",,0Btqqz
+79799,"27/11/2016 04:51:30","-1:00","simonb","Warning","PVSI NOT RUNNING   On",,rbW0Kb
+79800,"27/11/2016 04:51:31","-1:00","simonb","Warning","PVSI NOT RUNNING   Off",,fRc9eB
+79801,"27/11/2016 04:52:18","-1:00","simonb","Alarm","COVER OPEN 5  On",,6pBf07
+79802,"27/11/2016 04:53:22","-1:00","simonb","Alarm","COVER OPEN 7  On",,2gTZ0o
+79803,"27/11/2016 04:54:14","-1:00","simonb","Alarm","COVER OPEN 5  Off",,BpptbI
+79804,"27/11/2016 04:54:14","-1:00","simonb","Alarm","COVER OPEN 7  Off",,P0Ks63
+79805,"27/11/2016 04:54:14","-1:00","simonb","Alarm","WARNING MISSING LOGIN OPERATION  Off",,r4dZPT
+79806,"27/11/2016 04:54:14","-1:00","simonb","Alarm","EMERGENCY  Off",,Qjh8Cq
+79807,"27/11/2016 04:54:14","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,dYeYjR
+79808,"27/11/2016 04:54:52","-1:00","simonb","Alarm","PVSI NOT READY  On",,mlspBH
+79809,"27/11/2016 04:55:23","-1:00","simonb","Alarm","PVSI NOT READY  Off",,x8Tt2F
+79810,"27/11/2016 04:55:28","-1:00","simonb","Alarm","EMERGENCY  On",,/lD83R
+79811,"27/11/2016 04:55:28","-1:00","simonb","Alarm","COVER OPEN 7  On",,BPEjtB
+79812,"27/11/2016 04:55:28","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,lXFLjZ
+79813,"27/11/2016 04:56:21","-1:00","simonb","Alarm","COVER OPEN 7  Off",,5d4WrD
+79814,"27/11/2016 04:56:22","-1:00","simonb","Alarm","EMERGENCY  Off",,cV2r6d
+79815,"27/11/2016 04:56:22","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,S6YqCW
+79816,"27/11/2016 04:56:29","-1:00","simonb","Alarm","EMERGENCY  On",,L9e0H1
+79817,"27/11/2016 04:56:29","-1:00","simonb","Alarm","COVER OPEN 7  On",,UGHflk
+79818,"27/11/2016 04:56:29","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,Ma2JvI
+79819,"27/11/2016 04:56:51","-1:00","simonb","Alarm","COVER OPEN 7  Off",,0bIA2q
+79820,"27/11/2016 04:56:52","-1:00","simonb","Alarm","EMERGENCY  Off",,KqOX0P
+79821,"27/11/2016 04:56:52","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,muVJFf
+79822,"27/11/2016 04:57:36","-1:00","simonb","Alarm","EMERGENCY  On",,Xj5mjm
+79823,"27/11/2016 04:57:36","-1:00","simonb","Alarm","COVER OPEN 7  On",,1aPC3n
+79824,"27/11/2016 04:57:37","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,o00HLU
+79825,"27/11/2016 04:57:43","-1:00","simonb","Alarm","COVER OPEN 6  On",,p2TjhR
+79826,"27/11/2016 04:57:55","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,3hUEmH
+79827,"27/11/2016 04:57:57","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,FZrqj+
+79828,"27/11/2016 04:58:12","-1:00","simonb","Alarm","COVER OPEN 6  Off",,QvdgFA
+79829,"27/11/2016 04:58:12","-1:00","simonb","Alarm","COVER OPEN 7  Off",,V+iIOS
+79830,"27/11/2016 04:58:12","-1:00","simonb","Alarm","EMERGENCY  Off",,1xbPw/
+79831,"27/11/2016 04:58:12","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,LVSnIk
+79832,"27/11/2016 04:59:02","-1:00","simonb","Alarm","EMERGENCY  On",,mSunRi
+79833,"27/11/2016 04:59:02","-1:00","simonb","Alarm","COVER OPEN 5  On",,NlVRsn
+79834,"27/11/2016 04:59:02","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,McI8Ve
+79835,"27/11/2016 05:03:09","-1:00","simonb","Alarm","COVER OPEN 7  On",,2abEQo
+79836,"27/11/2016 05:03:32","-1:00","simonb","Alarm","COVER OPEN 7  Off",,CZ3Qt+
+79837,"27/11/2016 05:03:46","-1:00","simonb","Alarm","COVER OPEN 5  Off",,esWMK9
+79838,"27/11/2016 05:03:46","-1:00","simonb","Alarm","EMERGENCY  Off",,Ll16Be
+79839,"27/11/2016 05:03:46","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,sTz6OD
+79840,"27/11/2016 05:04:16","-1:00","simonb","Alarm","PVSI NOT READY  On",,BzPdIN
+79841,"27/11/2016 05:04:57","-1:00","simonb","Alarm","PVSI NOT READY  Off",,nUcNM3
+79842,"27/11/2016 05:05:21","-1:00","simonb","Alarm","PVSI NOT READY  On",,QQ0IGi
+79843,"27/11/2016 05:06:22","-1:00","simonb","Alarm","PVSI NOT READY  Off",,vI3T4T
+79844,"27/11/2016 05:06:55","-1:00","simonb","Alarm","PVSI NOT READY  On",,vXl+Gb
+79845,"27/11/2016 05:19:50","-1:00","simonb","Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,Qa10oJ
+79846,"27/11/2016 05:19:50","-1:00","simonb","Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,yYUxTR
+79847,"27/11/2016 05:20:01","-1:00","simonb","Alarm","PVSI NOT READY  Off",,xGTx/+
+79848,"27/11/2016 05:20:25","-1:00","simonb","Alarm","PVSI NOT READY  On",,ApFrdv
+79849,"27/11/2016 05:20:58","-1:00","simonb","Alarm","PVSI NOT READY  Off",,t4mj57
+79850,"27/11/2016 05:21:37","-1:00","simonb","Alarm","EMERGENCY  On",,ftLNRx
+79851,"27/11/2016 05:21:37","-1:00","simonb","Alarm","COVER OPEN 5  On",,pw+VsR
+79852,"27/11/2016 05:21:37","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,VsPBKn
+79853,"27/11/2016 05:22:52","-1:00","simonb","Alarm","COVER OPEN 7  On",,bbbslD
+79854,"27/11/2016 05:23:00","-1:00","simonb","Alarm","COVER OPEN 5  Off",,RsE1Ff
+79855,"27/11/2016 05:23:00","-1:00","simonb","Alarm","COVER OPEN 7  Off",,9gVkqL
+79856,"27/11/2016 05:23:01","-1:00","simonb","Alarm","EMERGENCY  Off",,xVkI9j
+79857,"27/11/2016 05:23:01","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,+RQX9E
+79858,"27/11/2016 05:24:35","-1:00","simonb","Alarm","EMERGENCY  On",,3DAbLL
+79859,"27/11/2016 05:24:35","-1:00","simonb","Alarm","COVER OPEN 5  On",,h4kyo5
+79860,"27/11/2016 05:24:35","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,QNliqY
+79861,"27/11/2016 05:24:46","-1:00","simonb","Alarm","COVER OPEN 7  On",,Rm/c/w
+79862,"27/11/2016 05:24:54","-1:00","simonb","Alarm","COVER OPEN 5  Off",,yTIuQt
+79863,"27/11/2016 05:24:54","-1:00","simonb","Alarm","COVER OPEN 7  Off",,eNBIa7
+79864,"27/11/2016 05:24:54","-1:00","simonb","Alarm","EMERGENCY  Off",,i9+x+U
+79865,"27/11/2016 05:24:54","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,nIlRv8
+79866,"27/11/2016 05:25:44","-1:00","simonb","Alarm","EMERGENCY  On",,6v1Qiz
+79867,"27/11/2016 05:25:44","-1:00","simonb","Alarm","COVER OPEN 5  On",,hAAnlZ
+79868,"27/11/2016 05:25:44","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,t801D9
+79869,"27/11/2016 05:25:49","-1:00","simonb","Alarm","COVER OPEN 7  On",,+mGssX
+79870,"27/11/2016 05:25:56","-1:00","simonb","Alarm","COVER OPEN 5  Off",,9kEugZ
+79871,"27/11/2016 05:25:56","-1:00","simonb","Alarm","COVER OPEN 7  Off",,7iyPSD
+79872,"27/11/2016 05:25:56","-1:00","simonb","Alarm","EMERGENCY  Off",,5et2pL
+79873,"27/11/2016 05:25:56","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,bEmLPb
+79874,"27/11/2016 05:26:27","-1:00","simonb","Alarm","PVSI NOT READY  On",,roOJ8S
+79875,"27/11/2016 05:27:11","-1:00","simonb","Alarm","PVSI NOT READY  Off",,akn7tR
+79876,"27/11/2016 05:27:33","-1:00","simonb","Alarm","PVSI NOT READY  On",,XCwItg
+79877,"27/11/2016 05:28:08","-1:00","simonb","Alarm","PVSI NOT READY  Off",,WZWRts
+79878,"27/11/2016 05:28:31","-1:00","simonb","Alarm","EMERGENCY  On",,KpVAY7
+79879,"27/11/2016 05:28:31","-1:00","simonb","Alarm","COVER OPEN 5  On",,Cv7VeC
+79880,"27/11/2016 05:28:31","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,Y4/7nD
+79881,"27/11/2016 05:35:07","-1:00","simonb","Alarm","COVER OPEN 7  On",,VOhJR6
+79882,"27/11/2016 05:35:33","-1:00","simonb","Alarm","COVER OPEN 5  Off",,01NCQr
+79883,"27/11/2016 05:35:33","-1:00","simonb","Alarm","COVER OPEN 7  Off",,Dw7c3b
+79884,"27/11/2016 05:35:34","-1:00","simonb","Alarm","EMERGENCY  Off",,adoLAU
+79885,"27/11/2016 05:35:34","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,dXX2EC
+79886,"27/11/2016 05:39:52","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,a0E6nV
+79887,"27/11/2016 05:41:12","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,h8Ln60
+79888,"27/11/2016 05:43:39","-1:00","simonb","Alarm","EMERGENCY  On",,kIjtBz
+79889,"27/11/2016 05:43:39","-1:00","simonb","Alarm","COVER OPEN 7  On",,fvun5c
+79890,"27/11/2016 05:43:39","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,bet2mY
+79891,"27/11/2016 05:43:54","-1:00","simonb","Alarm","COVER OPEN 7  Off",,1PN52w
+79892,"27/11/2016 05:43:54","-1:00","simonb","Alarm","EMERGENCY  Off",,7piyfa
+79893,"27/11/2016 05:43:54","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,RV91Ji
+79894,"27/11/2016 05:44:12","-1:00","simonb","Alarm","EMERGENCY  On",,kKTgls
+79895,"27/11/2016 05:44:12","-1:00","simonb","Alarm","COVER OPEN 7  On",,/kfTYJ
+79896,"27/11/2016 05:44:12","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,JQ3ZeT
+79897,"27/11/2016 05:44:32","-1:00","simonb","Alarm","COVER OPEN 7  Off",,PBXgRw
+79898,"27/11/2016 05:44:32","-1:00","simonb","Alarm","EMERGENCY  Off",,TVvWJr
+79899,"27/11/2016 05:44:32","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,FIglQm
+79900,"27/11/2016 05:44:47","-1:00","simonb","Alarm","COVER OPEN 7  On",,4Koesb
+79901,"27/11/2016 05:44:47","-1:00","simonb","Alarm","EMERGENCY  On",,Kpsqzs
+79902,"27/11/2016 05:44:47","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,i2AdTv
+79903,"27/11/2016 05:45:31","-1:00","simonb","Alarm","COVER OPEN 7  Off",,FUZs06
+79904,"27/11/2016 05:45:31","-1:00","simonb","Alarm","EMERGENCY  Off",,pRVvyk
+79905,"27/11/2016 05:45:31","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,LCbnxA
+79906,"27/11/2016 05:45:44","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,RD6VSq
+79907,"27/11/2016 05:46:13","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,LUkiFt
+79908,"27/11/2016 05:46:13","-1:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,WdhWCu
+79909,"27/11/2016 05:46:33","-1:00","simonb","Warning","WARNING REJECTED TRAY HIGH ST0 ALMOST FULL  On",,aXb5Pj
+79910,"27/11/2016 05:46:38","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,z+F/AS
+79911,"27/11/2016 05:46:38","-1:00","simonb","Warning","WARNING REJECTED TRAY HIGH ST0 ALMOST FULL  Off",,H0kjV+
+79912,"27/11/2016 05:52:22","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,IqzcIn
+79913,"27/11/2016 05:53:05","-1:00","simonb","Alarm","EMERGENCY  On",,ERX4hG
+79914,"27/11/2016 05:53:05","-1:00","simonb","Alarm","COVER OPEN 7  On",,f38CNB
+79915,"27/11/2016 05:53:05","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,cxLsl7
+79916,"27/11/2016 05:53:13","-1:00","simonb","Alarm","COVER OPEN 7  Off",,J9Bhew
+79917,"27/11/2016 05:53:14","-1:00","simonb","Alarm","EMERGENCY  Off",,IsZxDN
+79918,"27/11/2016 05:53:14","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,1aRsct
+79919,"27/11/2016 05:53:35","-1:00","simonb","Alarm","EMERGENCY  On",,4QMwyC
+79920,"27/11/2016 05:53:35","-1:00","simonb","Alarm","COVER OPEN 7  On",,mGY1l9
+79921,"27/11/2016 05:53:35","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,qg7Iif
+79922,"27/11/2016 05:53:56","-1:00","simonb","Alarm","COVER OPEN 7  Off",,NBAOAC
+79923,"27/11/2016 05:53:56","-1:00","simonb","Alarm","EMERGENCY  Off",,jBdNKq
+79924,"27/11/2016 05:53:56","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,68jG/t
+79925,"27/11/2016 05:56:19","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,5HWOZ+
+79926,"27/11/2016 05:56:22","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,wtLc3/
+79927,"27/11/2016 05:56:50","-1:00","simonb","Alarm","EMERGENCY  On",,nGQRE0
+79928,"27/11/2016 05:56:50","-1:00","simonb","Alarm","COVER OPEN 7  On",,K4JNI5
+79929,"27/11/2016 05:56:51","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,jnw96s
+79930,"27/11/2016 05:57:08","-1:00","simonb","Alarm","COVER OPEN 7  Off",,s5G9YL
+79931,"27/11/2016 05:57:08","-1:00","simonb","Alarm","EMERGENCY  Off",,gftfxx
+79932,"27/11/2016 05:57:08","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,FD8kBv
+79933,"27/11/2016 05:57:29","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,GPQGXD
+79934,"27/11/2016 05:57:31","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,UMpBxg
+79935,"27/11/2016 05:58:25","-1:00","simonb","Alarm","PVSI NOT READY  On",,ZOadXl
+79936,"27/11/2016 05:58:51","-1:00","simonb","Alarm","EMERGENCY  On",,5EjhBN
+79937,"27/11/2016 05:58:51","-1:00","simonb","Alarm","COVER OPEN 7  On",,GpmMPM
+79938,"27/11/2016 05:58:51","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,E4/9JF
+79939,"27/11/2016 05:58:54","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,npKbvV
+79940,"27/11/2016 05:58:57","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,YuE8YL
+79941,"27/11/2016 05:59:17","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,PNy4xu
+79942,"27/11/2016 05:59:33","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,NB2VPs
+79943,"27/11/2016 05:59:44","-1:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,mFByz7
+79944,"27/11/2016 05:59:48","-1:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,e3HYch
+79945,"27/11/2016 06:00:05","-1:00","simonb","Alarm","COVER OPEN 1  On",,dG28Xa
+79946,"27/11/2016 06:01:04","-1:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,c5OvQg
+79947,"27/11/2016 06:01:05","-1:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,3tDb9o
+79948,"27/11/2016 06:01:05","-1:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,u1uRXN
+79949,"27/11/2016 06:01:08","-1:00","simonb","Alarm","COVER OPEN 5  On",,Cc+dUa
+79950,"27/11/2016 06:01:25","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,QzNCBq
+79951,"27/11/2016 06:01:55","-1:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,/DSQJN
+79952,"27/11/2016 06:01:55","-1:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,+Jj9X0
+79953,"27/11/2016 06:02:15","-1:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,2FXkYx
+79954,"27/11/2016 06:03:04","-1:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,8FJUmh
+79955,"27/11/2016 06:03:10","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,cxeErz
+79956,"27/11/2016 06:03:35","-1:00","simonb","Alarm","COVER OPEN 1  Off",,Ii13qi
+79957,"27/11/2016 06:03:35","-1:00","simonb","Alarm","COVER OPEN 5  Off",,cOBDTm
+79958,"27/11/2016 06:03:35","-1:00","simonb","Alarm","COVER OPEN 7  Off",,SqMX7o
+79959,"27/11/2016 06:03:35","-1:00","simonb","Alarm","PVSI NOT READY  Off",,lCpJW7
+79960,"27/11/2016 06:03:36","-1:00","simonb","Alarm","EMERGENCY  Off",,YqlbHL
+79961,"27/11/2016 06:03:36","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,qydbFa
+79962,"27/11/2016 06:05:24","-1:00","simonb","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,+DGRuF
+79963,"27/11/2016 06:05:26","-1:00","simonb","Alarm","EMERGENCY  On",,9CU4V4
+79964,"27/11/2016 06:05:26","-1:00","simonb","Alarm","COVER OPEN 7  On",,AuKPM7
+79965,"27/11/2016 06:05:26","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,++ya1l
+79966,"27/11/2016 06:06:45","-1:00","simonb","Alarm","COVER OPEN 7  Off",,deTBp6
+79967,"27/11/2016 06:06:45","-1:00","simonb","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,yGyYkB
+79968,"27/11/2016 06:06:46","-1:00","simonb","Alarm","EMERGENCY  Off",,htZdWS
+79969,"27/11/2016 06:06:46","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,9cukLL
+79970,"27/11/2016 06:07:52","-1:00","simonb","Alarm","COVER OPEN 5  On",,0j6qgU
+79971,"27/11/2016 06:07:52","-1:00","simonb","Alarm","EMERGENCY  On",,VDY81w
+79972,"27/11/2016 06:07:53","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,KQT29N
+79973,"27/11/2016 06:08:32","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,jLvAul
+79974,"27/11/2016 06:09:46","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,XJU7Gp
+79975,"27/11/2016 06:10:00","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,f1z+8a
+79976,"27/11/2016 06:10:06","-1:00","simonb","Alarm","COVER OPEN 7  On",,+pO5vQ
+79977,"27/11/2016 06:13:37","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,dtlh9q
+79978,"27/11/2016 06:13:41","-1:00","simonb","Alarm","COVER OPEN 5  Off",,ezgShc
+79979,"27/11/2016 06:13:41","-1:00","simonb","Alarm","COVER OPEN 7  Off",,ooC5yv
+79980,"27/11/2016 06:13:41","-1:00","simonb","Alarm","EMERGENCY  Off",,AgP0Pv
+79981,"27/11/2016 06:13:41","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,+E0Sul
+79982,"27/11/2016 06:14:53","-1:00","simonb","Alarm","PVSI NOT READY  On",,OpGuL4
+79983,"27/11/2016 06:16:26","-1:00","simonb","Alarm","EMERGENCY  On",,/NL6sn
+79984,"27/11/2016 06:16:26","-1:00","simonb","Alarm","COVER OPEN 3  On",,VAzQvN
+79985,"27/11/2016 06:16:26","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,8WlPzc
+79986,"27/11/2016 06:19:20","-1:00","simonb","Alarm","COVER OPEN 3  Off",,Z8emok
+79987,"27/11/2016 06:19:21","-1:00","simonb","Alarm","EMERGENCY  Off",,38YvFa
+79988,"27/11/2016 06:19:21","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,4X612F
+79989,"27/11/2016 06:19:25","-1:00","simonb","Alarm","PVSI NOT READY  Off",,CmGzxW
+79990,"27/11/2016 06:19:44","-1:00","simonb","Alarm","PVSI NOT READY  On",,p9wqPU
+79991,"27/11/2016 06:22:47","-1:00","simonb","Alarm","PVSI NOT READY  Off",,HF2eXd
+79992,"27/11/2016 06:23:25","-1:00","simonb","Alarm","PVSI NOT READY  On",,BSKQHg
+79993,"27/11/2016 06:23:48","-1:00","simonb","Alarm","EMERGENCY  On",,MXpMcU
+79994,"27/11/2016 06:23:48","-1:00","simonb","Alarm","COVER OPEN 2  On",,ugDfqO
+79995,"27/11/2016 06:23:48","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,D1LPad
+79996,"27/11/2016 06:23:49","-1:00","simonb","Alarm","COVER OPEN 3  On",,dsmBPG
+79997,"27/11/2016 06:26:05","-1:00","simonb","Alarm","COVER OPEN 2  Off",,YXeKOk
+79998,"27/11/2016 06:26:05","-1:00","simonb","Alarm","COVER OPEN 3  Off",,ouWhzJ
+79999,"27/11/2016 06:26:06","-1:00","simonb","Alarm","EMERGENCY  Off",,ohdBC1
+80000,"27/11/2016 06:26:06","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,dZks/t
+80001,"27/11/2016 06:26:11","-1:00","simonb","Alarm","PVSI NOT READY  Off",,ZKv8RY
+80002,"27/11/2016 06:27:57","-1:00","simonb","Alarm","EMERGENCY  On",,GRm6tm
+80003,"27/11/2016 06:27:57","-1:00","simonb","Alarm","COVER OPEN 5  On",,viWDJA
+80004,"27/11/2016 06:27:57","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,MH/5JI
+80005,"27/11/2016 06:28:55","-1:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,l6kLtv
+80006,"27/11/2016 07:12:47","-1:00","System","User administration","User logged off.",,yJCcG2
+80007,"27/11/2016 07:12:48","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,S3aJvu
+80008,"27/11/2016 09:19:58","-1:00",,"Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,N9/CFg
+80009,"27/11/2016 09:19:58","-1:00",,"Warning","WARNING REJECTED TRAY ALMOST FULL  On",,ivUQu9
+80010,"27/11/2016 09:19:58","-1:00",,"Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,Trf01C
+80011,"27/11/2016 09:20:07","-1:00",,"Warning","WARNING REJECTED TRAY ALMOST FULL  On",,Ddm0bj
+80012,"27/11/2016 09:20:07","-1:00",,"Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,dcWHKV
+80013,"27/11/2016 09:20:12","-1:00",,"Alarm","COVER OPEN 7  On",,3sF/xa
+80014,"27/11/2016 09:24:18","-1:00","System","User administration","User 'simonb' logged on with group 'Supervisor'.",,FfmfPs
+80015,"27/11/2016 09:24:23","-1:00","simonb","Alarm","COVER OPEN 5  Off",,wM9r8j
+80016,"27/11/2016 09:24:23","-1:00","simonb","Alarm","COVER OPEN 7  Off",,zCq2cX
+80017,"27/11/2016 09:24:23","-1:00","simonb","Alarm","WARNING MISSING LOGIN OPERATION  Off",,t0u5jn
+80018,"27/11/2016 09:24:23","-1:00","simonb","Alarm","EMERGENCY  Off",,LBRerq
+80019,"27/11/2016 09:24:23","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,Ahw2T/
+80020,"27/11/2016 09:24:58","-1:00","simonb","Alarm","PVSI NOT READY  On",,Jc5ius
+80021,"27/11/2016 09:30:20","-1:00","simonb","Alarm","PVSI NOT READY  Off",,7svnt2
+80022,"27/11/2016 09:30:42","-1:00","simonb","Alarm","PVSI NOT READY  On",,nQiOZ+
+80023,"27/11/2016 09:32:10","-1:00","simonb","Alarm","PVSI NOT READY  Off",,KBb94f
+80024,"27/11/2016 09:32:51","-1:00","simonb","Alarm","PVSI NOT READY  On",,PKA3ge
+80025,"27/11/2016 09:33:21","-1:00","simonb","Alarm","PVSI NOT READY  Off",,+hBaae
+80026,"27/11/2016 09:34:23","-1:00","simonb","Alarm","PVSI NOT READY  On",,DKjSQM
+80027,"27/11/2016 09:35:01","-1:00","simonb","Alarm","PVSI NOT READY  Off",,WB6K6x
+80028,"27/11/2016 09:35:15","-1:00","simonb","Alarm","PVSI NOT READY  On",,tZ8GXu
+80029,"27/11/2016 09:36:03","-1:00","simonb","Alarm","PVSI NOT READY  Off",,HOmo8w
+80030,"27/11/2016 09:36:26","-1:00","simonb","Alarm","PVSI NOT READY  On",,A6Mkbo
+80031,"27/11/2016 09:37:08","-1:00","simonb","Alarm","PVSI NOT READY  Off",,x6vQx2
+80032,"27/11/2016 09:37:55","-1:00","simonb","Alarm","EMERGENCY  On",,v+2pXl
+80033,"27/11/2016 09:37:55","-1:00","simonb","Alarm","COVER OPEN 5  On",,oxFy5Z
+80034,"27/11/2016 09:37:55","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,qPgBWP
+80035,"27/11/2016 09:38:09","-1:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,YnsPsZ
+80036,"27/11/2016 09:39:28","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ltQovw
+80037,"27/11/2016 09:39:33","-1:00","simonb","Alarm","COVER OPEN 7  On",,u2jK1u
+80038,"27/11/2016 09:43:21","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,0yiKrh
+80039,"27/11/2016 09:43:26","-1:00","simonb","Alarm","COVER OPEN 5  Off",,SFk9Od
+80040,"27/11/2016 09:43:26","-1:00","simonb","Alarm","COVER OPEN 7  Off",,g3FXsu
+80041,"27/11/2016 09:43:27","-1:00","simonb","Alarm","EMERGENCY  Off",,0JtKY1
+80042,"27/11/2016 09:43:27","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,BxBPpA
+80043,"27/11/2016 09:45:12","-1:00","simonb","Alarm","EMERGENCY  On",,WlPFGb
+80044,"27/11/2016 09:45:12","-1:00","simonb","Alarm","COVER OPEN 5  On",,4k8Qcy
+80045,"27/11/2016 09:45:13","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,6xE6d0
+80046,"27/11/2016 09:46:05","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,0Kp2hw
+80047,"27/11/2016 09:50:19","-1:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  Off",,P28Lmg
+80048,"27/11/2016 09:50:25","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ynWNNv
+80049,"27/11/2016 09:52:05","-1:00","simonb","Warning","WARNING UPS  On",,bLau3E
+80050,"27/11/2016 09:52:05","-1:00","simonb","Warning","ALARM OZONE SENSOR  On",,BpRBWr
+80051,"27/11/2016 09:52:05","-1:00","simonb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,XtrGCr
+80052,"27/11/2016 09:52:05","-1:00","simonb","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,NEFtmn
+80053,"27/11/2016 09:52:05","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,nHA7bz
+80054,"27/11/2016 09:52:05","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,sgTSyn
+80055,"27/11/2016 09:52:05","-1:00","simonb","Alarm","ALARM ROTATION MOTOR 1  On",,bsZKeC
+80056,"27/11/2016 09:52:05","-1:00","simonb","Alarm","ALARM ROTATION MOTOR 2  On",,QIfnWE
+80057,"27/11/2016 09:52:05","-1:00","simonb","Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   On",,O9i7GW
+80058,"27/11/2016 09:52:05","-1:00","simonb","Alarm","ALARM MISSING LKD REJECTED TRAYS   On",,gWu8sT
+80059,"27/11/2016 09:52:05","-1:00","simonb","Alarm","Alarm profibus nodo 3 (encoder)  On",,k4MgTH
+80060,"28/11/2016 00:21:26","-1:00","System","Application","The last known sequential number for operator actions differs from the number in the log. Continuing with a higher number, 80060.",,+9OuQb
+0,"28/11/2016 00:21:27","-1:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,mrrDN/
+80061,"28/11/2016 00:21:28","-1:00","System","User administration","Password list imported successfully.",,Xx59z6
+80062,"28/11/2016 00:21:28","-1:00","System","Application","Change to operating mode 'online'.",,ALJ2JM
+0,"28/11/2016 00:21:34","-1:00","System","Logs","Log files closed.",,eQX0eA
+"$RT_COUNT$",368,kk14ge,,,,,T8kYVW

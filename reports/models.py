@@ -14,6 +14,26 @@ class Vial(models.Model):
     rejected = models.IntegerField(blank=False, null=False)
     technical_rejects = models.IntegerField(blank=False, null=False)
 
+class VialAudit(models.Model):
+    RecordID = models.CharField(blank=True, null=True, max_length=255)
+    TimeStamp = models.CharField(blank=True, null=True, max_length=255)
+    DeltaToUTC = models.CharField(blank=True, null=True, max_length=255)
+    UserID = models.CharField(blank=True, null=True, max_length=255)
+    ObjectID = models.CharField(blank=True, null=True, max_length=255)
+    Description = models.CharField(blank=True, null=True, max_length=555)
+    Comment = models.CharField(blank=True, null=True, max_length=255)
+    Checksum = models.CharField(blank=True, null=True, max_length=255)
+
+class AmpouleAudit(models.Model):
+    RecordID = models.CharField(blank=True, null=True, max_length=255)
+    TimeStamp = models.CharField(blank=True, null=True, max_length=255)
+    DeltaToUTC = models.CharField(blank=True, null=True, max_length=255)
+    UserID = models.CharField(blank=True, null=True, max_length=255)
+    ObjectID = models.CharField(blank=True, null=True, max_length=255)
+    Description = models.CharField(blank=True, null=True, max_length=555)
+    Comment = models.CharField(blank=True, null=True, max_length=255)
+    Checksum = models.CharField(blank=True, null=True, max_length=255)
+
 class Ampoule(models.Model):
     username = models.CharField(blank=False, null=False, max_length=255)
     product_id = models.IntegerField(db_index=True, blank=False, null=False)

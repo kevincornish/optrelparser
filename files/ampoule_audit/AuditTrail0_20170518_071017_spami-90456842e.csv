@@ -1,0 +1,973 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"17/05/2017 10:42:00","-1:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,YGw47b
+131996,"17/05/2017 10:42:00","-1:00","System","Logs","Exporting a log.",,Ns6HD4
+131997,"17/05/2017 10:42:06","-1:00",,"Recipe","Loading recipe number 1 ( Production 1ml ) on the interface.",,8ic0pf
+131998,"17/05/2017 10:42:07","-1:00",,"Recipe","Data trasfered to PLC",,GKO+MY
+131999,"17/05/2017 10:42:07","-1:00",,"Warning","ALARM OZONE SENSOR  On",,sqAeOG
+132000,"17/05/2017 10:42:07","-1:00",,"Warning","PVSI NOT RUNNING   On",,quTMxg
+132001,"17/05/2017 10:42:07","-1:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,ZJAFPZ
+132002,"17/05/2017 10:42:07","-1:00",,"Alarm","EMERGENCY  On",,GNR9mU
+132003,"17/05/2017 10:42:07","-1:00",,"Alarm","COVER OPEN 2  On",,3grI9m
+132004,"17/05/2017 10:42:07","-1:00",,"Alarm","COVER OPEN 3  On",,ZMjHWW
+132005,"17/05/2017 10:42:07","-1:00",,"Alarm","COVER OPEN 5  On",,FqG697
+132006,"17/05/2017 10:42:07","-1:00",,"Alarm","COVER OPEN 6  On",,wBIfYk
+132007,"17/05/2017 10:42:07","-1:00",,"Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,nxpH2i
+132008,"17/05/2017 10:42:07","-1:00",,"Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  On",,RuKrFP
+132009,"17/05/2017 10:42:07","-1:00",,"Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,f9BesT
+132010,"17/05/2017 10:42:07","-1:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,P7mmQ+
+132011,"17/05/2017 10:42:07","-1:00",,"Alarm","ALARM ROTATION MOTOR 1  On",,CvA07B
+132012,"17/05/2017 10:42:07","-1:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,ZmNtQU
+132013,"17/05/2017 10:42:07","-1:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,Eyd1Qz
+132014,"17/05/2017 10:42:07","-1:00",,"Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   On",,7hd2o8
+132015,"17/05/2017 10:42:07","-1:00",,"Alarm","ALARM MISSING LKD REJECTED TRAYS   On",,dKKA8s
+132016,"17/05/2017 10:42:07","-1:00",,"Alarm","PVSI NOT READY  On",,/l2+4P
+132017,"17/05/2017 10:42:07","-1:00",,"Alarm","PVSI AND WINCC PRODUCT DIFFERENT  On",,O6ynnp
+132018,"17/05/2017 10:42:07","-1:00",,"Alarm","Alarm profibus nodo 3 (encoder)  On",,TCN9Ak
+132019,"17/05/2017 10:42:07","-1:00",,"Alarm","Alarm profibus nodo 4 (PC)  On",,+kMslg
+132020,"17/05/2017 10:42:07","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,//NNtC
+132021,"17/05/2017 10:42:15","-1:00","System","User administration","User 'simonb' logged on with group 'Administrator'.",,oTXFJN
+132022,"17/05/2017 10:42:15","-1:00","simonb","Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,HcKkyQ
+132023,"17/05/2017 10:42:22","-1:00","simonb","Warning","ALARM OZONE SENSOR  Off",,5z4F2U
+132024,"17/05/2017 10:42:22","-1:00","simonb","Alarm","COVER OPEN 2  Off",,VUBdD2
+132025,"17/05/2017 10:42:22","-1:00","simonb","Alarm","COVER OPEN 3  Off",,BTfgqg
+132026,"17/05/2017 10:42:22","-1:00","simonb","Alarm","COVER OPEN 5  Off",,wRQ8L8
+132027,"17/05/2017 10:42:22","-1:00","simonb","Alarm","COVER OPEN 6  Off",,9D7E37
+132028,"17/05/2017 10:42:22","-1:00","simonb","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,jJT4Ua
+132029,"17/05/2017 10:42:22","-1:00","simonb","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  Off",,NNcfQC
+132030,"17/05/2017 10:42:22","-1:00","simonb","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off",,kINhs3
+132031,"17/05/2017 10:42:22","-1:00","simonb","Alarm","ALARM ROTATION MOTOR 1  Off",,eEGXum
+132032,"17/05/2017 10:42:22","-1:00","simonb","Alarm","ALARM ROTATION MOTOR 2  Off",,SI61/W
+132033,"17/05/2017 10:42:22","-1:00","simonb","Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   Off",,J0gj+U
+132034,"17/05/2017 10:42:22","-1:00","simonb","Alarm","ALARM MISSING LKD REJECTED TRAYS   Off",,wtY7Ja
+132035,"17/05/2017 10:42:22","-1:00","simonb","Alarm","Alarm profibus nodo 3 (encoder)  Off",,MWlpwe
+132036,"17/05/2017 10:42:22","-1:00","simonb","Alarm","Alarm profibus nodo 4 (PC)  Off",,udno/S
+132037,"17/05/2017 10:42:22","-1:00","simonb","Alarm","WARNING MISSING LOGIN OPERATION  Off",,iA61xD
+132038,"17/05/2017 10:42:22","-1:00","simonb","Alarm","EMERGENCY  Off",,UY5Oi1
+132039,"17/05/2017 10:42:22","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,/79667
+132040,"17/05/2017 10:42:32","-1:00","simonb","Warning","PVSI NOT RUNNING   Off",,rsH3T4
+132041,"17/05/2017 10:42:49","-1:00","simonb","Recipe","Product 5 ( OLD Ascorbic. 5ml no cosmetic ) deleted.",,9S4bX1
+132042,"17/05/2017 10:42:57","-1:00","simonb","Recipe","Product 9 ( Production 1ml High Voltage ) deleted.",,KFIIDD
+132043,"17/05/2017 10:43:04","-1:00","simonb","Recipe","Product 10 ( Production 2ml High Voltage ) deleted.",,YSKU+7
+132044,"17/05/2017 10:43:11","-1:00","simonb","Recipe","Product 11 ( Production 5ml High Voltage ) deleted.",,fVV/LK
+132045,"17/05/2017 10:43:20","-1:00","simonb","Recipe","Product 12 ( Production 10ml High Voltage ) deleted.",,C3WBP8
+132046,"17/05/2017 10:43:39","-1:00","simonb","Recipe","Loading recipe number 13 ( 10mL particle test ) on the interface.",,65/T60
+132047,"17/05/2017 10:43:40","-1:00","simonb","Recipe","Data trasfered to PLC",,A+z3Vz
+132048,"17/05/2017 10:43:43","-1:00","simonb","Warning","PVSI NOT RUNNING   On",,/amhIW
+132049,"17/05/2017 10:43:44","-1:00","simonb","Warning","PVSI NOT RUNNING   Off",,hlt7kT
+132050,"17/05/2017 10:43:54","-1:00","simonb","Warning","KNAPP READY TO START  On",,mqCmF5
+132051,"17/05/2017 10:43:57","-1:00","simonb","Alarm","PVSI NOT READY  Off",,MbT2Vy
+132052,"17/05/2017 10:43:57","-1:00","simonb","Alarm","PVSI AND WINCC PRODUCT DIFFERENT  Off",,4ypr1E
+132053,"17/05/2017 10:43:58","-1:00","simonb","Warning","KNAPP READY TO START  Off",,s1RACp
+132054,"17/05/2017 10:43:58","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,oajn63
+132055,"17/05/2017 10:44:09","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,JTxBwm
+132056,"17/05/2017 10:44:09","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,PYSbfn
+132057,"17/05/2017 10:44:21","-1:00","simonb","Alarm","ALARM LOW LIGHT ST0  On",,T3s6Ol
+132058,"17/05/2017 10:44:21","-1:00","simonb","Warning","KNAPP ABORTED  On",,xL/Qbc
+132059,"17/05/2017 10:44:21","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,ZLrAQ8
+132060,"17/05/2017 10:44:25","-1:00","simonb","Warning","KNAPP ABORTED  Off",,yxUYOw
+132061,"17/05/2017 10:44:25","-1:00","simonb","Alarm","ALARM LOW LIGHT ST0  Off",,j0uWD/
+132062,"17/05/2017 10:44:34","-1:00","simonb","Alarm","COVER OPEN 2  On",,/ts5gN
+132063,"17/05/2017 10:44:34","-1:00","simonb","Alarm","EMERGENCY  On",,9ueqT1
+132064,"17/05/2017 10:44:34","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,c5IIjr
+132065,"17/05/2017 10:44:41","-1:00","simonb","Alarm","COVER OPEN 7  On",,EQPAKo
+132066,"17/05/2017 10:44:49","-1:00","simonb","Warning","KNAPP READY TO START  On",,ploNkN
+132067,"17/05/2017 10:44:50","-1:00","simonb","Alarm","COVER OPEN 2  Off",,fmj0fq
+132068,"17/05/2017 10:44:50","-1:00","simonb","Alarm","COVER OPEN 7  Off",,+RwfmY
+132069,"17/05/2017 10:44:50","-1:00","simonb","Alarm","EMERGENCY  Off",,bCCJHj
+132070,"17/05/2017 10:44:50","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,wdwduu
+132071,"17/05/2017 10:44:54","-1:00","simonb","Warning","KNAPP READY TO START  Off",,WWk66X
+132072,"17/05/2017 10:44:54","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,55Thyz
+132073,"17/05/2017 10:45:08","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,HWTM8D
+132074,"17/05/2017 10:45:08","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,b4Clu6
+132075,"17/05/2017 10:45:19","-1:00","simonb","Alarm","ALARM LOW LIGHT ST0  On",,D4IEx/
+132076,"17/05/2017 10:45:20","-1:00","simonb","Warning","KNAPP ABORTED  On",,xhxlS2
+132077,"17/05/2017 10:45:20","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,rCjB9J
+132078,"17/05/2017 10:45:51","-1:00","simonb","Alarm","EMERGENCY  On",,vTHt5Q
+132079,"17/05/2017 10:45:51","-1:00","simonb","Alarm","COVER OPEN 7  On",,A2w6/2
+132080,"17/05/2017 10:45:52","-1:00","simonb","Alarm","COVER OPEN 6  On",,ZrOd0t
+132081,"17/05/2017 10:45:52","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,7gs/eL
+132082,"17/05/2017 10:51:30","-1:00","simonb","Warning","KNAPP ABORTED  Off",,JXjmnL
+132083,"17/05/2017 10:51:30","-1:00","simonb","Alarm","COVER OPEN 6  Off",,ZYEG6B
+132084,"17/05/2017 10:51:30","-1:00","simonb","Alarm","COVER OPEN 7  Off",,qm8mVV
+132085,"17/05/2017 10:51:30","-1:00","simonb","Alarm","ALARM LOW LIGHT ST0  Off",,UQoTFn
+132086,"17/05/2017 10:51:30","-1:00","simonb","Alarm","EMERGENCY  Off",,YaaApO
+132087,"17/05/2017 10:51:30","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,skg2S5
+132088,"17/05/2017 10:52:00","-1:00","simonb","Warning","KNAPP READY TO START  On",,36CKnv
+132089,"17/05/2017 10:52:02","-1:00","simonb","Warning","KNAPP READY TO START  Off",,kynMBw
+132090,"17/05/2017 10:52:02","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,l1ah6g
+132091,"17/05/2017 10:52:16","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,GGNakD
+132092,"17/05/2017 10:52:16","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,d4mglp
+132093,"17/05/2017 10:52:37","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,1ckmZk
+132094,"17/05/2017 10:52:37","-1:00","simonb","Warning","KNAPP READY TO START  On",,gRsgrg
+132095,"17/05/2017 10:52:37","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,dcZpIN
+132096,"17/05/2017 10:52:40","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,vNBvxN
+132097,"17/05/2017 10:52:40","-1:00","simonb","Warning","KNAPP READY TO START  Off",,s1m5u1
+132098,"17/05/2017 10:52:49","-1:00","simonb","Warning","KNAPP READY TO START  On",,gQX5Vj
+132099,"17/05/2017 10:52:52","-1:00","simonb","Alarm","COVER OPEN 2  On",,0VkXVJ
+132100,"17/05/2017 10:52:52","-1:00","simonb","Alarm","EMERGENCY  On",,iNCByx
+132101,"17/05/2017 10:52:52","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,8DHUTS
+132102,"17/05/2017 10:52:52","-1:00","simonb","Alarm","COVER OPEN 3  On",,oweAfq
+132103,"17/05/2017 10:54:22","-1:00","simonb","Alarm","COVER OPEN 4  On",,Ae4N3/
+132104,"17/05/2017 10:55:30","-1:00","simonb","Alarm","COVER OPEN 2  Off",,tbqABH
+132105,"17/05/2017 10:55:30","-1:00","simonb","Alarm","COVER OPEN 3  Off",,gvVHuY
+132106,"17/05/2017 10:55:30","-1:00","simonb","Alarm","COVER OPEN 4  Off",,yNHS1S
+132107,"17/05/2017 10:55:31","-1:00","simonb","Alarm","EMERGENCY  Off",,MpgymL
+132108,"17/05/2017 10:55:31","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,7gJUKF
+132109,"17/05/2017 10:55:34","-1:00","simonb","Warning","KNAPP READY TO START  Off",,VJCjlf
+132110,"17/05/2017 10:55:34","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,vXqMrD
+132111,"17/05/2017 10:55:39","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,E02kvW
+132112,"17/05/2017 10:55:39","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,W6JsU0
+132113,"17/05/2017 10:57:38","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,H56bWM
+132114,"17/05/2017 10:57:38","-1:00","simonb","Warning","KNAPP READY TO START  On",,tGe/t7
+132115,"17/05/2017 10:57:38","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,nygotK
+132116,"17/05/2017 10:57:51","-1:00","simonb","Alarm","EMERGENCY  On",,hoXpsu
+132117,"17/05/2017 10:57:51","-1:00","simonb","Alarm","COVER OPEN 2  On",,FDjIT1
+132118,"17/05/2017 10:57:51","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,A7ZBNL
+132119,"17/05/2017 10:57:52","-1:00","simonb","Alarm","COVER OPEN 3  On",,AqwRie
+132120,"17/05/2017 11:02:23","-1:00","simonb","Alarm","COVER OPEN 2  Off",,oQVo6R
+132121,"17/05/2017 11:02:23","-1:00","simonb","Alarm","COVER OPEN 3  Off",,DuwcRB
+132122,"17/05/2017 11:02:24","-1:00","simonb","Alarm","EMERGENCY  Off",,NG83u8
+132123,"17/05/2017 11:02:24","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,n4lo7a
+132124,"17/05/2017 11:02:28","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,LWZSLL
+132125,"17/05/2017 11:02:28","-1:00","simonb","Warning","KNAPP READY TO START  Off",,dewMyv
+132126,"17/05/2017 11:02:28","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,YnrEQZ
+132127,"17/05/2017 11:02:32","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,R8l2s3
+132128,"17/05/2017 11:02:32","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,F64wfQ
+132129,"17/05/2017 11:04:31","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,VPXXJK
+132130,"17/05/2017 11:04:31","-1:00","simonb","Warning","KNAPP READY TO START  On",,zha37K
+132131,"17/05/2017 11:04:31","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,oHpeGB
+132132,"17/05/2017 11:04:39","-1:00","simonb","Alarm","EMERGENCY  On",,ufnxJ8
+132133,"17/05/2017 11:04:39","-1:00","simonb","Alarm","COVER OPEN 2  On",,BBbMQ9
+132134,"17/05/2017 11:04:39","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,VzcQY0
+132135,"17/05/2017 11:04:40","-1:00","simonb","Alarm","COVER OPEN 3  On",,foplXX
+132136,"17/05/2017 11:09:56","-1:00","simonb","Alarm","COVER OPEN 2  Off",,UI3Uiu
+132137,"17/05/2017 11:09:56","-1:00","simonb","Alarm","COVER OPEN 3  Off",,3uRRc2
+132138,"17/05/2017 11:09:57","-1:00","simonb","Alarm","EMERGENCY  Off",,AG9I3S
+132139,"17/05/2017 11:09:57","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,/y3wzh
+132140,"17/05/2017 11:10:00","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,ct/LZA
+132141,"17/05/2017 11:10:00","-1:00","simonb","Warning","KNAPP READY TO START  Off",,Ff2XKL
+132142,"17/05/2017 11:10:00","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,sg5/9u
+132143,"17/05/2017 11:10:04","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,j9oB+D
+132144,"17/05/2017 11:10:04","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,OdyWVR
+132145,"17/05/2017 11:12:04","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,+BYzNG
+132146,"17/05/2017 11:12:04","-1:00","simonb","Warning","KNAPP READY TO START  On",,W7DBeA
+132147,"17/05/2017 11:12:04","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,KXVYNr
+132148,"17/05/2017 11:12:06","-1:00","simonb","Alarm","EMERGENCY  On",,xeSoMw
+132149,"17/05/2017 11:12:06","-1:00","simonb","Alarm","COVER OPEN 2  On",,279UIi
+132150,"17/05/2017 11:12:06","-1:00","simonb","Alarm","COVER OPEN 3  On",,2ywmo/
+132151,"17/05/2017 11:12:06","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,710Otb
+132152,"17/05/2017 11:16:58","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,eZk1wB
+132153,"17/05/2017 11:16:58","-1:00","simonb","Warning","KNAPP READY TO START  Off",,JBwClY
+132154,"17/05/2017 11:17:00","-1:00","simonb","Warning","KNAPP READY TO START  On",,BZQqTK
+132155,"17/05/2017 11:17:03","-1:00","simonb","Alarm","COVER OPEN 2  Off",,mI+mZV
+132156,"17/05/2017 11:17:03","-1:00","simonb","Alarm","COVER OPEN 3  Off",,NutX68
+132157,"17/05/2017 11:17:03","-1:00","simonb","Alarm","EMERGENCY  Off",,Lp/Jmw
+132158,"17/05/2017 11:17:03","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,2pytf8
+132159,"17/05/2017 11:17:06","-1:00","simonb","Warning","KNAPP READY TO START  Off",,7lJrjw
+132160,"17/05/2017 11:17:06","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,7G9kKw
+132161,"17/05/2017 11:17:11","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,l/5HHo
+132162,"17/05/2017 11:17:11","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,7xKddC
+132163,"17/05/2017 11:19:10","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,FIPJ31
+132164,"17/05/2017 11:19:10","-1:00","simonb","Warning","KNAPP READY TO START  On",,Aiwzv8
+132165,"17/05/2017 11:19:10","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,G3ea1d
+132166,"17/05/2017 11:19:12","-1:00","simonb","Alarm","COVER OPEN 2  On",,NmisKe
+132167,"17/05/2017 11:19:12","-1:00","simonb","Alarm","EMERGENCY  On",,9F/bLc
+132168,"17/05/2017 11:19:12","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,v7o2Fu
+132169,"17/05/2017 11:19:13","-1:00","simonb","Alarm","COVER OPEN 3  On",,PdSoXI
+132170,"17/05/2017 11:23:17","-1:00","simonb","Alarm","COVER OPEN 2  Off",,Al1C0o
+132171,"17/05/2017 11:23:17","-1:00","simonb","Alarm","COVER OPEN 3  Off",,44acfB
+132172,"17/05/2017 11:23:17","-1:00","simonb","Alarm","EMERGENCY  Off",,oydyHu
+132173,"17/05/2017 11:23:17","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,32eDnJ
+132174,"17/05/2017 11:23:20","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,iEAcdp
+132175,"17/05/2017 11:23:20","-1:00","simonb","Warning","KNAPP READY TO START  Off",,45xrnW
+132176,"17/05/2017 11:23:20","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,/fDPBZ
+132177,"17/05/2017 11:23:25","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,28vTCp
+132178,"17/05/2017 11:23:25","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,e/p+l/
+132179,"17/05/2017 11:25:24","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,MvNaP3
+132180,"17/05/2017 11:25:24","-1:00","simonb","Warning","KNAPP READY TO START  On",,C9OAp7
+132181,"17/05/2017 11:25:24","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,x2cf2O
+132182,"17/05/2017 11:28:26","-1:00","simonb","Alarm","EMERGENCY  On",,0o1OTG
+132183,"17/05/2017 11:28:26","-1:00","simonb","Alarm","COVER OPEN 2  On",,9uYAMm
+132184,"17/05/2017 11:28:26","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,pgJGYd
+132185,"17/05/2017 11:28:27","-1:00","simonb","Alarm","COVER OPEN 3  On",,TSr5Ix
+132186,"17/05/2017 11:32:58","-1:00","simonb","Alarm","COVER OPEN 2  Off",,Lwovdk
+132187,"17/05/2017 11:32:58","-1:00","simonb","Alarm","COVER OPEN 3  Off",,0qfjJe
+132188,"17/05/2017 11:32:58","-1:00","simonb","Alarm","EMERGENCY  Off",,MLuemZ
+132189,"17/05/2017 11:32:58","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,bCrHNa
+132190,"17/05/2017 11:33:01","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,W7Ial/
+132191,"17/05/2017 11:33:01","-1:00","simonb","Warning","KNAPP READY TO START  Off",,32Pn7T
+132192,"17/05/2017 11:33:01","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,8mKeKd
+132193,"17/05/2017 11:33:06","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,YmE1Vk
+132194,"17/05/2017 11:33:06","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,cm0liU
+132195,"17/05/2017 11:35:05","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,S4B3Ie
+132196,"17/05/2017 11:35:05","-1:00","simonb","Warning","KNAPP READY TO START  On",,bLrFIN
+132197,"17/05/2017 11:35:05","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,Qh/dD9
+132198,"17/05/2017 11:35:29","-1:00","simonb","Alarm","COVER OPEN 2  On",,vvbc2U
+132199,"17/05/2017 11:35:29","-1:00","simonb","Alarm","EMERGENCY  On",,eyGogm
+132200,"17/05/2017 11:35:29","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,z07IGX
+132201,"17/05/2017 11:35:30","-1:00","simonb","Alarm","COVER OPEN 3  On",,2Yr8JB
+132202,"17/05/2017 11:39:18","-1:00","simonb","Alarm","COVER OPEN 2  Off",,/tcL2h
+132203,"17/05/2017 11:39:18","-1:00","simonb","Alarm","COVER OPEN 3  Off",,1B9EWG
+132204,"17/05/2017 11:39:19","-1:00","simonb","Alarm","EMERGENCY  Off",,Lb1uam
+132205,"17/05/2017 11:39:19","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,cupjAC
+132206,"17/05/2017 11:39:22","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,Kp0UK8
+132207,"17/05/2017 11:39:22","-1:00","simonb","Warning","KNAPP READY TO START  Off",,7yDkxe
+132208,"17/05/2017 11:39:22","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,5V1zMf
+132209,"17/05/2017 11:39:26","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,h5h/UT
+132210,"17/05/2017 11:39:26","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,Ax8A4R
+132211,"17/05/2017 11:41:25","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,2tFNxE
+132212,"17/05/2017 11:41:25","-1:00","simonb","Warning","KNAPP READY TO START  On",,hnwPQx
+132213,"17/05/2017 11:41:25","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,MXGw4x
+132214,"17/05/2017 11:41:28","-1:00","simonb","Alarm","EMERGENCY  On",,ZEysyk
+132215,"17/05/2017 11:41:28","-1:00","simonb","Alarm","COVER OPEN 2  On",,0AM+2R
+132216,"17/05/2017 11:41:29","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,C+6N3A
+132217,"17/05/2017 11:41:29","-1:00","simonb","Alarm","COVER OPEN 3  On",,tSJnmE
+132218,"17/05/2017 11:46:18","-1:00","simonb","Alarm","COVER OPEN 2  Off",,0nRPJy
+132219,"17/05/2017 11:46:18","-1:00","simonb","Alarm","COVER OPEN 3  Off",,qFRCAP
+132220,"17/05/2017 11:46:18","-1:00","simonb","Alarm","EMERGENCY  Off",,7Zq9Wh
+132221,"17/05/2017 11:46:19","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,148yoj
+132222,"17/05/2017 11:46:22","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,d6xWYD
+132223,"17/05/2017 11:46:22","-1:00","simonb","Warning","KNAPP READY TO START  Off",,Euk/ZY
+132224,"17/05/2017 11:46:22","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,VPltnX
+132225,"17/05/2017 11:46:27","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,NXpBdE
+132226,"17/05/2017 11:46:27","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,8sfWBS
+132227,"17/05/2017 11:48:26","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,q5s9PW
+132228,"17/05/2017 11:48:26","-1:00","simonb","Warning","KNAPP READY TO START  On",,VizZtG
+132229,"17/05/2017 11:48:26","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,lZTVyX
+132230,"17/05/2017 11:48:30","-1:00","simonb","Alarm","EMERGENCY  On",,PZg155
+132231,"17/05/2017 11:48:30","-1:00","simonb","Alarm","COVER OPEN 2  On",,PGXZEf
+132232,"17/05/2017 11:48:30","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,giE1tt
+132233,"17/05/2017 11:48:30","-1:00","simonb","Alarm","COVER OPEN 3  On",,OuW3dx
+132234,"17/05/2017 11:52:28","-1:00","simonb","Alarm","COVER OPEN 2  Off",,FBHjvs
+132235,"17/05/2017 11:52:28","-1:00","simonb","Alarm","COVER OPEN 3  Off",,9V/XAi
+132236,"17/05/2017 11:52:29","-1:00","simonb","Alarm","EMERGENCY  Off",,55lg5F
+132237,"17/05/2017 11:52:29","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,KtDp9O
+132238,"17/05/2017 11:52:32","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,+xiJE7
+132239,"17/05/2017 11:52:32","-1:00","simonb","Warning","KNAPP READY TO START  Off",,OWr2Ti
+132240,"17/05/2017 11:52:32","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,MvSubP
+132241,"17/05/2017 11:52:36","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,WViSoi
+132242,"17/05/2017 11:52:36","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,Tczy9H
+132243,"17/05/2017 11:54:36","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,J19kN2
+132244,"17/05/2017 11:54:36","-1:00","simonb","Warning","KNAPP READY TO START  On",,oPWLfz
+132245,"17/05/2017 11:54:36","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,0bhDQZ
+132246,"17/05/2017 11:54:48","-1:00","simonb","Alarm","EMERGENCY  On",,KOMhIe
+132247,"17/05/2017 11:54:48","-1:00","simonb","Alarm","COVER OPEN 2  On",,nUhb18
+132248,"17/05/2017 11:54:48","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,Vy/cZ/
+132249,"17/05/2017 11:54:49","-1:00","simonb","Alarm","COVER OPEN 3  On",,gH5RI2
+132250,"17/05/2017 11:58:37","-1:00","simonb","Alarm","COVER OPEN 2  Off",,BmP8Jp
+132251,"17/05/2017 11:58:37","-1:00","simonb","Alarm","COVER OPEN 3  Off",,VvbBos
+132252,"17/05/2017 11:58:37","-1:00","simonb","Alarm","EMERGENCY  Off",,//Nwc7
+132253,"17/05/2017 11:58:37","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,kpc39l
+132254,"17/05/2017 11:58:41","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,i9eRdr
+132255,"17/05/2017 11:58:41","-1:00","simonb","Warning","KNAPP READY TO START  Off",,x2MMt0
+132256,"17/05/2017 11:58:41","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,TP5wyX
+132257,"17/05/2017 11:58:45","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,aaiXHF
+132258,"17/05/2017 11:58:45","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,T9rDhg
+132259,"17/05/2017 12:00:45","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,YmoU+i
+132260,"17/05/2017 12:00:45","-1:00","simonb","Warning","KNAPP READY TO START  On",,RjDC8p
+132261,"17/05/2017 12:00:45","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,V8YkYS
+132262,"17/05/2017 12:00:47","-1:00","simonb","Alarm","EMERGENCY  On",,tjdBln
+132263,"17/05/2017 12:00:47","-1:00","simonb","Alarm","COVER OPEN 2  On",,qYpk35
+132264,"17/05/2017 12:00:47","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,sXdY8h
+132265,"17/05/2017 12:00:47","-1:00","simonb","Alarm","COVER OPEN 3  On",,itRnlH
+132266,"17/05/2017 12:03:41","-1:00","simonb","Alarm","COVER OPEN 2  Off",,6Dxubu
+132267,"17/05/2017 12:03:41","-1:00","simonb","Alarm","COVER OPEN 3  Off",,wbgQMi
+132268,"17/05/2017 12:03:41","-1:00","simonb","Alarm","EMERGENCY  Off",,4cZLRZ
+132269,"17/05/2017 12:03:41","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,lHl4hD
+132270,"17/05/2017 12:03:44","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,Z0uJdl
+132271,"17/05/2017 12:03:44","-1:00","simonb","Warning","KNAPP READY TO START  Off",,/DLmHW
+132272,"17/05/2017 12:03:44","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,E5Ro3w
+132273,"17/05/2017 12:03:49","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,dHdU9N
+132274,"17/05/2017 12:03:49","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,69zq6l
+132275,"17/05/2017 12:05:48","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,E/0qUG
+132276,"17/05/2017 12:05:48","-1:00","simonb","Warning","KNAPP READY TO START  On",,zZHs23
+132277,"17/05/2017 12:05:48","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,X7ylXk
+132278,"17/05/2017 12:05:50","-1:00","simonb","Alarm","EMERGENCY  On",,02VIyi
+132279,"17/05/2017 12:05:50","-1:00","simonb","Alarm","COVER OPEN 2  On",,rnbdb3
+132280,"17/05/2017 12:05:50","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,qoK7DL
+132281,"17/05/2017 12:05:51","-1:00","simonb","Alarm","COVER OPEN 3  On",,gtvZCj
+132282,"17/05/2017 12:06:49","-1:00","simonb","Alarm","PVSI NOT READY  On",,OsAA6e
+132283,"17/05/2017 12:15:48","-1:00","simonb","Warning","PVSI NOT RUNNING   On",,vDiVUY
+132284,"17/05/2017 12:16:35","-1:00","simonb","Warning","PVSI NOT RUNNING   Off",,hwi0Sl
+132285,"17/05/2017 12:22:22","-1:00","simonb","Alarm","COVER OPEN 6  On",,z6qsSL
+132286,"17/05/2017 12:22:23","-1:00","simonb","Alarm","COVER OPEN 7  On",,DJckwu
+132287,"17/05/2017 12:37:03","-1:00","simonb","Recipe","Loading recipe number 3 ( Production 5ml ) on the interface.",,/+hWvg
+132288,"17/05/2017 12:37:04","-1:00","simonb","Recipe","Data trasfered to PLC",,bJsXOR
+132289,"17/05/2017 12:37:07","-1:00","simonb","Warning","PVSI NOT RUNNING   On",,BfBU7h
+132290,"17/05/2017 12:37:08","-1:00","simonb","Warning","PVSI NOT RUNNING   Off",,4uRUuF
+132291,"17/05/2017 12:37:35","-1:00","simonb","Recipe","Product 3 ( Production 5ml ) saved as product 5 ( 5 mL Particle test )",,RqeF0A
+132292,"17/05/2017 12:37:54","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,DQC6Sm
+132293,"17/05/2017 12:37:54","-1:00","simonb","Warning","KNAPP READY TO START  Off",,vEjEtV
+132294,"17/05/2017 12:38:03","-1:00","simonb","Alarm","COVER OPEN 2  Off",,1hNKjC
+132295,"17/05/2017 12:38:03","-1:00","simonb","Alarm","COVER OPEN 3  Off",,noKXa+
+132296,"17/05/2017 12:38:03","-1:00","simonb","Alarm","COVER OPEN 6  Off",,eyIHUM
+132297,"17/05/2017 12:38:03","-1:00","simonb","Alarm","COVER OPEN 7  Off",,8czEOG
+132298,"17/05/2017 12:38:03","-1:00","simonb","Alarm","PVSI NOT READY  Off",,nZCjaY
+132299,"17/05/2017 12:38:03","-1:00","simonb","Alarm","EMERGENCY  Off",,Xr50as
+132300,"17/05/2017 12:38:03","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,GD6IDA
+132301,"17/05/2017 12:39:57","-1:00","simonb","Recipe","Loading recipe number 13 ( 10mL particle test ) on the interface.",,nlV2ui
+132302,"17/05/2017 12:39:57","-1:00","simonb","Recipe","Data trasfered to PLC",,zZolDu
+132303,"17/05/2017 12:40:00","-1:00","simonb","Warning","PVSI NOT RUNNING   On",,eVkkfA
+132304,"17/05/2017 12:40:01","-1:00","simonb","Warning","PVSI NOT RUNNING   Off",,49zVXG
+132305,"17/05/2017 12:40:03","-1:00","simonb","Alarm","PVSI NOT READY  On",,xqq6Fg
+132306,"17/05/2017 12:41:54","-1:00","simonb","Recipe","Loading recipe number 3 ( Production 5ml ) on the interface.",,4kx2wZ
+132307,"17/05/2017 12:41:54","-1:00","simonb","Recipe","Data trasfered to PLC",,hlE2WI
+132308,"17/05/2017 12:41:57","-1:00","simonb","Warning","PVSI NOT RUNNING   On",,5Cb4r1
+132309,"17/05/2017 12:41:58","-1:00","simonb","Warning","PVSI NOT RUNNING   Off",,giOkOb
+132310,"17/05/2017 12:42:06","-1:00","simonb","Warning","KNAPP READY TO START  On",,3oAxuf
+132311,"17/05/2017 12:42:08","-1:00","simonb","Alarm","PVSI NOT READY  Off",,bo+n8g
+132312,"17/05/2017 12:42:09","-1:00","simonb","Warning","KNAPP READY TO START  Off",,iAHBvB
+132313,"17/05/2017 12:42:09","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,S4ZSm7
+132314,"17/05/2017 12:42:18","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,8aTWZH
+132315,"17/05/2017 12:42:18","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,VPaeLR
+132316,"17/05/2017 12:43:53","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,kHnEe+
+132317,"17/05/2017 12:43:53","-1:00","simonb","Warning","KNAPP READY TO START  On",,KfdEtR
+132318,"17/05/2017 12:43:53","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,53MJ+L
+132319,"17/05/2017 12:43:56","-1:00","simonb","Alarm","PVSI NOT READY  On",,mT2wg6
+132320,"17/05/2017 12:44:29","-1:00","simonb","Alarm","EMERGENCY  On",,Dl8huQ
+132321,"17/05/2017 12:44:29","-1:00","simonb","Alarm","COVER OPEN 2  On",,dOGBaJ
+132322,"17/05/2017 12:44:29","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,mhy56A
+132323,"17/05/2017 12:44:31","-1:00","simonb","Alarm","COVER OPEN 3  On",,PJEqiP
+132324,"17/05/2017 12:56:24","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,O41jJF
+132325,"17/05/2017 12:56:24","-1:00","simonb","Warning","KNAPP READY TO START  Off",,CiN+at
+132326,"17/05/2017 12:56:25","-1:00","simonb","Warning","KNAPP READY TO START  On",,j9h9fs
+132327,"17/05/2017 12:56:25","-1:00","simonb","Alarm","COVER OPEN 2  Off",,z/K0xy
+132328,"17/05/2017 12:56:25","-1:00","simonb","Alarm","COVER OPEN 3  Off",,nvtrjX
+132329,"17/05/2017 12:56:25","-1:00","simonb","Alarm","PVSI NOT READY  Off",,6er1ut
+132330,"17/05/2017 12:56:26","-1:00","simonb","Alarm","EMERGENCY  Off",,fJeoJ5
+132331,"17/05/2017 12:56:26","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,NdVtAo
+132332,"17/05/2017 12:56:29","-1:00","simonb","Warning","KNAPP READY TO START  Off",,Oma07t
+132333,"17/05/2017 12:56:29","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,AfXFHq
+132334,"17/05/2017 12:56:33","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,H2dqbI
+132335,"17/05/2017 12:56:33","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,GqKGh6
+132336,"17/05/2017 12:58:08","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,rMRSSg
+132337,"17/05/2017 12:58:08","-1:00","simonb","Warning","KNAPP READY TO START  On",,eUAL93
+132338,"17/05/2017 12:58:08","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,dbGAiy
+132339,"17/05/2017 12:58:14","-1:00","simonb","Alarm","PVSI NOT READY  On",,kt96Xm
+132340,"17/05/2017 12:58:37","-1:00","simonb","Alarm","EMERGENCY  On",,tGE8N+
+132341,"17/05/2017 12:58:37","-1:00","simonb","Alarm","COVER OPEN 3  On",,RqXNQu
+132342,"17/05/2017 12:58:37","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,hAWWM6
+132343,"17/05/2017 13:00:52","-1:00","simonb","Recipe","Loading recipe number 5 ( 5 mL Particle test ) on the interface.",,B2mSPN
+132344,"17/05/2017 13:00:53","-1:00","simonb","Recipe","Data trasfered to PLC",,EUCFbk
+132345,"17/05/2017 13:00:56","-1:00","simonb","Warning","PVSI NOT RUNNING   On",,+wndMi
+132346,"17/05/2017 13:00:57","-1:00","simonb","Warning","PVSI NOT RUNNING   Off",,0tpOe7
+132347,"17/05/2017 13:02:18","-1:00","simonb","Alarm","COVER OPEN 3  Off",,YbBh5v
+132348,"17/05/2017 13:02:18","-1:00","simonb","Alarm","PVSI NOT READY  Off",,nNo3wZ
+132349,"17/05/2017 13:02:18","-1:00","simonb","Alarm","EMERGENCY  Off",,wu8jQS
+132350,"17/05/2017 13:02:18","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,A/TcIh
+132351,"17/05/2017 13:02:21","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,ctudth
+132352,"17/05/2017 13:02:21","-1:00","simonb","Warning","KNAPP READY TO START  Off",,yzDgu6
+132353,"17/05/2017 13:02:21","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,EGvKJg
+132354,"17/05/2017 13:02:26","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,Ce9WSb
+132355,"17/05/2017 13:02:26","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,1XPi3e
+132356,"17/05/2017 13:02:31","-1:00","simonb","Warning","KNAPP ABORTED  On",,c+9Y4a
+132357,"17/05/2017 13:02:31","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,2T42xE
+132358,"17/05/2017 13:03:19","-1:00","simonb","Warning","KNAPP READY TO START  On",,SUIkGf
+132359,"17/05/2017 13:03:22","-1:00","simonb","Warning","KNAPP READY TO START  Off",,Sj1WjF
+132360,"17/05/2017 13:03:22","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,e6+sr6
+132361,"17/05/2017 13:03:34","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,gUAhXe
+132362,"17/05/2017 13:03:34","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,c3D+NE
+132363,"17/05/2017 13:05:09","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,Gmd8td
+132364,"17/05/2017 13:05:09","-1:00","simonb","Warning","KNAPP READY TO START  On",,9eYQ71
+132365,"17/05/2017 13:05:09","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,2aF/Yg
+132366,"17/05/2017 13:05:20","-1:00","simonb","Alarm","PVSI NOT READY  On",,Ag4bW3
+132367,"17/05/2017 13:06:46","-1:00","simonb","Alarm","EMERGENCY  On",,HzfqtO
+132368,"17/05/2017 13:06:46","-1:00","simonb","Alarm","COVER OPEN 3  On",,8MDktI
+132369,"17/05/2017 13:06:46","-1:00","simonb","Alarm","COVER OPEN 2  On",,aSZzfV
+132370,"17/05/2017 13:06:46","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,WQBGkc
+132371,"17/05/2017 13:12:21","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,T/B6Nm
+132372,"17/05/2017 13:12:22","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,j93xQh
+132373,"17/05/2017 13:12:24","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,FcxMpq
+132374,"17/05/2017 13:12:25","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,K0Vpk2
+132375,"17/05/2017 13:12:26","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,SzHW89
+132376,"17/05/2017 13:12:26","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,IMmFia
+132377,"17/05/2017 13:12:28","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,T+p5Lv
+132378,"17/05/2017 13:12:28","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,VQa/Jw
+132379,"17/05/2017 13:14:48","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,YisCwK
+132380,"17/05/2017 13:14:48","-1:00","simonb","Warning","KNAPP READY TO START  Off",,LXbNPf
+132381,"17/05/2017 13:14:49","-1:00","simonb","Warning","KNAPP READY TO START  On",,UVkKY1
+132382,"17/05/2017 13:14:52","-1:00","simonb","Warning","KNAPP ABORTED  Off",,x4b+6C
+132383,"17/05/2017 13:14:52","-1:00","simonb","Alarm","COVER OPEN 2  Off",,Nk4rl+
+132384,"17/05/2017 13:14:52","-1:00","simonb","Alarm","COVER OPEN 3  Off",,ZJeEHA
+132385,"17/05/2017 13:14:52","-1:00","simonb","Alarm","PVSI NOT READY  Off",,XDYTFq
+132386,"17/05/2017 13:14:53","-1:00","simonb","Alarm","EMERGENCY  Off",,iKqvif
+132387,"17/05/2017 13:14:53","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,8Riof+
+132388,"17/05/2017 13:14:56","-1:00","simonb","Warning","KNAPP READY TO START  Off",,flk8Wn
+132389,"17/05/2017 13:14:56","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,escRw4
+132390,"17/05/2017 13:15:00","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,RB1q0Z
+132391,"17/05/2017 13:15:00","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,ricfi5
+132392,"17/05/2017 13:15:26","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,RhHdnt
+132393,"17/05/2017 13:15:26","-1:00","simonb","Warning","KNAPP READY TO START  On",,ODNEPN
+132394,"17/05/2017 13:15:26","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,YT9SyB
+132395,"17/05/2017 13:15:32","-1:00","simonb","Alarm","PVSI NOT READY  On",,1hThut
+132396,"17/05/2017 13:15:55","-1:00","simonb","Alarm","EMERGENCY  On",,2m6cKE
+132397,"17/05/2017 13:15:55","-1:00","simonb","Alarm","COVER OPEN 2  On",,l8yqSM
+132398,"17/05/2017 13:15:55","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,rNTv2q
+132399,"17/05/2017 13:21:30","-1:00","simonb","Alarm","COVER OPEN 3  On",,9a75gG
+132400,"17/05/2017 13:21:55","-1:00","simonb","Alarm","COVER OPEN 5  On",,Es35HC
+132401,"17/05/2017 13:22:02","-1:00","simonb","Alarm","COVER OPEN 6  On",,HA5jl/
+132402,"17/05/2017 13:22:02","-1:00","simonb","Alarm","COVER OPEN 7  On",,9yCE1T
+132403,"17/05/2017 13:25:25","-1:00","simonb","Recipe","Loading recipe number 3 ( Production 5ml ) on the interface.",,c2CkVu
+132404,"17/05/2017 13:25:25","-1:00","simonb","Recipe","Data trasfered to PLC",,+W6ggI
+132405,"17/05/2017 13:25:28","-1:00","simonb","Warning","PVSI NOT RUNNING   On",,v/4GNa
+132406,"17/05/2017 13:25:29","-1:00","simonb","Warning","PVSI NOT RUNNING   Off",,D7EthU
+132407,"17/05/2017 13:25:32","-1:00","simonb","Alarm","COVER OPEN 2  Off",,UTk3j1
+132408,"17/05/2017 13:25:32","-1:00","simonb","Alarm","COVER OPEN 3  Off",,gfJCAu
+132409,"17/05/2017 13:25:32","-1:00","simonb","Alarm","COVER OPEN 5  Off",,UMAhjI
+132410,"17/05/2017 13:25:32","-1:00","simonb","Alarm","COVER OPEN 6  Off",,98bDyn
+132411,"17/05/2017 13:25:32","-1:00","simonb","Alarm","COVER OPEN 7  Off",,aDEIV3
+132412,"17/05/2017 13:25:32","-1:00","simonb","Alarm","PVSI NOT READY  Off",,s6UdJ/
+132413,"17/05/2017 13:25:33","-1:00","simonb","Alarm","EMERGENCY  Off",,AYhuKo
+132414,"17/05/2017 13:25:33","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,Q1SUVX
+132415,"17/05/2017 13:25:37","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,Y03fsW
+132416,"17/05/2017 13:25:37","-1:00","simonb","Warning","KNAPP READY TO START  Off",,SIeMwQ
+132417,"17/05/2017 13:25:37","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,+wVK51
+132418,"17/05/2017 13:25:42","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,Lf4MiB
+132419,"17/05/2017 13:25:42","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,vQKMxI
+132420,"17/05/2017 13:27:16","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,vlTese
+132421,"17/05/2017 13:27:16","-1:00","simonb","Warning","KNAPP READY TO START  On",,SaSrsm
+132422,"17/05/2017 13:27:16","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,oQshJn
+132423,"17/05/2017 13:27:19","-1:00","simonb","Alarm","PVSI NOT READY  On",,/Z1y8c
+132424,"17/05/2017 13:28:03","-1:00","simonb","Recipe","Loading recipe number 5 ( 5 mL Particle test ) on the interface.",,5V4fus
+132425,"17/05/2017 13:28:03","-1:00","simonb","Recipe","Data trasfered to PLC",,ktbplW
+132426,"17/05/2017 13:28:06","-1:00","simonb","Warning","PVSI NOT RUNNING   On",,KHvv7g
+132427,"17/05/2017 13:28:07","-1:00","simonb","Warning","PVSI NOT RUNNING   Off",,vQ4sTk
+132428,"17/05/2017 13:28:45","-1:00","simonb","Alarm","PVSI NOT READY  Off",,8vNvjM
+132429,"17/05/2017 13:28:46","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,vFfNaq
+132430,"17/05/2017 13:28:46","-1:00","simonb","Warning","KNAPP READY TO START  Off",,ElMKY5
+132431,"17/05/2017 13:28:46","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,zHri71
+132432,"17/05/2017 13:28:51","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,ORWxnn
+132433,"17/05/2017 13:28:51","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,QLaOtr
+132434,"17/05/2017 13:30:26","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,pmajbp
+132435,"17/05/2017 13:30:26","-1:00","simonb","Warning","KNAPP READY TO START  On",,5JgbJ5
+132436,"17/05/2017 13:30:26","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,P/pB14
+132437,"17/05/2017 13:30:29","-1:00","simonb","Alarm","PVSI NOT READY  On",,sad6Mz
+132438,"17/05/2017 13:31:06","-1:00","simonb","Alarm","EMERGENCY  On",,B9KpBP
+132439,"17/05/2017 13:31:06","-1:00","simonb","Alarm","COVER OPEN 2  On",,XIbzV/
+132440,"17/05/2017 13:31:06","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,GZ2bY0
+132441,"17/05/2017 13:31:07","-1:00","simonb","Alarm","COVER OPEN 3  On",,cBRe2O
+132442,"17/05/2017 13:34:23","-1:00","simonb","Alarm","COVER OPEN 2  Off",,wcRTYE
+132443,"17/05/2017 13:34:23","-1:00","simonb","Alarm","COVER OPEN 3  Off",,UT0gYD
+132444,"17/05/2017 13:34:23","-1:00","simonb","Alarm","PVSI NOT READY  Off",,Tq9JOd
+132445,"17/05/2017 13:34:23","-1:00","simonb","Alarm","EMERGENCY  Off",,AHV9Nl
+132446,"17/05/2017 13:34:23","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,ghbs+T
+132447,"17/05/2017 13:34:27","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,/adrwo
+132448,"17/05/2017 13:34:27","-1:00","simonb","Warning","KNAPP READY TO START  Off",,/Xlr/z
+132449,"17/05/2017 13:34:27","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,HZVpBy
+132450,"17/05/2017 13:34:31","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,Ivdzl5
+132451,"17/05/2017 13:34:31","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,geUl+x
+132452,"17/05/2017 13:36:06","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,GYDYws
+132453,"17/05/2017 13:36:06","-1:00","simonb","Warning","KNAPP READY TO START  On",,assD93
+132454,"17/05/2017 13:36:06","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,tjTD4t
+132455,"17/05/2017 13:36:33","-1:00","simonb","Alarm","EMERGENCY  On",,djgrTs
+132456,"17/05/2017 13:36:33","-1:00","simonb","Alarm","COVER OPEN 2  On",,q3IUk9
+132457,"17/05/2017 13:36:33","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,SU+lF7
+132458,"17/05/2017 13:36:34","-1:00","simonb","Alarm","COVER OPEN 3  On",,juUuny
+132459,"17/05/2017 13:39:42","-1:00","simonb","Alarm","COVER OPEN 2  Off",,34tZjS
+132460,"17/05/2017 13:39:42","-1:00","simonb","Alarm","COVER OPEN 3  Off",,PZSX8T
+132461,"17/05/2017 13:39:43","-1:00","simonb","Alarm","EMERGENCY  Off",,gRg+jF
+132462,"17/05/2017 13:39:43","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,lFpsSH
+132463,"17/05/2017 13:39:46","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,zVhLyP
+132464,"17/05/2017 13:39:46","-1:00","simonb","Warning","KNAPP READY TO START  Off",,Tk5HuR
+132465,"17/05/2017 13:39:46","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,RJ0eJy
+132466,"17/05/2017 13:39:50","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,mTeiPi
+132467,"17/05/2017 13:39:50","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,Bu+Oxt
+132468,"17/05/2017 13:41:25","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,mSPbA2
+132469,"17/05/2017 13:41:25","-1:00","simonb","Warning","KNAPP READY TO START  On",,1MWsRH
+132470,"17/05/2017 13:41:25","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,4qI3iq
+132471,"17/05/2017 13:41:27","-1:00","simonb","Alarm","EMERGENCY  On",,lQ/lLD
+132472,"17/05/2017 13:41:27","-1:00","simonb","Alarm","COVER OPEN 3  On",,kNXiXz
+132473,"17/05/2017 13:41:27","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,4rRyQQ
+132474,"17/05/2017 13:41:28","-1:00","simonb","Alarm","COVER OPEN 2  On",,Jik1fF
+132475,"17/05/2017 13:44:41","-1:00","simonb","Alarm","COVER OPEN 2  Off",,TBQAgn
+132476,"17/05/2017 13:44:41","-1:00","simonb","Alarm","COVER OPEN 3  Off",,6nIUOA
+132477,"17/05/2017 13:44:41","-1:00","simonb","Alarm","EMERGENCY  Off",,L6Sjf4
+132478,"17/05/2017 13:44:41","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,wh6sEV
+132479,"17/05/2017 13:44:44","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,IvDdL0
+132480,"17/05/2017 13:44:44","-1:00","simonb","Warning","KNAPP READY TO START  Off",,VWIoCY
+132481,"17/05/2017 13:44:44","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,exrwe1
+132482,"17/05/2017 13:44:49","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,dO55ja
+132483,"17/05/2017 13:44:49","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,sz8BWd
+132484,"17/05/2017 13:46:24","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,u2XFge
+132485,"17/05/2017 13:46:24","-1:00","simonb","Warning","KNAPP READY TO START  On",,hWwtAO
+132486,"17/05/2017 13:46:24","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,gO1qIg
+132487,"17/05/2017 13:47:56","-1:00","simonb","Alarm","EMERGENCY  On",,znc1tN
+132488,"17/05/2017 13:47:56","-1:00","simonb","Alarm","COVER OPEN 2  On",,BBYahI
+132489,"17/05/2017 13:47:56","-1:00","simonb","Alarm","COVER OPEN 3  On",,ere/9D
+132490,"17/05/2017 13:47:56","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,Dy+caB
+132491,"17/05/2017 13:51:13","-1:00","simonb","Alarm","COVER OPEN 2  Off",,z5OpEx
+132492,"17/05/2017 13:51:13","-1:00","simonb","Alarm","COVER OPEN 3  Off",,J9xauK
+132493,"17/05/2017 13:51:13","-1:00","simonb","Alarm","EMERGENCY  Off",,8VLw2C
+132494,"17/05/2017 13:51:13","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,yzWiDs
+132495,"17/05/2017 13:51:16","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,MUjxS4
+132496,"17/05/2017 13:51:16","-1:00","simonb","Warning","KNAPP READY TO START  Off",,cdOJ4+
+132497,"17/05/2017 13:51:16","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,CvCc2w
+132498,"17/05/2017 13:51:21","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,QfdHTM
+132499,"17/05/2017 13:51:21","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,sFEhzS
+132500,"17/05/2017 13:52:55","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,V1O0QH
+132501,"17/05/2017 13:52:55","-1:00","simonb","Warning","KNAPP READY TO START  On",,VlMZ+b
+132502,"17/05/2017 13:52:55","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,jOYppu
+132503,"17/05/2017 13:52:56","-1:00","simonb","Alarm","EMERGENCY  On",,wq3nfK
+132504,"17/05/2017 13:52:56","-1:00","simonb","Alarm","COVER OPEN 2  On",,WU/1tK
+132505,"17/05/2017 13:52:57","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,KRifM7
+132506,"17/05/2017 13:52:58","-1:00","simonb","Alarm","COVER OPEN 3  On",,q+vOSj
+132507,"17/05/2017 13:56:07","-1:00","simonb","Alarm","COVER OPEN 2  Off",,3UoeO/
+132508,"17/05/2017 13:56:07","-1:00","simonb","Alarm","COVER OPEN 3  Off",,g/Gjgc
+132509,"17/05/2017 13:56:07","-1:00","simonb","Alarm","EMERGENCY  Off",,x48nMT
+132510,"17/05/2017 13:56:07","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,RF3He/
+132511,"17/05/2017 13:56:10","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,iW9o13
+132512,"17/05/2017 13:56:10","-1:00","simonb","Warning","KNAPP READY TO START  Off",,hMx6NU
+132513,"17/05/2017 13:56:10","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,WSe+ro
+132514,"17/05/2017 13:56:15","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,lw+nTb
+132515,"17/05/2017 13:56:15","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,dtNICW
+132516,"17/05/2017 13:57:50","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,k+tY2n
+132517,"17/05/2017 13:57:50","-1:00","simonb","Warning","KNAPP READY TO START  On",,2uS+wq
+132518,"17/05/2017 13:57:50","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,2MVQmJ
+132519,"17/05/2017 13:57:51","-1:00","simonb","Alarm","EMERGENCY  On",,w1APGo
+132520,"17/05/2017 13:57:51","-1:00","simonb","Alarm","COVER OPEN 2  On",,omNqaW
+132521,"17/05/2017 13:57:51","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,fQUJiS
+132522,"17/05/2017 13:57:53","-1:00","simonb","Alarm","COVER OPEN 3  On",,soIXk4
+132523,"17/05/2017 14:00:39","-1:00","simonb","Alarm: 4","Acknowledgment of 4 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,b8xk66
+132524,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment",,pBBMX2
+132525,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  Acknowledgment",,GgobUE
+132526,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment",,QXUQPz
+132527,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","ALARM ROTATION MOTOR 1  Acknowledgment",,qlW3Em
+132528,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,1572m3
+132529,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,OcofOu
+132530,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","ALARM MISSING ST0 TIP REJECTED TRAYS   Acknowledgment",,cLlVLA
+132531,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","ALARM MISSING LKD REJECTED TRAYS   Acknowledgment",,QGB/Vd
+132532,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","PVSI AND WINCC PRODUCT DIFFERENT  Acknowledgment",,afXmMq
+132533,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","Alarm profibus nodo 3 (encoder)  Acknowledgment",,asxmKZ
+132534,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","Alarm profibus nodo 4 (PC)  Acknowledgment",,+hnz+k
+132535,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,P/rd4j
+132536,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","ALARM LOW LIGHT ST0  Acknowledgment",,SUFNy5
+132537,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","COVER OPEN 4  Acknowledgment",,59OGMK
+132538,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","COVER OPEN 5  Acknowledgment",,Otta0e
+132539,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","COVER OPEN 6  Acknowledgment",,ygGbjg
+132540,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","COVER OPEN 7  Acknowledgment",,+jXICX
+132541,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","PVSI NOT READY  Acknowledgment",,JNO+NS
+132542,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","EMERGENCY  Acknowledgment",,Yw0Olt
+132543,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","COVER OPEN 2  Acknowledgment",,q+HsZN
+132544,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,FdsHHF
+132545,"17/05/2017 14:00:39","-1:00","simonb","Alarm:","COVER OPEN 3  Acknowledgment",,XYKtwS
+132546,"17/05/2017 14:00:42","-1:00","simonb","Alarm","COVER OPEN 2  Off",,vbOQAS
+132547,"17/05/2017 14:00:42","-1:00","simonb","Alarm","COVER OPEN 3  Off",,WYn4ej
+132548,"17/05/2017 14:00:42","-1:00","simonb","Alarm","EMERGENCY  Off",,RKja2U
+132549,"17/05/2017 14:00:42","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,cj8hb+
+132550,"17/05/2017 14:00:45","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,pT03WS
+132551,"17/05/2017 14:00:45","-1:00","simonb","Warning","KNAPP READY TO START  Off",,kI0zEm
+132552,"17/05/2017 14:00:45","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,fXUzDW
+132553,"17/05/2017 14:00:50","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,BABOQa
+132554,"17/05/2017 14:00:50","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,mNiKit
+132555,"17/05/2017 14:02:25","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,6b7R/u
+132556,"17/05/2017 14:02:25","-1:00","simonb","Warning","KNAPP READY TO START  On",,AGyXiz
+132557,"17/05/2017 14:02:25","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,asaXRD
+132558,"17/05/2017 14:02:25","-1:00","simonb","Alarm","COVER OPEN 2  On",,eIUWzN
+132559,"17/05/2017 14:02:25","-1:00","simonb","Alarm","EMERGENCY  On",,IFBaqQ
+132560,"17/05/2017 14:02:25","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,yXU5Dy
+132561,"17/05/2017 14:02:26","-1:00","simonb","Alarm","COVER OPEN 3  On",,iMFYJd
+132562,"17/05/2017 14:05:17","-1:00","simonb","Alarm","COVER OPEN 2  Off",,8CuJVt
+132563,"17/05/2017 14:05:17","-1:00","simonb","Alarm","COVER OPEN 3  Off",,ymLAQu
+132564,"17/05/2017 14:05:17","-1:00","simonb","Alarm","EMERGENCY  Off",,NoEzmj
+132565,"17/05/2017 14:05:18","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,NXpKB2
+132566,"17/05/2017 14:05:21","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,dZTiIS
+132567,"17/05/2017 14:05:21","-1:00","simonb","Warning","KNAPP READY TO START  Off",,E1O3DA
+132568,"17/05/2017 14:05:21","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,DJHuf1
+132569,"17/05/2017 14:05:25","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,bzpUOb
+132570,"17/05/2017 14:05:25","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,2V6Xx9
+132571,"17/05/2017 14:07:00","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,DQhz3c
+132572,"17/05/2017 14:07:00","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,RblgS9
+132573,"17/05/2017 14:07:00","-1:00","simonb","Warning","KNAPP READY TO START  On",,YgWD6K
+132574,"17/05/2017 14:07:53","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,HB1u7Z
+132575,"17/05/2017 14:07:53","-1:00","simonb","Warning","KNAPP READY TO START  Off",,EIgBgF
+132576,"17/05/2017 14:07:53","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,73gfpI
+132577,"17/05/2017 14:07:58","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,gfXeHb
+132578,"17/05/2017 14:07:58","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,McCBLv
+132579,"17/05/2017 14:09:32","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,3qCEMZ
+132580,"17/05/2017 14:09:32","-1:00","simonb","Warning","KNAPP READY TO START  On",,HJP6ph
+132581,"17/05/2017 14:09:32","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,tYv4Hx
+132582,"17/05/2017 14:09:33","-1:00","simonb","Alarm","EMERGENCY  On",,MmLCzM
+132583,"17/05/2017 14:09:33","-1:00","simonb","Alarm","COVER OPEN 2  On",,XdjmV+
+132584,"17/05/2017 14:09:33","-1:00","simonb","Alarm","COVER OPEN 3  On",,MMZciI
+132585,"17/05/2017 14:09:34","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,VD9m50
+132586,"17/05/2017 14:12:18","-1:00","simonb","Alarm","COVER OPEN 2  Off",,jFr6Gk
+132587,"17/05/2017 14:12:18","-1:00","simonb","Alarm","COVER OPEN 3  Off",,DHHw14
+132588,"17/05/2017 14:12:18","-1:00","simonb","Alarm","EMERGENCY  Off",,yLdmPC
+132589,"17/05/2017 14:12:18","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,d4a+/1
+132590,"17/05/2017 14:12:22","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,1g5vbZ
+132591,"17/05/2017 14:12:22","-1:00","simonb","Warning","KNAPP READY TO START  Off",,BhKiGk
+132592,"17/05/2017 14:12:22","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,GqQaAU
+132593,"17/05/2017 14:12:26","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,abu2pA
+132594,"17/05/2017 14:12:26","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,Ho5l+Z
+132595,"17/05/2017 14:14:01","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,BHfk9O
+132596,"17/05/2017 14:14:01","-1:00","simonb","Warning","KNAPP READY TO START  On",,uhJ+pF
+132597,"17/05/2017 14:14:01","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,FjCKtv
+132598,"17/05/2017 14:14:02","-1:00","simonb","Alarm","EMERGENCY  On",,fjvr1I
+132599,"17/05/2017 14:14:02","-1:00","simonb","Alarm","COVER OPEN 2  On",,a5ismB
+132600,"17/05/2017 14:14:02","-1:00","simonb","Alarm","COVER OPEN 3  On",,dyPBmA
+132601,"17/05/2017 14:14:02","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,s8fQ+q
+132602,"17/05/2017 14:16:42","-1:00","simonb","Alarm","COVER OPEN 2  Off",,QiAyUI
+132603,"17/05/2017 14:16:42","-1:00","simonb","Alarm","COVER OPEN 3  Off",,X5li9I
+132604,"17/05/2017 14:16:43","-1:00","simonb","Alarm","EMERGENCY  Off",,XeBFDT
+132605,"17/05/2017 14:16:43","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,m52s39
+132606,"17/05/2017 14:16:47","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,iyGAOj
+132607,"17/05/2017 14:16:47","-1:00","simonb","Warning","KNAPP READY TO START  Off",,zwWZ2Q
+132608,"17/05/2017 14:16:47","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,4FJQD7
+132609,"17/05/2017 14:16:52","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,klZZp4
+132610,"17/05/2017 14:16:52","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,V21cEB
+132611,"17/05/2017 14:18:27","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,1a3+gC
+132612,"17/05/2017 14:18:27","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,FvMPWi
+132613,"17/05/2017 14:18:27","-1:00","simonb","Warning","KNAPP READY TO START  On",,KkgNO0
+132614,"17/05/2017 14:18:28","-1:00","simonb","Alarm","EMERGENCY  On",,vLTCRQ
+132615,"17/05/2017 14:18:28","-1:00","simonb","Alarm","COVER OPEN 2  On",,0/pjX3
+132616,"17/05/2017 14:18:28","-1:00","simonb","Alarm","COVER OPEN 3  On",,sJxOvO
+132617,"17/05/2017 14:18:28","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,stvYX+
+132618,"17/05/2017 14:20:54","-1:00","simonb","Alarm","COVER OPEN 2  Off",,7MrPX/
+132619,"17/05/2017 14:20:54","-1:00","simonb","Alarm","COVER OPEN 3  Off",,isldtW
+132620,"17/05/2017 14:20:55","-1:00","simonb","Alarm","EMERGENCY  Off",,SQNUzg
+132621,"17/05/2017 14:20:55","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,B5utLO
+132622,"17/05/2017 14:20:58","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,Qoow4a
+132623,"17/05/2017 14:20:58","-1:00","simonb","Warning","KNAPP READY TO START  Off",,6o0S9J
+132624,"17/05/2017 14:20:58","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,Wdq9wm
+132625,"17/05/2017 14:21:03","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,vx3WpX
+132626,"17/05/2017 14:21:03","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,/WXoaH
+132627,"17/05/2017 14:22:38","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,Q/LE4X
+132628,"17/05/2017 14:22:38","-1:00","simonb","Warning","KNAPP READY TO START  On",,TjJ0Ro
+132629,"17/05/2017 14:22:38","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,9Zomcv
+132630,"17/05/2017 14:22:38","-1:00","simonb","Alarm","EMERGENCY  On",,WYXIsu
+132631,"17/05/2017 14:22:38","-1:00","simonb","Alarm","COVER OPEN 2  On",,CFsC8t
+132632,"17/05/2017 14:22:38","-1:00","simonb","Alarm","COVER OPEN 3  On",,WQe2xG
+132633,"17/05/2017 14:22:38","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,NpbNZb
+132634,"17/05/2017 14:24:35","-1:00","simonb","Alarm","COVER OPEN 2  Off",,oOiHzn
+132635,"17/05/2017 14:24:35","-1:00","simonb","Alarm","COVER OPEN 3  Off",,Um4k6P
+132636,"17/05/2017 14:24:36","-1:00","simonb","Alarm","EMERGENCY  Off",,raA0yd
+132637,"17/05/2017 14:24:36","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  Off",,a0/kZD
+132638,"17/05/2017 14:24:39","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,tW25dP
+132639,"17/05/2017 14:24:39","-1:00","simonb","Warning","KNAPP READY TO START  Off",,sLBbcI
+132640,"17/05/2017 14:24:39","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  On",,U5wtYb
+132641,"17/05/2017 14:24:44","-1:00","simonb","Warning","E16.7   WARNING KNAPP HOMING  Off",,PY09gv
+132642,"17/05/2017 14:24:44","-1:00","simonb","Warning","KNAPP IN PROGRESS  On",,8V8vxc
+132643,"17/05/2017 14:26:18","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  On",,61bjSj
+132644,"17/05/2017 14:26:18","-1:00","simonb","Warning","KNAPP READY TO START  On",,7XZ/1v
+132645,"17/05/2017 14:26:18","-1:00","simonb","Warning","KNAPP IN PROGRESS  Off",,mjiJQt
+132646,"17/05/2017 14:26:19","-1:00","simonb","Alarm","EMERGENCY  On",,U1lhMG
+132647,"17/05/2017 14:26:19","-1:00","simonb","Alarm","COVER OPEN 2  On",,IwjMbs
+132648,"17/05/2017 14:26:19","-1:00","simonb","Alarm","COVER OPEN 3  On",,MxLmhw
+132649,"17/05/2017 14:26:19","-1:00","simonb","Alarm","ALARM INFEED BELT MOTOR  On",,zOYJyf
+132650,"17/05/2017 14:27:16","-1:00","simonb","Warning","WARNING END KNAPP PROCESS  Off",,BfdpOD
+132651,"17/05/2017 14:27:16","-1:00","simonb","Warning","KNAPP READY TO START  Off",,J72Fpy
+132652,"17/05/2017 14:27:22","-1:00","simonb","Alarm","PVSI NOT READY  On",,lL+83H
+132653,"17/05/2017 14:30:20","-1:00","simonb","Alarm","COVER OPEN 6  On",,uL7T2F
+132654,"17/05/2017 14:30:21","-1:00","simonb","Alarm","COVER OPEN 7  On",,pC/LpY
+132655,"17/05/2017 14:38:49","-1:00","simonb","Alarm","COVER OPEN 5  On",,XgB3d3
+132656,"17/05/2017 14:41:47","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,No+VEK
+132657,"17/05/2017 14:41:47","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,bLjWly
+132658,"17/05/2017 14:41:48","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,d3QwTH
+132659,"17/05/2017 14:41:48","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,SmQ0EQ
+132660,"17/05/2017 14:41:50","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,sKH59S
+132661,"17/05/2017 14:41:51","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,kpCL7C
+132662,"17/05/2017 14:41:51","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,hAVceG
+132663,"17/05/2017 14:41:52","-1:00","simonb","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,jDGDy3
+132664,"17/05/2017 14:42:08","-1:00","simonb","User administration","User logged off.",,dQqyCV
+132665,"17/05/2017 14:42:08","-1:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,lOsu+h
+132666,"17/05/2017 14:42:08","-1:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,zdjlig
+132667,"17/05/2017 14:42:20","-1:00","System","User administration","User 'robj' logged on with group 'Operator'.",,BKZeKq
+132668,"17/05/2017 14:42:21","-1:00","robj","Alarm","COVER OPEN 2  Off",,AUufPw
+132669,"17/05/2017 14:42:21","-1:00","robj","Alarm","COVER OPEN 3  Off",,xFNtsg
+132670,"17/05/2017 14:42:21","-1:00","robj","Alarm","COVER OPEN 5  Off",,IxC5Eq
+132671,"17/05/2017 14:42:21","-1:00","robj","Alarm","COVER OPEN 6  Off",,ts+kCl
+132672,"17/05/2017 14:42:21","-1:00","robj","Alarm","COVER OPEN 7  Off",,03UvKd
+132673,"17/05/2017 14:42:21","-1:00","robj","Alarm","PVSI NOT READY  Off",,mvvMlC
+132674,"17/05/2017 14:42:21","-1:00","robj","Alarm","WARNING MISSING LOGIN OPERATION  Off",,x60HGz
+132675,"17/05/2017 14:42:22","-1:00","robj","Alarm","EMERGENCY  Off",,VnrxGv
+132676,"17/05/2017 14:42:22","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,8vPmTp
+132677,"17/05/2017 14:42:22","-1:00","robj","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,1JbdZq
+132678,"17/05/2017 14:42:22","-1:00","robj","Alarm:","EMERGENCY  Acknowledgment",,xn8mAI
+132679,"17/05/2017 14:42:22","-1:00","robj","Alarm:","COVER OPEN 2  Acknowledgment",,vk7uf2
+132680,"17/05/2017 14:42:22","-1:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,j8cQXG
+132681,"17/05/2017 14:42:22","-1:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,wJAGFN
+132682,"17/05/2017 14:42:22","-1:00","robj","Alarm:","PVSI NOT READY  Acknowledgment",,975/zj
+132683,"17/05/2017 14:42:22","-1:00","robj","Alarm:","COVER OPEN 6  Acknowledgment",,s6mSfj
+132684,"17/05/2017 14:42:22","-1:00","robj","Alarm:","COVER OPEN 7  Acknowledgment",,61bC6y
+132685,"17/05/2017 14:42:22","-1:00","robj","Alarm:","COVER OPEN 5  Acknowledgment",,9KQVyR
+132686,"17/05/2017 14:42:22","-1:00","robj","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,7Sbe8d
+132687,"17/05/2017 14:42:22","-1:00","robj","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,BPcuhW
+132688,"17/05/2017 14:42:54","-1:00","robj","Recipe","Loading recipe number 3 ( Production 5ml ) on the interface.",,LnkICq
+132689,"17/05/2017 14:42:55","-1:00","robj","Recipe","Data trasfered to PLC",,gjFeEN
+132690,"17/05/2017 14:42:58","-1:00","robj","Warning","PVSI NOT RUNNING   On",,rUdqib
+132691,"17/05/2017 14:42:59","-1:00","robj","Warning","PVSI NOT RUNNING   Off",,ghLUkY
+132692,"17/05/2017 14:44:37","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,239sHj
+132693,"17/05/2017 14:44:38","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,YTFKVd
+132694,"17/05/2017 14:44:39","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY LOW LKD   On",,xaD1Ok
+132695,"17/05/2017 14:44:42","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY LOW LKD   Off",,j776O+
+132696,"17/05/2017 14:44:44","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,KCNcHn
+132697,"17/05/2017 14:44:45","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,x/Ejwd
+132698,"17/05/2017 14:44:45","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,rDn79N
+132699,"17/05/2017 14:44:48","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY LOW ST0   Off",,Ao3d2h
+132700,"17/05/2017 14:45:00","-1:00","robj","Alarm","COVER OPEN 7  On",,GwL1LE
+132701,"17/05/2017 14:45:00","-1:00","robj","Alarm","EMERGENCY  On",,xkTyE7
+132702,"17/05/2017 14:45:00","-1:00","robj","Alarm","COVER OPEN 6  On",,xC2TfB
+132703,"17/05/2017 14:45:00","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,9QxOD6
+132704,"17/05/2017 14:45:17","-1:00","robj","Alarm","COVER OPEN 3  On",,+w658G
+132705,"17/05/2017 14:45:17","-1:00","robj","Alarm","COVER OPEN 2  On",,yyQA4x
+132706,"17/05/2017 15:21:16","-1:00","robj","Alarm","COVER OPEN 2  Off",,ivrH7A
+132707,"17/05/2017 15:21:16","-1:00","robj","Alarm","COVER OPEN 3  Off",,HxlDXu
+132708,"17/05/2017 15:21:16","-1:00","robj","Alarm","COVER OPEN 6  Off",,k2On/w
+132709,"17/05/2017 15:21:16","-1:00","robj","Alarm","COVER OPEN 7  Off",,k8ppWw
+132710,"17/05/2017 15:21:16","-1:00","robj","Alarm","EMERGENCY  Off",,S6Vp0M
+132711,"17/05/2017 15:21:16","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,TuQFhe
+132712,"17/05/2017 15:21:17","-1:00","robj","Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,aX710w
+132713,"17/05/2017 15:21:17","-1:00","robj","Alarm:","COVER OPEN 7  Acknowledgment",,akiU7R
+132714,"17/05/2017 15:21:17","-1:00","robj","Alarm:","EMERGENCY  Acknowledgment",,L476Hr
+132715,"17/05/2017 15:21:17","-1:00","robj","Alarm:","COVER OPEN 6  Acknowledgment",,wW8a+h
+132716,"17/05/2017 15:21:17","-1:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,lFep2Q
+132717,"17/05/2017 15:21:17","-1:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,Y5mKXV
+132718,"17/05/2017 15:21:17","-1:00","robj","Alarm:","COVER OPEN 2  Acknowledgment",,wDgiy8
+132719,"17/05/2017 15:22:00","-1:00","robj","Alarm","COVER OPEN 5  On",,VGBcR2
+132720,"17/05/2017 15:22:00","-1:00","robj","Alarm","EMERGENCY  On",,KRSHRN
+132721,"17/05/2017 15:22:00","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,fiJqFs
+132722,"17/05/2017 15:25:21","-1:00","robj","Alarm","COVER OPEN 7  On",,IMU1HI
+132723,"17/05/2017 15:25:35","-1:00","robj","Alarm","COVER OPEN 5  Off",,l581pK
+132724,"17/05/2017 15:25:35","-1:00","robj","Alarm","COVER OPEN 7  Off",,GtcGVz
+132725,"17/05/2017 15:25:35","-1:00","robj","Alarm","EMERGENCY  Off",,XmN6wW
+132726,"17/05/2017 15:25:35","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,joaKVc
+132727,"17/05/2017 15:26:09","-1:00","robj","Alarm","EMERGENCY  On",,dYCb9l
+132728,"17/05/2017 15:26:09","-1:00","robj","Alarm","COVER OPEN 5  On",,Nxn/B/
+132729,"17/05/2017 15:26:09","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,uN0nTe
+132730,"17/05/2017 15:26:24","-1:00","robj","Alarm","COVER OPEN 7  On",,sqeAza
+132731,"17/05/2017 15:26:33","-1:00","robj","Alarm","COVER OPEN 5  Off",,Rh90FI
+132732,"17/05/2017 15:26:33","-1:00","robj","Alarm","COVER OPEN 7  Off",,HsM69V
+132733,"17/05/2017 15:26:33","-1:00","robj","Alarm","EMERGENCY  Off",,AfmI80
+132734,"17/05/2017 15:26:33","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,ROlRmc
+132735,"17/05/2017 15:27:07","-1:00","robj","Alarm","EMERGENCY  On",,2iCMk5
+132736,"17/05/2017 15:27:07","-1:00","robj","Alarm","COVER OPEN 5  On",,A3J0S3
+132737,"17/05/2017 15:27:07","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,CRgkkD
+132738,"17/05/2017 15:27:24","-1:00","robj","Alarm","COVER OPEN 7  On",,cvR9V3
+132739,"17/05/2017 15:27:33","-1:00","robj","Alarm","COVER OPEN 5  Off",,c1k2F1
+132740,"17/05/2017 15:27:33","-1:00","robj","Alarm","COVER OPEN 7  Off",,20jXoY
+132741,"17/05/2017 15:27:33","-1:00","robj","Alarm","EMERGENCY  Off",,gvlk1H
+132742,"17/05/2017 15:27:33","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,vTNsUV
+132743,"17/05/2017 15:28:08","-1:00","robj","Alarm","EMERGENCY  On",,nHUS3M
+132744,"17/05/2017 15:28:08","-1:00","robj","Alarm","COVER OPEN 5  On",,0EE9pD
+132745,"17/05/2017 15:28:08","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,L7CKKa
+132746,"17/05/2017 15:28:27","-1:00","robj","Alarm","COVER OPEN 7  On",,S3rRM1
+132747,"17/05/2017 15:28:36","-1:00","robj","Alarm","COVER OPEN 5  Off",,MYYByC
+132748,"17/05/2017 15:28:36","-1:00","robj","Alarm","COVER OPEN 7  Off",,c6Cdx8
+132749,"17/05/2017 15:28:36","-1:00","robj","Alarm","EMERGENCY  Off",,jWl5TV
+132750,"17/05/2017 15:28:36","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,6bP1xy
+132751,"17/05/2017 15:28:54","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,u27sXy
+132752,"17/05/2017 15:28:55","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,2FAQj8
+132753,"17/05/2017 15:28:58","-1:00","robj","Alarm","EMERGENCY  On",,4hoMZp
+132754,"17/05/2017 15:28:58","-1:00","robj","Alarm","COVER OPEN 7  On",,LzsDYZ
+132755,"17/05/2017 15:28:58","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,lnFwQd
+132756,"17/05/2017 15:29:10","-1:00","robj","Alarm","COVER OPEN 7  Off",,k8yy4Q
+132757,"17/05/2017 15:29:11","-1:00","robj","Alarm","EMERGENCY  Off",,IvRJ/X
+132758,"17/05/2017 15:29:11","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,uMFFAp
+132759,"17/05/2017 15:29:29","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,M4cOL7
+132760,"17/05/2017 15:29:30","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,zo7maG
+132761,"17/05/2017 15:30:02","-1:00","robj","Alarm","EMERGENCY  On",,BOsIsq
+132762,"17/05/2017 15:30:02","-1:00","robj","Alarm","COVER OPEN 7  On",,y+U8B7
+132763,"17/05/2017 15:30:02","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,VjgL0d
+132764,"17/05/2017 15:30:12","-1:00","robj","Alarm","COVER OPEN 7  Off",,uPL+0s
+132765,"17/05/2017 15:30:12","-1:00","robj","Alarm","EMERGENCY  Off",,qQIEzM
+132766,"17/05/2017 15:30:12","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,ewfcxz
+132767,"17/05/2017 15:30:46","-1:00","robj","Alarm","EMERGENCY  On",,DKSgQ5
+132768,"17/05/2017 15:30:46","-1:00","robj","Alarm","COVER OPEN 5  On",,LfMO9E
+132769,"17/05/2017 15:30:46","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,cgwE+A
+132770,"17/05/2017 15:31:06","-1:00","robj","Alarm","COVER OPEN 7  On",,b2f7gP
+132771,"17/05/2017 15:31:14","-1:00","robj","Alarm","COVER OPEN 5  Off",,/hRxVj
+132772,"17/05/2017 15:31:14","-1:00","robj","Alarm","COVER OPEN 7  Off",,7nQ4R3
+132773,"17/05/2017 15:31:15","-1:00","robj","Alarm","EMERGENCY  Off",,lCWpC5
+132774,"17/05/2017 15:31:15","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,AXeHiD
+132775,"17/05/2017 15:31:49","-1:00","robj","Alarm","COVER OPEN 5  On",,ipc/XJ
+132776,"17/05/2017 15:31:49","-1:00","robj","Alarm","EMERGENCY  On",,qw5zvc
+132777,"17/05/2017 15:31:49","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,5GN+lk
+132778,"17/05/2017 15:32:11","-1:00","robj","Alarm","COVER OPEN 7  On",,cD8Y3s
+132779,"17/05/2017 15:32:22","-1:00","robj","Alarm","COVER OPEN 5  Off",,+dU32x
+132780,"17/05/2017 15:32:22","-1:00","robj","Alarm","COVER OPEN 7  Off",,xvSTnG
+132781,"17/05/2017 15:32:22","-1:00","robj","Alarm","EMERGENCY  Off",,1KGS47
+132782,"17/05/2017 15:32:22","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,Izp+8A
+132783,"17/05/2017 15:32:55","-1:00","robj","Alarm","COVER OPEN 5  On",,rGALCm
+132784,"17/05/2017 15:32:56","-1:00","robj","Alarm","EMERGENCY  On",,ZRAzKb
+132785,"17/05/2017 15:32:56","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,rd7vU7
+132786,"17/05/2017 15:33:50","-1:00","robj","Alarm","COVER OPEN 7  On",,aYC4Rz
+132787,"17/05/2017 15:34:03","-1:00","robj","Alarm","COVER OPEN 5  Off",,Qqzgx3
+132788,"17/05/2017 15:34:03","-1:00","robj","Alarm","COVER OPEN 7  Off",,7wV3we
+132789,"17/05/2017 15:34:03","-1:00","robj","Alarm","EMERGENCY  Off",,g2hi3L
+132790,"17/05/2017 15:34:03","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,SjRFO5
+132791,"17/05/2017 15:34:38","-1:00","robj","Alarm","COVER OPEN 5  On",,xuBjdt
+132792,"17/05/2017 15:34:38","-1:00","robj","Alarm","EMERGENCY  On",,ftGpDs
+132793,"17/05/2017 15:34:38","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,rhVo3p
+132794,"17/05/2017 15:34:58","-1:00","robj","Alarm","COVER OPEN 7  On",,s1Adrs
+132795,"17/05/2017 15:35:19","-1:00","robj","Alarm","COVER OPEN 5  Off",,OCUhDP
+132796,"17/05/2017 15:35:19","-1:00","robj","Alarm","COVER OPEN 7  Off",,pAz5sM
+132797,"17/05/2017 15:35:19","-1:00","robj","Alarm","EMERGENCY  Off",,9mPvm1
+132798,"17/05/2017 15:35:19","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,Kf6NhC
+132799,"17/05/2017 15:35:53","-1:00","robj","Alarm","COVER OPEN 5  On",,jWtMVG
+132800,"17/05/2017 15:35:54","-1:00","robj","Alarm","EMERGENCY  On",,guL1wS
+132801,"17/05/2017 15:35:54","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,V05jkl
+132802,"17/05/2017 15:36:34","-1:00","robj","Alarm","COVER OPEN 7  On",,pPcIj3
+132803,"17/05/2017 15:36:42","-1:00","robj","Alarm","COVER OPEN 5  Off",,etaltm
+132804,"17/05/2017 15:36:42","-1:00","robj","Alarm","COVER OPEN 7  Off",,4rzPJ+
+132805,"17/05/2017 15:36:43","-1:00","robj","Alarm","EMERGENCY  Off",,tHl4jl
+132806,"17/05/2017 15:36:43","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,lUprIH
+132807,"17/05/2017 15:37:16","-1:00","robj","Alarm","EMERGENCY  On",,64FMDZ
+132808,"17/05/2017 15:37:16","-1:00","robj","Alarm","COVER OPEN 5  On",,Xkm5nq
+132809,"17/05/2017 15:37:16","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,Oes6QY
+132810,"17/05/2017 15:37:24","-1:00","robj","Alarm","COVER OPEN 7  On",,PXOJOd
+132811,"17/05/2017 15:37:32","-1:00","robj","Alarm","COVER OPEN 6  On",,D0Ty/x
+132812,"17/05/2017 15:40:42","-1:00","robj","Alarm","COVER OPEN 5  Off",,tto1/u
+132813,"17/05/2017 15:40:42","-1:00","robj","Alarm","COVER OPEN 6  Off",,8DLoVF
+132814,"17/05/2017 15:40:42","-1:00","robj","Alarm","COVER OPEN 7  Off",,ZCwfdU
+132815,"17/05/2017 15:40:42","-1:00","robj","Alarm","EMERGENCY  Off",,d2SCT+
+132816,"17/05/2017 15:40:42","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,cTxWco
+132817,"17/05/2017 15:40:51","-1:00","robj","Alarm","ALARM LOW LIGHT ST3  On",,mgWeWE
+132818,"17/05/2017 15:40:55","-1:00","robj","Alarm","ALARM LOW LIGHT ST3  Off",,zN1h1z
+132819,"17/05/2017 15:41:29","-1:00","robj","Alarm","EMERGENCY  On",,g6IId3
+132820,"17/05/2017 15:41:29","-1:00","robj","Alarm","COVER OPEN 5  On",,hFci2W
+132821,"17/05/2017 15:41:29","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,u9fKYD
+132822,"17/05/2017 15:41:33","-1:00","robj","Alarm","COVER OPEN 7  On",,Kvqa9b
+132823,"17/05/2017 15:42:12","-1:00","robj","Alarm","COVER OPEN 7  Off",,s+BqrG
+132824,"17/05/2017 15:42:22","-1:00","robj","Alarm","COVER OPEN 5  Off",,4hzvpM
+132825,"17/05/2017 15:42:22","-1:00","robj","Alarm","EMERGENCY  Off",,bSHqw6
+132826,"17/05/2017 15:42:22","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,cE+abx
+132827,"17/05/2017 15:42:57","-1:00","robj","Alarm","EMERGENCY  On",,uCc4xW
+132828,"17/05/2017 15:42:57","-1:00","robj","Alarm","COVER OPEN 5  On",,VQVDsv
+132829,"17/05/2017 15:42:57","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,D6xLkr
+132830,"17/05/2017 15:43:03","-1:00","robj","Alarm","COVER OPEN 6  On",,Cpgqrq
+132831,"17/05/2017 15:44:12","-1:00","robj","Alarm","COVER OPEN 7  On",,xfOjKE
+132832,"17/05/2017 15:44:46","-1:00","robj","Alarm","COVER OPEN 5  Off",,Afy1Q6
+132833,"17/05/2017 15:44:46","-1:00","robj","Alarm","COVER OPEN 6  Off",,uJqiBy
+132834,"17/05/2017 15:44:46","-1:00","robj","Alarm","COVER OPEN 7  Off",,RQUuSB
+132835,"17/05/2017 15:44:47","-1:00","robj","Alarm","EMERGENCY  Off",,nFJrkG
+132836,"17/05/2017 15:44:47","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,AhnTdg
+132837,"17/05/2017 15:45:00","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,/o9X+K
+132838,"17/05/2017 15:45:02","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,6bsVCR
+132839,"17/05/2017 15:45:23","-1:00","robj","Alarm","EMERGENCY  On",,9iJZLQ
+132840,"17/05/2017 15:45:23","-1:00","robj","Alarm","COVER OPEN 5  On",,Xraj7h
+132841,"17/05/2017 15:45:23","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,fzHsFt
+132842,"17/05/2017 15:46:01","-1:00","robj","Alarm","COVER OPEN 7  On",,Y5o5Df
+132843,"17/05/2017 15:46:08","-1:00","robj","Alarm","COVER OPEN 6  On",,LqXy+e
+132844,"17/05/2017 15:46:50","-1:00","robj","Alarm","COVER OPEN 5  Off",,7HwJtd
+132845,"17/05/2017 15:46:50","-1:00","robj","Alarm","COVER OPEN 6  Off",,AryOdL
+132846,"17/05/2017 15:46:50","-1:00","robj","Alarm","COVER OPEN 7  Off",,d4zfc9
+132847,"17/05/2017 15:46:50","-1:00","robj","Alarm","EMERGENCY  Off",,22UGQV
+132848,"17/05/2017 15:46:51","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,AI1No+
+132849,"17/05/2017 15:47:26","-1:00","robj","Alarm","EMERGENCY  On",,e+1fNT
+132850,"17/05/2017 15:47:26","-1:00","robj","Alarm","COVER OPEN 5  On",,kfOwlJ
+132851,"17/05/2017 15:47:26","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,P/Locg
+132852,"17/05/2017 15:47:52","-1:00","robj","Alarm","COVER OPEN 7  On",,FQvbrH
+132853,"17/05/2017 15:48:05","-1:00","robj","Alarm","COVER OPEN 5  Off",,WMUMWq
+132854,"17/05/2017 15:48:05","-1:00","robj","Alarm","COVER OPEN 7  Off",,HI/vLD
+132855,"17/05/2017 15:48:05","-1:00","robj","Alarm","EMERGENCY  Off",,SfxALI
+132856,"17/05/2017 15:48:05","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,Irud7C
+132857,"17/05/2017 15:48:06","-1:00","robj","Alarm: 8","Acknowledgment of 8 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,5vZUtg
+132858,"17/05/2017 15:48:06","-1:00","robj","Alarm:","ALARM LOW LIGHT ST3  Acknowledgment",,fm59DF
+132859,"17/05/2017 15:48:06","-1:00","robj","Alarm:","COVER OPEN 6  Acknowledgment",,H2BwYD
+132860,"17/05/2017 15:48:06","-1:00","robj","Alarm:","EMERGENCY  Acknowledgment",,N0ZdNq
+132861,"17/05/2017 15:48:06","-1:00","robj","Alarm:","COVER OPEN 5  Acknowledgment",,0T0kb/
+132862,"17/05/2017 15:48:06","-1:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,X8PLm0
+132863,"17/05/2017 15:48:06","-1:00","robj","Alarm:","COVER OPEN 7  Acknowledgment",,aK1qU0
+132864,"17/05/2017 15:48:06","-1:00","robj","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,DeVrOd
+132865,"17/05/2017 15:48:06","-1:00","robj","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,Iq2ews
+132866,"17/05/2017 15:48:24","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,R5/xjE
+132867,"17/05/2017 15:48:25","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,pUR6nN
+132868,"17/05/2017 15:48:44","-1:00","robj","Alarm","EMERGENCY  On",,lFezKj
+132869,"17/05/2017 15:48:44","-1:00","robj","Alarm","COVER OPEN 5  On",,v7oByl
+132870,"17/05/2017 15:48:44","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,6Yp9lL
+132871,"17/05/2017 15:48:50","-1:00","robj","Alarm","COVER OPEN 7  On",,7XEpDX
+132872,"17/05/2017 15:49:26","-1:00","robj","Alarm","COVER OPEN 5  Off",,ZmIi5x
+132873,"17/05/2017 15:49:26","-1:00","robj","Alarm","COVER OPEN 7  Off",,nSEf/g
+132874,"17/05/2017 15:49:27","-1:00","robj","Alarm","EMERGENCY  Off",,D2qRN+
+132875,"17/05/2017 15:49:27","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,51OXzd
+132876,"17/05/2017 15:50:01","-1:00","robj","Alarm","EMERGENCY  On",,QBupnt
+132877,"17/05/2017 15:50:01","-1:00","robj","Alarm","COVER OPEN 5  On",,22mUUD
+132878,"17/05/2017 15:50:01","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,L5fUa3
+132879,"17/05/2017 15:51:20","-1:00","robj","Alarm","COVER OPEN 7  On",,KNN8oQ
+132880,"17/05/2017 15:51:56","-1:00","robj","Alarm","COVER OPEN 5  Off",,ZDt/yG
+132881,"17/05/2017 15:51:56","-1:00","robj","Alarm","COVER OPEN 7  Off",,7pWxMU
+132882,"17/05/2017 15:51:57","-1:00","robj","Alarm","EMERGENCY  Off",,Kd30zN
+132883,"17/05/2017 15:51:57","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,lkJs0D
+132884,"17/05/2017 15:52:31","-1:00","robj","Alarm","EMERGENCY  On",,IvFLIa
+132885,"17/05/2017 15:52:31","-1:00","robj","Alarm","COVER OPEN 5  On",,+aQruq
+132886,"17/05/2017 15:52:31","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,BmKklA
+132887,"17/05/2017 15:52:45","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,9otE7/
+132888,"17/05/2017 15:52:46","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,1GV9Yc
+132889,"17/05/2017 15:52:59","-1:00","robj","Alarm","COVER OPEN 7  On",,qLGd8G
+132890,"17/05/2017 15:54:58","-1:00","robj","Alarm","COVER OPEN 5  Off",,R3TfbN
+132891,"17/05/2017 15:54:58","-1:00","robj","Alarm","COVER OPEN 7  Off",,NQBYOW
+132892,"17/05/2017 15:54:58","-1:00","robj","Alarm","EMERGENCY  Off",,9gSRc0
+132893,"17/05/2017 15:54:58","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,dr2j9W
+132894,"17/05/2017 15:55:34","-1:00","robj","Alarm","COVER OPEN 5  On",,HGaEgF
+132895,"17/05/2017 15:55:34","-1:00","robj","Alarm","EMERGENCY  On",,21PcgY
+132896,"17/05/2017 15:55:34","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,4OWw9/
+132897,"17/05/2017 15:56:31","-1:00","robj","Alarm","COVER OPEN 7  On",,Z6jnW+
+132898,"17/05/2017 15:56:41","-1:00","robj","Alarm","COVER OPEN 5  Off",,0vorYJ
+132899,"17/05/2017 15:56:41","-1:00","robj","Alarm","COVER OPEN 7  Off",,KEfOrb
+132900,"17/05/2017 15:56:41","-1:00","robj","Alarm","EMERGENCY  Off",,hjnJXI
+132901,"17/05/2017 15:56:41","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,hmqd8T
+132902,"17/05/2017 15:57:15","-1:00","robj","Alarm","EMERGENCY  On",,ScwoRn
+132903,"17/05/2017 15:57:15","-1:00","robj","Alarm","COVER OPEN 5  On",,j2xGgx
+132904,"17/05/2017 15:57:15","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,rOTrQw
+132905,"17/05/2017 15:58:07","-1:00","robj","Alarm","COVER OPEN 7  On",,K7Wi4Q
+132906,"17/05/2017 15:58:47","-1:00","robj","Alarm","COVER OPEN 5  Off",,lPoiW+
+132907,"17/05/2017 15:58:47","-1:00","robj","Alarm","COVER OPEN 7  Off",,kxOfP9
+132908,"17/05/2017 15:58:47","-1:00","robj","Alarm","EMERGENCY  Off",,SS3xK7
+132909,"17/05/2017 15:58:47","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,0VrxCG
+132910,"17/05/2017 15:59:26","-1:00","robj","Alarm","EMERGENCY  On",,jfjUs4
+132911,"17/05/2017 15:59:26","-1:00","robj","Alarm","COVER OPEN 5  On",,7wFqIa
+132912,"17/05/2017 15:59:26","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,OtK3Pt
+132913,"17/05/2017 16:00:25","-1:00","robj","Alarm","COVER OPEN 7  On",,nvvSor
+132914,"17/05/2017 16:01:50","-1:00","robj","Alarm","COVER OPEN 5  Off",,mtPuqF
+132915,"17/05/2017 16:01:50","-1:00","robj","Alarm","COVER OPEN 7  Off",,n9SBhq
+132916,"17/05/2017 16:01:50","-1:00","robj","Alarm","EMERGENCY  Off",,7NSLqZ
+132917,"17/05/2017 16:01:50","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,1/SNIe
+132918,"17/05/2017 16:02:05","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,Qg1Y3i
+132919,"17/05/2017 16:02:07","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  Off",,VhjNLz
+132920,"17/05/2017 16:02:14","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   On",,H7GnOp
+132921,"17/05/2017 16:02:14","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH LKD   Off",,UYc6kX
+132922,"17/05/2017 16:02:38","-1:00","robj","Alarm","EMERGENCY  On",,4610oG
+132923,"17/05/2017 16:02:38","-1:00","robj","Alarm","COVER OPEN 7  On",,XyeDPD
+132924,"17/05/2017 16:02:38","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,5aky+h
+132925,"17/05/2017 16:02:44","-1:00","robj","Alarm","COVER OPEN 7  Off",,KwVX4M
+132926,"17/05/2017 16:02:45","-1:00","robj","Alarm","EMERGENCY  Off",,boREgy
+132927,"17/05/2017 16:02:45","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,/IYYm4
+132928,"17/05/2017 16:03:04","-1:00","robj","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST4  On",,4SRQfJ
+132929,"17/05/2017 16:03:07","-1:00","robj","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST4  Off",,0mFiUR
+132930,"17/05/2017 16:03:26","-1:00","robj","Alarm","EMERGENCY  On",,G7hx60
+132931,"17/05/2017 16:03:26","-1:00","robj","Alarm","COVER OPEN 5  On",,4C1zLY
+132932,"17/05/2017 16:03:26","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,RyuzdL
+132933,"17/05/2017 16:09:22","-1:00","robj","Alarm","COVER OPEN 7  On",,obPOnk
+132934,"17/05/2017 16:09:30","-1:00","robj","Alarm","COVER OPEN 5  Off",,gaKS+o
+132935,"17/05/2017 16:09:30","-1:00","robj","Alarm","COVER OPEN 7  Off",,K6gV6S
+132936,"17/05/2017 16:09:30","-1:00","robj","Alarm","EMERGENCY  Off",,kkFCRC
+132937,"17/05/2017 16:09:30","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,1FLtbK
+132938,"17/05/2017 16:10:04","-1:00","robj","Alarm","EMERGENCY  On",,FlGizV
+132939,"17/05/2017 16:10:04","-1:00","robj","Alarm","COVER OPEN 5  On",,aZ8W9X
+132940,"17/05/2017 16:10:04","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,1utY42
+132941,"17/05/2017 16:10:22","-1:00","robj","Alarm","COVER OPEN 5  Off",,IempYV
+132942,"17/05/2017 16:10:22","-1:00","robj","Alarm","EMERGENCY  Off",,vdXBVO
+132943,"17/05/2017 16:10:22","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,PSNjkH
+132944,"17/05/2017 16:14:24","-1:00","robj","Warning","WARNING UPS  On",,E5I+vl
+132945,"17/05/2017 16:14:24","-1:00","robj","Warning","ALARM OZONE SENSOR  On",,S0eHCn
+132946,"17/05/2017 16:14:24","-1:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,BGz2Yr
+132947,"17/05/2017 16:14:24","-1:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,9Zb4Hp
+132948,"17/05/2017 16:14:24","-1:00","robj","Warning","WARNING REJECTED TRAY ALMOST FULL  On",,qUrPUP
+132949,"17/05/2017 16:14:24","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY HIGH ST0  On",,n8HzAt
+132950,"17/05/2017 16:14:24","-1:00","robj","Warning","WARNING MISSING REJECTED TRAY LOW ST0   On",,F3vZXD
+132951,"17/05/2017 16:14:24","-1:00","robj","Alarm","EMERGENCY  On",,VsazRe
+132952,"17/05/2017 16:14:24","-1:00","robj","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,dRLotQ
+132953,"17/05/2017 16:14:24","-1:00","robj","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  On",,3EOaOQ
+132954,"17/05/2017 16:14:24","-1:00","robj","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,nej4Tx
+132955,"17/05/2017 16:14:24","-1:00","robj","Alarm","ALARM MAIN MOTOR  On",,iOYCA5
+132956,"17/05/2017 16:14:24","-1:00","robj","Alarm","ALARM ROTATION MOTOR 1  On",,+FJC8u
+132957,"17/05/2017 16:14:24","-1:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,wbsnxQ
+132958,"17/05/2017 16:14:24","-1:00","robj","Alarm","ALARM MISSING ST0 TIP REJECTED TRAYS   On",,ZmHuEC
+132959,"17/05/2017 16:14:24","-1:00","robj","Alarm","ALARM MISSING LKD REJECTED TRAYS   On",,ydbEza
+132960,"17/05/2017 16:14:24","-1:00","robj","Alarm","Alarm profibus nodo 3 (encoder)  On",,DgXLRr
+132961,"18/05/2017 08:10:09","-1:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,cr9qog
+0,"18/05/2017 08:10:11","-1:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,iBIa0U
+132962,"18/05/2017 08:10:11","-1:00","System","Application","Change to operating mode 'online'.",,obR5We
+132963,"18/05/2017 08:10:11","-1:00","System","User administration","Password list imported successfully.",,pVQk14
+0,"18/05/2017 08:10:17","-1:00","System","Logs","Log files closed.",,isYmqZ
+"$RT_COUNT$",972,kk14ge,,,,,ExPxyY

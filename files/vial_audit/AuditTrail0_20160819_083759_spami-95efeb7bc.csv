@@ -1,0 +1,606 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"16/08/2016 08:27:57","-2:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,CKB0Z1
+194573,"16/08/2016 08:27:57","-2:00","System","Logs","Exporting a log.",,W6mmc3
+194574,"16/08/2016 08:28:11","-2:00",,"Recipe","Loading recipe number 2 ( 20ml Production ) on the interface.",,7zr642
+194575,"16/08/2016 08:28:12","-2:00",,"Recipe","Data trasfered to PLC",,kfCPf/
+194576,"16/08/2016 08:28:12","-2:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,8/9sRR
+194577,"16/08/2016 08:28:12","-2:00",,"Alarm","ALARM ROTATION MOTOR  On",,3f/7Ab
+194578,"16/08/2016 08:28:12","-2:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,W469MH
+194579,"16/08/2016 08:28:12","-2:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,3uqJ/m
+194580,"16/08/2016 08:28:12","-2:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,3yUR/M
+194581,"16/08/2016 08:28:12","-2:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,b0F9on
+194582,"16/08/2016 08:28:12","-2:00",,"Warning","ALARM VACUUM SENSOR  On",,y6r/2l
+194583,"16/08/2016 08:28:12","-2:00",,"Warning","PVSI NOT READY  On",,LnTBNn
+194584,"16/08/2016 08:28:12","-2:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,IyXRa1
+194585,"16/08/2016 08:28:12","-2:00",,"Warning","PVSI NOT RUNNING   On",,oPKJpU
+194586,"16/08/2016 08:28:12","-2:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,WlzrWE
+194587,"16/08/2016 08:28:12","-2:00",,"Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,IaiM4L
+194588,"16/08/2016 08:28:12","-2:00",,"Alarm","EMERGENCY  On",,iqISaw
+194589,"16/08/2016 08:28:12","-2:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,v1pMhL
+194590,"16/08/2016 08:28:12","-2:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,4TOYT9
+194591,"16/08/2016 08:28:12","-2:00",,"Alarm","ALARM TURRET MOTOR NOT READY  On",,FLzBcu
+194592,"16/08/2016 08:28:12","-2:00",,"Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,i4JSKh
+194593,"16/08/2016 08:28:16","-2:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,XW/Pxp
+194594,"16/08/2016 08:29:09","-2:00","System","User administration","User 'robj' logged on with group 'Operator'.",,WOctCg
+194595,"16/08/2016 08:29:21","-2:00","robj","Warning","PVSI NOT RUNNING   Off",,Uaxi1C
+194596,"16/08/2016 08:30:31","-2:00","robj","Alarm","WARNING MISSING LOGIN OPERATION  Off",,C+vHoH
+194597,"16/08/2016 08:30:31","-2:00","robj","Warning","ALARM VACUUM SENSOR  Off",,1xmuZf
+194598,"16/08/2016 08:30:31","-2:00","robj","Warning","PVSI NOT READY  Off",,j1E6rI
+194599,"16/08/2016 08:30:31","-2:00","robj","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,aRO3cB
+194600,"16/08/2016 08:30:31","-2:00","robj","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  Off",,uvCkVx
+194601,"16/08/2016 08:30:31","-2:00","robj","Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,LHnYFj
+194602,"16/08/2016 08:30:31","-2:00","robj","Alarm","ALARM TURRET MOTOR NOT READY  Off",,7UIGXx
+194603,"16/08/2016 08:30:31","-2:00","robj","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  Off",,zOnzxq
+194604,"16/08/2016 08:30:31","-2:00","robj","Alarm","EMERGENCY  Off",,cAm5e5
+194605,"16/08/2016 08:30:31","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,0Blq3K
+194606,"16/08/2016 08:30:32","-2:00","robj","Alarm: 276","Acknowledgment of 276 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,s8JFod
+194607,"16/08/2016 08:30:32","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,dTbD1l
+194608,"16/08/2016 08:30:32","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,gV/+Ji
+194609,"16/08/2016 08:30:32","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,eNigRr
+194610,"16/08/2016 08:30:32","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,5NPaC2
+194611,"16/08/2016 08:30:32","-2:00","robj","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,1Z/QrV
+194612,"16/08/2016 08:30:32","-2:00","robj","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,WSsQvo
+194613,"16/08/2016 08:30:32","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,mAB/d8
+194614,"16/08/2016 08:30:32","-2:00","robj","Alarm:","ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment",,HJ7YlN
+194615,"16/08/2016 08:30:32","-2:00","robj","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,K4H5+r
+194616,"16/08/2016 08:30:32","-2:00","robj","Alarm:","ALARM TURRET MOTOR NOT READY  Acknowledgment",,gs1GE6
+194617,"16/08/2016 08:30:32","-2:00","robj","Alarm:","ALARM HOMING NOT DONE TURRET MOTOR  Acknowledgment",,8fm78x
+194618,"16/08/2016 08:30:33","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,5Kc4Ry
+194619,"16/08/2016 08:30:33","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,nFmM8F
+194620,"16/08/2016 08:30:33","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,JFcQh+
+194621,"16/08/2016 08:30:50","-2:00","robj","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,xTUbmu
+194622,"16/08/2016 08:30:52","-2:00","robj","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,/Gqoo+
+194623,"16/08/2016 08:30:53","-2:00","robj","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,oBlU0n
+194624,"16/08/2016 08:30:55","-2:00","robj","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,QMoaur
+194625,"16/08/2016 08:32:04","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,v0J3Ks
+194626,"16/08/2016 08:32:04","-2:00","robj","Alarm","EMERGENCY  On",,wDJfnd
+194627,"16/08/2016 08:32:04","-2:00","robj","Alarm","COVER OPEN 4  On",,NmD6T/
+194628,"16/08/2016 08:32:05","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,ELuU8V
+194629,"16/08/2016 08:32:05","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,3Rfygk
+194630,"16/08/2016 08:32:05","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,T8OjKO
+194631,"16/08/2016 08:32:22","-2:00","robj","Alarm","COVER OPEN 4  Off",,OlFESl
+194632,"16/08/2016 08:32:22","-2:00","robj","Alarm","EMERGENCY  Off",,OGKbFd
+194633,"16/08/2016 08:32:22","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,gC+Cal
+194634,"16/08/2016 08:32:23","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,F0UlDO
+194635,"16/08/2016 08:32:23","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,sQsw3c
+194636,"16/08/2016 08:32:23","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,iX045K
+194637,"16/08/2016 08:32:24","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,51T3PK
+194638,"16/08/2016 08:32:24","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,ylzE7S
+194639,"16/08/2016 08:32:24","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,fMRZA5
+194640,"16/08/2016 08:32:24","-2:00","robj","Alarm:","COVER OPEN 4  Acknowledgment",,BcgQAG
+194641,"16/08/2016 08:32:24","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,BprkWo
+194642,"16/08/2016 08:32:24","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,zAa6Qp
+194643,"16/08/2016 08:32:24","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,0LJkgj
+194644,"16/08/2016 08:32:46","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,pi9/Sp
+194645,"16/08/2016 08:32:46","-2:00","robj","Alarm","EMERGENCY  On",,dVeywb
+194646,"16/08/2016 08:32:46","-2:00","robj","Alarm","COVER OPEN 4  On",,O+x6Eu
+194647,"16/08/2016 08:32:46","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,6LngKi
+194648,"16/08/2016 08:32:46","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,8+avKd
+194649,"16/08/2016 08:32:46","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,1JyY5w
+194650,"16/08/2016 08:32:52","-2:00","robj","Alarm","COVER OPEN 4  Off",,pykYs1
+194651,"16/08/2016 08:32:52","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,v3SYYv
+194652,"16/08/2016 08:32:52","-2:00","robj","Alarm","EMERGENCY  Off",,JEV3h5
+194653,"16/08/2016 08:32:53","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,dPYwtJ
+194654,"16/08/2016 08:32:53","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,h+6pCn
+194655,"16/08/2016 08:32:53","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,IJcAUZ
+194656,"16/08/2016 08:33:01","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,R9Jeiu
+194657,"16/08/2016 08:33:01","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,GZqrwR
+194658,"16/08/2016 08:33:01","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,hakiMm
+194659,"16/08/2016 08:33:01","-2:00","robj","Alarm:","COVER OPEN 4  Acknowledgment",,DPdPg+
+194660,"16/08/2016 08:33:01","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,yqAR90
+194661,"16/08/2016 08:33:01","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,+VUXdW
+194662,"16/08/2016 08:33:01","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,vFKPvG
+194663,"16/08/2016 08:33:30","-2:00","robj","Alarm","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  On",,tMhQMj
+194664,"16/08/2016 08:33:51","-2:00","robj","Alarm","COVER OPEN 4  On",,Rjq97i
+194665,"16/08/2016 08:33:51","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,V+mBgd
+194666,"16/08/2016 08:33:51","-2:00","robj","Alarm","EMERGENCY  On",,0gRngD
+194667,"16/08/2016 08:33:51","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,aXASRk
+194668,"16/08/2016 08:33:51","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,zJdFEE
+194669,"16/08/2016 08:33:51","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,55NNVw
+194670,"16/08/2016 08:33:53","-2:00","robj","Alarm","COVER OPEN 3  On",,9N0h0o
+194671,"16/08/2016 08:34:20","-2:00","robj","Alarm: 4","Acknowledgment of 4 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,l7Vk3B
+194672,"16/08/2016 08:34:20","-2:00","robj","Alarm:","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  Acknowledgment",,fpc+ON
+194673,"16/08/2016 08:34:20","-2:00","robj","Alarm:","COVER OPEN 4  Acknowledgment",,vu07pr
+194674,"16/08/2016 08:34:20","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,ptwI9w
+194675,"16/08/2016 08:34:20","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,RM1VTr
+194676,"16/08/2016 08:34:20","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,8d7gDT
+194677,"16/08/2016 08:34:20","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,uOUbVa
+194678,"16/08/2016 08:34:20","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,8WuUPq
+194679,"16/08/2016 08:34:20","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,N4S2YB
+194680,"16/08/2016 08:34:21","-2:00","robj","Alarm","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  Off",,yl0b8B
+194681,"16/08/2016 08:34:21","-2:00","robj","Alarm","COVER OPEN 3  Off",,FZrguh
+194682,"16/08/2016 08:34:21","-2:00","robj","Alarm","COVER OPEN 4  Off",,zTKYas
+194683,"16/08/2016 08:34:21","-2:00","robj","Alarm","EMERGENCY  Off",,ltnSiw
+194684,"16/08/2016 08:34:21","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,SeQlnn
+194685,"16/08/2016 08:34:22","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,T7Vkq1
+194686,"16/08/2016 08:34:23","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,NbiYP4
+194687,"16/08/2016 08:34:23","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,bhFePI
+194688,"16/08/2016 08:34:23","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,lsj+Mp
+194689,"16/08/2016 08:36:45","-2:00","robj","Alarm","COVER OPEN 3  On",,SJdYsY
+194690,"16/08/2016 08:36:45","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,Ps6rYh
+194691,"16/08/2016 08:36:45","-2:00","robj","Alarm","EMERGENCY  On",,f+EmH9
+194692,"16/08/2016 08:36:45","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,tYDl+V
+194693,"16/08/2016 08:36:45","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,ikUDMa
+194694,"16/08/2016 08:36:45","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,XVMpYm
+194695,"16/08/2016 08:36:45","-2:00","robj","Alarm","COVER OPEN 4  On",,MVp4pk
+194696,"16/08/2016 08:37:20","-2:00","robj","Alarm","COVER OPEN 3  Off",,kV2/e1
+194697,"16/08/2016 08:37:20","-2:00","robj","Alarm","COVER OPEN 4  Off",,25iKgI
+194698,"16/08/2016 08:37:20","-2:00","robj","Alarm","EMERGENCY  Off",,6HWvly
+194699,"16/08/2016 08:37:20","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,8nvrpx
+194700,"16/08/2016 08:37:21","-2:00","robj","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,j38q4K
+194701,"16/08/2016 08:37:21","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,RymRyR
+194702,"16/08/2016 08:37:21","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,yoWHrT
+194703,"16/08/2016 08:37:21","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,O4yG38
+194704,"16/08/2016 08:37:21","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,rngmFT
+194705,"16/08/2016 08:37:21","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,DJcrXO
+194706,"16/08/2016 08:37:21","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,GFBpZL
+194707,"16/08/2016 08:37:21","-2:00","robj","Alarm:","COVER OPEN 4  Acknowledgment",,1Wkts7
+194708,"16/08/2016 08:37:23","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,JarGV0
+194709,"16/08/2016 08:37:23","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,db11x/
+194710,"16/08/2016 08:37:23","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,jtB8qS
+194711,"16/08/2016 08:37:23","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,iRG3Jr
+194712,"16/08/2016 08:37:23","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,t1zJob
+194713,"16/08/2016 08:37:51","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,dTiAuU
+194714,"16/08/2016 08:37:51","-2:00","robj","Alarm","EMERGENCY  On",,vOtvi+
+194715,"16/08/2016 08:37:51","-2:00","robj","Alarm","COVER OPEN 4  On",,X+chSq
+194716,"16/08/2016 08:37:52","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,kheEAo
+194717,"16/08/2016 08:37:52","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,b/ZB4R
+194718,"16/08/2016 08:37:52","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,i2J9qS
+194719,"16/08/2016 08:38:04","-2:00","robj","Alarm","COVER OPEN 3  On",,StT1Ci
+194720,"16/08/2016 08:38:17","-2:00","robj","Alarm","COVER OPEN 3  Off",,t70T+N
+194721,"16/08/2016 08:38:17","-2:00","robj","Alarm","COVER OPEN 4  Off",,v40kml
+194722,"16/08/2016 08:38:17","-2:00","robj","Alarm","EMERGENCY  Off",,eWWUmL
+194723,"16/08/2016 08:38:17","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,6QEzWc
+194724,"16/08/2016 08:38:24","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,T4AwhV
+194725,"16/08/2016 08:38:24","-2:00","robj","Alarm","EMERGENCY  On",,f2vi04
+194726,"16/08/2016 08:38:24","-2:00","robj","Alarm","COVER OPEN 4  On",,YFnUAK
+194727,"16/08/2016 08:38:25","-2:00","robj","Alarm","COVER OPEN 3  On",,BVvtd7
+194728,"16/08/2016 08:41:36","-2:00","robj","Alarm: 4","Acknowledgment of 4 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,jEVzm4
+194729,"16/08/2016 08:41:36","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,NGrFT2
+194730,"16/08/2016 08:41:36","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,w5C16c
+194731,"16/08/2016 08:41:36","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,DbdJjj
+194732,"16/08/2016 08:41:36","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,3JFXYr
+194733,"16/08/2016 08:41:36","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,F6YR3g
+194734,"16/08/2016 08:41:36","-2:00","robj","Alarm:","COVER OPEN 4  Acknowledgment",,U2cMWQ
+194735,"16/08/2016 08:41:36","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,s0eFOA
+194736,"16/08/2016 08:41:37","-2:00","robj","Alarm","COVER OPEN 3  Off",,C1Cxaa
+194737,"16/08/2016 08:41:37","-2:00","robj","Alarm","COVER OPEN 4  Off",,03rY9x
+194738,"16/08/2016 08:41:37","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,81Slmq
+194739,"16/08/2016 08:41:37","-2:00","robj","Alarm","EMERGENCY  Off",,SeLn22
+194740,"16/08/2016 08:41:38","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,0ZhrDX
+194741,"16/08/2016 08:41:38","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,LUpiMq
+194742,"16/08/2016 08:41:38","-2:00","robj","Alarm: 1022","Acknowledgment of 1022 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,g8+RGe
+194743,"16/08/2016 08:41:38","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,QuqgTb
+194744,"16/08/2016 08:41:39","-2:00","robj","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,wREZdB
+194745,"16/08/2016 08:42:12","-2:00","robj","Alarm","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  On",,ga7L/3
+194746,"16/08/2016 08:42:23","-2:00","robj","Alarm","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  Off",,j97cj8
+194747,"16/08/2016 08:42:25","-2:00","robj","Alarm: 1051","Acknowledgment of 1051 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,QWSj9x
+194748,"16/08/2016 08:42:25","-2:00","robj","Alarm:","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  Acknowledgment",,s+m80n
+194749,"16/08/2016 08:42:34","-2:00","robj","Alarm","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  On",,r5LJC5
+194750,"16/08/2016 08:42:41","-2:00","robj","Alarm","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  Off",,oQHAvm
+194751,"16/08/2016 08:42:44","-2:00","robj","Alarm: 1051","Acknowledgment of 1051 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,UeL/GK
+194752,"16/08/2016 08:42:44","-2:00","robj","Alarm:","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  Acknowledgment",,pWcirb
+194753,"16/08/2016 08:42:44","-2:00","robj","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,f/zTMt
+194754,"16/08/2016 08:43:13","-2:00","robj","Alarm","EMERGENCY  On",,rHBwEA
+194755,"16/08/2016 08:43:13","-2:00","robj","Alarm","COVER OPEN 4  On",,1UCZ2z
+194756,"16/08/2016 08:43:13","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,8FRUkf
+194757,"16/08/2016 08:43:13","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,day0IQ
+194758,"16/08/2016 08:43:13","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,qg/IzF
+194759,"16/08/2016 08:43:13","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,C63yCj
+194760,"16/08/2016 08:43:13","-2:00","robj","Alarm","COVER OPEN 3  On",,ldN02X
+194761,"16/08/2016 08:43:50","-2:00","robj","Alarm","COVER OPEN 3  Off",,5nOBrn
+194762,"16/08/2016 08:43:50","-2:00","robj","Alarm","COVER OPEN 4  Off",,o9zVw7
+194763,"16/08/2016 08:43:50","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,U8gymZ
+194764,"16/08/2016 08:43:50","-2:00","robj","Alarm","EMERGENCY  Off",,69pXdF
+194765,"16/08/2016 08:43:54","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,01XKlW
+194766,"16/08/2016 08:43:54","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,ZwrGEF
+194767,"16/08/2016 08:43:54","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,FKq3Qj
+194768,"16/08/2016 08:43:58","-2:00","robj","Alarm: 4","Acknowledgment of 4 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,TahcGV
+194769,"16/08/2016 08:43:58","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,SzxZpw
+194770,"16/08/2016 08:43:58","-2:00","robj","Alarm:","COVER OPEN 4  Acknowledgment",,BsJStf
+194771,"16/08/2016 08:43:58","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,SffsNp
+194772,"16/08/2016 08:43:58","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,psDXWt
+194773,"16/08/2016 08:43:58","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,gcwDSO
+194774,"16/08/2016 08:43:58","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,+R0GPb
+194775,"16/08/2016 08:43:58","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,+Nwr2o
+194776,"16/08/2016 08:44:24","-2:00","robj","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST3  On",,902IkX
+194777,"16/08/2016 08:44:34","-2:00","robj","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST3  Off",,qc2dq1
+194778,"16/08/2016 08:44:36","-2:00","robj","Alarm: 1068","Acknowledgment of 1068 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,6QV7i2
+194779,"16/08/2016 08:44:36","-2:00","robj","Alarm:","ALARM MAXIMUM CONSECUTIVE REJECTION ST3  Acknowledgment",,EiyNZt
+194780,"16/08/2016 08:44:58","-2:00","robj","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,8NF7Tn
+194781,"16/08/2016 08:44:58","-2:00","robj","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR REJECT  On",,2LTUub
+194782,"16/08/2016 08:44:58","-2:00","robj","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On",,8xh8CY
+194783,"16/08/2016 08:45:24","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,CsSTg4
+194784,"16/08/2016 08:45:24","-2:00","robj","Alarm","EMERGENCY  On",,VP9Hx9
+194785,"16/08/2016 08:45:24","-2:00","robj","Alarm","COVER OPEN 3  On",,t0e2q2
+194786,"16/08/2016 08:45:24","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,7xIMGV
+194787,"16/08/2016 08:45:24","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,XGfIBZ
+194788,"16/08/2016 08:45:24","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,xo6LtA
+194789,"16/08/2016 08:45:28","-2:00","robj","Alarm","COVER OPEN 4  On",,iT79Ec
+194790,"16/08/2016 08:46:41","-2:00","robj","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off",,MvxtUW
+194791,"16/08/2016 08:46:41","-2:00","robj","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR REJECT  Off",,c8Zl5Z
+194792,"16/08/2016 08:46:41","-2:00","robj","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off",,HPmFGd
+194793,"16/08/2016 08:46:41","-2:00","robj","Alarm","COVER OPEN 3  Off",,KfkvBK
+194794,"16/08/2016 08:46:41","-2:00","robj","Alarm","COVER OPEN 4  Off",,A0n+U/
+194795,"16/08/2016 08:46:41","-2:00","robj","Alarm","EMERGENCY  Off",,5GWmAq
+194796,"16/08/2016 08:46:41","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,U/Hg/x
+194797,"16/08/2016 08:46:42","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,z6lCBN
+194798,"16/08/2016 08:46:42","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,fJufNA
+194799,"16/08/2016 08:46:42","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,fl5Pjw
+194800,"16/08/2016 08:46:47","-2:00","robj","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,4kyNFZ
+194801,"16/08/2016 08:46:47","-2:00","robj","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment",,uwzSNb
+194802,"16/08/2016 08:46:47","-2:00","robj","Alarm:","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR REJECT  Acknowledgment",,jSQ5Aj
+194803,"16/08/2016 08:46:47","-2:00","robj","Alarm:","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment",,ONYpHo
+194804,"16/08/2016 08:46:47","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,yWEudd
+194805,"16/08/2016 08:46:47","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,ud2V99
+194806,"16/08/2016 08:46:47","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,IcP+0O
+194807,"16/08/2016 08:46:47","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,ffAMim
+194808,"16/08/2016 08:46:47","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,3NbKO3
+194809,"16/08/2016 08:46:47","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,bkgUqh
+194810,"16/08/2016 08:46:47","-2:00","robj","Alarm:","COVER OPEN 4  Acknowledgment",,gl7CiX
+194811,"16/08/2016 08:46:48","-2:00","robj","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,7htV9r
+194812,"16/08/2016 08:48:00","-2:00","robj","Alarm","COVER OPEN 3  On",,aI/5Mo
+194813,"16/08/2016 08:48:00","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,ppMoQ1
+194814,"16/08/2016 08:48:00","-2:00","robj","Alarm","EMERGENCY  On",,n2kZSq
+194815,"16/08/2016 08:48:00","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,ZxDK0T
+194816,"16/08/2016 08:48:00","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,ELTqhX
+194817,"16/08/2016 08:48:00","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,mRO/1v
+194818,"16/08/2016 08:49:05","-2:00","robj","Alarm","COVER OPEN 3  Off",,POOFc0
+194819,"16/08/2016 08:49:05","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,XsdkIP
+194820,"16/08/2016 08:49:05","-2:00","robj","Alarm","EMERGENCY  Off",,mvgPqM
+194821,"16/08/2016 08:49:06","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,DGLvYS
+194822,"16/08/2016 08:49:06","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,Eo0c7B
+194823,"16/08/2016 08:49:06","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,U6Cfpq
+194824,"16/08/2016 08:49:08","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,RKnxiN
+194825,"16/08/2016 08:49:10","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,jX3JMX
+194826,"16/08/2016 08:49:10","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,YUC0r5
+194827,"16/08/2016 08:49:10","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,i/Q7ip
+194828,"16/08/2016 08:49:10","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,hdeYsI
+194829,"16/08/2016 08:49:10","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,XcrrsI
+194830,"16/08/2016 08:49:10","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,CD0tHS
+194831,"16/08/2016 08:49:39","-2:00","robj","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST3  On",,+iLNQO
+194832,"16/08/2016 08:49:40","-2:00","robj","Alarm","ALARM MAXIMUM CONSECUTIVE REJECTION ST3  Off",,ss4flv
+194833,"16/08/2016 08:49:45","-2:00","robj","Alarm: 1068","Acknowledgment of 1068 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,uXoxHW
+194834,"16/08/2016 08:49:45","-2:00","robj","Alarm:","ALARM MAXIMUM CONSECUTIVE REJECTION ST3  Acknowledgment",,BG5QNb
+194835,"16/08/2016 08:50:08","-2:00","robj","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR REJECT  On",,f3kGXI
+194836,"16/08/2016 08:50:20","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,Pv52f9
+194837,"16/08/2016 08:50:20","-2:00","robj","Alarm","EMERGENCY  On",,VX08Iu
+194838,"16/08/2016 08:50:20","-2:00","robj","Alarm","COVER OPEN 3  On",,GjIvsU
+194839,"16/08/2016 08:50:20","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,viw/GD
+194840,"16/08/2016 08:50:20","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,bnnxvk
+194841,"16/08/2016 08:50:20","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,lPxV4w
+194842,"16/08/2016 08:50:25","-2:00","robj","Alarm","COVER OPEN 4  On",,q20kHV
+194843,"16/08/2016 08:51:01","-2:00","robj","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR REJECT  Off",,Qarjd7
+194844,"16/08/2016 08:51:01","-2:00","robj","Alarm","COVER OPEN 3  Off",,kS7k8R
+194845,"16/08/2016 08:51:01","-2:00","robj","Alarm","COVER OPEN 4  Off",,FGEfWL
+194846,"16/08/2016 08:51:03","-2:00","robj","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,K4pRJQ
+194847,"16/08/2016 08:51:03","-2:00","robj","Alarm:","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR REJECT  Acknowledgment",,PK1Axz
+194848,"16/08/2016 08:51:03","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,7dEgyx
+194849,"16/08/2016 08:51:03","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,NbCFVo
+194850,"16/08/2016 08:51:03","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,BP6jCj
+194851,"16/08/2016 08:51:03","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,O+NQVo
+194852,"16/08/2016 08:51:03","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,CQTrGl
+194853,"16/08/2016 08:51:03","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,Vc2udD
+194854,"16/08/2016 08:51:03","-2:00","robj","Alarm:","COVER OPEN 4  Acknowledgment",,oPd0KF
+194855,"16/08/2016 08:51:05","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,AKMr4F
+194856,"16/08/2016 08:51:05","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,7dLqHr
+194857,"16/08/2016 08:51:05","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,s/Jl0e
+194858,"16/08/2016 08:51:05","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,ylYqNJ
+194859,"16/08/2016 08:51:05","-2:00","robj","Alarm","EMERGENCY  Off",,roN4OJ
+194860,"16/08/2016 08:51:05","-2:00","robj","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,eJ2A7w
+194861,"16/08/2016 08:51:40","-2:00","robj","Alarm","COVER OPEN 3  On",,1/KS37
+194862,"16/08/2016 08:51:40","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,r/+I32
+194863,"16/08/2016 08:51:40","-2:00","robj","Alarm","EMERGENCY  On",,8KfU2W
+194864,"16/08/2016 08:51:40","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,+Ydl6O
+194865,"16/08/2016 08:51:40","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,A52x2Z
+194866,"16/08/2016 08:51:40","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,siK/fm
+194867,"16/08/2016 08:51:42","-2:00","robj","Alarm","COVER OPEN 4  On",,BhV2j+
+194868,"16/08/2016 08:53:41","-2:00","robj","Alarm","COVER OPEN 3  Off",,CdYLEv
+194869,"16/08/2016 08:53:41","-2:00","robj","Alarm","COVER OPEN 4  Off",,o7lOFX
+194870,"16/08/2016 08:53:41","-2:00","robj","Alarm","EMERGENCY  Off",,s94uQq
+194871,"16/08/2016 08:53:41","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,WgurRY
+194872,"16/08/2016 08:53:51","-2:00","robj","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,at9eou
+194873,"16/08/2016 08:53:51","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,cd8WqL
+194874,"16/08/2016 08:53:51","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,C5qnoa
+194875,"16/08/2016 08:53:51","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,z/1pV/
+194876,"16/08/2016 08:53:51","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,cz9ubs
+194877,"16/08/2016 08:53:51","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,Gk7GRS
+194878,"16/08/2016 08:53:51","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,tYYXs5
+194879,"16/08/2016 08:53:51","-2:00","robj","Alarm:","COVER OPEN 4  Acknowledgment",,dwFj7n
+194880,"16/08/2016 08:53:52","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,6lx6+L
+194881,"16/08/2016 08:53:52","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,YqQnLK
+194882,"16/08/2016 08:53:52","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,cmSvzS
+194883,"16/08/2016 08:54:46","-2:00","robj","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On",,xPEK8e
+194884,"16/08/2016 08:54:46","-2:00","robj","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,jv4KJ8
+194885,"16/08/2016 08:54:52","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,RQFtVL
+194886,"16/08/2016 08:54:52","-2:00","robj","Alarm","EMERGENCY  On",,pVlFsd
+194887,"16/08/2016 08:54:52","-2:00","robj","Alarm","COVER OPEN 3  On",,DM23la
+194888,"16/08/2016 08:54:52","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,OBWTd0
+194889,"16/08/2016 08:54:52","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,+r1NcL
+194890,"16/08/2016 08:54:52","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,X2uREF
+194891,"16/08/2016 08:56:06","-2:00","robj","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off",,r9YMur
+194892,"16/08/2016 08:56:06","-2:00","robj","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off",,MZe70P
+194893,"16/08/2016 08:56:06","-2:00","robj","Alarm","COVER OPEN 3  Off",,khng1r
+194894,"16/08/2016 08:56:07","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,8WWbnj
+194895,"16/08/2016 08:56:07","-2:00","robj","Alarm","EMERGENCY  Off",,Q17LF3
+194896,"16/08/2016 08:56:08","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,IKPezd
+194897,"16/08/2016 08:56:08","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,3Cs82S
+194898,"16/08/2016 08:56:08","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,ba8GA4
+194899,"16/08/2016 08:56:08","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,QxSjqB
+194900,"16/08/2016 08:56:08","-2:00","robj","Alarm:","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment",,GNLoo4
+194901,"16/08/2016 08:56:08","-2:00","robj","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment",,EKcr0F
+194902,"16/08/2016 08:56:08","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,dOYmLy
+194903,"16/08/2016 08:56:08","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,WOYIhS
+194904,"16/08/2016 08:56:08","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,DA2ueT
+194905,"16/08/2016 08:56:08","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,ai171Y
+194906,"16/08/2016 08:56:08","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,FdI3ka
+194907,"16/08/2016 08:56:08","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,+0TYFc
+194908,"16/08/2016 08:56:08","-2:00","robj","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,7l6qDu
+194909,"16/08/2016 08:57:32","-2:00","robj","Warning","WARNING INFEED BELT MINIM LOAD  On",,m/8IhA
+194910,"16/08/2016 08:57:32","-2:00","robj","Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,+WRJ/n
+194911,"16/08/2016 08:58:18","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,rRi/ia
+194912,"16/08/2016 08:58:18","-2:00","robj","Alarm","EMERGENCY  On",,2K4zck
+194913,"16/08/2016 08:58:18","-2:00","robj","Alarm","COVER OPEN 3  On",,V+Kclx
+194914,"16/08/2016 08:58:19","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,rIALAJ
+194915,"16/08/2016 08:58:19","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,6bh5eq
+194916,"16/08/2016 08:58:19","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,ssRPXS
+194917,"16/08/2016 09:56:33","-2:00","System","User administration","User logged off.",,WirNUv
+194918,"16/08/2016 09:56:33","-2:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,3YDeHH
+194919,"16/08/2016 10:03:34","-2:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  On",,yVJL76
+194920,"16/08/2016 10:54:14","-2:00",,"Warning","ALARM VACUUM SENSOR  On",,0mP7Qe
+194921,"16/08/2016 10:54:14","-2:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  Off",,/4pfER
+194922,"16/08/2016 10:54:16","-2:00",,"Warning","ALARM VACUUM SENSOR  Off",,RlZfKe
+194923,"16/08/2016 10:54:16","-2:00",,"Alarm","COVER OPEN 3  Off",,8BCHN5
+194924,"16/08/2016 10:54:17","-2:00",,"Alarm","EMERGENCY  Off",,gqmnUa
+194925,"16/08/2016 10:54:17","-2:00",,"Alarm","ALARM INFEED BELT MOTOR  Off",,nBGl7l
+194926,"16/08/2016 10:54:37","-2:00","System","User administration","User 'robj' has unsuccessfully attempted to log on 1 times in succession.",,vCcwzz
+194927,"16/08/2016 10:54:42","-2:00","System","User administration","User 'robj' logged on with group 'Operator'.",,xL76PM
+194928,"16/08/2016 10:54:43","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,cJm9hn
+194929,"16/08/2016 10:54:43","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,2Ug7r2
+194930,"16/08/2016 10:54:43","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,ZfgfSp
+194931,"16/08/2016 10:54:43","-2:00","robj","Alarm","WARNING MISSING LOGIN OPERATION  Off",,3hGlfy
+194932,"16/08/2016 10:54:45","-2:00","robj","Alarm: 1022","Acknowledgment of 1022 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ENdmiS
+194933,"16/08/2016 10:54:45","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,4ZJ7FZ
+194934,"16/08/2016 10:54:45","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,S/+UKW
+194935,"16/08/2016 10:54:45","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,7WLRG4
+194936,"16/08/2016 10:54:45","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,xAwykV
+194937,"16/08/2016 10:54:45","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,qnciZ0
+194938,"16/08/2016 10:54:45","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,4dKTdq
+194939,"16/08/2016 10:54:45","-2:00","robj","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,NHK1S2
+194940,"16/08/2016 10:54:59","-2:00","robj","Warning","WARNING INFEED BELT MINIM LOAD  Off",,h7t5df
+194941,"16/08/2016 10:54:59","-2:00","robj","Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,iYXtXm
+194942,"16/08/2016 10:55:35","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,xayI1b
+194943,"16/08/2016 10:55:35","-2:00","robj","Alarm","EMERGENCY  On",,pkp6GU
+194944,"16/08/2016 10:55:35","-2:00","robj","Alarm","COVER OPEN 3  On",,+xHZh5
+194945,"16/08/2016 10:55:35","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,K+4R+X
+194946,"16/08/2016 10:55:35","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,/WyLPM
+194947,"16/08/2016 10:55:35","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,wQe6gt
+194948,"16/08/2016 10:55:47","-2:00","robj","Alarm","COVER OPEN 3  Off",,O9UKX4
+194949,"16/08/2016 10:55:47","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,Ot74jy
+194950,"16/08/2016 10:55:47","-2:00","robj","Alarm","EMERGENCY  Off",,u1x3yf
+194951,"16/08/2016 10:55:48","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,eVTNjf
+194952,"16/08/2016 10:55:48","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,k6YcOE
+194953,"16/08/2016 10:55:48","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,4hcLYx
+194954,"16/08/2016 10:56:07","-2:00","robj","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,zzAJg4
+194955,"16/08/2016 10:56:18","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,ksSaEv
+194956,"16/08/2016 10:56:18","-2:00","robj","Alarm","EMERGENCY  On",,dYBHVm
+194957,"16/08/2016 10:56:18","-2:00","robj","Alarm","COVER OPEN 3  On",,x8M/JE
+194958,"16/08/2016 10:56:19","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,hXvdtW
+194959,"16/08/2016 10:56:19","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,tBQfKh
+194960,"16/08/2016 10:56:19","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,tla0IW
+194961,"16/08/2016 10:56:40","-2:00","robj","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,xbT9yZ
+194962,"16/08/2016 10:56:40","-2:00","robj","Alarm","COVER OPEN 3  Off",,UcFTPW
+194963,"16/08/2016 10:56:41","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,mUrxy9
+194964,"16/08/2016 10:56:41","-2:00","robj","Alarm","EMERGENCY  Off",,PjNJUR
+194965,"16/08/2016 10:56:42","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,XEKMKr
+194966,"16/08/2016 10:56:42","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,XlBXGH
+194967,"16/08/2016 10:56:42","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,2zU1Jz
+194968,"16/08/2016 10:56:47","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,zjNTUP
+194969,"16/08/2016 10:56:47","-2:00","robj","Alarm","EMERGENCY  On",,QkMB0G
+194970,"16/08/2016 10:56:47","-2:00","robj","Alarm","COVER OPEN 3  On",,K+DW9h
+194971,"16/08/2016 10:56:48","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,Eb29N+
+194972,"16/08/2016 10:56:48","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,wvjg3n
+194973,"16/08/2016 10:56:48","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,ct/t9H
+194974,"16/08/2016 10:56:58","-2:00","robj","Alarm","COVER OPEN 3  Off",,pLQPFT
+194975,"16/08/2016 10:56:59","-2:00","robj","Alarm","EMERGENCY  Off",,PlGUDS
+194976,"16/08/2016 10:56:59","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,tHS7Nx
+194977,"16/08/2016 10:57:00","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,IwwOK6
+194978,"16/08/2016 10:57:00","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,3dp2sc
+194979,"16/08/2016 10:57:00","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,P/3PxM
+194980,"16/08/2016 10:57:00","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,0lJUaw
+194981,"16/08/2016 10:57:00","-2:00","robj","Alarm:","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Acknowledgment",,kFjDQ4
+194982,"16/08/2016 10:57:00","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,jliG6Z
+194983,"16/08/2016 10:57:00","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,K3MOdI
+194984,"16/08/2016 10:57:00","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,vgQsLL
+194985,"16/08/2016 10:57:00","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,J9wcdh
+194986,"16/08/2016 10:57:00","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,J00ie0
+194987,"16/08/2016 10:57:00","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,B6Sai8
+194988,"16/08/2016 10:57:00","-2:00","robj","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,sRfdwp
+194989,"16/08/2016 10:57:07","-2:00","robj","Alarm","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  On",,Ap3HCc
+194990,"16/08/2016 10:57:10","-2:00","robj","Alarm","COVER OPEN 3  On",,/T7w7K
+194991,"16/08/2016 10:57:10","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,5tOxL9
+194992,"16/08/2016 10:57:10","-2:00","robj","Alarm","EMERGENCY  On",,8KZlks
+194993,"16/08/2016 10:57:11","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,nq8m3F
+194994,"16/08/2016 10:57:11","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,sozzkY
+194995,"16/08/2016 10:57:11","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,MlwXXo
+194996,"16/08/2016 10:57:20","-2:00","robj","Alarm","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  Off",,tZ0PKp
+194997,"16/08/2016 10:57:20","-2:00","robj","Alarm","COVER OPEN 3  Off",,uMTD+d
+194998,"16/08/2016 10:57:21","-2:00","robj","Alarm","EMERGENCY  Off",,Aeap/7
+194999,"16/08/2016 10:57:21","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,WHCBZC
+195000,"16/08/2016 10:57:21","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,4NABml
+195001,"16/08/2016 10:57:21","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,s42XYw
+195002,"16/08/2016 10:57:21","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,CW5Aed
+195003,"16/08/2016 10:57:24","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,3atbng
+195004,"16/08/2016 10:57:24","-2:00","robj","Alarm:","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  Acknowledgment",,Oq5/Jb
+195005,"16/08/2016 10:57:24","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,/mlPD7
+195006,"16/08/2016 10:57:24","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,8/KSq7
+195007,"16/08/2016 10:57:24","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,0Sue2s
+195008,"16/08/2016 10:57:24","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,BmyJcc
+195009,"16/08/2016 10:57:24","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,ubKxHr
+195010,"16/08/2016 10:57:24","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,DFhIQ8
+195011,"16/08/2016 10:58:16","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,ZKLrt7
+195012,"16/08/2016 10:58:16","-2:00","robj","Alarm","EMERGENCY  On",,/wxXqo
+195013,"16/08/2016 10:58:16","-2:00","robj","Alarm","COVER OPEN 3  On",,hIywZi
+195014,"16/08/2016 10:58:16","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,So/jkF
+195015,"16/08/2016 10:58:16","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,WKZRhk
+195016,"16/08/2016 10:58:16","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,dwAbkt
+195017,"16/08/2016 11:00:34","-2:00","robj","Alarm","COVER OPEN 3  Off",,aWcSOs
+195018,"16/08/2016 11:00:35","-2:00","robj","Alarm","EMERGENCY  Off",,kas1y9
+195019,"16/08/2016 11:00:35","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,+hqNdd
+195020,"16/08/2016 11:00:37","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,4W4n2R
+195021,"16/08/2016 11:00:37","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,2Je3ju
+195022,"16/08/2016 11:00:39","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,VLBswS
+195023,"16/08/2016 11:00:39","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,WZN+g6
+195024,"16/08/2016 11:00:39","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,apiWW3
+195025,"16/08/2016 11:00:39","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,Nuob6m
+195026,"16/08/2016 11:00:39","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,j2j7xt
+195027,"16/08/2016 11:00:39","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,MrzesE
+195028,"16/08/2016 11:00:39","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,5s5TnD
+195029,"16/08/2016 11:00:39","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,sVgz1H
+195030,"16/08/2016 11:00:39","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,F2GJo0
+195031,"16/08/2016 11:01:20","-2:00","robj","Warning","WARNING EMPTY PROGRAM ACTIVATED  Off",,h4ieaM
+195032,"16/08/2016 11:01:33","-2:00","robj","Warning","WARNING INFEED BELT MINIM LOAD  On",,KZOGB+
+195033,"16/08/2016 11:01:35","-2:00","robj","Warning","WARNING INFEED BELT MINIM LOAD  Off",,mranow
+195034,"16/08/2016 11:01:39","-2:00","robj","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,kkiEO4
+195035,"16/08/2016 11:01:40","-2:00","robj","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,zdND5K
+195036,"16/08/2016 11:01:41","-2:00","robj","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,k+vv8Y
+195037,"16/08/2016 11:01:43","-2:00","robj","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,bz9dtU
+195038,"16/08/2016 11:01:47","-2:00","robj","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,8Tuhw7
+195039,"16/08/2016 11:02:14","-2:00","robj","Alarm","COVER OPEN 3  On",,WVh+Im
+195040,"16/08/2016 11:02:14","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,fipac7
+195041,"16/08/2016 11:02:14","-2:00","robj","Alarm","EMERGENCY  On",,voYMwv
+195042,"16/08/2016 11:02:14","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,zS9oZp
+195043,"16/08/2016 11:02:14","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,lxO2AH
+195044,"16/08/2016 11:02:14","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,hcsFnP
+195045,"16/08/2016 11:02:30","-2:00","robj","Alarm","COVER OPEN 3  Off",,DxxyAj
+195046,"16/08/2016 11:02:31","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,bLiXZT
+195047,"16/08/2016 11:02:31","-2:00","robj","Alarm","EMERGENCY  Off",,QJ017b
+195048,"16/08/2016 11:02:31","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,/CsZ6i
+195049,"16/08/2016 11:02:31","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,+2q7yi
+195050,"16/08/2016 11:02:31","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,RAgSvw
+195051,"16/08/2016 11:02:31","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,7mXDNV
+195052,"16/08/2016 11:02:31","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,T5GwLe
+195053,"16/08/2016 11:02:31","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,UmYXZC
+195054,"16/08/2016 11:02:31","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,LT1mFi
+195055,"16/08/2016 11:02:33","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,KnYqg1
+195056,"16/08/2016 11:02:33","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,vH4f/q
+195057,"16/08/2016 11:02:33","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,CxXO45
+195058,"16/08/2016 11:02:34","-2:00","robj","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,TROoDw
+195059,"16/08/2016 11:02:39","-2:00","robj","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  On",,8Z6v9i
+195060,"16/08/2016 11:02:56","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,bdd/ju
+195061,"16/08/2016 11:02:56","-2:00","robj","Alarm","EMERGENCY  On",,5PbhOB
+195062,"16/08/2016 11:02:56","-2:00","robj","Alarm","COVER OPEN 3  On",,SN/qia
+195063,"16/08/2016 11:02:57","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,+TmAzF
+195064,"16/08/2016 11:02:57","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,zNF3nN
+195065,"16/08/2016 11:02:57","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,VH49zh
+195066,"16/08/2016 11:03:26","-2:00","robj","Alarm","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Off",,EUjyE5
+195067,"16/08/2016 11:03:26","-2:00","robj","Alarm","COVER OPEN 3  Off",,8BLQgz
+195068,"16/08/2016 11:03:26","-2:00","robj","Alarm","EMERGENCY  Off",,UtHVkM
+195069,"16/08/2016 11:03:26","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,rJhILJ
+195070,"16/08/2016 11:03:29","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,0p0Xr+
+195071,"16/08/2016 11:03:29","-2:00","robj","Alarm:","ALARM MISSING CONTAINER ON THE ACCEPTED CHANNEL  Acknowledgment",,8AcaC6
+195072,"16/08/2016 11:03:29","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,JrEo1r
+195073,"16/08/2016 11:03:29","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,sKOT1i
+195074,"16/08/2016 11:03:29","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,kYPGHv
+195075,"16/08/2016 11:03:29","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,CVL/Mg
+195076,"16/08/2016 11:03:29","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,si+6Qn
+195077,"16/08/2016 11:03:29","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,BE3F62
+195078,"16/08/2016 11:03:29","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,q0Sds6
+195079,"16/08/2016 11:03:32","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,EnKWhV
+195080,"16/08/2016 11:03:32","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,Vag5Go
+195081,"16/08/2016 11:03:32","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,UCCsEC
+195082,"16/08/2016 11:03:39","-2:00","robj","Alarm","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  On",,Vd6sVs
+195083,"16/08/2016 11:03:47","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,/O69EP
+195084,"16/08/2016 11:03:47","-2:00","robj","Alarm","EMERGENCY  On",,YeAQwq
+195085,"16/08/2016 11:03:47","-2:00","robj","Alarm","COVER OPEN 3  On",,kxyPgr
+195086,"16/08/2016 11:03:47","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,uA31Ho
+195087,"16/08/2016 11:03:47","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,T5tnOH
+195088,"16/08/2016 11:03:47","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,z9tJPq
+195089,"16/08/2016 11:03:53","-2:00","robj","Alarm","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  Off",,LPcZ4Y
+195090,"16/08/2016 11:03:53","-2:00","robj","Alarm","COVER OPEN 3  Off",,Di+NSB
+195091,"16/08/2016 11:03:53","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,1TPDbG
+195092,"16/08/2016 11:03:53","-2:00","robj","Alarm","EMERGENCY  Off",,EqLLMI
+195093,"16/08/2016 11:03:54","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,kb+db8
+195094,"16/08/2016 11:03:54","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,Jq3wiR
+195095,"16/08/2016 11:03:54","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,z3L8M8
+195096,"16/08/2016 11:03:55","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,pM0hml
+195097,"16/08/2016 11:03:55","-2:00","robj","Alarm:","ALARM NOT EXPECTED CONTAINER IN REJECT 2 CHANNEL  Acknowledgment",,8O6l3s
+195098,"16/08/2016 11:03:55","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,OJw3sO
+195099,"16/08/2016 11:03:55","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,VTLPen
+195100,"16/08/2016 11:03:55","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,V4DSFg
+195101,"16/08/2016 11:03:55","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,q451r+
+195102,"16/08/2016 11:03:55","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,tl90TP
+195103,"16/08/2016 11:03:55","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,rF7PrB
+195104,"16/08/2016 11:04:15","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,e2ZD1n
+195105,"16/08/2016 11:04:15","-2:00","robj","Alarm","EMERGENCY  On",,UMEOQn
+195106,"16/08/2016 11:04:15","-2:00","robj","Alarm","COVER OPEN 3  On",,BNsj5G
+195107,"16/08/2016 11:04:15","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,5LVc3L
+195108,"16/08/2016 11:04:15","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,jNPrV3
+195109,"16/08/2016 11:04:15","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,CYUVcH
+195110,"16/08/2016 11:04:33","-2:00","robj","Alarm","COVER OPEN 4  On",,P5184t
+195111,"16/08/2016 11:04:40","-2:00","robj","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On",,dzQVe8
+195112,"16/08/2016 11:04:40","-2:00","robj","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On",,4/Sp2d
+195113,"16/08/2016 11:05:02","-2:00","robj","Alarm","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Off",,EmSgyp
+195114,"16/08/2016 11:05:02","-2:00","robj","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off",,VHdpqD
+195115,"16/08/2016 11:05:02","-2:00","robj","Alarm","COVER OPEN 3  Off",,5DshLq
+195116,"16/08/2016 11:05:02","-2:00","robj","Alarm","COVER OPEN 4  Off",,Ma7wt5
+195117,"16/08/2016 11:05:02","-2:00","robj","Alarm","EMERGENCY  Off",,SzRuco
+195118,"16/08/2016 11:05:02","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,RcL/FN
+195119,"16/08/2016 11:05:03","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,UVjDiP
+195120,"16/08/2016 11:05:03","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,pIQwPd
+195121,"16/08/2016 11:05:03","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,Pp46bi
+195122,"16/08/2016 11:05:33","-2:00","robj","Alarm: 1091","Acknowledgment of 1091 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,fbr4EL
+195123,"16/08/2016 11:05:33","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,jKdACx
+195124,"16/08/2016 11:05:33","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,NmyRKD
+195125,"16/08/2016 11:05:33","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,tCXXk5
+195126,"16/08/2016 11:05:33","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,cLH6cU
+195127,"16/08/2016 11:05:33","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,G6ayUa
+195128,"16/08/2016 11:05:33","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,P3s0R4
+195129,"16/08/2016 11:05:33","-2:00","robj","Alarm:","COVER OPEN 4  Acknowledgment",,BHGi8+
+195130,"16/08/2016 11:05:33","-2:00","robj","Alarm:","ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   Acknowledgment",,2d5NIg
+195131,"16/08/2016 11:05:33","-2:00","robj","Alarm:","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment",,tE5Q8+
+195132,"16/08/2016 11:05:53","-2:00","robj","Alarm","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  On",,SgPWSD
+195133,"16/08/2016 11:05:59","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,aBoITP
+195134,"16/08/2016 11:05:59","-2:00","robj","Alarm","EMERGENCY  On",,mw4RP3
+195135,"16/08/2016 11:05:59","-2:00","robj","Alarm","COVER OPEN 3  On",,mh/iuU
+195136,"16/08/2016 11:05:59","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,aa8vE/
+195137,"16/08/2016 11:05:59","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,wEp00C
+195138,"16/08/2016 11:05:59","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,rsmAYh
+195139,"16/08/2016 11:07:00","-2:00","robj","Alarm","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  Off",,mQoldk
+195140,"16/08/2016 11:07:00","-2:00","robj","Alarm","COVER OPEN 3  Off",,DkY8oh
+195141,"16/08/2016 11:07:00","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  Off",,gsQCf3
+195142,"16/08/2016 11:07:00","-2:00","robj","Alarm","EMERGENCY  Off",,oX/epZ
+195143,"16/08/2016 11:07:01","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  Off",,TmMUaf
+195144,"16/08/2016 11:07:01","-2:00","robj","Alarm","ALARM ROTATION MOTOR  Off",,/QXyiD
+195145,"16/08/2016 11:07:01","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  Off",,HfgXPy
+195146,"16/08/2016 11:07:05","-2:00","robj","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,/FpB0/
+195147,"16/08/2016 11:07:05","-2:00","robj","Alarm:","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  Acknowledgment",,3Rj9GQ
+195148,"16/08/2016 11:07:05","-2:00","robj","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,tbAncm
+195149,"16/08/2016 11:07:05","-2:00","robj","Alarm:","EMERGENCY  Acknowledgment",,jpfmU/
+195150,"16/08/2016 11:07:05","-2:00","robj","Alarm:","COVER OPEN 3  Acknowledgment",,OYoNq8
+195151,"16/08/2016 11:07:05","-2:00","robj","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,Ncq+AV
+195152,"16/08/2016 11:07:05","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,sk7Q8w
+195153,"16/08/2016 11:07:05","-2:00","robj","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,2S65xK
+195154,"16/08/2016 11:07:10","-2:00","robj","Warning","WARNING INFEED BELT MINIM LOAD  On",,EwKQeh
+195155,"16/08/2016 11:07:23","-2:00","robj","Warning","WARNING INFEED BELT MINIM LOAD  Off",,sWy+qv
+195156,"16/08/2016 11:07:23","-2:00","robj","Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,qUavCn
+195157,"16/08/2016 11:08:13","-2:00","robj","Alarm","EMERGENCY  On",,zVxMzK
+195158,"16/08/2016 11:08:13","-2:00","robj","Alarm","COVER OPEN 3  On",,mguAYb
+195159,"16/08/2016 11:08:13","-2:00","robj","Alarm","ALARM INFEED BELT MOTOR  On",,hx4h/d
+195160,"16/08/2016 11:08:13","-2:00","robj","Alarm","ALARM ROTATION MOTOR  On",,UPprM/
+195161,"16/08/2016 11:08:13","-2:00","robj","Alarm","ALARM ROTATION MOTOR 2  On",,dfM8l/
+195162,"16/08/2016 11:08:13","-2:00","robj","Alarm","ALARM ROTATION MOTOR 3  On",,LZ9dYB
+195163,"16/08/2016 11:11:33","-2:00","robj","Warning","WARNING SAFETY DOORS EXCLUDED  On",,OY++hI
+195164,"16/08/2016 11:46:49","-2:00","robj","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,c9y7AI
+195165,"16/08/2016 11:46:50","-2:00","robj","Warning","WARNING UPS  On",,x8LJgj
+195166,"16/08/2016 11:46:53","-2:00","robj","Alarm","WARNING MISSING LOGIN OPERATION  On",,m3aoS9
+195167,"16/08/2016 11:46:53","-2:00","robj","Warning","ALARM VACUUM SENSOR  On",,0wDj5L
+195168,"16/08/2016 11:46:53","-2:00","robj","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,n/mp4D
+195169,"16/08/2016 11:46:53","-2:00","robj","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,pvpZ0M
+195170,"16/08/2016 11:46:53","-2:00","robj","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,WLTLVu
+195171,"19/08/2016 10:37:57","-2:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,LQXuQ9
+0,"19/08/2016 10:37:57","-2:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,IiFuf4
+195172,"19/08/2016 10:37:57","-2:00","System","Application","Change to operating mode 'online'.",,BWaoNS
+195173,"19/08/2016 10:37:57","-2:00","System","User administration","Password list imported successfully.",,/OTDKs
+0,"19/08/2016 10:37:59","-2:00","System","Logs","Log files closed.",,hYjTRk
+"$RT_COUNT$",605,kk14ge,,,,,VD+fc2

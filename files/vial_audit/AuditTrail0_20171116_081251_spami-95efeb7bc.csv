@@ -1,0 +1,662 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"14/11/2017 09:46:06","+0:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,3NLFix
+367581,"14/11/2017 09:46:06","+0:00","System","Logs","Exporting a log.",,lDP81j
+367582,"14/11/2017 09:46:25","+0:00",,"Recipe","Loading recipe number 3 ( 50ml Production ) on the interface.",,u7gvUk
+367583,"14/11/2017 09:46:25","+0:00",,"Recipe","Data trasfered to PLC",,ctwgZL
+367584,"14/11/2017 09:46:25","+0:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,dW2AvK
+367585,"14/11/2017 09:46:25","+0:00",,"Alarm","ALARM ROTATION MOTOR  On",,YSGYsh
+367586,"14/11/2017 09:46:25","+0:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,lSaktD
+367587,"14/11/2017 09:46:25","+0:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,lCR7YD
+367588,"14/11/2017 09:46:25","+0:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,bSzFXC
+367589,"14/11/2017 09:46:25","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,TdbMz8
+367590,"14/11/2017 09:46:25","+0:00",,"Warning","ALARM VACUUM SENSOR  On",,W9ESt8
+367591,"14/11/2017 09:46:25","+0:00",,"Warning","PVSI NOT READY  On",,mmT1MF
+367592,"14/11/2017 09:46:25","+0:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,1Ft6Fp
+367593,"14/11/2017 09:46:25","+0:00",,"Warning","PVSI NOT RUNNING   On",,Fvl7v4
+367594,"14/11/2017 09:46:25","+0:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,hHR8Bl
+367595,"14/11/2017 09:46:25","+0:00",,"Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,mABPPW
+367596,"14/11/2017 09:46:25","+0:00",,"Alarm","EMERGENCY  On",,Tsez04
+367597,"14/11/2017 09:46:25","+0:00",,"Alarm","COVER OPEN 1  On",,JdG/34
+367598,"14/11/2017 09:46:25","+0:00",,"Alarm","COVER OPEN 2  On",,BnThfX
+367599,"14/11/2017 09:46:25","+0:00",,"Alarm","COVER OPEN 3  On",,FaEfOZ
+367600,"14/11/2017 09:46:25","+0:00",,"Alarm","COVER OPEN 4  On",,YFHEAF
+367601,"14/11/2017 09:46:25","+0:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,kgriNp
+367602,"14/11/2017 09:46:25","+0:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,edt6Nm
+367603,"14/11/2017 09:46:30","+0:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,x2OT4S
+367604,"14/11/2017 09:47:25","+0:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,WeZ5Y3
+367605,"14/11/2017 09:47:26","+0:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,mP0I4b
+367606,"14/11/2017 10:35:33","+0:00","System","User administration","User 'adaml' logged on with group 'Administrator'.",,sIP1Pf
+367607,"14/11/2017 10:35:35","+0:00","adaml","Alarm: 252","Acknowledgment of 252 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,dB/3Vb
+367608,"14/11/2017 10:35:35","+0:00","adaml","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,dNvTpv
+367609,"14/11/2017 10:35:35","+0:00","adaml","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,7X3+XX
+367610,"14/11/2017 10:35:35","+0:00","adaml","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,UsS0Vc
+367611,"14/11/2017 10:35:35","+0:00","adaml","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,XoSpU4
+367612,"14/11/2017 10:35:35","+0:00","adaml","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,4kk5vb
+367613,"14/11/2017 10:35:35","+0:00","adaml","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,+gPbzy
+367614,"14/11/2017 10:35:35","+0:00","adaml","Alarm:","EMERGENCY  Acknowledgment",,neOGBr
+367615,"14/11/2017 10:35:35","+0:00","adaml","Alarm:","COVER OPEN 1  Acknowledgment",,EkqPbd
+367616,"14/11/2017 10:35:35","+0:00","adaml","Alarm:","COVER OPEN 2  Acknowledgment",,J+WmVH
+367617,"14/11/2017 10:35:35","+0:00","adaml","Alarm:","COVER OPEN 3  Acknowledgment",,mDCeJX
+367618,"14/11/2017 10:35:35","+0:00","adaml","Alarm:","COVER OPEN 4  Acknowledgment",,+mlDou
+367619,"14/11/2017 10:35:35","+0:00","adaml","Alarm:","ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment",,aGGXKy
+367620,"14/11/2017 10:35:35","+0:00","adaml","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,Ol0nJl
+367621,"14/11/2017 10:35:35","+0:00","adaml","Alarm: 252","Acknowledgment of 252 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,GqhByx
+367622,"14/11/2017 10:35:36","+0:00","adaml","Alarm: 252","Acknowledgment of 252 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,HpovZq
+367623,"14/11/2017 10:35:36","+0:00","adaml","Alarm","WARNING MISSING LOGIN OPERATION  Off",,S7mUoU
+367624,"14/11/2017 10:35:36","+0:00","adaml","Warning","ALARM VACUUM SENSOR  Off",,BFX3cg
+367625,"14/11/2017 10:35:36","+0:00","adaml","Alarm","COVER OPEN 1  Off",,JudMNc
+367626,"14/11/2017 10:35:36","+0:00","adaml","Alarm","COVER OPEN 2  Off",,ME8J5p
+367627,"14/11/2017 10:35:36","+0:00","adaml","Alarm","COVER OPEN 3  Off",,0lLhuZ
+367628,"14/11/2017 10:35:36","+0:00","adaml","Alarm","COVER OPEN 4  Off",,JRNLTi
+367629,"14/11/2017 10:35:36","+0:00","adaml","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  Off",,pHZJB+
+367630,"14/11/2017 10:35:36","+0:00","adaml","Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,PHn1UN
+367631,"14/11/2017 10:35:37","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,9pkCkm
+367632,"14/11/2017 10:35:37","+0:00","adaml","Alarm","EMERGENCY  Off",,lzqPnJ
+367633,"14/11/2017 10:35:39","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,i6Zqha
+367634,"14/11/2017 10:35:39","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,Bo4pjd
+367635,"14/11/2017 10:35:39","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,yaQoDM
+367636,"14/11/2017 10:35:44","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,pE14eT
+367637,"14/11/2017 10:35:44","+0:00","adaml","Alarm","EMERGENCY  On",,qzgs5e
+367638,"14/11/2017 10:35:44","+0:00","adaml","Alarm","COVER OPEN 4  On",,AKMoRE
+367639,"14/11/2017 10:35:44","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,b4Xuvj
+367640,"14/11/2017 10:35:44","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,7t04iR
+367641,"14/11/2017 10:35:44","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,kDOjxw
+367642,"14/11/2017 10:35:44","+0:00","adaml","Alarm","COVER OPEN 3  On",,E/pGyr
+367643,"14/11/2017 10:35:46","+0:00","adaml","Warning","PVSI NOT RUNNING   Off",,XTybcB
+367644,"14/11/2017 10:35:48","+0:00","adaml","Warning","WARNING SAFETY DOORS EXCLUDED  On",,LvHzV3
+367645,"14/11/2017 10:35:59","+0:00","adaml","Alarm","ALARM MISSING COMPRESSED AIR  On",,XRkWiF
+367646,"14/11/2017 11:10:24","+0:00","adaml","Alarm","WARNING MISSING LOGIN OPERATION  On",,JQnamE
+367647,"14/11/2017 11:10:24","+0:00","adaml","Warning","ALARM VACUUM SENSOR  On",,dT7n+E
+367648,"14/11/2017 11:10:24","+0:00","adaml","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,n8NnJz
+367649,"14/11/2017 11:10:31","+0:00","System","User administration","User 'adamb' logged on with group 'Operator'.",,IX4jSO
+367650,"14/11/2017 11:10:32","+0:00","adamb","Alarm","ALARM MISSING COMPRESSED AIR  Off",,ZTymAn
+367651,"14/11/2017 11:10:32","+0:00","adamb","Alarm","WARNING MISSING LOGIN OPERATION  Off",,iAhOvO
+367652,"14/11/2017 11:10:32","+0:00","adamb","Warning","ALARM VACUUM SENSOR  Off",,n7R/z8
+367653,"14/11/2017 11:10:32","+0:00","adamb","Warning","PVSI NOT READY  Off",,5FQ1Vg
+367654,"14/11/2017 11:10:32","+0:00","adamb","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,Lg5dw+
+367655,"14/11/2017 11:10:32","+0:00","adamb","Alarm","COVER OPEN 3  Off",,eCBJDY
+367656,"14/11/2017 11:10:32","+0:00","adamb","Alarm","COVER OPEN 4  Off",,peIMAy
+367657,"14/11/2017 11:10:32","+0:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,f4Nv6P
+367658,"14/11/2017 11:10:32","+0:00","adamb","Alarm","EMERGENCY  Off",,tSmpWg
+367659,"14/11/2017 11:10:33","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,kWJsz7
+367660,"14/11/2017 11:10:33","+0:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,muUres
+367661,"14/11/2017 11:10:33","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,lK/XAU
+367662,"14/11/2017 11:11:53","+0:00","adamb","Alarm","COVER OPEN 3  On",,G8IMnU
+367663,"14/11/2017 11:11:53","+0:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,1OnIsF
+367664,"14/11/2017 11:11:53","+0:00","adamb","Alarm","EMERGENCY  On",,825q/o
+367665,"14/11/2017 11:11:54","+0:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,s2BB9Z
+367666,"14/11/2017 11:11:54","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,OnLOQc
+367667,"14/11/2017 11:11:54","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,sc06HF
+367668,"14/11/2017 11:12:35","+0:00","adamb","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,P+lee9
+367669,"14/11/2017 11:12:36","+0:00","adamb","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ljArO6
+367670,"14/11/2017 11:12:36","+0:00","adamb","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,qkTU7G
+367671,"14/11/2017 11:12:36","+0:00","adamb","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,pD3tIq
+367672,"14/11/2017 11:12:36","+0:00","adamb","Alarm","COVER OPEN 4  On",,2MX0br
+367673,"14/11/2017 11:12:36","+0:00","adamb","Alarm:","ALARM MISSING COMPRESSED AIR  Acknowledgment",,RqjxDO
+367674,"14/11/2017 11:12:36","+0:00","adamb","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,3IO+9d
+367675,"14/11/2017 11:12:36","+0:00","adamb","Alarm:","COVER OPEN 3  Acknowledgment",,AGaH5F
+367676,"14/11/2017 11:12:36","+0:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,qDsBE/
+367677,"14/11/2017 11:12:36","+0:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,1F7taf
+367678,"14/11/2017 11:12:36","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,3CSFMa
+367679,"14/11/2017 11:12:36","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,srid80
+367680,"14/11/2017 11:12:36","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,FVgCra
+367681,"14/11/2017 11:12:36","+0:00","adamb","Alarm:","COVER OPEN 4  Acknowledgment",,0zZIMw
+367682,"14/11/2017 11:18:33","+0:00","adamb","Alarm","COVER OPEN 3  Off",,+UAmT7
+367683,"14/11/2017 11:18:33","+0:00","adamb","Alarm","COVER OPEN 4  Off",,qcAv9f
+367684,"14/11/2017 11:18:34","+0:00","adamb","Alarm","EMERGENCY  Off",,KnOEfc
+367685,"14/11/2017 11:18:34","+0:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,I5ZR+m
+367686,"14/11/2017 11:18:35","+0:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,Lqcm0D
+367687,"14/11/2017 11:18:35","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,0QRhK1
+367688,"14/11/2017 11:18:35","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,BuiSyX
+367689,"14/11/2017 11:27:22","+0:00","adamb","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On",,XOGQ96
+367690,"14/11/2017 11:27:29","+0:00","adamb","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off",,auEJFR
+367691,"14/11/2017 11:27:51","+0:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,VaHlxA
+367692,"14/11/2017 11:27:51","+0:00","adamb","Alarm","EMERGENCY  On",,zLNIGd
+367693,"14/11/2017 11:27:51","+0:00","adamb","Alarm","COVER OPEN 3  On",,1esPuI
+367694,"14/11/2017 11:27:52","+0:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,DIaHAp
+367695,"14/11/2017 11:27:52","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,zF2G7X
+367696,"14/11/2017 11:27:52","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,t4bfv8
+367697,"14/11/2017 11:27:52","+0:00","adamb","Alarm","COVER OPEN 4  On",,DP6wsv
+367698,"14/11/2017 11:28:27","+0:00","adamb","Alarm","COVER OPEN 3  Off",,nI6/ch
+367699,"14/11/2017 11:28:27","+0:00","adamb","Alarm","COVER OPEN 4  Off",,85xU2Q
+367700,"14/11/2017 11:28:27","+0:00","adamb","Alarm","EMERGENCY  Off",,XGm33v
+367701,"14/11/2017 11:28:27","+0:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,jcVbQV
+367702,"14/11/2017 11:28:28","+0:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,E1JlV9
+367703,"14/11/2017 11:28:28","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,2QAOML
+367704,"14/11/2017 11:28:28","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,bPuUN+
+367705,"14/11/2017 11:31:33","+0:00","adamb","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,C5rl1i
+367706,"14/11/2017 11:31:33","+0:00","adamb","Alarm:","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment",,lNRPV1
+367707,"14/11/2017 11:31:33","+0:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,h+b5Rb
+367708,"14/11/2017 11:31:33","+0:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,pUQvYl
+367709,"14/11/2017 11:31:33","+0:00","adamb","Alarm:","COVER OPEN 3  Acknowledgment",,EqN5m7
+367710,"14/11/2017 11:31:33","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,+LqIDK
+367711,"14/11/2017 11:31:33","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,Y/iZEm
+367712,"14/11/2017 11:31:33","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,56UnA1
+367713,"14/11/2017 11:31:33","+0:00","adamb","Alarm:","COVER OPEN 4  Acknowledgment",,IfNelR
+367714,"14/11/2017 11:31:34","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,hbMJkW
+367715,"14/11/2017 11:31:34","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,KIiy/p
+367716,"14/11/2017 11:31:34","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,Y4NCBr
+367717,"14/11/2017 11:31:34","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,wdISY1
+367718,"14/11/2017 11:31:34","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,uBvled
+367719,"14/11/2017 11:31:35","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,RnMUHC
+367720,"14/11/2017 11:31:35","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,yPTqjB
+367721,"14/11/2017 11:31:35","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,WOOEpD
+367722,"14/11/2017 11:34:46","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Lk+ODu
+367723,"14/11/2017 11:34:56","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vlqvqo
+367724,"14/11/2017 11:36:06","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,Dj4WRP
+367725,"14/11/2017 11:36:06","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,cM8jAF
+367726,"14/11/2017 11:37:20","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,fIMzz7
+367727,"14/11/2017 11:37:31","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,QSwnRO
+367728,"14/11/2017 11:37:33","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,oAdGGo
+367729,"14/11/2017 11:37:34","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,iWMI7R
+367730,"14/11/2017 11:37:34","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,w0v6Th
+367731,"14/11/2017 11:37:34","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,iN+3od
+367732,"14/11/2017 11:37:34","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,1XplgT
+367733,"14/11/2017 11:37:34","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,l4OeHv
+367734,"14/11/2017 11:37:36","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,isxXpw
+367735,"14/11/2017 11:37:36","+0:00","adamb","Alarm: 2154","Acknowledgment of alarm 2154 of PLC MCA200+LKD.",,69t2rD
+367736,"14/11/2017 11:38:06","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,A8Os58
+367737,"14/11/2017 11:38:19","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,u6RvCa
+367738,"14/11/2017 11:38:43","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,zR/9K4
+367739,"14/11/2017 11:38:52","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,poh72u
+367740,"14/11/2017 11:39:20","+0:00","adamb","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,exjxfV
+367741,"14/11/2017 11:39:25","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,q6LVhN
+367742,"14/11/2017 11:39:34","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,pu/jBh
+367743,"14/11/2017 11:40:14","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,lcLt6g
+367744,"14/11/2017 11:40:22","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,VqZh6K
+367745,"14/11/2017 11:40:44","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,xxyowh
+367746,"14/11/2017 11:40:51","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Jl/e+5
+367747,"14/11/2017 11:41:21","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,acfrvp
+367748,"14/11/2017 11:41:29","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,hHmkRW
+367749,"14/11/2017 11:42:00","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,M/InFi
+367750,"14/11/2017 11:42:08","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,lq5p2F
+367751,"14/11/2017 11:42:43","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,WqSr26
+367752,"14/11/2017 11:42:52","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,w8xrWY
+367753,"14/11/2017 11:43:18","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,en5z7O
+367754,"14/11/2017 11:43:30","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,UMYj4a
+367755,"14/11/2017 11:44:01","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,b8Jm06
+367756,"14/11/2017 11:44:11","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,lo6/Bc
+367757,"14/11/2017 11:44:39","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,44ScMv
+367758,"14/11/2017 11:44:50","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,WFJFy4
+367759,"14/11/2017 11:45:31","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,60ttfB
+367760,"14/11/2017 11:45:40","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Vkx9pX
+367761,"14/11/2017 11:46:06","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,m7vGet
+367762,"14/11/2017 11:46:23","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,t1gjcL
+367763,"14/11/2017 11:46:49","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,9AT3gJ
+367764,"14/11/2017 11:46:57","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,2FSQOQ
+367765,"14/11/2017 11:47:39","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,5Wm88d
+367766,"14/11/2017 11:47:49","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,FNpqMj
+367767,"14/11/2017 11:48:15","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,K5toLi
+367768,"14/11/2017 11:48:28","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ox5aqv
+367769,"14/11/2017 11:48:49","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,JvuWBR
+367770,"14/11/2017 11:48:58","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,XIYmho
+367771,"14/11/2017 11:49:22","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,qxjOiE
+367772,"14/11/2017 11:49:30","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,s2X20L
+367773,"14/11/2017 11:49:53","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,xY/sj2
+367774,"14/11/2017 11:50:02","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,9F035q
+367775,"14/11/2017 11:50:23","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,fwoIIv
+367776,"14/11/2017 11:50:35","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,/ZoVi0
+367777,"14/11/2017 11:50:56","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,/RKbWK
+367778,"14/11/2017 11:51:07","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,kCbcwn
+367779,"14/11/2017 11:51:45","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,BHv/L4
+367780,"14/11/2017 11:51:59","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Zr1d8B
+367781,"14/11/2017 11:52:07","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Mkk93f
+367782,"14/11/2017 11:52:18","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,hL4ZDq
+367783,"14/11/2017 11:52:34","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,m3JIP8
+367784,"14/11/2017 11:52:52","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Vxd/7W
+367785,"14/11/2017 11:53:10","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,9ALUMq
+367786,"14/11/2017 11:53:19","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vNT9s/
+367787,"14/11/2017 11:53:50","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,6QpUsn
+367788,"14/11/2017 11:54:01","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Wvo6QZ
+367789,"14/11/2017 11:54:29","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,6IUgn+
+367790,"14/11/2017 11:54:42","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,cyLCKn
+367791,"14/11/2017 11:55:20","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,T1hp32
+367792,"14/11/2017 11:55:32","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,MEBhBd
+367793,"14/11/2017 11:55:51","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,hbdxWO
+367794,"14/11/2017 11:56:00","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,yXS03d
+367795,"14/11/2017 11:56:28","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,4N+7Yf
+367796,"14/11/2017 11:56:41","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ZIrzS4
+367797,"14/11/2017 11:57:12","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,mTpPup
+367798,"14/11/2017 11:57:24","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,wbDTzM
+367799,"14/11/2017 11:57:46","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ARplSd
+367800,"14/11/2017 11:57:47","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,kBkaCu
+367801,"14/11/2017 11:57:47","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,wF7SL6
+367802,"14/11/2017 11:57:48","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,JCAsya
+367803,"14/11/2017 11:58:08","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,m0fiyw
+367804,"14/11/2017 11:58:16","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,QoOXmw
+367805,"14/11/2017 11:58:50","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,tmDUrI
+367806,"14/11/2017 11:58:54","+0:00","adamb","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,dGgwGY
+367807,"14/11/2017 11:59:01","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,BNaS14
+367808,"14/11/2017 11:59:24","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,iqlP7Z
+367809,"14/11/2017 11:59:30","+0:00","adamb","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,QxofYA
+367810,"14/11/2017 11:59:34","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,3DGt/T
+367811,"14/11/2017 11:59:57","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,4ikx26
+367812,"14/11/2017 12:00:07","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,cq2keS
+367813,"14/11/2017 12:00:55","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,EqwPop
+367814,"14/11/2017 12:01:06","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Dwe+2Z
+367815,"14/11/2017 12:01:29","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,PM4D7c
+367816,"14/11/2017 12:01:44","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,+XSUmj
+367817,"14/11/2017 12:02:01","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,KkzBRP
+367818,"14/11/2017 12:02:11","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,QCVGAH
+367819,"14/11/2017 12:02:35","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,u1k0yK
+367820,"14/11/2017 12:02:46","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,DS3+xB
+367821,"14/11/2017 12:03:05","+0:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,Fa5uND
+367822,"14/11/2017 12:03:05","+0:00","adamb","Alarm","EMERGENCY  On",,5mMyR/
+367823,"14/11/2017 12:03:05","+0:00","adamb","Alarm","COVER OPEN 3  On",,5+UfHC
+367824,"14/11/2017 12:03:05","+0:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,r2Tm3z
+367825,"14/11/2017 12:03:05","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,sx+Yd5
+367826,"14/11/2017 12:03:05","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,PolbkM
+367827,"14/11/2017 12:03:08","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ujQNLF
+367828,"14/11/2017 12:03:19","+0:00","adamb","Alarm","COVER OPEN 3  Off",,faLKl9
+367829,"14/11/2017 12:03:19","+0:00","adamb","Alarm","EMERGENCY  Off",,+N+EKG
+367830,"14/11/2017 12:03:19","+0:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,seWDG8
+367831,"14/11/2017 12:03:20","+0:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,o3QGKP
+367832,"14/11/2017 12:03:20","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,64Ng6r
+367833,"14/11/2017 12:03:20","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,g+sj14
+367834,"14/11/2017 12:03:20","+0:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,dfA2dH
+367835,"14/11/2017 12:03:20","+0:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,vBhe9B
+367836,"14/11/2017 12:03:20","+0:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,lWYJnX
+367837,"14/11/2017 12:03:20","+0:00","adamb","Alarm:","COVER OPEN 3  Acknowledgment",,KV9BeO
+367838,"14/11/2017 12:03:20","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,IaEU+F
+367839,"14/11/2017 12:03:20","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,Pn4EG8
+367840,"14/11/2017 12:03:20","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,NkeFB9
+367841,"14/11/2017 12:03:20","+0:00","adamb","Alarm: 2137","Acknowledgment of alarm 2137 of PLC MCA200+LKD.",,GlutAN
+367842,"14/11/2017 12:03:21","+0:00","adamb","Alarm: 2137","Acknowledgment of alarm 2137 of PLC MCA200+LKD.",,zFcqxf
+367843,"14/11/2017 12:03:25","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ek9I6X
+367844,"14/11/2017 12:04:46","+0:00","adamb","User administration","User logged off.",,Mk1/oE
+367845,"14/11/2017 12:04:46","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,9M8RSa
+367846,"14/11/2017 12:04:46","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,BvsqUf
+367847,"14/11/2017 12:04:54","+0:00",,"Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,JPgKG3
+367848,"14/11/2017 12:08:57","+0:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,CllMsf
+367849,"14/11/2017 12:08:57","+0:00",,"Alarm","EMERGENCY  On",,uVV+Lf
+367850,"14/11/2017 12:08:57","+0:00",,"Alarm","COVER OPEN 3  On",,FDnLvC
+367851,"14/11/2017 12:08:58","+0:00",,"Alarm","ALARM ROTATION MOTOR  On",,eprVuy
+367852,"14/11/2017 12:08:58","+0:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,gzIF1f
+367853,"14/11/2017 12:08:58","+0:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,2atQRG
+367854,"14/11/2017 12:18:02","+0:00",,"Alarm","COVER OPEN 4  On",,ooleW0
+367855,"14/11/2017 12:19:11","+0:00","System","User administration","User 'kevc' logged on with group 'Operator'.",,22gnz/
+367856,"14/11/2017 12:19:34","+0:00","kevc","Alarm","WARNING MISSING LOGIN OPERATION  Off",,D0f8of
+367857,"14/11/2017 12:19:34","+0:00","kevc","Alarm","COVER OPEN 3  Off",,WQMScB
+367858,"14/11/2017 12:19:34","+0:00","kevc","Alarm","COVER OPEN 4  Off",,x2NkBs
+367859,"14/11/2017 12:19:34","+0:00","kevc","Alarm","ALARM INFEED BELT MOTOR  Off",,ZoO96K
+367860,"14/11/2017 12:19:34","+0:00","kevc","Alarm","EMERGENCY  Off",,q2+J3N
+367861,"14/11/2017 12:19:35","+0:00","kevc","Alarm","ALARM ROTATION MOTOR  Off",,+e4fZc
+367862,"14/11/2017 12:19:35","+0:00","kevc","Alarm","ALARM ROTATION MOTOR 2  Off",,gehCTx
+367863,"14/11/2017 12:19:35","+0:00","kevc","Alarm","ALARM ROTATION MOTOR 3  Off",,3IEDYI
+367864,"14/11/2017 12:20:39","+0:00","kevc","Alarm","COVER OPEN 3  On",,NCDg9+
+367865,"14/11/2017 12:20:39","+0:00","kevc","Alarm","ALARM INFEED BELT MOTOR  On",,+V56Vt
+367866,"14/11/2017 12:20:39","+0:00","kevc","Alarm","EMERGENCY  On",,iFKlcz
+367867,"14/11/2017 12:20:39","+0:00","kevc","Alarm","COVER OPEN 4  On",,Herq3x
+367868,"14/11/2017 12:20:40","+0:00","kevc","Alarm","ALARM ROTATION MOTOR  On",,uFT5Sc
+367869,"14/11/2017 12:20:40","+0:00","kevc","Alarm","ALARM ROTATION MOTOR 2  On",,L0yiOP
+367870,"14/11/2017 12:20:40","+0:00","kevc","Alarm","ALARM ROTATION MOTOR 3  On",,j+EmT6
+367871,"14/11/2017 12:22:00","+0:00","kevc","User administration","User logged off.",,ahI/Qn
+367872,"14/11/2017 12:22:00","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,Mi8VXj
+367873,"14/11/2017 12:22:01","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,5Hqe5g
+367874,"14/11/2017 12:26:04","+0:00",,"Alarm","COVER OPEN 1  On",,EIOm3w
+367875,"14/11/2017 13:51:42","+0:00","System","User administration","User 'kevc' logged on with group 'Operator'.",,r23ddq
+367876,"14/11/2017 13:51:48","+0:00","kevc","Recipe","Loading recipe number 4 ( 100ml Production ) on the interface.",,XJ1PmR
+367877,"14/11/2017 13:51:48","+0:00","kevc","Recipe","Data trasfered to PLC",,e78dGh
+367878,"14/11/2017 13:51:51","+0:00","kevc","Warning","PVSI NOT RUNNING   On",,QAn1im
+367879,"14/11/2017 13:51:51","+0:00","kevc","Warning","PVSI NOT RUNNING   Off",,f/o/TQ
+367880,"14/11/2017 13:51:51","+0:00","kevc","Warning","WARNING SAFETY DOORS EXCLUDED  On",,aKRmYz
+367881,"14/11/2017 14:06:59","+0:00","kevc","Alarm","WARNING MISSING LOGIN OPERATION  Off",,KXddW6
+367882,"14/11/2017 14:06:59","+0:00","kevc","Alarm","COVER OPEN 1  Off",,vCKqlV
+367883,"14/11/2017 14:06:59","+0:00","kevc","Alarm","COVER OPEN 3  Off",,ZSptuS
+367884,"14/11/2017 14:06:59","+0:00","kevc","Alarm","COVER OPEN 4  Off",,3Vqo+f
+367885,"14/11/2017 14:06:59","+0:00","kevc","Alarm","EMERGENCY  Off",,SMlyua
+367886,"14/11/2017 14:06:59","+0:00","kevc","Alarm","ALARM INFEED BELT MOTOR  Off",,n1TG2K
+367887,"14/11/2017 14:07:02","+0:00","kevc","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,MWifgv
+367888,"14/11/2017 14:08:35","+0:00","kevc","Alarm","ALARM INFEED BELT MOTOR  On",,dtvzyQ
+367889,"14/11/2017 14:08:35","+0:00","kevc","Alarm","EMERGENCY  On",,d/VMwZ
+367890,"14/11/2017 14:16:16","+0:00","kevc","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,qvEPO5
+367891,"14/11/2017 14:20:04","+0:00","kevc","Alarm","WARNING MISSING LOGIN OPERATION  On",,MOhEHc
+367892,"14/11/2017 14:20:04","+0:00","kevc","Warning","ALARM VACUUM SENSOR  On",,yR/oKh
+367893,"14/11/2017 14:20:04","+0:00","kevc","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,GgAzPD
+367894,"14/11/2017 14:20:04","+0:00","kevc","Alarm","COVER OPEN 1  On",,TkFK87
+367895,"14/11/2017 14:20:04","+0:00","kevc","Alarm","COVER OPEN 2  On",,BK+d1Y
+367896,"14/11/2017 14:20:04","+0:00","kevc","Alarm","COVER OPEN 3  On",,L+vbpm
+367897,"14/11/2017 14:20:04","+0:00","kevc","Alarm","COVER OPEN 4  On",,a1GJ3n
+367898,"14/11/2017 14:20:21","+0:00","System","User administration","User 'rachelb' logged on with group 'Operator'.",,eM4tMu
+367899,"14/11/2017 14:20:28","+0:00","rachelb","User administration","User logged off.",,BQBTkL
+367900,"14/11/2017 14:20:28","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,Svu5RA
+367901,"14/11/2017 14:20:30","+0:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  On",,MRI35T
+367902,"14/11/2017 14:35:18","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  Off",,w26xpm
+367903,"14/11/2017 14:35:18","+0:00",,"Warning","ALARM VACUUM SENSOR  Off",,XlCOxR
+367904,"14/11/2017 14:35:18","+0:00",,"Alarm","COVER OPEN 1  Off",,u1CdQw
+367905,"14/11/2017 14:35:18","+0:00",,"Alarm","COVER OPEN 2  Off",,tWe4vB
+367906,"14/11/2017 14:35:18","+0:00",,"Alarm","COVER OPEN 3  Off",,7gKwax
+367907,"14/11/2017 14:35:18","+0:00",,"Alarm","COVER OPEN 4  Off",,C+t+nu
+367908,"14/11/2017 14:35:18","+0:00",,"Alarm","ALARM HOMING NOT DONE TURRET MOTOR  Off",,p1n7YB
+367909,"14/11/2017 14:35:18","+0:00",,"Alarm","ALARM INFEED BELT MOTOR  Off",,3rTWZc
+367910,"14/11/2017 14:35:18","+0:00",,"Alarm","EMERGENCY  Off",,aQTAz/
+367911,"14/11/2017 14:35:20","+0:00",,"Alarm","ALARM ROTATION MOTOR  Off",,CcXcg6
+367912,"14/11/2017 14:35:20","+0:00",,"Alarm","ALARM ROTATION MOTOR 2  Off",,Lu/4Ts
+367913,"14/11/2017 14:35:20","+0:00",,"Alarm","ALARM ROTATION MOTOR 3  Off",,8sDiiv
+367914,"14/11/2017 14:35:21","+0:00",,"Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,k/HH+2
+367915,"14/11/2017 14:36:53","+0:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,IEpAmn
+367916,"14/11/2017 14:36:53","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,d1gqDH
+367917,"14/11/2017 14:36:53","+0:00",,"Warning","ALARM VACUUM SENSOR  On",,n56aGy
+367918,"14/11/2017 14:36:53","+0:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  Off",,B4qYbi
+367919,"14/11/2017 14:36:53","+0:00",,"Alarm","EMERGENCY  On",,LAO6Uq
+367920,"14/11/2017 14:36:54","+0:00",,"Alarm","ALARM ROTATION MOTOR  On",,vdtB7l
+367921,"14/11/2017 14:36:54","+0:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,goY3b0
+367922,"14/11/2017 14:36:54","+0:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,Rl9voN
+367923,"14/11/2017 14:37:10","+0:00","System","User administration","User 'adaml' logged on with group 'Administrator'.",,O3zrp+
+367924,"14/11/2017 14:37:11","+0:00","adaml","Alarm","WARNING MISSING LOGIN OPERATION  Off",,P0leX8
+367925,"14/11/2017 14:37:11","+0:00","adaml","Warning","ALARM VACUUM SENSOR  Off",,5h+GPG
+367926,"14/11/2017 14:37:11","+0:00","adaml","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  Off",,hxzOZ0
+367927,"14/11/2017 14:37:12","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,+IKq+e
+367928,"14/11/2017 14:37:12","+0:00","adaml","Alarm","EMERGENCY  Off",,oPwsZW
+367929,"14/11/2017 14:37:13","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,Jy8cYA
+367930,"14/11/2017 14:37:13","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,A2lRtp
+367931,"14/11/2017 14:37:13","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,x1n9WF
+367932,"14/11/2017 14:37:15","+0:00","adaml","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,rQQa6B
+367933,"14/11/2017 14:39:12","+0:00","adaml","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  Off",,8KGpW+
+367934,"14/11/2017 14:39:31","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,vVWqZR
+367935,"14/11/2017 14:39:31","+0:00","adaml","Alarm","EMERGENCY  On",,RW6fPB
+367936,"14/11/2017 14:39:31","+0:00","adaml","Alarm","COVER OPEN 4  On",,8ELySZ
+367937,"14/11/2017 14:39:31","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,u79BIt
+367938,"14/11/2017 14:39:31","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,AnKCVt
+367939,"14/11/2017 14:39:31","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,3BwO5B
+367940,"14/11/2017 14:39:32","+0:00","adaml","Alarm","COVER OPEN 3  On",,qvJV/s
+367941,"14/11/2017 14:39:39","+0:00","adaml","Alarm","COVER OPEN 1  On",,ROCVu8
+367942,"14/11/2017 14:39:40","+0:00","adaml","Alarm","COVER OPEN 2  On",,KwTFeT
+367943,"14/11/2017 14:40:09","+0:00","adaml","Alarm","COVER OPEN 1  Off",,1ERp7/
+367944,"14/11/2017 14:40:09","+0:00","adaml","Alarm","COVER OPEN 2  Off",,QDnXBt
+367945,"14/11/2017 14:40:09","+0:00","adaml","Alarm","COVER OPEN 3  Off",,gVMVXg
+367946,"14/11/2017 14:40:09","+0:00","adaml","Alarm","COVER OPEN 4  Off",,b6ilWA
+367947,"14/11/2017 14:40:09","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,tpD3sE
+367948,"14/11/2017 14:40:09","+0:00","adaml","Alarm","EMERGENCY  Off",,MaBpl3
+367949,"14/11/2017 14:40:10","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,RDO45o
+367950,"14/11/2017 14:40:10","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,xILbP9
+367951,"14/11/2017 14:40:10","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,+JP+/M
+367952,"14/11/2017 14:40:26","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,R8Y58k
+367953,"14/11/2017 14:40:26","+0:00","adaml","Alarm","EMERGENCY  On",,ZTGN1B
+367954,"14/11/2017 14:40:26","+0:00","adaml","Alarm","COVER OPEN 1  On",,EwB+Rz
+367955,"14/11/2017 14:40:26","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,i4w9Hq
+367956,"14/11/2017 14:40:26","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,UjSdap
+367957,"14/11/2017 14:40:26","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,a6esMu
+367958,"14/11/2017 14:40:26","+0:00","adaml","Alarm","COVER OPEN 2  On",,LNSyT1
+367959,"14/11/2017 14:41:07","+0:00","adaml","Alarm","COVER OPEN 1  Off",,FMY5yo
+367960,"14/11/2017 14:41:07","+0:00","adaml","Alarm","COVER OPEN 2  Off",,W4Yqv6
+367961,"14/11/2017 14:41:08","+0:00","adaml","Alarm","EMERGENCY  Off",,Rb1heS
+367962,"14/11/2017 14:41:08","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,nka19l
+367963,"14/11/2017 14:41:09","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,jET9+q
+367964,"14/11/2017 14:41:09","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,kHR0k4
+367965,"14/11/2017 14:41:09","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,zW9JUD
+367966,"14/11/2017 14:41:33","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,op+Anm
+367967,"14/11/2017 14:41:33","+0:00","adaml","Alarm","EMERGENCY  On",,TV7ntX
+367968,"14/11/2017 14:41:33","+0:00","adaml","Alarm","COVER OPEN 1  On",,gltpTd
+367969,"14/11/2017 14:41:33","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,W5fmN8
+367970,"14/11/2017 14:41:33","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,cyB6bZ
+367971,"14/11/2017 14:41:33","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,fdIBZY
+367972,"14/11/2017 14:41:48","+0:00","adaml","Alarm","COVER OPEN 2  On",,weJavI
+367973,"14/11/2017 14:42:36","+0:00","adaml","Alarm","COVER OPEN 1  Off",,XxaLDE
+367974,"14/11/2017 14:42:36","+0:00","adaml","Alarm","COVER OPEN 2  Off",,HgODtG
+367975,"14/11/2017 14:42:36","+0:00","adaml","Alarm","EMERGENCY  Off",,0iVEQF
+367976,"14/11/2017 14:42:36","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,sH3T0n
+367977,"14/11/2017 14:42:37","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,3B0szF
+367978,"14/11/2017 14:42:37","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,SA00d/
+367979,"14/11/2017 14:42:37","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,mw9wE9
+367980,"14/11/2017 14:43:00","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,Frj8vx
+367981,"14/11/2017 14:43:00","+0:00","adaml","Alarm","EMERGENCY  On",,rewg3o
+367982,"14/11/2017 14:43:00","+0:00","adaml","Alarm","COVER OPEN 1  On",,3lRmq+
+367983,"14/11/2017 14:43:00","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,h6XWtQ
+367984,"14/11/2017 14:43:00","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,EUM2zQ
+367985,"14/11/2017 14:43:00","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,u5KZGZ
+367986,"14/11/2017 14:43:03","+0:00","adaml","Alarm","COVER OPEN 2  On",,5pl5KR
+367987,"14/11/2017 14:43:59","+0:00","adaml","Alarm","COVER OPEN 2  Off",,Ip5vIi
+367988,"14/11/2017 14:44:01","+0:00","adaml","Alarm","COVER OPEN 1  Off",,gkjat9
+367989,"14/11/2017 14:44:02","+0:00","adaml","Alarm","EMERGENCY  Off",,OadjlD
+367990,"14/11/2017 14:44:02","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,gKSBYh
+367991,"14/11/2017 14:44:03","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,1IieYM
+367992,"14/11/2017 14:44:03","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,BfQE8g
+367993,"14/11/2017 14:44:03","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,YQ5CGK
+367994,"14/11/2017 14:45:21","+0:00","adaml","Alarm","COVER OPEN 4  On",,P883ee
+367995,"14/11/2017 14:45:21","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,s2R42x
+367996,"14/11/2017 14:45:21","+0:00","adaml","Alarm","EMERGENCY  On",,JCk9RE
+367997,"14/11/2017 14:45:21","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,DgdaMJ
+367998,"14/11/2017 14:45:21","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,LJoSgw
+367999,"14/11/2017 14:45:21","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,DzfNJV
+368000,"14/11/2017 14:45:30","+0:00","adaml","Alarm","COVER OPEN 1  On",,SCGlE+
+368001,"14/11/2017 14:45:30","+0:00","adaml","Alarm","COVER OPEN 3  On",,ARnqHY
+368002,"14/11/2017 14:45:31","+0:00","adaml","Alarm","COVER OPEN 2  On",,n6UwCe
+368003,"14/11/2017 14:46:18","+0:00","adaml","Alarm","COVER OPEN 1  Off",,m5sbii
+368004,"14/11/2017 14:46:18","+0:00","adaml","Alarm","COVER OPEN 2  Off",,Sgh5Is
+368005,"14/11/2017 14:46:18","+0:00","adaml","Alarm","COVER OPEN 4  Off",,P33bDA
+368006,"14/11/2017 14:46:18","+0:00","adaml","Alarm","COVER OPEN 3  Off",,jUOnr4
+368007,"14/11/2017 14:46:19","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,tboAxR
+368008,"14/11/2017 14:46:19","+0:00","adaml","Alarm","EMERGENCY  Off",,GDUpCv
+368009,"14/11/2017 14:46:20","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,vL4eoF
+368010,"14/11/2017 14:46:20","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,Lt4QOS
+368011,"14/11/2017 14:46:20","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,udnRvt
+368012,"14/11/2017 14:46:36","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,eHNqwG
+368013,"14/11/2017 14:46:36","+0:00","adaml","Alarm","EMERGENCY  On",,1OSt3K
+368014,"14/11/2017 14:46:36","+0:00","adaml","Alarm","COVER OPEN 3  On",,tEjuv3
+368015,"14/11/2017 14:46:37","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,GRu1hU
+368016,"14/11/2017 14:46:37","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,A0iMiA
+368017,"14/11/2017 14:46:37","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,rBN/re
+368018,"14/11/2017 14:46:38","+0:00","adaml","Alarm","COVER OPEN 4  On",,KvpCyo
+368019,"14/11/2017 14:47:54","+0:00","adaml","Warning","WARNING SAFETY DOORS EXCLUDED  On",,rqy0ic
+368020,"14/11/2017 14:48:00","+0:00","adaml","Alarm","ALARM MISSING COMPRESSED AIR  On",,o8GKhv
+368021,"14/11/2017 14:48:05","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,xdfep+
+368022,"14/11/2017 14:48:05","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,/Zf+Gj
+368023,"14/11/2017 14:48:05","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,t0kamh
+368024,"14/11/2017 14:48:05","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,UmN3UR
+368025,"14/11/2017 14:48:05","+0:00","adaml","Alarm","EMERGENCY  Off",,fW6+Gs
+368026,"14/11/2017 14:48:05","+0:00","adaml","Alarm","COVER OPEN 3  Off",,yM4o4t
+368027,"14/11/2017 14:48:05","+0:00","adaml","Alarm","COVER OPEN 4  Off",,hk9Hst
+368028,"14/11/2017 15:02:37","+0:00","adaml","Alarm","ALARM MISSING COMPRESSED AIR  Off",,YODBUv
+368029,"14/11/2017 15:02:40","+0:00","adaml","Alarm","WARNING MISSING LOGIN OPERATION  On",,30Dqv/
+368030,"14/11/2017 15:02:40","+0:00","adaml","Warning","ALARM VACUUM SENSOR  On",,ZFKDku
+368031,"14/11/2017 15:02:40","+0:00","adaml","Warning","WARNING SAFETY DOORS EXCLUDED  Off",,zL6zqP
+368032,"14/11/2017 15:02:41","+0:00","adaml","Warning","ALARM VACUUM SENSOR  Off",,xzGZQU
+368033,"14/11/2017 15:02:50","+0:00","System","User administration","User 'adaml' logged on with group 'Administrator'.",,9xRkl0
+368034,"14/11/2017 15:02:51","+0:00","adaml","Alarm","WARNING MISSING LOGIN OPERATION  Off",,1Ve/mM
+368035,"14/11/2017 15:03:53","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,FgvWeZ
+368036,"14/11/2017 15:03:53","+0:00","adaml","Alarm","EMERGENCY  On",,Ix/RNG
+368037,"14/11/2017 15:03:53","+0:00","adaml","Alarm","COVER OPEN 1  On",,T9Mn2B
+368038,"14/11/2017 15:03:54","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,iFpbF2
+368039,"14/11/2017 15:03:54","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,2hxSw5
+368040,"14/11/2017 15:03:54","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,iTE20I
+368041,"14/11/2017 15:03:56","+0:00","adaml","Alarm","COVER OPEN 2  On",,lhJ1hC
+368042,"14/11/2017 15:05:07","+0:00","adaml","Alarm","COVER OPEN 1  Off",,/5POFh
+368043,"14/11/2017 15:05:07","+0:00","adaml","Alarm","COVER OPEN 2  Off",,ymEgNS
+368044,"14/11/2017 15:05:08","+0:00","adaml","Alarm","EMERGENCY  Off",,rApzmp
+368045,"14/11/2017 15:05:08","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,LSsx3V
+368046,"14/11/2017 15:05:09","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,N7g3CP
+368047,"14/11/2017 15:05:09","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,0UASYP
+368048,"14/11/2017 15:05:09","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,Tjosty
+368049,"14/11/2017 15:06:19","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,OWI+9R
+368050,"14/11/2017 15:06:19","+0:00","adaml","Alarm","EMERGENCY  On",,vmV9v6
+368051,"14/11/2017 15:06:19","+0:00","adaml","Alarm","COVER OPEN 1  On",,KE3xH6
+368052,"14/11/2017 15:06:19","+0:00","adaml","Alarm","COVER OPEN 2  On",,tfs4KE
+368053,"14/11/2017 15:06:19","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,Y1bq2T
+368054,"14/11/2017 15:06:19","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,Ar8fdG
+368055,"14/11/2017 15:06:19","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,bUZzjC
+368056,"14/11/2017 15:07:13","+0:00","adaml","Alarm","COVER OPEN 1  Off",,T+4d/l
+368057,"14/11/2017 15:07:13","+0:00","adaml","Alarm","COVER OPEN 2  Off",,oo+gNA
+368058,"14/11/2017 15:07:13","+0:00","adaml","Alarm","EMERGENCY  Off",,nNgDVS
+368059,"14/11/2017 15:07:13","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,IFpbNC
+368060,"14/11/2017 15:07:14","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,x39ww/
+368061,"14/11/2017 15:07:14","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,L6xBeV
+368062,"14/11/2017 15:07:14","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,7Frist
+368063,"14/11/2017 15:07:47","+0:00","adaml","Alarm","COVER OPEN 1  On",,kqHDyb
+368064,"14/11/2017 15:07:47","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,2lzNJM
+368065,"14/11/2017 15:07:47","+0:00","adaml","Alarm","EMERGENCY  On",,lmOTfR
+368066,"14/11/2017 15:07:47","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,Q/E1Vt
+368067,"14/11/2017 15:07:47","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,Pg8ZzD
+368068,"14/11/2017 15:07:47","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,PqfJNL
+368069,"14/11/2017 15:07:59","+0:00","adaml","Alarm","COVER OPEN 1  Off",,32XYzg
+368070,"14/11/2017 15:07:59","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,IVJhex
+368071,"14/11/2017 15:07:59","+0:00","adaml","Alarm","EMERGENCY  Off",,o1AnSC
+368072,"14/11/2017 15:08:00","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,8IzEvu
+368073,"14/11/2017 15:08:00","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,gYFZoB
+368074,"14/11/2017 15:08:00","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,rR4hpw
+368075,"14/11/2017 15:09:13","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,GML9/g
+368076,"14/11/2017 15:09:13","+0:00","adaml","Alarm","EMERGENCY  On",,Qd57PU
+368077,"14/11/2017 15:09:13","+0:00","adaml","Alarm","COVER OPEN 1  On",,epd+bU
+368078,"14/11/2017 15:09:13","+0:00","adaml","Alarm","COVER OPEN 2  On",,9mefGL
+368079,"14/11/2017 15:09:14","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,GnTwpi
+368080,"14/11/2017 15:09:14","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,eFrrVa
+368081,"14/11/2017 15:09:14","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,DTWGvo
+368082,"14/11/2017 15:14:41","+0:00","adaml","Alarm","COVER OPEN 4  On",,kHD4uS
+368083,"14/11/2017 15:18:23","+0:00","adaml","Alarm","COVER OPEN 3  On",,ZwMbiK
+368084,"14/11/2017 15:25:31","+0:00","adaml","Alarm","COVER OPEN 1  Off",,nj0a/C
+368085,"14/11/2017 15:25:31","+0:00","adaml","Alarm","COVER OPEN 2  Off",,AwfPZD
+368086,"14/11/2017 15:25:31","+0:00","adaml","Alarm","COVER OPEN 3  Off",,+gTYqd
+368087,"14/11/2017 15:25:31","+0:00","adaml","Alarm","COVER OPEN 4  Off",,wYJGzi
+368088,"14/11/2017 15:25:31","+0:00","adaml","Alarm","EMERGENCY  Off",,MrbPrz
+368089,"14/11/2017 15:25:31","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,ordHfU
+368090,"14/11/2017 15:25:32","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,89Avjl
+368091,"14/11/2017 15:25:32","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,JaqF6X
+368092,"14/11/2017 15:25:32","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,WW108K
+368093,"14/11/2017 15:26:11","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,+M27/c
+368094,"14/11/2017 15:26:11","+0:00","adaml","Alarm","EMERGENCY  On",,/SFVF2
+368095,"14/11/2017 15:26:11","+0:00","adaml","Alarm","COVER OPEN 3  On",,5lKZgJ
+368096,"14/11/2017 15:26:11","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,k4Bjfm
+368097,"14/11/2017 15:26:11","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,ZeFvoE
+368098,"14/11/2017 15:26:11","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,oeCiEc
+368099,"14/11/2017 15:26:12","+0:00","adaml","Alarm","COVER OPEN 4  On",,XBuSLF
+368100,"14/11/2017 15:26:38","+0:00","adaml","Alarm","COVER OPEN 3  Off",,QZM8ZT
+368101,"14/11/2017 15:26:38","+0:00","adaml","Alarm","COVER OPEN 4  Off",,33Mrt3
+368102,"14/11/2017 15:26:38","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,jWrs7r
+368103,"14/11/2017 15:26:38","+0:00","adaml","Alarm","EMERGENCY  Off",,h8/NrG
+368104,"14/11/2017 15:26:39","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,9FiGvC
+368105,"14/11/2017 15:26:39","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,DLjljO
+368106,"14/11/2017 15:26:39","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,eJhksm
+368107,"14/11/2017 15:27:18","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,i48aK2
+368108,"14/11/2017 15:27:18","+0:00","adaml","Alarm","EMERGENCY  On",,TDMkdc
+368109,"14/11/2017 15:27:18","+0:00","adaml","Alarm","COVER OPEN 3  On",,QBUNz9
+368110,"14/11/2017 15:27:18","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,A1Qc1g
+368111,"14/11/2017 15:27:18","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,FUGSFu
+368112,"14/11/2017 15:27:18","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,qvV1gK
+368113,"14/11/2017 15:27:19","+0:00","adaml","Alarm","COVER OPEN 4  On",,qKHX9O
+368114,"14/11/2017 15:30:15","+0:00","adaml","Alarm","COVER OPEN 3  Off",,cTUWx3
+368115,"14/11/2017 15:30:15","+0:00","adaml","Alarm","COVER OPEN 4  Off",,Lh89yS
+368116,"14/11/2017 15:30:15","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,rYw9xw
+368117,"14/11/2017 15:30:15","+0:00","adaml","Alarm","EMERGENCY  Off",,n1h+sY
+368118,"14/11/2017 15:30:16","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,ANtk2s
+368119,"14/11/2017 15:30:16","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,TXUG6Z
+368120,"14/11/2017 15:30:16","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,FxWmTH
+368121,"14/11/2017 15:33:02","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,DfNh2x
+368122,"14/11/2017 15:33:02","+0:00","adaml","Alarm","EMERGENCY  On",,Jeh1s7
+368123,"14/11/2017 15:33:02","+0:00","adaml","Alarm","COVER OPEN 3  On",,zaa4ck
+368124,"14/11/2017 15:33:03","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,g+CRYZ
+368125,"14/11/2017 15:33:03","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,23t7U7
+368126,"14/11/2017 15:33:03","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,W7vXYk
+368127,"14/11/2017 15:33:04","+0:00","adaml","Alarm","COVER OPEN 4  On",,8w315/
+368128,"14/11/2017 15:33:25","+0:00","adaml","Alarm","COVER OPEN 3  Off",,sktyP3
+368129,"14/11/2017 15:33:25","+0:00","adaml","Alarm","COVER OPEN 4  Off",,QBV6z/
+368130,"14/11/2017 15:33:25","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,LyvgQa
+368131,"14/11/2017 15:33:25","+0:00","adaml","Alarm","EMERGENCY  Off",,23CPLi
+368132,"14/11/2017 15:33:26","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,dq7hWD
+368133,"14/11/2017 15:33:26","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,qb4CQD
+368134,"14/11/2017 15:33:26","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,1J8DCG
+368135,"14/11/2017 15:34:15","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,k98wzf
+368136,"14/11/2017 15:34:15","+0:00","adaml","Alarm","EMERGENCY  On",,4tnZpU
+368137,"14/11/2017 15:34:15","+0:00","adaml","Alarm","COVER OPEN 3  On",,Q9iQx8
+368138,"14/11/2017 15:34:15","+0:00","adaml","Alarm","COVER OPEN 4  On",,uPpqXZ
+368139,"14/11/2017 15:34:15","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,bYiJLz
+368140,"14/11/2017 15:34:15","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,bJsPQR
+368141,"14/11/2017 15:34:15","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,+JQvB6
+368142,"14/11/2017 15:34:33","+0:00","adaml","Alarm","COVER OPEN 3  Off",,3YrU4d
+368143,"14/11/2017 15:34:33","+0:00","adaml","Alarm","COVER OPEN 4  Off",,pbglKp
+368144,"14/11/2017 15:34:33","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,Fop1y0
+368145,"14/11/2017 15:34:33","+0:00","adaml","Alarm","EMERGENCY  Off",,dZ+PX4
+368146,"14/11/2017 15:34:34","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,FHh08p
+368147,"14/11/2017 15:34:34","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,rpKyP3
+368148,"14/11/2017 15:34:34","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,PSyHuy
+368149,"14/11/2017 15:35:24","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,w0q8r8
+368150,"14/11/2017 15:35:24","+0:00","adaml","Alarm","EMERGENCY  On",,/YOx1J
+368151,"14/11/2017 15:35:24","+0:00","adaml","Alarm","COVER OPEN 4  On",,CNtnFh
+368152,"14/11/2017 15:35:24","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,c+1qYT
+368153,"14/11/2017 15:35:24","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,qet1rN
+368154,"14/11/2017 15:35:24","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,FBmSIS
+368155,"14/11/2017 15:35:25","+0:00","adaml","Alarm","COVER OPEN 3  On",,jaz9N6
+368156,"14/11/2017 15:35:47","+0:00","adaml","Alarm","COVER OPEN 3  Off",,cwCsJF
+368157,"14/11/2017 15:35:47","+0:00","adaml","Alarm","COVER OPEN 4  Off",,oxPlMp
+368158,"14/11/2017 15:35:47","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,niBZWk
+368159,"14/11/2017 15:35:47","+0:00","adaml","Alarm","EMERGENCY  Off",,Jwdmr6
+368160,"14/11/2017 15:35:48","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,wXqMdT
+368161,"14/11/2017 15:35:48","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,Pk03jI
+368162,"14/11/2017 15:35:48","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,PoLt19
+368163,"14/11/2017 15:36:41","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,Knp8VM
+368164,"14/11/2017 15:36:41","+0:00","adaml","Alarm","EMERGENCY  On",,W/gMsv
+368165,"14/11/2017 15:36:41","+0:00","adaml","Alarm","COVER OPEN 3  On",,Jf35G8
+368166,"14/11/2017 15:36:41","+0:00","adaml","Alarm","COVER OPEN 4  On",,2HNDLO
+368167,"14/11/2017 15:36:41","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,nla+ym
+368168,"14/11/2017 15:36:41","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,Mjz5+Y
+368169,"14/11/2017 15:36:41","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,YSzS3/
+368170,"14/11/2017 15:37:07","+0:00","adaml","Alarm","COVER OPEN 3  Off",,ltrxHz
+368171,"14/11/2017 15:37:07","+0:00","adaml","Alarm","COVER OPEN 4  Off",,q9IpZf
+368172,"14/11/2017 15:37:07","+0:00","adaml","Alarm","EMERGENCY  Off",,LN7VhV
+368173,"14/11/2017 15:37:07","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,jR69Ix
+368174,"14/11/2017 15:37:08","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,1+lElb
+368175,"14/11/2017 15:37:08","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,b3lsBo
+368176,"14/11/2017 15:37:08","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,NfkUoX
+368177,"14/11/2017 15:37:51","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,Jxb2eJ
+368178,"14/11/2017 15:37:51","+0:00","adaml","Alarm","EMERGENCY  On",,D/laRB
+368179,"14/11/2017 15:37:51","+0:00","adaml","Alarm","COVER OPEN 3  On",,kZ2wJe
+368180,"14/11/2017 15:37:51","+0:00","adaml","Alarm","COVER OPEN 4  On",,l+5RvA
+368181,"14/11/2017 15:37:51","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,Ldlfgg
+368182,"14/11/2017 15:37:51","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,p5nCad
+368183,"14/11/2017 15:37:51","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,ShGuRu
+368184,"14/11/2017 15:38:16","+0:00","adaml","Alarm","COVER OPEN 3  Off",,hf8+Tj
+368185,"14/11/2017 15:38:16","+0:00","adaml","Alarm","COVER OPEN 4  Off",,Cv5JsA
+368186,"14/11/2017 15:38:17","+0:00","adaml","Alarm","EMERGENCY  Off",,IsWAbj
+368187,"14/11/2017 15:38:17","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,PyhqmG
+368188,"14/11/2017 15:38:18","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,WnDGWI
+368189,"14/11/2017 15:38:18","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,z/VCBd
+368190,"14/11/2017 15:38:18","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,un/n0f
+368191,"14/11/2017 15:38:59","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,BxGrx+
+368192,"14/11/2017 15:38:59","+0:00","adaml","Alarm","EMERGENCY  On",,BY3l+/
+368193,"14/11/2017 15:38:59","+0:00","adaml","Alarm","COVER OPEN 3  On",,558PaU
+368194,"14/11/2017 15:38:59","+0:00","adaml","Alarm","COVER OPEN 4  On",,ebz26f
+368195,"14/11/2017 15:38:59","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,w7ERgM
+368196,"14/11/2017 15:38:59","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,ksoyXB
+368197,"14/11/2017 15:38:59","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,xr+dWF
+368198,"14/11/2017 15:39:21","+0:00","adaml","Alarm","COVER OPEN 3  Off",,wZaE9J
+368199,"14/11/2017 15:39:21","+0:00","adaml","Alarm","COVER OPEN 4  Off",,JHXTbG
+368200,"14/11/2017 15:39:22","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,FIq6ou
+368201,"14/11/2017 15:39:22","+0:00","adaml","Alarm","EMERGENCY  Off",,TXS6cy
+368202,"14/11/2017 15:39:23","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,TcKbPB
+368203,"14/11/2017 15:39:23","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,rXCgAu
+368204,"14/11/2017 15:39:23","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,KXuB3n
+368205,"14/11/2017 15:39:58","+0:00","adaml","Alarm","COVER OPEN 4  On",,gbb/AW
+368206,"14/11/2017 15:39:58","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,gtgBcx
+368207,"14/11/2017 15:39:58","+0:00","adaml","Alarm","EMERGENCY  On",,qDtGJg
+368208,"14/11/2017 15:39:58","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,3RvMR1
+368209,"14/11/2017 15:39:58","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,ffUf+H
+368210,"14/11/2017 15:39:58","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,hZ1/wI
+368211,"14/11/2017 15:39:58","+0:00","adaml","Alarm","COVER OPEN 3  On",,lUz6fU
+368212,"14/11/2017 15:40:20","+0:00","adaml","Alarm","COVER OPEN 3  Off",,/I/bXq
+368213,"14/11/2017 15:40:20","+0:00","adaml","Alarm","COVER OPEN 4  Off",,m9oiHC
+368214,"14/11/2017 15:40:21","+0:00","adaml","Alarm","EMERGENCY  Off",,h8FQ3H
+368215,"14/11/2017 15:40:21","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,uz3HRd
+368216,"14/11/2017 15:40:22","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,cIuuzH
+368217,"14/11/2017 15:40:22","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,SflXwl
+368218,"14/11/2017 15:40:22","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,exwIcI
+368219,"14/11/2017 15:41:00","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  On",,7bRYzq
+368220,"14/11/2017 15:41:00","+0:00","adaml","Alarm","EMERGENCY  On",,dnUinq
+368221,"14/11/2017 15:41:00","+0:00","adaml","Alarm","COVER OPEN 3  On",,Sa8Q+Y
+368222,"14/11/2017 15:41:00","+0:00","adaml","Alarm","COVER OPEN 4  On",,B0GtL1
+368223,"14/11/2017 15:41:00","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  On",,R/VglK
+368224,"14/11/2017 15:41:00","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  On",,kPIaY9
+368225,"14/11/2017 15:41:00","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  On",,gomKfV
+368226,"14/11/2017 15:43:57","+0:00","adaml","User administration","User logged off.",,G3TNTR
+368227,"14/11/2017 15:43:57","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,UNO4aK
+368228,"14/11/2017 15:43:57","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,RHO9+h
+368229,"14/11/2017 15:44:15","+0:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,KPtsG6
+368230,"14/11/2017 15:44:15","+0:00",,"Warning","ALARM VACUUM SENSOR  On",,8dGjOa
+368231,"14/11/2017 15:44:15","+0:00",,"Warning","WARNING UPS  On",,IMbb2l
+368232,"14/11/2017 15:44:18","+0:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,8u6XdF
+368233,"14/11/2017 15:44:18","+0:00",,"Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,MgC1G1
+368234,"14/11/2017 15:44:18","+0:00",,"Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,KPEr0D
+368235,"16/11/2017 08:12:50","+0:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,7dQesU
+0,"16/11/2017 08:12:50","+0:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,oK5ieM
+368236,"16/11/2017 08:12:50","+0:00","System","Application","Change to operating mode 'online'.",,W3r5FE
+368237,"16/11/2017 08:12:50","+0:00","System","User administration","Password list imported successfully.",,dVOTW/
+0,"16/11/2017 08:12:51","+0:00","System","Logs","Log files closed.",,M9/Pdv
+"$RT_COUNT$",661,kk14ge,,,,,ZnBoor

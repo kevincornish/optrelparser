@@ -1,0 +1,925 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"09/02/2018 08:52:28","+0:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,mhQI2N
+398664,"09/02/2018 08:52:28","+0:00","System","Logs","Exporting a log.",,vZQrKy
+398665,"09/02/2018 08:52:40","+0:00",,"Recipe","Loading recipe number 3 ( 50ml Production ) on the interface.",,Y5HUxK
+398666,"09/02/2018 08:52:42","+0:00",,"Recipe","Data trasfered to PLC",,ALmd2L
+398667,"09/02/2018 08:52:42","+0:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,odyZ47
+398668,"09/02/2018 08:52:42","+0:00",,"Alarm","ALARM ROTATION MOTOR  On",,CUdK9g
+398669,"09/02/2018 08:52:42","+0:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,GEtkTH
+398670,"09/02/2018 08:52:42","+0:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,BDoDOc
+398671,"09/02/2018 08:52:42","+0:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,EOid3h
+398672,"09/02/2018 08:52:42","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,K7YSxT
+398673,"09/02/2018 08:52:42","+0:00",,"Warning","ALARM VACUUM SENSOR  On",,71gsx2
+398674,"09/02/2018 08:52:42","+0:00",,"Warning","PVSI NOT READY  On",,VIWvx/
+398675,"09/02/2018 08:52:42","+0:00",,"Warning","PVSI IN MANUAL MODE  On",,Wn0rp8
+398676,"09/02/2018 08:52:42","+0:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,bnuVxQ
+398677,"09/02/2018 08:52:42","+0:00",,"Warning","PVSI NOT RUNNING   On",,wHXHBw
+398678,"09/02/2018 08:52:42","+0:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,5p1Y2/
+398679,"09/02/2018 08:52:43","+0:00",,"Alarm","EMERGENCY  On",,T6Vd2W
+398680,"09/02/2018 08:52:43","+0:00",,"Alarm","COVER OPEN 1  On",,zv8c+M
+398681,"09/02/2018 08:52:43","+0:00",,"Alarm","COVER OPEN 2  On",,RzqEkD
+398682,"09/02/2018 08:52:43","+0:00",,"Alarm","COVER OPEN 3  On",,YAEUQY
+398683,"09/02/2018 08:52:43","+0:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,18kPVs
+398684,"09/02/2018 08:52:43","+0:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,mI+wWn
+398685,"09/02/2018 08:52:45","+0:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,nRUXnl
+398686,"09/02/2018 09:08:49","+0:00","System","User administration","User 'barbm' logged on with group 'Operator'.",,wW40uC
+398687,"09/02/2018 09:08:54","+0:00","barbm","Alarm","COVER OPEN 4  On",,LfaDMa
+398688,"09/02/2018 09:09:03","+0:00","barbm","Warning","PVSI NOT RUNNING   Off",,TOpHl8
+398689,"09/02/2018 09:10:02","+0:00","barbm","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,a1fhdf
+398690,"09/02/2018 09:10:02","+0:00","barbm","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,BbM26L
+398691,"09/02/2018 09:10:02","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,rUFTGk
+398692,"09/02/2018 09:10:02","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,61HKBt
+398693,"09/02/2018 09:10:02","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,WmToCJ
+398694,"09/02/2018 09:10:02","+0:00","barbm","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,M3YByu
+398695,"09/02/2018 09:10:02","+0:00","barbm","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,qEK8jN
+398696,"09/02/2018 09:10:02","+0:00","barbm","Alarm:","EMERGENCY  Acknowledgment",,04gILp
+398697,"09/02/2018 09:10:02","+0:00","barbm","Alarm:","COVER OPEN 1  Acknowledgment",,17Fg6/
+398698,"09/02/2018 09:10:02","+0:00","barbm","Alarm:","COVER OPEN 2  Acknowledgment",,YsTQ7J
+398699,"09/02/2018 09:10:02","+0:00","barbm","Alarm:","COVER OPEN 3  Acknowledgment",,V3vdtc
+398700,"09/02/2018 09:10:02","+0:00","barbm","Alarm:","ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment",,zhylMD
+398701,"09/02/2018 09:10:02","+0:00","barbm","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,wL0cWs
+398702,"09/02/2018 09:10:02","+0:00","barbm","Alarm:","COVER OPEN 4  Acknowledgment",,QT4ZBQ
+398703,"09/02/2018 09:10:02","+0:00","barbm","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,NKTDMc
+398704,"09/02/2018 09:10:02","+0:00","barbm","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,sjhmXX
+398705,"09/02/2018 09:10:02","+0:00","barbm","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,UrF5Sh
+398706,"09/02/2018 09:10:03","+0:00","barbm","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,c3prH1
+398707,"09/02/2018 09:10:03","+0:00","barbm","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,bFIdtg
+398708,"09/02/2018 09:10:03","+0:00","barbm","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,cFI/9l
+398709,"09/02/2018 09:10:04","+0:00","barbm","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,7l5/eL
+398710,"09/02/2018 09:10:04","+0:00","barbm","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,zI6h9M
+398711,"09/02/2018 09:13:40","+0:00","barbm","Alarm","WARNING MISSING LOGIN OPERATION  Off",,P2Rs5S
+398712,"09/02/2018 09:13:40","+0:00","barbm","Warning","ALARM VACUUM SENSOR  Off",,hXtEw1
+398713,"09/02/2018 09:13:40","+0:00","barbm","Warning","PVSI NOT READY  Off",,Yt7t40
+398714,"09/02/2018 09:13:40","+0:00","barbm","Warning","PVSI IN MANUAL MODE  Off",,7bUsth
+398715,"09/02/2018 09:13:40","+0:00","barbm","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,tEvR3G
+398716,"09/02/2018 09:13:40","+0:00","barbm","Alarm","COVER OPEN 1  Off",,a1a3fT
+398717,"09/02/2018 09:13:40","+0:00","barbm","Alarm","COVER OPEN 2  Off",,manfli
+398718,"09/02/2018 09:13:40","+0:00","barbm","Alarm","COVER OPEN 3  Off",,qVyW1w
+398719,"09/02/2018 09:13:40","+0:00","barbm","Alarm","COVER OPEN 4  Off",,GPqFi2
+398720,"09/02/2018 09:13:40","+0:00","barbm","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  Off",,PmFvL8
+398721,"09/02/2018 09:13:40","+0:00","barbm","Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,jjykrd
+398722,"09/02/2018 09:13:59","+0:00","barbm","Alarm","COVER OPEN 4  On",,AbK7v1
+398723,"09/02/2018 09:14:03","+0:00","barbm","Alarm","COVER OPEN 4  Off",,EF4MWj
+398724,"09/02/2018 09:14:13","+0:00","barbm","Alarm","EMERGENCY  Off",,IkVTHL
+398725,"09/02/2018 09:14:14","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  Off",,qyMw8a
+398726,"09/02/2018 09:14:15","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  Off",,ZX6DLM
+398727,"09/02/2018 09:14:15","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  Off",,q5CZX6
+398728,"09/02/2018 09:14:15","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  Off",,EidPjk
+398729,"09/02/2018 09:15:30","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  On",,zkNQd9
+398730,"09/02/2018 09:15:30","+0:00","barbm","Alarm","EMERGENCY  On",,+hsuyH
+398731,"09/02/2018 09:15:30","+0:00","barbm","Alarm","COVER OPEN 3  On",,7BxVyB
+398732,"09/02/2018 09:15:30","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  On",,DvDxYX
+398733,"09/02/2018 09:15:30","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  On",,DJCC7U
+398734,"09/02/2018 09:15:30","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  On",,lbI5c/
+398735,"09/02/2018 09:28:28","+0:00","barbm","Alarm","COVER OPEN 3  Off",,hKhcqQ
+398736,"09/02/2018 09:28:29","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  Off",,Bm/3oV
+398737,"09/02/2018 09:28:29","+0:00","barbm","Alarm","EMERGENCY  Off",,Cl0K//
+398738,"09/02/2018 09:28:30","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  Off",,lSDrgF
+398739,"09/02/2018 09:28:30","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  Off",,zth6O6
+398740,"09/02/2018 09:28:30","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  Off",,9M2+mC
+398741,"09/02/2018 09:29:06","+0:00","barbm","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,PMNXuj
+398742,"09/02/2018 09:29:06","+0:00","barbm","Alarm:","COVER OPEN 4  Acknowledgment",,K84wG1
+398743,"09/02/2018 09:29:06","+0:00","barbm","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,pTh1A5
+398744,"09/02/2018 09:29:06","+0:00","barbm","Alarm:","EMERGENCY  Acknowledgment",,O8VZqM
+398745,"09/02/2018 09:29:06","+0:00","barbm","Alarm:","COVER OPEN 3  Acknowledgment",,MATdKA
+398746,"09/02/2018 09:29:06","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,gozkr0
+398747,"09/02/2018 09:29:06","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,Ityn4q
+398748,"09/02/2018 09:29:06","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,Zq48OD
+398749,"09/02/2018 09:31:23","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  On",,LDvVwr
+398750,"09/02/2018 09:31:23","+0:00","barbm","Alarm","EMERGENCY  On",,4Suocp
+398751,"09/02/2018 09:31:23","+0:00","barbm","Alarm","COVER OPEN 2  On",,s0nnTC
+398752,"09/02/2018 09:31:23","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  On",,Hbo/st
+398753,"09/02/2018 09:31:23","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  On",,sKQQn0
+398754,"09/02/2018 09:31:23","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  On",,sDhjX9
+398755,"09/02/2018 09:34:32","+0:00","barbm","Alarm","COVER OPEN 2  Off",,/3rmGd
+398756,"09/02/2018 09:34:32","+0:00","barbm","Alarm","EMERGENCY  Off",,Smx/rd
+398757,"09/02/2018 09:34:32","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  Off",,Ma3zB/
+398758,"09/02/2018 09:35:39","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,eR+bla
+398759,"09/02/2018 09:35:55","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,+9fBCo
+398760,"09/02/2018 09:36:26","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  On",,S7OVil
+398761,"09/02/2018 09:36:26","+0:00","barbm","Alarm","EMERGENCY  On",,SUS/cU
+398762,"09/02/2018 09:36:26","+0:00","barbm","Alarm","COVER OPEN 4  On",,8Gmsjp
+398763,"09/02/2018 09:42:21","+0:00","barbm","Alarm","COVER OPEN 4  Off",,/u8isE
+398764,"09/02/2018 09:42:21","+0:00","barbm","Alarm","EMERGENCY  Off",,ruiRW+
+398765,"09/02/2018 09:42:22","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  Off",,KxihB4
+398766,"09/02/2018 09:42:52","+0:00","barbm","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,er4MCy
+398767,"09/02/2018 09:42:52","+0:00","barbm","Alarm:","COVER OPEN 2  Acknowledgment",,tqtaGv
+398768,"09/02/2018 09:42:52","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,wAS6kw
+398769,"09/02/2018 09:42:52","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,updAA7
+398770,"09/02/2018 09:42:52","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,lXNI6A
+398771,"09/02/2018 09:42:52","+0:00","barbm","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,sBxAV7
+398772,"09/02/2018 09:42:52","+0:00","barbm","Alarm:","EMERGENCY  Acknowledgment",,Fsonez
+398773,"09/02/2018 09:42:52","+0:00","barbm","Alarm:","COVER OPEN 4  Acknowledgment",,hrLieh
+398774,"09/02/2018 09:42:53","+0:00","barbm","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,VLbMTt
+398775,"09/02/2018 09:42:53","+0:00","barbm","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,/67sIF
+398776,"09/02/2018 09:42:53","+0:00","barbm","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Oe41e2
+398777,"09/02/2018 09:42:53","+0:00","barbm","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ph2Ud9
+398778,"09/02/2018 09:42:54","+0:00","barbm","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,cpnS36
+398779,"09/02/2018 09:43:14","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  Off",,3ZVftq
+398780,"09/02/2018 09:43:14","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  Off",,6RM6OH
+398781,"09/02/2018 09:43:14","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  Off",,+Gbruf
+398782,"09/02/2018 09:44:28","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,piIZNx
+398783,"09/02/2018 09:44:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,lahxHW
+398784,"09/02/2018 09:44:56","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,pEM3ZM
+398785,"09/02/2018 09:45:23","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,fyb4kb
+398786,"09/02/2018 09:45:37","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,pbl+TB
+398787,"09/02/2018 09:45:46","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,HC73Rs
+398788,"09/02/2018 09:46:15","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,EhhL88
+398789,"09/02/2018 09:46:25","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,GF0e9f
+398790,"09/02/2018 09:46:52","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,dd4kmq
+398791,"09/02/2018 09:47:19","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Bz+jHm
+398792,"09/02/2018 09:47:22","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,TqT1uC
+398793,"09/02/2018 09:47:23","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,odYR3w
+398794,"09/02/2018 09:47:32","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,HaMsCG
+398795,"09/02/2018 09:47:54","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,9Yu9O+
+398796,"09/02/2018 09:47:58","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,yZYElJ
+398797,"09/02/2018 09:48:17","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,GswgP7
+398798,"09/02/2018 09:48:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,N28yR3
+398799,"09/02/2018 09:48:28","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,+BPDEJ
+398800,"09/02/2018 09:48:57","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,xZPyjb
+398801,"09/02/2018 09:49:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,c2YGLz
+398802,"09/02/2018 09:49:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,RXXzZm
+398803,"09/02/2018 09:50:38","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,i9hRSI
+398804,"09/02/2018 09:50:39","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,PiZutJ
+398805,"09/02/2018 09:51:02","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,AfBNRx
+398806,"09/02/2018 09:51:15","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,nApK0w
+398807,"09/02/2018 09:51:43","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,hIJy47
+398808,"09/02/2018 09:51:44","+0:00","barbm","Alarm","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  On",,S9VM8Z
+398809,"09/02/2018 09:51:52","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,mDOH2+
+398810,"09/02/2018 09:52:15","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  On",,jIWycG
+398811,"09/02/2018 09:52:15","+0:00","barbm","Alarm","EMERGENCY  On",,CwhPui
+398812,"09/02/2018 09:52:15","+0:00","barbm","Alarm","COVER OPEN 3  On",,GxNw4B
+398813,"09/02/2018 09:52:16","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  On",,qUytol
+398814,"09/02/2018 09:52:16","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  On",,+sur26
+398815,"09/02/2018 09:52:16","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  On",,hIEfPN
+398816,"09/02/2018 09:52:28","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,0XTo9S
+398817,"09/02/2018 09:53:07","+0:00","barbm","Alarm","COVER OPEN 2  On",,FuD75j
+398818,"09/02/2018 09:53:08","+0:00","barbm","Alarm","COVER OPEN 1  On",,/oZXxK
+398819,"09/02/2018 09:53:45","+0:00","barbm","Alarm","COVER OPEN 4  On",,NOLj68
+398820,"09/02/2018 09:55:55","+0:00","barbm","Alarm","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  Off",,WKCZ5n
+398821,"09/02/2018 09:55:55","+0:00","barbm","Alarm","COVER OPEN 1  Off",,rxpOgC
+398822,"09/02/2018 09:55:55","+0:00","barbm","Alarm","COVER OPEN 2  Off",,IZSrwR
+398823,"09/02/2018 09:55:55","+0:00","barbm","Alarm","COVER OPEN 3  Off",,LgFemK
+398824,"09/02/2018 09:55:55","+0:00","barbm","Alarm","COVER OPEN 4  Off",,zBmt8z
+398825,"09/02/2018 09:55:55","+0:00","barbm","Alarm","EMERGENCY  Off",,uUNHn1
+398826,"09/02/2018 09:55:55","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  Off",,ni6BTs
+398827,"09/02/2018 09:55:56","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  Off",,uy4OOH
+398828,"09/02/2018 09:55:56","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  Off",,TDXhSc
+398829,"09/02/2018 09:55:56","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  Off",,ZOIqNp
+398830,"09/02/2018 09:56:02","+0:00","barbm","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,BoISVc
+398831,"09/02/2018 09:56:02","+0:00","barbm","Alarm:","ALARM MISSING CONTAINER IN REJECT 1 CHANNEL  Acknowledgment",,tvhiXs
+398832,"09/02/2018 09:56:02","+0:00","barbm","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,YXQ+Pd
+398833,"09/02/2018 09:56:02","+0:00","barbm","Alarm:","EMERGENCY  Acknowledgment",,Q0IQQy
+398834,"09/02/2018 09:56:02","+0:00","barbm","Alarm:","COVER OPEN 3  Acknowledgment",,ixgpqq
+398835,"09/02/2018 09:56:02","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,yfaUuj
+398836,"09/02/2018 09:56:02","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,pidy5e
+398837,"09/02/2018 09:56:02","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,63wRiM
+398838,"09/02/2018 09:56:02","+0:00","barbm","Alarm:","COVER OPEN 2  Acknowledgment",,un/txw
+398839,"09/02/2018 09:56:02","+0:00","barbm","Alarm:","COVER OPEN 1  Acknowledgment",,1lBNT1
+398840,"09/02/2018 09:56:02","+0:00","barbm","Alarm:","COVER OPEN 4  Acknowledgment",,g+5LUP
+398841,"09/02/2018 09:56:45","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  On",,yinIUV
+398842,"09/02/2018 09:56:45","+0:00","barbm","Alarm","EMERGENCY  On",,tTGxt+
+398843,"09/02/2018 09:56:45","+0:00","barbm","Alarm","COVER OPEN 3  On",,jnDJiM
+398844,"09/02/2018 09:56:45","+0:00","barbm","Alarm","COVER OPEN 4  On",,2o7Cq3
+398845,"09/02/2018 09:56:46","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  On",,TQfHO7
+398846,"09/02/2018 09:56:46","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  On",,zFWiNi
+398847,"09/02/2018 09:56:46","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  On",,sd4oal
+398848,"09/02/2018 10:11:17","+0:00","barbm","Alarm","COVER OPEN 3  Off",,o/wn6C
+398849,"09/02/2018 10:11:17","+0:00","barbm","Alarm","COVER OPEN 4  Off",,v1ZW4Y
+398850,"09/02/2018 10:11:17","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  Off",,ZtlaPV
+398851,"09/02/2018 10:11:17","+0:00","barbm","Alarm","EMERGENCY  Off",,elgEgT
+398852,"09/02/2018 10:11:18","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  Off",,ECiTo8
+398853,"09/02/2018 10:11:18","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  Off",,8CnFCd
+398854,"09/02/2018 10:11:18","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  Off",,jCxu7g
+398855,"09/02/2018 10:11:19","+0:00","barbm","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,P4VFCJ
+398856,"09/02/2018 10:11:19","+0:00","barbm","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,smDgu8
+398857,"09/02/2018 10:11:19","+0:00","barbm","Alarm:","EMERGENCY  Acknowledgment",,avvWLl
+398858,"09/02/2018 10:11:19","+0:00","barbm","Alarm:","COVER OPEN 3  Acknowledgment",,xNoK2J
+398859,"09/02/2018 10:11:19","+0:00","barbm","Alarm:","COVER OPEN 4  Acknowledgment",,4fh/XQ
+398860,"09/02/2018 10:11:19","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,6kapcF
+398861,"09/02/2018 10:11:19","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,9JrDu9
+398862,"09/02/2018 10:11:19","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,VqdB4+
+398863,"09/02/2018 10:11:30","+0:00","barbm","Alarm","COVER OPEN 1  On",,Y3BBNz
+398864,"09/02/2018 10:11:30","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  On",,r1IGo+
+398865,"09/02/2018 10:11:30","+0:00","barbm","Alarm","EMERGENCY  On",,I3kTRy
+398866,"09/02/2018 10:11:30","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  On",,A0iNJr
+398867,"09/02/2018 10:11:30","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  On",,Yz6Gju
+398868,"09/02/2018 10:11:30","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  On",,zW+97L
+398869,"09/02/2018 10:11:31","+0:00","barbm","Alarm","COVER OPEN 2  On",,n+dVvW
+398870,"09/02/2018 10:11:48","+0:00","barbm","Alarm","COVER OPEN 1  Off",,3PukPF
+398871,"09/02/2018 10:11:48","+0:00","barbm","Alarm","COVER OPEN 2  Off",,AWfIr2
+398872,"09/02/2018 10:11:48","+0:00","barbm","Alarm","EMERGENCY  Off",,i2SWmm
+398873,"09/02/2018 10:11:48","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  Off",,lL4iK7
+398874,"09/02/2018 10:11:49","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  Off",,V2Uy16
+398875,"09/02/2018 10:11:49","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  Off",,NmV8+K
+398876,"09/02/2018 10:11:49","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  Off",,YPT0w7
+398877,"09/02/2018 10:12:03","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,zQrGOd
+398878,"09/02/2018 10:12:24","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,YiwW57
+398879,"09/02/2018 10:13:57","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,tAtTlE
+398880,"09/02/2018 10:14:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,SRGeKZ
+398881,"09/02/2018 10:14:39","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,TQ6OiM
+398882,"09/02/2018 10:15:03","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,RwUe3H
+398883,"09/02/2018 10:15:07","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3TSFo1
+398884,"09/02/2018 10:15:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,bTwKvL
+398885,"09/02/2018 10:15:43","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,K2wrwS
+398886,"09/02/2018 10:16:14","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,cvEryW
+398887,"09/02/2018 10:16:18","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,VKCwAT
+398888,"09/02/2018 10:16:51","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,AkSLmZ
+398889,"09/02/2018 10:16:54","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,PsAZBU
+398890,"09/02/2018 10:17:28","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,CAHT0h
+398891,"09/02/2018 10:17:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,RIU6C6
+398892,"09/02/2018 10:17:40","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,JAJofe
+398893,"09/02/2018 10:18:02","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,KMgpsy
+398894,"09/02/2018 10:18:12","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,XHOvSq
+398895,"09/02/2018 10:18:36","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,+Ltn4E
+398896,"09/02/2018 10:18:45","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,lmgkgL
+398897,"09/02/2018 10:19:03","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,podhi5
+398898,"09/02/2018 10:19:11","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,qi1pif
+398899,"09/02/2018 10:19:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,/cFkhh
+398900,"09/02/2018 10:19:39","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,6CdW3p
+398901,"09/02/2018 10:20:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,wSqVm2
+398902,"09/02/2018 10:20:22","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,WnKKSM
+398903,"09/02/2018 10:20:34","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3Zh04S
+398904,"09/02/2018 10:21:09","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vPBlUc
+398905,"09/02/2018 10:21:12","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,EmVlWI
+398906,"09/02/2018 10:21:39","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,iODPG0
+398907,"09/02/2018 10:21:42","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,WbceEw
+398908,"09/02/2018 10:22:09","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vQvTib
+398909,"09/02/2018 10:22:11","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Nrx7CS
+398910,"09/02/2018 10:22:42","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,N9tGmh
+398911,"09/02/2018 10:22:48","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,T+UwH+
+398912,"09/02/2018 10:23:14","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,JKnhZ0
+398913,"09/02/2018 10:23:24","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,5cGCeF
+398914,"09/02/2018 10:23:34","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,sYdchl
+398915,"09/02/2018 10:24:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,hZE189
+398916,"09/02/2018 10:24:13","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,KhQ6lb
+398917,"09/02/2018 10:24:59","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,vu+YJV
+398918,"09/02/2018 10:25:07","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,El9SbB
+398919,"09/02/2018 10:25:26","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,BHagM4
+398920,"09/02/2018 10:25:38","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,LEGKaD
+398921,"09/02/2018 10:26:29","+0:00","barbm","Alarm","COVER OPEN 4  On",,FapkSo
+398922,"09/02/2018 10:26:29","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  On",,G9ZTza
+398923,"09/02/2018 10:26:29","+0:00","barbm","Alarm","EMERGENCY  On",,BxyyAH
+398924,"09/02/2018 10:26:29","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  On",,OV5X0z
+398925,"09/02/2018 10:26:29","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  On",,5d3Isq
+398926,"09/02/2018 10:26:29","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  On",,WEtvVY
+398927,"09/02/2018 10:26:30","+0:00","barbm","Alarm","COVER OPEN 3  On",,pgr7eq
+398928,"09/02/2018 10:27:29","+0:00","barbm","Alarm","COVER OPEN 1  On",,V63T+1
+398929,"09/02/2018 10:27:30","+0:00","barbm","Alarm","COVER OPEN 2  On",,k3n++I
+398930,"09/02/2018 10:31:20","+0:00","barbm","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,8JphMO
+398931,"09/02/2018 10:31:33","+0:00","barbm","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,vSHx2L
+398932,"09/02/2018 10:31:58","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,NMDX5c
+398933,"09/02/2018 10:32:01","+0:00","barbm","Alarm","COVER OPEN 1  Off",,iRo88K
+398934,"09/02/2018 10:32:01","+0:00","barbm","Alarm","COVER OPEN 2  Off",,k0SwrF
+398935,"09/02/2018 10:32:01","+0:00","barbm","Alarm","COVER OPEN 3  Off",,BYaMXQ
+398936,"09/02/2018 10:32:01","+0:00","barbm","Alarm","COVER OPEN 4  Off",,lQz8SB
+398937,"09/02/2018 10:32:01","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  Off",,60EsyU
+398938,"09/02/2018 10:32:01","+0:00","barbm","Alarm","EMERGENCY  Off",,PUvw5s
+398939,"09/02/2018 10:32:10","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  Off",,s3q3I/
+398940,"09/02/2018 10:32:10","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  Off",,u5aZf7
+398941,"09/02/2018 10:32:10","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  Off",,8IV2PF
+398942,"09/02/2018 10:32:12","+0:00","barbm","Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,WVvdoT
+398943,"09/02/2018 10:32:12","+0:00","barbm","Alarm:","COVER OPEN 4  Acknowledgment",,aj71yC
+398944,"09/02/2018 10:32:12","+0:00","barbm","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,GVDGGN
+398945,"09/02/2018 10:32:12","+0:00","barbm","Alarm:","EMERGENCY  Acknowledgment",,6sW8xI
+398946,"09/02/2018 10:32:12","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,KzUvWU
+398947,"09/02/2018 10:32:12","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,VQXPK8
+398948,"09/02/2018 10:32:12","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,SNJ6sq
+398949,"09/02/2018 10:32:12","+0:00","barbm","Alarm:","COVER OPEN 3  Acknowledgment",,Lyilyh
+398950,"09/02/2018 10:32:12","+0:00","barbm","Alarm:","COVER OPEN 1  Acknowledgment",,upvZx7
+398951,"09/02/2018 10:32:12","+0:00","barbm","Alarm:","COVER OPEN 2  Acknowledgment",,2nnMT4
+398952,"09/02/2018 10:32:12","+0:00","barbm","Alarm: 2137","Acknowledgment of alarm 2137 of PLC MCA200+LKD.",,oyNYwr
+398953,"09/02/2018 10:32:12","+0:00","barbm","Alarm: 2137","Acknowledgment of alarm 2137 of PLC MCA200+LKD.",,aqgjBJ
+398954,"09/02/2018 10:32:13","+0:00","barbm","Alarm: 2137","Acknowledgment of alarm 2137 of PLC MCA200+LKD.",,IdoqLO
+398955,"09/02/2018 10:32:17","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,bvP8cX
+398956,"09/02/2018 10:32:19","+0:00","barbm","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,asy3Rq
+398957,"09/02/2018 10:32:36","+0:00","barbm","Alarm: 1012","Acknowledgment of 1012 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,FY1lWY
+398958,"09/02/2018 10:32:36","+0:00","barbm","Alarm:","ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment",,vB/3gV
+398959,"09/02/2018 10:32:43","+0:00","barbm","Alarm: 1012","Acknowledgment of 1012 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,7WnRbc
+398960,"09/02/2018 10:32:44","+0:00","barbm","Alarm: 1012","Acknowledgment of 1012 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ihgur6
+398961,"09/02/2018 10:32:44","+0:00","barbm","Alarm: 1012","Acknowledgment of 1012 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,RO0eKq
+398962,"09/02/2018 10:32:51","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  On",,y+pHz1
+398963,"09/02/2018 10:32:51","+0:00","barbm","Alarm","EMERGENCY  On",,sta+iJ
+398964,"09/02/2018 10:32:51","+0:00","barbm","Alarm","COVER OPEN 3  On",,hoFI4C
+398965,"09/02/2018 10:32:51","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  On",,Zn455L
+398966,"09/02/2018 10:32:51","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  On",,C3XuhM
+398967,"09/02/2018 10:32:51","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  On",,XztmT8
+398968,"09/02/2018 10:32:54","+0:00","barbm","Alarm","COVER OPEN 4  On",,TRoLqZ
+398969,"09/02/2018 10:33:12","+0:00","barbm","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,V4hCJG
+398970,"09/02/2018 10:33:12","+0:00","barbm","Alarm","COVER OPEN 3  Off",,e5tVfr
+398971,"09/02/2018 10:33:12","+0:00","barbm","Alarm","COVER OPEN 4  Off",,Z62Uvq
+398972,"09/02/2018 10:33:13","+0:00","barbm","Alarm","EMERGENCY  Off",,J8d9gW
+398973,"09/02/2018 10:33:13","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  Off",,UKPeIV
+398974,"09/02/2018 10:33:14","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  Off",,DA+vep
+398975,"09/02/2018 10:33:14","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  Off",,HTz4LF
+398976,"09/02/2018 10:33:14","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  Off",,+ZcWSd
+398977,"09/02/2018 10:34:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Nm79dY
+398978,"09/02/2018 10:34:28","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,iBr58Y
+398979,"09/02/2018 10:34:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3ouPum
+398980,"09/02/2018 10:35:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,e0c1wK
+398981,"09/02/2018 10:35:29","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,eTY+2P
+398982,"09/02/2018 10:35:51","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,lWsp/I
+398983,"09/02/2018 10:35:55","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Quvj3M
+398984,"09/02/2018 10:36:16","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,dh5bbv
+398985,"09/02/2018 10:36:38","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,1DeLcV
+398986,"09/02/2018 10:37:00","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vvXWoe
+398987,"09/02/2018 10:37:16","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,xc+OIF
+398988,"09/02/2018 10:37:24","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Euog4l
+398989,"09/02/2018 10:37:27","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,K72/dM
+398990,"09/02/2018 10:37:36","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,dL5SAa
+398991,"09/02/2018 10:38:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Nedp1w
+398992,"09/02/2018 10:38:14","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,77gqdz
+398993,"09/02/2018 10:38:24","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,0hjKtr
+398994,"09/02/2018 10:38:32","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,JaNMdS
+398995,"09/02/2018 10:38:55","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,qEOmhN
+398996,"09/02/2018 10:39:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,X8Xzxc
+398997,"09/02/2018 10:39:37","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,PXskjb
+398998,"09/02/2018 10:39:53","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,J15Cqa
+398999,"09/02/2018 10:40:19","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,HOotTX
+399000,"09/02/2018 10:40:27","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,fo1RZP
+399001,"09/02/2018 10:40:57","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,6XzxgQ
+399002,"09/02/2018 10:41:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,BIGNTJ
+399003,"09/02/2018 10:41:41","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ySgbta
+399004,"09/02/2018 10:41:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,smdfyP
+399005,"09/02/2018 10:42:15","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Iu4OOq
+399006,"09/02/2018 10:42:27","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,9zsIVG
+399007,"09/02/2018 10:44:44","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,xG7cFI
+399008,"09/02/2018 10:44:57","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,mG5Rd7
+399009,"09/02/2018 10:44:57","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,QpOdfN
+399010,"09/02/2018 10:44:58","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,YKtHuC
+399011,"09/02/2018 10:45:11","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,KXmIgA
+399012,"09/02/2018 10:45:41","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Jv4bae
+399013,"09/02/2018 10:45:47","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,B5OokI
+399014,"09/02/2018 10:46:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,yCyTaR
+399015,"09/02/2018 10:46:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,jshdkc
+399016,"09/02/2018 10:46:27","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,7PiO0s
+399017,"09/02/2018 10:46:38","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,DOtM/I
+399018,"09/02/2018 10:46:58","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,3f4Y9G
+399019,"09/02/2018 10:47:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,d1UEHA
+399020,"09/02/2018 10:47:35","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,8mTbj3
+399021,"09/02/2018 10:47:37","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,VpU9ra
+399022,"09/02/2018 10:47:46","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,OvxpUv
+399023,"09/02/2018 10:48:08","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,VVxNgg
+399024,"09/02/2018 10:48:15","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,yJjCuJ
+399025,"09/02/2018 10:48:34","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,KBkw+C
+399026,"09/02/2018 10:48:42","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,enHmdh
+399027,"09/02/2018 10:49:05","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,JFng0S
+399028,"09/02/2018 10:49:13","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,1IrdA8
+399029,"09/02/2018 10:49:34","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,7VDY43
+399030,"09/02/2018 10:49:42","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,J64e5r
+399031,"09/02/2018 10:50:05","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Gewg6A
+399032,"09/02/2018 10:50:14","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,lSxTbr
+399033,"09/02/2018 10:50:36","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,PaaTb3
+399034,"09/02/2018 10:50:48","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,N/QJIk
+399035,"09/02/2018 10:51:05","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,x1GUD/
+399036,"09/02/2018 10:51:18","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,pDqe/u
+399037,"09/02/2018 10:51:40","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,htLLkC
+399038,"09/02/2018 10:51:48","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,FefobI
+399039,"09/02/2018 10:52:02","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,IcGhvJ
+399040,"09/02/2018 10:52:10","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,QShOYv
+399041,"09/02/2018 10:52:26","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3h30ov
+399042,"09/02/2018 10:52:34","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,TldBqg
+399043,"09/02/2018 10:52:59","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,mrIiAW
+399044,"09/02/2018 10:53:09","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,BlBt5v
+399045,"09/02/2018 10:53:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,II4zfV
+399046,"09/02/2018 10:53:38","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,PPE6F7
+399047,"09/02/2018 10:54:14","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,8ye8v7
+399048,"09/02/2018 10:54:37","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,SePzOh
+399049,"09/02/2018 10:54:40","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,XvCoFD
+399050,"09/02/2018 10:55:10","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,qbN4A5
+399051,"09/02/2018 10:55:12","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,V1IAbI
+399052,"09/02/2018 10:55:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,qlsbpl
+399053,"09/02/2018 10:55:44","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,LyaVaz
+399054,"09/02/2018 10:55:56","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,OwVsVT
+399055,"09/02/2018 10:56:17","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,mWXMZe
+399056,"09/02/2018 10:56:45","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,yoLbq8
+399057,"09/02/2018 10:56:48","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,MgMNat
+399058,"09/02/2018 10:57:09","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,zc1ujb
+399059,"09/02/2018 10:57:13","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,cFU1oy
+399060,"09/02/2018 10:57:33","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,LB5WRz
+399061,"09/02/2018 10:57:35","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,GNTjKA
+399062,"09/02/2018 10:58:12","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,GFVpLD
+399063,"09/02/2018 10:58:22","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,+mcTDF
+399064,"09/02/2018 10:58:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,AOfZYQ
+399065,"09/02/2018 10:58:38","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,YhaSrG
+399066,"09/02/2018 10:59:05","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,zQdY2V
+399067,"09/02/2018 10:59:07","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,dMvi9f
+399068,"09/02/2018 10:59:19","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,TUIHFo
+399069,"09/02/2018 10:59:22","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,MynYBf
+399070,"09/02/2018 10:59:34","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,4BRH1I
+399071,"09/02/2018 10:59:56","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,D0jGz8
+399072,"09/02/2018 11:00:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,H10S+J
+399073,"09/02/2018 11:00:17","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,h5oQeM
+399074,"09/02/2018 11:00:25","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,DpG1Ct
+399075,"09/02/2018 11:00:39","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,95wbjs
+399076,"09/02/2018 11:00:47","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,NPIZib
+399077,"09/02/2018 11:01:03","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,p3wYTd
+399078,"09/02/2018 11:01:12","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,dq1Gvi
+399079,"09/02/2018 11:01:38","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,c3QN28
+399080,"09/02/2018 11:01:46","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,/YptZO
+399081,"09/02/2018 11:02:22","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,GnoxH/
+399082,"09/02/2018 11:02:29","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vQqUST
+399083,"09/02/2018 11:02:50","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,yYHUrP
+399084,"09/02/2018 11:02:58","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,up3fpA
+399085,"09/02/2018 11:03:26","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,yyBXBP
+399086,"09/02/2018 11:03:33","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,cOFSl4
+399087,"09/02/2018 11:03:54","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,1IvuYq
+399088,"09/02/2018 11:04:02","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,U7Z9S1
+399089,"09/02/2018 11:04:33","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Yjw7RR
+399090,"09/02/2018 11:04:46","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,7nvqSj
+399091,"09/02/2018 11:04:58","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,0lVfwY
+399092,"09/02/2018 11:05:09","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,w8MvJ9
+399093,"09/02/2018 11:05:25","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,lg4tRy
+399094,"09/02/2018 11:05:32","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,LmA1+j
+399095,"09/02/2018 11:06:01","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,4A8m1S
+399096,"09/02/2018 11:06:22","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ak7zdU
+399097,"09/02/2018 11:06:32","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,X50tqr
+399098,"09/02/2018 11:06:53","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Xmk8HT
+399099,"09/02/2018 11:07:08","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,5sCtsl
+399100,"09/02/2018 11:07:17","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,HIoxTc
+399101,"09/02/2018 11:07:28","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,uQgfL9
+399102,"09/02/2018 11:07:35","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,kNdqKI
+399103,"09/02/2018 11:08:07","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,tPMb6J
+399104,"09/02/2018 11:08:25","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vOBLX/
+399105,"09/02/2018 11:08:37","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,mVtkvV
+399106,"09/02/2018 11:09:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,M3UnHU
+399107,"09/02/2018 11:09:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,sFTqOZ
+399108,"09/02/2018 11:09:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,NGtudJ
+399109,"09/02/2018 11:09:33","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,I62Zu3
+399110,"09/02/2018 11:09:53","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,yDeUC+
+399111,"09/02/2018 11:09:56","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,tdpCYp
+399112,"09/02/2018 11:10:19","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,IUG0a3
+399113,"09/02/2018 11:10:21","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3taAN1
+399114,"09/02/2018 11:10:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,TVdoDK
+399115,"09/02/2018 11:10:43","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3cSnvP
+399116,"09/02/2018 11:11:09","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,lf+HXZ
+399117,"09/02/2018 11:11:16","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ZIzlRw
+399118,"09/02/2018 11:11:27","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,k9M6Lf
+399119,"09/02/2018 11:11:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,RmcCDr
+399120,"09/02/2018 11:11:39","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,7qCa8r
+399121,"09/02/2018 11:14:36","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,b7pVyT
+399122,"09/02/2018 11:14:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,6y5G7x
+399123,"09/02/2018 11:15:01","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,b6CiYV
+399124,"09/02/2018 11:15:16","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,WrpXVR
+399125,"09/02/2018 11:15:37","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,DaC/GX
+399126,"09/02/2018 11:15:46","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,U/y6Nm
+399127,"09/02/2018 11:16:05","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Pe6Yu7
+399128,"09/02/2018 11:16:16","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,q6Nv/X
+399129,"09/02/2018 11:16:37","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,d3t5kV
+399130,"09/02/2018 11:16:50","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,wxfRFz
+399131,"09/02/2018 11:17:09","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,C046qf
+399132,"09/02/2018 11:17:18","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,1Ay04k
+399133,"09/02/2018 11:17:36","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ef3Qmg
+399134,"09/02/2018 11:17:46","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,OelXb6
+399135,"09/02/2018 11:18:03","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,CKk9i1
+399136,"09/02/2018 11:18:13","+0:00","barbm","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,r0DhZZ
+399137,"09/02/2018 11:18:13","+0:00","barbm","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,qO12K0
+399138,"09/02/2018 11:18:13","+0:00","barbm","Alarm:","EMERGENCY  Acknowledgment",,heq69N
+399139,"09/02/2018 11:18:13","+0:00","barbm","Alarm:","COVER OPEN 3  Acknowledgment",,k9Sr07
+399140,"09/02/2018 11:18:13","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,Py3vsq
+399141,"09/02/2018 11:18:13","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,JVOUNp
+399142,"09/02/2018 11:18:13","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,NJe67r
+399143,"09/02/2018 11:18:13","+0:00","barbm","Alarm:","COVER OPEN 4  Acknowledgment",,UkVgiU
+399144,"09/02/2018 11:18:13","+0:00","barbm","Alarm: 2137","Acknowledgment of alarm 2137 of PLC MCA200+LKD.",,ZBj+xl
+399145,"09/02/2018 11:18:13","+0:00","barbm","Alarm: 2137","Acknowledgment of alarm 2137 of PLC MCA200+LKD.",,sBM5FG
+399146,"09/02/2018 11:18:23","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,p/Pk+z
+399147,"09/02/2018 11:18:34","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,m82el6
+399148,"09/02/2018 11:18:48","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,tmBlQl
+399149,"09/02/2018 11:19:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,i/pbKt
+399150,"09/02/2018 11:19:29","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,UZr2Y/
+399151,"09/02/2018 11:19:50","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3wUXGF
+399152,"09/02/2018 11:19:59","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Q6Bvp0
+399153,"09/02/2018 11:20:17","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,DAZiAb
+399154,"09/02/2018 11:20:24","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,brZ36B
+399155,"09/02/2018 11:20:44","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,twzb0V
+399156,"09/02/2018 11:20:56","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Toa4AM
+399157,"09/02/2018 11:21:35","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,tsaf0y
+399158,"09/02/2018 11:21:47","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,fXxaLl
+399159,"09/02/2018 11:22:13","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,crw19J
+399160,"09/02/2018 11:22:23","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,okFble
+399161,"09/02/2018 11:22:38","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,SiskC+
+399162,"09/02/2018 11:22:47","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Cf/wuS
+399163,"09/02/2018 11:23:10","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,j4VKpx
+399164,"09/02/2018 11:23:19","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,TGTWCx
+399165,"09/02/2018 11:23:44","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,cKDMgk
+399166,"09/02/2018 11:23:51","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,FAIRa+
+399167,"09/02/2018 11:24:32","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,HhlGjc
+399168,"09/02/2018 11:24:39","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,SQRinN
+399169,"09/02/2018 11:25:05","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,YqsmtR
+399170,"09/02/2018 11:25:13","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,jiBg3Z
+399171,"09/02/2018 11:25:36","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,fzh1NH
+399172,"09/02/2018 11:25:44","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,bAd5GY
+399173,"09/02/2018 11:26:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,k5vUCs
+399174,"09/02/2018 11:26:13","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,DJP41U
+399175,"09/02/2018 11:26:35","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,222KkF
+399176,"09/02/2018 11:26:43","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,cMR6ce
+399177,"09/02/2018 11:27:16","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,PceOBc
+399178,"09/02/2018 11:27:25","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,snXhGA
+399179,"09/02/2018 11:27:58","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3/CFE+
+399180,"09/02/2018 11:28:11","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,g8Ok2+
+399181,"09/02/2018 11:28:41","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,AuOPxx
+399182,"09/02/2018 11:28:52","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,GGiWX2
+399183,"09/02/2018 11:29:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,9cyTxX
+399184,"09/02/2018 11:29:14","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,kfoAwg
+399185,"09/02/2018 11:29:35","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,YdYyO1
+399186,"09/02/2018 11:29:44","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,weqGGO
+399187,"09/02/2018 11:30:03","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,6rVP73
+399188,"09/02/2018 11:30:11","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,TZdLr2
+399189,"09/02/2018 11:30:31","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,fDpJ/3
+399190,"09/02/2018 11:30:40","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,DvxXZE
+399191,"09/02/2018 11:31:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,n+xCZ6
+399192,"09/02/2018 11:31:15","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,4TDBs7
+399193,"09/02/2018 11:31:35","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,EGIC21
+399194,"09/02/2018 11:31:58","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Ndgrvs
+399195,"09/02/2018 11:32:05","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,xihd3+
+399196,"09/02/2018 11:32:32","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,nGf+fC
+399197,"09/02/2018 11:32:37","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,lqdqy9
+399198,"09/02/2018 11:32:46","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,rAFvcu
+399199,"09/02/2018 11:33:10","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,6wMehg
+399200,"09/02/2018 11:33:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,IzLjUM
+399201,"09/02/2018 11:33:35","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,1aXAsS
+399202,"09/02/2018 11:33:54","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,h+ZK4t
+399203,"09/02/2018 11:34:11","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,E9Y5O4
+399204,"09/02/2018 11:34:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,fQ73kr
+399205,"09/02/2018 11:34:39","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,WDVvaC
+399206,"09/02/2018 11:34:47","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,O1uJiI
+399207,"09/02/2018 11:35:11","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,YBj0Wl
+399208,"09/02/2018 11:35:21","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,4LU6NL
+399209,"09/02/2018 11:35:45","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Bi9/mQ
+399210,"09/02/2018 11:35:54","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,5Poab9
+399211,"09/02/2018 11:36:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,2zarGd
+399212,"09/02/2018 11:36:13","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,k87zRq
+399213,"09/02/2018 11:36:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,gBiEwB
+399214,"09/02/2018 11:36:38","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Sg5OJb
+399215,"09/02/2018 11:36:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,JCoM6u
+399216,"09/02/2018 11:36:56","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vbsPPr
+399217,"09/02/2018 11:37:11","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,AdrE7M
+399218,"09/02/2018 11:37:27","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,etYyZT
+399219,"09/02/2018 11:37:47","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,UYLZ7y
+399220,"09/02/2018 11:37:57","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,/TWKYe
+399221,"09/02/2018 11:38:39","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Ak2Kmd
+399222,"09/02/2018 11:38:52","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,FMwdUU
+399223,"09/02/2018 11:38:54","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,yubDO6
+399224,"09/02/2018 11:39:02","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vWf4uM
+399225,"09/02/2018 11:39:31","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,hXUuJ+
+399226,"09/02/2018 11:39:43","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ju9b84
+399227,"09/02/2018 11:40:00","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,OhRK6B
+399228,"09/02/2018 11:40:11","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,NJMOR+
+399229,"09/02/2018 11:40:14","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,wbY97f
+399230,"09/02/2018 11:40:24","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,QvyfHG
+399231,"09/02/2018 11:42:43","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,d0ArRQ
+399232,"09/02/2018 11:42:58","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,+zZaeB
+399233,"09/02/2018 11:43:39","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Ff9CCn
+399234,"09/02/2018 11:43:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vM16MG
+399235,"09/02/2018 11:44:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,kn6Yz/
+399236,"09/02/2018 11:44:34","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,+z/E2q
+399237,"09/02/2018 11:44:55","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,yXD1/f
+399238,"09/02/2018 11:45:05","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,+M5rcV
+399239,"09/02/2018 11:45:14","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,vWzkCv
+399240,"09/02/2018 11:45:23","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,MX9kyn
+399241,"09/02/2018 11:46:02","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,mUV/vp
+399242,"09/02/2018 11:46:17","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Fg31Mz
+399243,"09/02/2018 11:46:52","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,GaCb31
+399244,"09/02/2018 11:47:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,+M4bCH
+399245,"09/02/2018 11:47:11","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,t/KhMM
+399246,"09/02/2018 11:47:22","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Ytria5
+399247,"09/02/2018 11:47:51","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,STNN9J
+399248,"09/02/2018 11:48:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,WPSjYr
+399249,"09/02/2018 11:48:17","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,OGQu5A
+399250,"09/02/2018 11:48:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,98tBLc
+399251,"09/02/2018 11:48:41","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ZhC3nL
+399252,"09/02/2018 11:48:51","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,UoFUih
+399253,"09/02/2018 11:49:21","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,d8qhy1
+399254,"09/02/2018 11:49:33","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Dm2C1r
+399255,"09/02/2018 11:49:52","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,XCRij1
+399256,"09/02/2018 11:50:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,N3vem0
+399257,"09/02/2018 11:50:40","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,otIEeC
+399258,"09/02/2018 11:50:53","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,hiNcYq
+399259,"09/02/2018 11:51:16","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,d2Bpr0
+399260,"09/02/2018 11:51:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,6aGcCE
+399261,"09/02/2018 11:51:47","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,poWu/r
+399262,"09/02/2018 11:51:56","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,92tYXB
+399263,"09/02/2018 11:52:28","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3UNN9J
+399264,"09/02/2018 11:52:37","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Y43Yco
+399265,"09/02/2018 11:53:11","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,5J7GwL
+399266,"09/02/2018 11:53:21","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,4WMv4x
+399267,"09/02/2018 11:53:32","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,FwA43q
+399268,"09/02/2018 11:53:40","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,SKyDiN
+399269,"09/02/2018 11:53:40","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,g0KkC+
+399270,"09/02/2018 11:53:40","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,o45JHt
+399271,"09/02/2018 11:53:57","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,1BAhSn
+399272,"09/02/2018 11:54:05","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,i0lzHt
+399273,"09/02/2018 11:54:28","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,xUjD/G
+399274,"09/02/2018 11:54:38","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,UPZvgZ
+399275,"09/02/2018 11:54:51","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,GPotp6
+399276,"09/02/2018 11:55:00","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,LXU3Vd
+399277,"09/02/2018 11:55:27","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,oacC+7
+399278,"09/02/2018 11:55:37","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,NY/srr
+399279,"09/02/2018 11:55:43","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Bt1aoW
+399280,"09/02/2018 11:55:52","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vPwbRB
+399281,"09/02/2018 11:56:36","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,cmwNxH
+399282,"09/02/2018 11:56:40","+0:00","barbm","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On",,XFVt8J
+399283,"09/02/2018 11:56:58","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,skbvPZ
+399284,"09/02/2018 11:56:59","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,rFVUuG
+399285,"09/02/2018 11:57:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vhHaJ9
+399286,"09/02/2018 11:57:40","+0:00","barbm","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off",,2yiU8i
+399287,"09/02/2018 11:58:24","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,G06je/
+399288,"09/02/2018 11:58:33","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,O2v19R
+399289,"09/02/2018 11:58:43","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,1qoLCF
+399290,"09/02/2018 11:58:52","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,iMDhh6
+399291,"09/02/2018 11:59:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,AA8r5l
+399292,"09/02/2018 11:59:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,fhScKi
+399293,"09/02/2018 11:59:53","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,AgygTq
+399294,"09/02/2018 12:00:02","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,McYHaE
+399295,"09/02/2018 12:00:17","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,q+LT1T
+399296,"09/02/2018 12:00:26","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,BfkIDV
+399297,"09/02/2018 12:00:48","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,4o4+RI
+399298,"09/02/2018 12:00:56","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,oEx6AO
+399299,"09/02/2018 12:01:07","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Lg7ZeC
+399300,"09/02/2018 12:01:15","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,xpiQJn
+399301,"09/02/2018 12:01:29","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,KiH42G
+399302,"09/02/2018 12:01:38","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,5bni+r
+399303,"09/02/2018 12:02:11","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,vK8pIN
+399304,"09/02/2018 12:02:21","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,YgzWno
+399305,"09/02/2018 12:02:28","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,PqABij
+399306,"09/02/2018 12:02:36","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,HV1Ld2
+399307,"09/02/2018 12:02:51","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,xZcMlM
+399308,"09/02/2018 12:03:01","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,iPoOFC
+399309,"09/02/2018 12:03:33","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,EvuQIj
+399310,"09/02/2018 12:03:44","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,JWd9rY
+399311,"09/02/2018 12:04:07","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,n4mdQj
+399312,"09/02/2018 12:04:19","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,62VZuI
+399313,"09/02/2018 12:04:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,2gA6t3
+399314,"09/02/2018 12:04:40","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,5SGnRm
+399315,"09/02/2018 12:05:09","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,QpwWuP
+399316,"09/02/2018 12:05:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Ml3ZPd
+399317,"09/02/2018 12:05:47","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,a/wpcO
+399318,"09/02/2018 12:05:56","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Yluwlh
+399319,"09/02/2018 12:06:27","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,cSsd1h
+399320,"09/02/2018 12:06:39","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,snQEh2
+399321,"09/02/2018 12:06:54","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,WNhOkx
+399322,"09/02/2018 12:07:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,lcmCfl
+399323,"09/02/2018 12:07:22","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,T8OK+/
+399324,"09/02/2018 12:07:31","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Kd+irU
+399325,"09/02/2018 12:08:12","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ksRMEm
+399326,"09/02/2018 12:08:24","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,+0di2p
+399327,"09/02/2018 12:08:42","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,i44cZ/
+399328,"09/02/2018 12:08:56","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,EwwO8i
+399329,"09/02/2018 12:09:02","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,NancwO
+399330,"09/02/2018 12:09:14","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,FG8eLu
+399331,"09/02/2018 12:09:43","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,44SNh4
+399332,"09/02/2018 12:10:01","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,m+eNH2
+399333,"09/02/2018 12:10:16","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ytHO3F
+399334,"09/02/2018 12:10:29","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,uerlH2
+399335,"09/02/2018 12:10:35","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,39Mbwm
+399336,"09/02/2018 12:10:45","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,pSlydd
+399337,"09/02/2018 12:11:08","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,kDdxpC
+399338,"09/02/2018 12:11:19","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Zpefap
+399339,"09/02/2018 12:11:41","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,IHpOc8
+399340,"09/02/2018 12:11:55","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,A9GyO2
+399341,"09/02/2018 12:12:11","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,E+ihlU
+399342,"09/02/2018 12:12:22","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,cnQ1SX
+399343,"09/02/2018 12:12:38","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,t0BdMO
+399344,"09/02/2018 12:12:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,9xWeZ9
+399345,"09/02/2018 12:13:28","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,TNC0ty
+399346,"09/02/2018 12:13:40","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,h+R56f
+399347,"09/02/2018 12:14:09","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,RNUG80
+399348,"09/02/2018 12:14:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,S0VvpT
+399349,"09/02/2018 12:14:31","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,25A17t
+399350,"09/02/2018 12:14:47","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,hZVIDk
+399351,"09/02/2018 12:15:09","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,QFkfdX
+399352,"09/02/2018 12:15:21","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,gVc+nB
+399353,"09/02/2018 12:15:42","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Ivceu/
+399354,"09/02/2018 12:15:53","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,oMBSRS
+399355,"09/02/2018 12:16:19","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,0wD1Jq
+399356,"09/02/2018 12:16:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,CDiUgZ
+399357,"09/02/2018 12:16:50","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ZG0dqX
+399358,"09/02/2018 12:17:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,A3SXZo
+399359,"09/02/2018 12:17:31","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,O1Rule
+399360,"09/02/2018 12:17:43","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,5Oa5+y
+399361,"09/02/2018 12:17:57","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,EcuMhM
+399362,"09/02/2018 12:18:09","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ZnJ9WF
+399363,"09/02/2018 12:18:23","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,O3oePd
+399364,"09/02/2018 12:18:34","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Jkm+kB
+399365,"09/02/2018 12:18:46","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,vTf98H
+399366,"09/02/2018 12:18:57","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,3cJvsX
+399367,"09/02/2018 12:19:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,F6kwIF
+399368,"09/02/2018 12:19:41","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ZUKFAp
+399369,"09/02/2018 12:19:55","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,0ErivK
+399370,"09/02/2018 12:20:07","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ITRmka
+399371,"09/02/2018 12:20:25","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,uSNWCM
+399372,"09/02/2018 12:20:38","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Ir7PKi
+399373,"09/02/2018 12:20:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,wQQxY/
+399374,"09/02/2018 12:21:02","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,JSC59L
+399375,"09/02/2018 12:21:23","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,7LRJWL
+399376,"09/02/2018 12:21:33","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ftQSPR
+399377,"09/02/2018 12:22:07","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Yzo2mZ
+399378,"09/02/2018 12:22:19","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,VIwnHk
+399379,"09/02/2018 12:22:42","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,SHGkcO
+399380,"09/02/2018 12:22:53","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,8KMpHF
+399381,"09/02/2018 12:23:17","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,UaH3Xs
+399382,"09/02/2018 12:23:27","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,dni0dS
+399383,"09/02/2018 12:23:44","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,wtr/EA
+399384,"09/02/2018 12:23:57","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,uaKXI8
+399385,"09/02/2018 12:24:13","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,k7p5tL
+399386,"09/02/2018 12:24:23","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,8EU33c
+399387,"09/02/2018 12:24:40","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,tPhGj8
+399388,"09/02/2018 12:24:54","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ppqALz
+399389,"09/02/2018 12:25:08","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,e+ptmT
+399390,"09/02/2018 12:25:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,/SCH7O
+399391,"09/02/2018 12:25:36","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,MMD25M
+399392,"09/02/2018 12:25:47","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,WYBWTx
+399393,"09/02/2018 12:26:10","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,z69A4n
+399394,"09/02/2018 12:26:21","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,5YCHiQ
+399395,"09/02/2018 12:26:53","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Lsfamj
+399396,"09/02/2018 12:27:03","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,JKTkgY
+399397,"09/02/2018 12:27:21","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,09hOUD
+399398,"09/02/2018 12:27:32","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,4u4p77
+399399,"09/02/2018 12:27:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,LCZe1O
+399400,"09/02/2018 12:28:01","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,w67u+X
+399401,"09/02/2018 12:28:23","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,mAR9ly
+399402,"09/02/2018 12:28:36","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,6IIhjv
+399403,"09/02/2018 12:28:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,mXHZRk
+399404,"09/02/2018 12:29:00","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,uKetdk
+399405,"09/02/2018 12:29:28","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3awoox
+399406,"09/02/2018 12:29:41","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,iCaerW
+399407,"09/02/2018 12:29:54","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,IAxXjf
+399408,"09/02/2018 12:30:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,qFVnTB
+399409,"09/02/2018 12:30:24","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,hOexsn
+399410,"09/02/2018 12:30:37","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,OanzKD
+399411,"09/02/2018 12:31:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Zwtc5o
+399412,"09/02/2018 12:31:16","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,tBozFe
+399413,"09/02/2018 12:31:39","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Z6E2OY
+399414,"09/02/2018 12:31:51","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,187HJT
+399415,"09/02/2018 12:32:16","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,OoNDhx
+399416,"09/02/2018 12:32:29","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Cb8wGD
+399417,"09/02/2018 12:32:32","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,GDxL7p
+399418,"09/02/2018 12:32:43","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,CtWWQi
+399419,"09/02/2018 12:33:03","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,JVlTcP
+399420,"09/02/2018 12:33:16","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,7vBzxa
+399421,"09/02/2018 12:33:40","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,wWn1nR
+399422,"09/02/2018 12:33:53","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,v/iOGN
+399423,"09/02/2018 12:34:16","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,slxHj2
+399424,"09/02/2018 12:34:26","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,y0zG5x
+399425,"09/02/2018 12:34:42","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,DmyXLU
+399426,"09/02/2018 12:34:53","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,e7laj6
+399427,"09/02/2018 12:35:08","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,CIRPEg
+399428,"09/02/2018 12:35:21","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,t85E9P
+399429,"09/02/2018 12:35:36","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ndS9iI
+399430,"09/02/2018 12:35:48","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,HcFe+L
+399431,"09/02/2018 12:36:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,DgP0kO
+399432,"09/02/2018 12:36:19","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ROYb3m
+399433,"09/02/2018 12:36:44","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,obvnhg
+399434,"09/02/2018 12:36:55","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,/I2Qxb
+399435,"09/02/2018 12:37:23","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ihlv+Z
+399436,"09/02/2018 12:37:37","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,+FPx6j
+399437,"09/02/2018 12:37:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,OBa6tD
+399438,"09/02/2018 12:38:03","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,18Pwkn
+399439,"09/02/2018 12:38:26","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Gv90gD
+399440,"09/02/2018 12:38:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,kBFWv+
+399441,"09/02/2018 12:39:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,R8tW71
+399442,"09/02/2018 12:39:19","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,XtoFhr
+399443,"09/02/2018 12:45:36","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,a/EVI9
+399444,"09/02/2018 12:45:51","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,c0I9XO
+399445,"09/02/2018 12:46:16","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,YEhFOA
+399446,"09/02/2018 12:46:31","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,74FBkk
+399447,"09/02/2018 12:46:39","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,NYBvki
+399448,"09/02/2018 12:46:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,tG/B58
+399449,"09/02/2018 12:47:15","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,eOddy+
+399450,"09/02/2018 12:47:28","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,p8B1Rj
+399451,"09/02/2018 12:48:02","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,g9qyJy
+399452,"09/02/2018 12:48:15","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,9adYTq
+399453,"09/02/2018 12:48:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,p/aLob
+399454,"09/02/2018 12:48:30","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,qPGQOs
+399455,"09/02/2018 12:48:48","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,wp/1ZD
+399456,"09/02/2018 12:49:00","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,6XhwdP
+399457,"09/02/2018 12:49:35","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,UkbgVM
+399458,"09/02/2018 12:49:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,uVcO/j
+399459,"09/02/2018 12:49:51","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,z15F+B
+399460,"09/02/2018 12:50:02","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,wdRAvW
+399461,"09/02/2018 12:50:22","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,hca4Dm
+399462,"09/02/2018 12:50:33","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Q8JOmT
+399463,"09/02/2018 12:50:55","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,dSRjtb
+399464,"09/02/2018 12:51:10","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,y63B32
+399465,"09/02/2018 12:51:23","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,aOp3Sd
+399466,"09/02/2018 12:51:32","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,LIRvyn
+399467,"09/02/2018 12:51:48","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,6U3yeS
+399468,"09/02/2018 12:51:59","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,K4lMb/
+399469,"09/02/2018 12:52:06","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,oSEOia
+399470,"09/02/2018 12:52:17","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,FX0mXt
+399471,"09/02/2018 12:52:36","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Cq5Kfo
+399472,"09/02/2018 12:52:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,QDwkv+
+399473,"09/02/2018 12:53:12","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,wuli0m
+399474,"09/02/2018 12:53:26","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,5vcauC
+399475,"09/02/2018 12:53:57","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,qyFWsC
+399476,"09/02/2018 12:54:15","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,WnUnG6
+399477,"09/02/2018 12:54:17","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,n/pXdH
+399478,"09/02/2018 12:54:29","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,BBhU2U
+399479,"09/02/2018 12:54:49","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,bIKLP0
+399480,"09/02/2018 12:55:00","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,tkrtSt
+399481,"09/02/2018 12:55:25","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,by/wSQ
+399482,"09/02/2018 12:55:38","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,sNyxFH
+399483,"09/02/2018 12:56:02","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,E2chbS
+399484,"09/02/2018 12:56:18","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,jdVZrl
+399485,"09/02/2018 12:56:40","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,jJpwDq
+399486,"09/02/2018 12:56:54","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,k696d/
+399487,"09/02/2018 12:57:11","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,2Sf46L
+399488,"09/02/2018 12:57:27","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,KByRdO
+399489,"09/02/2018 12:57:46","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,PoTUKq
+399490,"09/02/2018 12:57:59","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,aBjTdl
+399491,"09/02/2018 12:58:20","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,+PJtzP
+399492,"09/02/2018 12:58:31","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,eoYcSz
+399493,"09/02/2018 12:58:46","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,hrnT8n
+399494,"09/02/2018 12:58:56","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,dtSj90
+399495,"09/02/2018 12:59:33","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Lu9L3j
+399496,"09/02/2018 12:59:43","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ZIj49E
+399497,"09/02/2018 12:59:51","+0:00","barbm","Alarm: 1091","Acknowledgment of 1091 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,yMaMNq
+399498,"09/02/2018 12:59:51","+0:00","barbm","Alarm:","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment",,LfWfOe
+399499,"09/02/2018 12:59:51","+0:00","barbm","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,jOqJ6S
+399500,"09/02/2018 13:00:26","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,LBqFXQ
+399501,"09/02/2018 13:00:41","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ZWstTr
+399502,"09/02/2018 13:01:02","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,+une4q
+399503,"09/02/2018 13:01:16","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,6yHvCd
+399504,"09/02/2018 13:01:33","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,W5v+Tr
+399505,"09/02/2018 13:01:43","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,BNR9yV
+399506,"09/02/2018 13:02:14","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,J1KVXP
+399507,"09/02/2018 13:02:27","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,f1lkhZ
+399508,"09/02/2018 13:02:52","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,JrdAiC
+399509,"09/02/2018 13:03:04","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,tQZ4fN
+399510,"09/02/2018 13:03:33","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,MQcAfU
+399511,"09/02/2018 13:03:46","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,hQU6ho
+399512,"09/02/2018 13:03:47","+0:00","barbm","Alarm","COVER OPEN 3  On",,3pTPS1
+399513,"09/02/2018 13:03:48","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  On",,jStPlb
+399514,"09/02/2018 13:03:48","+0:00","barbm","Alarm","EMERGENCY  On",,kmnXoA
+399515,"09/02/2018 13:03:48","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  On",,2VBjQD
+399516,"09/02/2018 13:03:48","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  On",,W9rfOp
+399517,"09/02/2018 13:03:48","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  On",,m6x0LW
+399518,"09/02/2018 13:03:54","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,/wGBmc
+399519,"09/02/2018 13:04:10","+0:00","barbm","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,kCS4O+
+399520,"09/02/2018 13:10:40","+0:00","barbm","Alarm","COVER OPEN 4  On",,IIPcRs
+399521,"09/02/2018 13:28:00","+0:00","barbm","Alarm","COVER OPEN 3  Off",,OG811L
+399522,"09/02/2018 13:28:00","+0:00","barbm","Alarm","COVER OPEN 4  Off",,3POsaj
+399523,"09/02/2018 13:28:00","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  Off",,dUoY21
+399524,"09/02/2018 13:28:00","+0:00","barbm","Alarm","EMERGENCY  Off",,r6D45l
+399525,"09/02/2018 13:28:04","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  Off",,zKNsUt
+399526,"09/02/2018 13:28:04","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  Off",,HUPWO5
+399527,"09/02/2018 13:28:04","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  Off",,JZy32l
+399528,"09/02/2018 13:28:08","+0:00","barbm","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  On",,ypCbxb
+399529,"09/02/2018 13:28:17","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  On",,uSYUvI
+399530,"09/02/2018 13:28:17","+0:00","barbm","Alarm","EMERGENCY  On",,2ieZiM
+399531,"09/02/2018 13:28:17","+0:00","barbm","Alarm","COVER OPEN 3  On",,lzd/m4
+399532,"09/02/2018 13:28:17","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  On",,0YwEB3
+399533,"09/02/2018 13:28:17","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  On",,VZ41G8
+399534,"09/02/2018 13:28:17","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  On",,SwfJC2
+399535,"09/02/2018 13:28:20","+0:00","barbm","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Off",,GFXAYW
+399536,"09/02/2018 13:28:20","+0:00","barbm","Alarm","COVER OPEN 3  Off",,Rg8JN4
+399537,"09/02/2018 13:28:20","+0:00","barbm","Alarm","EMERGENCY  Off",,MsWAvy
+399538,"09/02/2018 13:28:21","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  Off",,TV96Nh
+399539,"09/02/2018 13:28:21","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  Off",,xA9cLC
+399540,"09/02/2018 13:28:21","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  Off",,h+NlQf
+399541,"09/02/2018 13:28:21","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  Off",,wUGw3e
+399542,"09/02/2018 13:28:24","+0:00","barbm","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  On",,/qrvou
+399543,"09/02/2018 13:29:15","+0:00","barbm","Alarm: 1097","Acknowledgment of 1097 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,StmgQm
+399544,"09/02/2018 13:29:15","+0:00","barbm","Alarm:","COVER OPEN 4  Acknowledgment",,NxGBi0
+399545,"09/02/2018 13:29:15","+0:00","barbm","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,imhaCG
+399546,"09/02/2018 13:29:15","+0:00","barbm","Alarm:","EMERGENCY  Acknowledgment",,cwc20D
+399547,"09/02/2018 13:29:15","+0:00","barbm","Alarm:","COVER OPEN 3  Acknowledgment",,Fv9csn
+399548,"09/02/2018 13:29:15","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,EdCkJW
+399549,"09/02/2018 13:29:15","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,YDQM3l
+399550,"09/02/2018 13:29:15","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,lgsLg/
+399551,"09/02/2018 13:29:15","+0:00","barbm","Alarm:","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Acknowledgment",,8AmsqE
+399552,"09/02/2018 13:29:17","+0:00","barbm","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Off",,u9uMi4
+399553,"09/02/2018 13:30:45","+0:00","barbm","Alarm","ALARM INFEED BELT MOTOR  On",,MuwXUS
+399554,"09/02/2018 13:30:45","+0:00","barbm","Alarm","EMERGENCY  On",,xErT99
+399555,"09/02/2018 13:30:45","+0:00","barbm","Alarm","COVER OPEN 3  On",,ZteFpk
+399556,"09/02/2018 13:30:45","+0:00","barbm","Alarm","ALARM ROTATION MOTOR  On",,8jcobE
+399557,"09/02/2018 13:30:45","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 2  On",,K7gYw3
+399558,"09/02/2018 13:30:45","+0:00","barbm","Alarm","ALARM ROTATION MOTOR 3  On",,CBl4vq
+399559,"09/02/2018 13:33:04","+0:00","barbm","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,MtMOwr
+399560,"09/02/2018 13:33:04","+0:00","barbm","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,W7lBsM
+399561,"09/02/2018 13:33:04","+0:00","barbm","Alarm:","EMERGENCY  Acknowledgment",,fOJeEn
+399562,"09/02/2018 13:33:04","+0:00","barbm","Alarm:","COVER OPEN 3  Acknowledgment",,6Hw1p0
+399563,"09/02/2018 13:33:04","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,0CdRbE
+399564,"09/02/2018 13:33:04","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,/5jH8d
+399565,"09/02/2018 13:33:04","+0:00","barbm","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,bPS7ZS
+399566,"09/02/2018 13:33:04","+0:00","barbm","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,SAz7Sh
+399567,"09/02/2018 13:33:05","+0:00","barbm","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,biNMwL
+399568,"09/02/2018 14:05:23","+0:00","barbm","Warning","WARNING SAFETY DOORS EXCLUDED  On",,Ei/XNN
+399569,"09/02/2018 14:35:06","+0:00","System","User administration","User logged off.",,f8BFK7
+399570,"09/02/2018 14:35:06","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,uWWuOZ
+399571,"09/02/2018 15:28:34","+0:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,pCdDwB
+399572,"09/02/2018 15:53:35","+0:00",,"Warning","ALARM VACUUM SENSOR  On",,zEZ/Y9
+399573,"09/02/2018 15:53:35","+0:00",,"Warning","WARNING SAFETY DOORS EXCLUDED  Off",,uvaOdJ
+399574,"09/02/2018 15:53:46","+0:00",,"Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,mH8aLs
+399575,"09/02/2018 15:53:46","+0:00",,"Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,CErQZ9
+399576,"09/02/2018 15:53:48","+0:00",,"Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,xUH04o
+399577,"09/02/2018 16:10:20","+0:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,UiZo09
+399578,"09/02/2018 16:10:20","+0:00",,"Warning","WARNING UPS  On",,bdUKtx
+399579,"09/02/2018 16:10:24","+0:00",,"Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,DnpDRO
+399580,"09/02/2018 16:10:24","+0:00",,"Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,sHQ3BZ
+399581,"12/02/2018 08:16:31","+0:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,zbEkl1
+0,"12/02/2018 08:16:31","+0:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,NAexVs
+399582,"12/02/2018 08:16:32","+0:00","System","Application","Change to operating mode 'online'.",,IxhrUY
+399583,"12/02/2018 08:16:32","+0:00","System","User administration","Password list imported successfully.",,JA6VsL
+0,"12/02/2018 08:16:33","+0:00","System","Logs","Log files closed.",,QwMffe
+"$RT_COUNT$",924,kk14ge,,,,,+QKOQ/

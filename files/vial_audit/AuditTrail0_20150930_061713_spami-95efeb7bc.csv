@@ -1,0 +1,620 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"29/09/2015 14:29:51","-2:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,K2j/QR
+121145,"29/09/2015 14:29:51","-2:00","System","Logs","Exporting a log.",,DdQC3C
+121146,"29/09/2015 14:30:03","-2:00",,"Recipe","Loading recipe number 7 ( Knapp 100ml ) on the interface.",,HTZEmM
+121147,"29/09/2015 14:30:03","-2:00",,"Recipe","Data trasfered to PLC",,2kCi/D
+121148,"29/09/2015 14:30:03","-2:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,ehdQun
+121149,"29/09/2015 14:30:03","-2:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,NRnWkk
+121150,"29/09/2015 14:30:03","-2:00",,"Warning","PVSI NOT READY  On",,edHjJ1
+121151,"29/09/2015 14:30:03","-2:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,lQW0h7
+121152,"29/09/2015 14:30:03","-2:00",,"Warning","PVSI NOT RUNNING   On",,U9pt/7
+121153,"29/09/2015 14:30:03","-2:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,s6Lifk
+121154,"29/09/2015 14:30:05","-2:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,3/obC3
+121155,"29/09/2015 14:30:15","-2:00","System","User administration","User 'Admin' logged on with group 'Administrator'.",,z3MbRJ
+121156,"29/09/2015 14:30:26","-2:00","Admin","Warning","PVSI NOT RUNNING   Off",,0gTkV+
+121157,"29/09/2015 14:30:31","-2:00","Admin","Warning","KNAPP READY TO START  On",,966Km/
+121158,"29/09/2015 14:30:32","-2:00","Admin","Alarm","WARNING MISSING LOGIN OPERATION  Off",,casjdQ
+121159,"29/09/2015 14:30:32","-2:00","Admin","Warning","PVSI NOT READY  Off",,YW9jNc
+121160,"29/09/2015 14:30:32","-2:00","Admin","Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,F/tj0H
+121161,"29/09/2015 14:30:33","-2:00","Admin","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Ips9dG
+121162,"29/09/2015 14:30:33","-2:00","Admin","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,zovmop
+121163,"29/09/2015 14:30:33","-2:00","Admin","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,Ds8bW2
+121164,"29/09/2015 14:30:33","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,rJUCON
+121165,"29/09/2015 14:30:33","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,2uXEJw
+121166,"29/09/2015 14:30:33","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,ghtPxG
+121167,"29/09/2015 14:30:39","-2:00","Admin","Warning","PVSI NOT READY  On",,+gxmyl
+121168,"29/09/2015 14:30:51","-2:00","Admin","Warning","KNAPP READY TO START  Off",,jOlJb5
+121169,"29/09/2015 14:30:51","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,swYo7P
+121170,"29/09/2015 14:31:08","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,yjy9K0
+121171,"29/09/2015 14:31:08","-2:00","Admin","Warning","KNAPP IN PROGRESS  On",,N/6IN+
+121172,"29/09/2015 14:34:17","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,Uh5+yL
+121173,"29/09/2015 14:34:17","-2:00","Admin","Warning","KNAPP READY TO START  On",,HaRfqa
+121174,"29/09/2015 14:34:17","-2:00","Admin","Warning","KNAPP IN PROGRESS  Off",,jttJ5g
+121175,"29/09/2015 14:34:42","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,O9JxhM
+121176,"29/09/2015 14:34:42","-2:00","Admin","Alarm","EMERGENCY  On",,UfiZRb
+121177,"29/09/2015 14:34:42","-2:00","Admin","Alarm","COVER OPEN 4  On",,uyBtKW
+121178,"29/09/2015 14:34:42","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,NKRoGP
+121179,"29/09/2015 14:34:42","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,ScpoUk
+121180,"29/09/2015 14:34:42","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,tTIPFo
+121181,"29/09/2015 14:34:42","-2:00","Admin","Alarm","COVER OPEN 3  On",,rBzI9A
+121182,"29/09/2015 14:35:15","-2:00","Admin","Alarm","COVER OPEN 2  On",,Y6vLUs
+121183,"29/09/2015 14:35:16","-2:00","Admin","Alarm","COVER OPEN 1  On",,10WSuI
+121184,"29/09/2015 14:37:08","-2:00","Admin","Warning","ALARM VACUUM SENSOR  On",,iaO3K2
+121185,"29/09/2015 14:37:08","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,9bxu1F
+121186,"29/09/2015 14:37:08","-2:00","Admin","Warning","KNAPP READY TO START  Off",,8ljQsY
+121187,"29/09/2015 14:37:08","-2:00","Admin","Warning","ALARM VACUUM SENSOR  Off",,8pFXLv
+121188,"29/09/2015 14:37:08","-2:00","Admin","Warning","PVSI NOT READY  Off",,1J1z0L
+121189,"29/09/2015 14:37:08","-2:00","Admin","Alarm","COVER OPEN 1  Off",,Cii4Zd
+121190,"29/09/2015 14:37:08","-2:00","Admin","Alarm","COVER OPEN 2  Off",,nFmYX0
+121191,"29/09/2015 14:37:08","-2:00","Admin","Alarm","COVER OPEN 3  Off",,6mo9Pq
+121192,"29/09/2015 14:37:08","-2:00","Admin","Alarm","COVER OPEN 4  Off",,a8Ytnw
+121193,"29/09/2015 14:37:09","-2:00","Admin","Alarm","EMERGENCY  Off",,b1K1yp
+121194,"29/09/2015 14:37:09","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,lPJ0Fc
+121195,"29/09/2015 14:37:09","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,KTCZ5r
+121196,"29/09/2015 14:37:09","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,NFp6Bi
+121197,"29/09/2015 14:37:09","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,8UTT9u
+121198,"29/09/2015 14:37:09","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,c0VMYk
+121199,"29/09/2015 14:37:09","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,eNkx5K
+121200,"29/09/2015 14:37:09","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,oNEsbB
+121201,"29/09/2015 14:37:09","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,SBdrCO
+121202,"29/09/2015 14:37:09","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,bQnk0e
+121203,"29/09/2015 14:37:09","-2:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,eCQ0a8
+121204,"29/09/2015 14:37:09","-2:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,9WZo5q
+121205,"29/09/2015 14:37:09","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,9yqCY/
+121206,"29/09/2015 14:37:10","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,PCB+3w
+121207,"29/09/2015 14:37:10","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,IhB3n/
+121208,"29/09/2015 14:37:10","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,aWKPf2
+121209,"29/09/2015 14:37:10","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,mXyBzH
+121210,"29/09/2015 14:37:10","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,r1cOqP
+121211,"29/09/2015 14:37:10","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,i5lqHO
+121212,"29/09/2015 14:37:10","-2:00","Admin","Warning","KNAPP READY TO START  On",,h3qBDJ
+121213,"29/09/2015 14:37:12","-2:00","Admin","Warning","KNAPP READY TO START  Off",,BSTg/r
+121214,"29/09/2015 14:37:12","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,qJsrrg
+121215,"29/09/2015 14:37:17","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,+FI4Cd
+121216,"29/09/2015 14:37:17","-2:00","Admin","Warning","KNAPP IN PROGRESS  On",,XhInwI
+121217,"29/09/2015 14:40:26","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,j1GrlJ
+121218,"29/09/2015 14:40:26","-2:00","Admin","Warning","KNAPP READY TO START  On",,MSHZtS
+121219,"29/09/2015 14:40:26","-2:00","Admin","Warning","KNAPP IN PROGRESS  Off",,x03PUH
+121220,"29/09/2015 14:40:28","-2:00","Admin","Warning","PVSI NOT READY  On",,26hztJ
+121221,"29/09/2015 14:40:43","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,/3Kx5+
+121222,"29/09/2015 14:40:43","-2:00","Admin","Alarm","EMERGENCY  On",,xl1JaW
+121223,"29/09/2015 14:40:43","-2:00","Admin","Alarm","COVER OPEN 4  On",,2Hcyv+
+121224,"29/09/2015 14:40:44","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,cZTqza
+121225,"29/09/2015 14:40:44","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,X+Yglk
+121226,"29/09/2015 14:40:44","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,4IsdWI
+121227,"29/09/2015 14:40:44","-2:00","Admin","Alarm","COVER OPEN 3  On",,97ygYt
+121228,"29/09/2015 14:41:20","-2:00","Admin","Alarm","COVER OPEN 2  On",,Rf3IkP
+121229,"29/09/2015 14:41:21","-2:00","Admin","Alarm","COVER OPEN 1  On",,kpQOku
+121230,"29/09/2015 14:42:39","-2:00","Admin","Warning","ALARM VACUUM SENSOR  On",,8rapqn
+121231,"29/09/2015 14:42:39","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,bieLwv
+121232,"29/09/2015 14:42:39","-2:00","Admin","Warning","KNAPP READY TO START  Off",,oJctSB
+121233,"29/09/2015 14:42:40","-2:00","Admin","Warning","ALARM VACUUM SENSOR  Off",,y69tqv
+121234,"29/09/2015 14:42:40","-2:00","Admin","Warning","PVSI NOT READY  Off",,aOGG4d
+121235,"29/09/2015 14:42:40","-2:00","Admin","Alarm","COVER OPEN 1  Off",,bK7K9A
+121236,"29/09/2015 14:42:40","-2:00","Admin","Alarm","COVER OPEN 2  Off",,A4G3G6
+121237,"29/09/2015 14:42:40","-2:00","Admin","Alarm","COVER OPEN 3  Off",,zn/HNw
+121238,"29/09/2015 14:42:40","-2:00","Admin","Alarm","COVER OPEN 4  Off",,adnEox
+121239,"29/09/2015 14:42:40","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,05o33o
+121240,"29/09/2015 14:42:40","-2:00","Admin","Alarm","EMERGENCY  Off",,OYD+u+
+121241,"29/09/2015 14:42:40","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,duOktE
+121242,"29/09/2015 14:42:40","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,R+h8Eg
+121243,"29/09/2015 14:42:40","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,4rohxA
+121244,"29/09/2015 14:42:40","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,d3yzEy
+121245,"29/09/2015 14:42:40","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,AoKxJh
+121246,"29/09/2015 14:42:40","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,yVGyGr
+121247,"29/09/2015 14:42:40","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,qk6Kzu
+121248,"29/09/2015 14:42:40","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,T9B1Th
+121249,"29/09/2015 14:42:40","-2:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,7m19OW
+121250,"29/09/2015 14:42:40","-2:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,WmyA2a
+121251,"29/09/2015 14:42:40","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,gb1u+p
+121252,"29/09/2015 14:42:41","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,8/P1Oy
+121253,"29/09/2015 14:42:41","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,cdxcGR
+121254,"29/09/2015 14:42:41","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,ETbOWP
+121255,"29/09/2015 14:42:41","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,6n8udZ
+121256,"29/09/2015 14:42:41","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,YCJK/n
+121257,"29/09/2015 14:42:41","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,2/oFy+
+121258,"29/09/2015 14:42:41","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,c9bO6B
+121259,"29/09/2015 14:42:42","-2:00","Admin","Warning","KNAPP READY TO START  On",,MXLHMt
+121260,"29/09/2015 14:42:43","-2:00","Admin","Warning","KNAPP READY TO START  Off",,ue0DjA
+121261,"29/09/2015 14:42:43","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,1PTCRt
+121262,"29/09/2015 14:42:48","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,aeKoJd
+121263,"29/09/2015 14:42:48","-2:00","Admin","Warning","KNAPP IN PROGRESS  On",,40UGWk
+121264,"29/09/2015 14:45:57","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,cLdI0A
+121265,"29/09/2015 14:45:57","-2:00","Admin","Warning","KNAPP READY TO START  On",,2o/HTn
+121266,"29/09/2015 14:45:57","-2:00","Admin","Warning","KNAPP IN PROGRESS  Off",,AwFk4l
+121267,"29/09/2015 14:46:01","-2:00","Admin","Warning","PVSI NOT READY  On",,/Og9iY
+121268,"29/09/2015 14:46:13","-2:00","Admin","Alarm","COVER OPEN 4  On",,j2FE3o
+121269,"29/09/2015 14:46:13","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,sVbKdu
+121270,"29/09/2015 14:46:13","-2:00","Admin","Alarm","EMERGENCY  On",,dzFP3D
+121271,"29/09/2015 14:46:14","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,lA8M5f
+121272,"29/09/2015 14:46:14","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,DUhyn7
+121273,"29/09/2015 14:46:14","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,wty5EX
+121274,"29/09/2015 14:46:14","-2:00","Admin","Alarm","COVER OPEN 3  On",,xkUwpe
+121275,"29/09/2015 14:46:40","-2:00","Admin","Alarm","COVER OPEN 2  On",,RDNRil
+121276,"29/09/2015 14:46:41","-2:00","Admin","Alarm","COVER OPEN 1  On",,zjyuMe
+121277,"29/09/2015 14:48:02","-2:00","Admin","Warning","PVSI NOT READY  Off",,Ab2Z+V
+121278,"29/09/2015 14:48:02","-2:00","Admin","Alarm","COVER OPEN 1  Off",,81tQKB
+121279,"29/09/2015 14:48:02","-2:00","Admin","Alarm","COVER OPEN 2  Off",,nKOdER
+121280,"29/09/2015 14:48:02","-2:00","Admin","Alarm","COVER OPEN 3  Off",,m7MsNS
+121281,"29/09/2015 14:48:02","-2:00","Admin","Alarm","COVER OPEN 4  Off",,W3Hrby
+121282,"29/09/2015 14:48:02","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,RkTFrG
+121283,"29/09/2015 14:48:02","-2:00","Admin","Alarm","EMERGENCY  Off",,0QkaxS
+121284,"29/09/2015 14:48:05","-2:00","Admin","Warning","ALARM VACUUM SENSOR  On",,S/G1TH
+121285,"29/09/2015 14:48:05","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,3GQdZm
+121286,"29/09/2015 14:48:05","-2:00","Admin","Warning","KNAPP READY TO START  Off",,76M13D
+121287,"29/09/2015 14:48:06","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,QVJshk
+121288,"29/09/2015 14:48:06","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,DZwqPC
+121289,"29/09/2015 14:48:06","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,yHbMaO
+121290,"29/09/2015 14:48:06","-2:00","Admin","Warning","ALARM VACUUM SENSOR  Off",,+l0mmU
+121291,"29/09/2015 14:48:07","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,zlnXSx
+121292,"29/09/2015 14:48:07","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,eigqol
+121293,"29/09/2015 14:48:07","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,uZ8FOC
+121294,"29/09/2015 14:48:07","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,rVsQPi
+121295,"29/09/2015 14:48:07","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,nSBA3h
+121296,"29/09/2015 14:48:07","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,cu5cDp
+121297,"29/09/2015 14:48:07","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,go/zjR
+121298,"29/09/2015 14:48:07","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,EpiXY3
+121299,"29/09/2015 14:48:07","-2:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,IJq1kv
+121300,"29/09/2015 14:48:07","-2:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,tCHG3y
+121301,"29/09/2015 14:48:07","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,hgZMFv
+121302,"29/09/2015 14:48:07","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,X+MJDC
+121303,"29/09/2015 14:48:07","-2:00","Admin","Warning","KNAPP READY TO START  On",,QjhV8P
+121304,"29/09/2015 14:48:09","-2:00","Admin","Warning","KNAPP READY TO START  Off",,CouLdw
+121305,"29/09/2015 14:48:09","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,jO+tpB
+121306,"29/09/2015 14:48:14","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,zgVxmS
+121307,"29/09/2015 14:48:14","-2:00","Admin","Warning","KNAPP IN PROGRESS  On",,aexTot
+121308,"29/09/2015 14:51:23","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,XlKYxs
+121309,"29/09/2015 14:51:23","-2:00","Admin","Warning","KNAPP READY TO START  On",,rJpCDb
+121310,"29/09/2015 14:51:23","-2:00","Admin","Warning","KNAPP IN PROGRESS  Off",,xmIMIy
+121311,"29/09/2015 14:51:26","-2:00","Admin","Warning","PVSI NOT READY  On",,5g3gbR
+121312,"29/09/2015 14:51:39","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,ZuNTIV
+121313,"29/09/2015 14:51:39","-2:00","Admin","Alarm","EMERGENCY  On",,sE4XpO
+121314,"29/09/2015 14:51:39","-2:00","Admin","Alarm","COVER OPEN 4  On",,N/qMll
+121315,"29/09/2015 14:51:39","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,xWvDFo
+121316,"29/09/2015 14:51:39","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,4+T4hW
+121317,"29/09/2015 14:51:39","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,FZcfPx
+121318,"29/09/2015 14:51:39","-2:00","Admin","Alarm","COVER OPEN 3  On",,zM0iEH
+121319,"29/09/2015 14:51:58","-2:00","Admin","Alarm","COVER OPEN 2  On",,FTxUoT
+121320,"29/09/2015 14:51:58","-2:00","Admin","Alarm","COVER OPEN 1  On",,re7fn1
+121321,"29/09/2015 14:53:44","-2:00","Admin","Warning","PVSI NOT READY  Off",,zHsabr
+121322,"29/09/2015 14:53:44","-2:00","Admin","Alarm","COVER OPEN 1  Off",,uPr97p
+121323,"29/09/2015 14:53:44","-2:00","Admin","Alarm","COVER OPEN 2  Off",,3rKHPp
+121324,"29/09/2015 14:53:44","-2:00","Admin","Alarm","COVER OPEN 3  Off",,jq4zDJ
+121325,"29/09/2015 14:53:44","-2:00","Admin","Alarm","COVER OPEN 4  Off",,jSmHgx
+121326,"29/09/2015 14:53:44","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,Soy8Qt
+121327,"29/09/2015 14:53:44","-2:00","Admin","Alarm","EMERGENCY  Off",,oIxo9d
+121328,"29/09/2015 14:53:47","-2:00","Admin","Warning","ALARM VACUUM SENSOR  On",,bUisHM
+121329,"29/09/2015 14:53:47","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,T+RTso
+121330,"29/09/2015 14:53:47","-2:00","Admin","Warning","KNAPP READY TO START  Off",,Srkaii
+121331,"29/09/2015 14:53:48","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,K4i1TI
+121332,"29/09/2015 14:53:48","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,DHUpZo
+121333,"29/09/2015 14:53:48","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,b4bCow
+121334,"29/09/2015 14:53:48","-2:00","Admin","Warning","ALARM VACUUM SENSOR  Off",,i5xr8Q
+121335,"29/09/2015 14:53:48","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,pKYHbN
+121336,"29/09/2015 14:53:48","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,Jq7tvt
+121337,"29/09/2015 14:53:48","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,7O0xtz
+121338,"29/09/2015 14:53:48","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,9Iiw1u
+121339,"29/09/2015 14:53:48","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,2AhE/L
+121340,"29/09/2015 14:53:48","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,I561Hy
+121341,"29/09/2015 14:53:48","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,2gx/9F
+121342,"29/09/2015 14:53:48","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,pjYzhU
+121343,"29/09/2015 14:53:48","-2:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,Y3lP8U
+121344,"29/09/2015 14:53:48","-2:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,fmlfHD
+121345,"29/09/2015 14:53:49","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,kVbq2q
+121346,"29/09/2015 14:53:49","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,So80oP
+121347,"29/09/2015 14:53:49","-2:00","Admin","Warning","KNAPP READY TO START  On",,xTBXmM
+121348,"29/09/2015 14:53:51","-2:00","Admin","Warning","KNAPP READY TO START  Off",,49MCs0
+121349,"29/09/2015 14:53:51","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,g717oR
+121350,"29/09/2015 14:53:56","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,N0DtZy
+121351,"29/09/2015 14:53:56","-2:00","Admin","Warning","KNAPP IN PROGRESS  On",,KNtk50
+121352,"29/09/2015 14:57:05","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,orcOe9
+121353,"29/09/2015 14:57:05","-2:00","Admin","Warning","KNAPP READY TO START  On",,O+Marc
+121354,"29/09/2015 14:57:05","-2:00","Admin","Warning","KNAPP IN PROGRESS  Off",,I66mOD
+121355,"29/09/2015 14:57:08","-2:00","Admin","Warning","PVSI NOT READY  On",,PNHVd5
+121356,"29/09/2015 14:57:23","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,O2f3lN
+121357,"29/09/2015 14:57:23","-2:00","Admin","Alarm","EMERGENCY  On",,0UovTY
+121358,"29/09/2015 14:57:23","-2:00","Admin","Alarm","COVER OPEN 4  On",,g3LbZn
+121359,"29/09/2015 14:57:23","-2:00","Admin","Alarm","COVER OPEN 3  On",,JX1+/s
+121360,"29/09/2015 14:57:23","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,x5J55L
+121361,"29/09/2015 14:57:23","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,yga+qk
+121362,"29/09/2015 14:57:23","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,Hkwxa9
+121363,"29/09/2015 14:57:47","-2:00","Admin","Alarm","COVER OPEN 2  On",,kYp/7z
+121364,"29/09/2015 14:57:48","-2:00","Admin","Alarm","COVER OPEN 1  On",,NTLpPf
+121365,"29/09/2015 15:00:37","-2:00","Admin","Warning","PVSI NOT READY  Off",,Xq0TwO
+121366,"29/09/2015 15:00:37","-2:00","Admin","Alarm","COVER OPEN 1  Off",,qsacDI
+121367,"29/09/2015 15:00:37","-2:00","Admin","Alarm","COVER OPEN 2  Off",,Sopawj
+121368,"29/09/2015 15:00:37","-2:00","Admin","Alarm","COVER OPEN 3  Off",,HEeI3E
+121369,"29/09/2015 15:00:37","-2:00","Admin","Alarm","COVER OPEN 4  Off",,iJp/iY
+121370,"29/09/2015 15:00:37","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,P+JoyG
+121371,"29/09/2015 15:00:37","-2:00","Admin","Alarm","EMERGENCY  Off",,RzyASv
+121372,"29/09/2015 15:00:40","-2:00","Admin","Warning","ALARM VACUUM SENSOR  On",,AmEoWp
+121373,"29/09/2015 15:00:40","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,vbpZ2p
+121374,"29/09/2015 15:00:40","-2:00","Admin","Warning","KNAPP READY TO START  Off",,y/5/yq
+121375,"29/09/2015 15:00:41","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,i53Muf
+121376,"29/09/2015 15:00:41","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,leyZCX
+121377,"29/09/2015 15:00:41","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,VsZhyf
+121378,"29/09/2015 15:00:41","-2:00","Admin","Warning","ALARM VACUUM SENSOR  Off",,qwXkZn
+121379,"29/09/2015 15:00:41","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,tIXSXa
+121380,"29/09/2015 15:00:41","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,2Znucy
+121381,"29/09/2015 15:00:41","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,5o02Tf
+121382,"29/09/2015 15:00:41","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,7yo7xE
+121383,"29/09/2015 15:00:41","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,nwYk6+
+121384,"29/09/2015 15:00:41","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,akpkDg
+121385,"29/09/2015 15:00:41","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,lOl1Mb
+121386,"29/09/2015 15:00:41","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,GXwYwY
+121387,"29/09/2015 15:00:41","-2:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,VHCUjW
+121388,"29/09/2015 15:00:41","-2:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,qxoPyU
+121389,"29/09/2015 15:00:42","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,sVnUBc
+121390,"29/09/2015 15:00:42","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,nvRemY
+121391,"29/09/2015 15:00:42","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,8gRWN1
+121392,"29/09/2015 15:00:42","-2:00","Admin","Warning","KNAPP READY TO START  On",,dZEYwG
+121393,"29/09/2015 15:00:44","-2:00","Admin","Warning","KNAPP READY TO START  Off",,yBsNWu
+121394,"29/09/2015 15:00:44","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,pDfcQn
+121395,"29/09/2015 15:00:49","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,XyrAj2
+121396,"29/09/2015 15:00:49","-2:00","Admin","Warning","KNAPP IN PROGRESS  On",,8xvJHG
+121397,"29/09/2015 15:03:57","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,Aptj8S
+121398,"29/09/2015 15:03:57","-2:00","Admin","Warning","KNAPP READY TO START  On",,4Uf3H+
+121399,"29/09/2015 15:03:57","-2:00","Admin","Warning","KNAPP IN PROGRESS  Off",,KgPBrn
+121400,"29/09/2015 15:04:39","-2:00","Admin","Warning","PVSI NOT READY  On",,0K//Mb
+121401,"29/09/2015 15:04:51","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,LRTU6I
+121402,"29/09/2015 15:04:51","-2:00","Admin","Alarm","EMERGENCY  On",,rEop8M
+121403,"29/09/2015 15:04:51","-2:00","Admin","Alarm","COVER OPEN 4  On",,dwTeXa
+121404,"29/09/2015 15:04:51","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,KRTJuh
+121405,"29/09/2015 15:04:51","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,0en+fB
+121406,"29/09/2015 15:04:51","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,Gsy5XM
+121407,"29/09/2015 15:04:51","-2:00","Admin","Alarm","COVER OPEN 3  On",,E6mVDJ
+121408,"29/09/2015 15:05:12","-2:00","Admin","Alarm","COVER OPEN 2  On",,5mnSoZ
+121409,"29/09/2015 15:05:12","-2:00","Admin","Alarm","COVER OPEN 1  On",,85Fgy+
+121410,"29/09/2015 15:07:09","-2:00","Admin","Warning","PVSI NOT READY  Off",,j6caHD
+121411,"29/09/2015 15:07:09","-2:00","Admin","Alarm","COVER OPEN 1  Off",,vR0dS7
+121412,"29/09/2015 15:07:09","-2:00","Admin","Alarm","COVER OPEN 2  Off",,H1tC/I
+121413,"29/09/2015 15:07:09","-2:00","Admin","Alarm","COVER OPEN 3  Off",,I/Fl2e
+121414,"29/09/2015 15:07:09","-2:00","Admin","Alarm","COVER OPEN 4  Off",,J/i5CY
+121415,"29/09/2015 15:07:09","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,PsHPqn
+121416,"29/09/2015 15:07:09","-2:00","Admin","Alarm","EMERGENCY  Off",,30l4Sj
+121417,"29/09/2015 15:07:13","-2:00","Admin","Warning","ALARM VACUUM SENSOR  On",,HlhU2f
+121418,"29/09/2015 15:07:13","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,ox6O3E
+121419,"29/09/2015 15:07:13","-2:00","Admin","Warning","KNAPP READY TO START  Off",,kVQi2O
+121420,"29/09/2015 15:07:13","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,A6wrCm
+121421,"29/09/2015 15:07:13","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,4k+0qO
+121422,"29/09/2015 15:07:13","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,akyvR+
+121423,"29/09/2015 15:07:13","-2:00","Admin","Warning","ALARM VACUUM SENSOR  Off",,VI7IWi
+121424,"29/09/2015 15:07:14","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,CGQmoS
+121425,"29/09/2015 15:07:14","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,I8LDfR
+121426,"29/09/2015 15:07:14","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,L8exXS
+121427,"29/09/2015 15:07:14","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,OkWcV1
+121428,"29/09/2015 15:07:14","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,yJzRoK
+121429,"29/09/2015 15:07:14","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,liQWRk
+121430,"29/09/2015 15:07:14","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,f78UiY
+121431,"29/09/2015 15:07:14","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,OyA94o
+121432,"29/09/2015 15:07:14","-2:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,MwiUzd
+121433,"29/09/2015 15:07:14","-2:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,KwerbR
+121434,"29/09/2015 15:07:14","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,7lXX1g
+121435,"29/09/2015 15:07:14","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,lTGlZ0
+121436,"29/09/2015 15:07:15","-2:00","Admin","Warning","KNAPP READY TO START  On",,2DXhLt
+121437,"29/09/2015 15:07:16","-2:00","Admin","Warning","KNAPP READY TO START  Off",,+tN7U2
+121438,"29/09/2015 15:07:16","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,fISOZp
+121439,"29/09/2015 15:07:21","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,B3CRD2
+121440,"29/09/2015 15:07:21","-2:00","Admin","Warning","KNAPP IN PROGRESS  On",,NsYcF+
+121441,"29/09/2015 15:10:30","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,J9J4zH
+121442,"29/09/2015 15:10:30","-2:00","Admin","Warning","KNAPP READY TO START  On",,pjK6lE
+121443,"29/09/2015 15:10:30","-2:00","Admin","Warning","KNAPP IN PROGRESS  Off",,zGBXEJ
+121444,"29/09/2015 15:15:15","-2:00","Admin","Warning","PVSI NOT READY  On",,1JpN3+
+121445,"29/09/2015 15:15:29","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,o5WJKK
+121446,"29/09/2015 15:15:29","-2:00","Admin","Alarm","EMERGENCY  On",,uL75PH
+121447,"29/09/2015 15:15:29","-2:00","Admin","Alarm","COVER OPEN 4  On",,1pXWFX
+121448,"29/09/2015 15:15:29","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,i8R3q+
+121449,"29/09/2015 15:15:29","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,Ew6xB8
+121450,"29/09/2015 15:15:29","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,WQE6Mj
+121451,"29/09/2015 15:15:31","-2:00","Admin","Alarm","COVER OPEN 3  On",,IaFZEk
+121452,"29/09/2015 15:16:08","-2:00","Admin","Alarm","COVER OPEN 2  On",,0bp23p
+121453,"29/09/2015 15:16:09","-2:00","Admin","Alarm","COVER OPEN 1  On",,fWQHzt
+121454,"29/09/2015 15:17:46","-2:00","Admin","Warning","ALARM VACUUM SENSOR  On",,fMOdn4
+121455,"29/09/2015 15:17:46","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,mi2LEQ
+121456,"29/09/2015 15:17:46","-2:00","Admin","Warning","KNAPP READY TO START  Off",,jxrlaN
+121457,"29/09/2015 15:17:48","-2:00","Admin","Warning","ALARM VACUUM SENSOR  Off",,oW+rD4
+121458,"29/09/2015 15:17:48","-2:00","Admin","Warning","PVSI NOT READY  Off",,RmdDvu
+121459,"29/09/2015 15:17:48","-2:00","Admin","Alarm","COVER OPEN 1  Off",,A/5My3
+121460,"29/09/2015 15:17:48","-2:00","Admin","Alarm","COVER OPEN 2  Off",,xXr+kw
+121461,"29/09/2015 15:17:48","-2:00","Admin","Alarm","COVER OPEN 3  Off",,rEucAe
+121462,"29/09/2015 15:17:48","-2:00","Admin","Alarm","COVER OPEN 4  Off",,p8UNgE
+121463,"29/09/2015 15:17:48","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,DHqbxh
+121464,"29/09/2015 15:17:48","-2:00","Admin","Alarm","EMERGENCY  Off",,C9rfMW
+121465,"29/09/2015 15:17:48","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,kY0njU
+121466,"29/09/2015 15:17:48","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,63eQxD
+121467,"29/09/2015 15:17:48","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,bhQyx+
+121468,"29/09/2015 15:17:48","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,uejUxM
+121469,"29/09/2015 15:17:48","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,mfxnbt
+121470,"29/09/2015 15:17:48","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,6/d6L6
+121471,"29/09/2015 15:17:48","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,RnlU64
+121472,"29/09/2015 15:17:48","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,+hJUsW
+121473,"29/09/2015 15:17:48","-2:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,LmzOQJ
+121474,"29/09/2015 15:17:48","-2:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,qJJ8Ux
+121475,"29/09/2015 15:17:49","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,c4a7FF
+121476,"29/09/2015 15:17:49","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,7lK4i8
+121477,"29/09/2015 15:17:49","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,X+gs3h
+121478,"29/09/2015 15:17:49","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,jNQ+/G
+121479,"29/09/2015 15:17:50","-2:00","Admin","Warning","KNAPP READY TO START  On",,HMwUDM
+121480,"29/09/2015 15:17:50","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,67ODoU
+121481,"29/09/2015 15:17:50","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,Ad1Smw
+121482,"29/09/2015 15:17:50","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,xd0n8x
+121483,"29/09/2015 15:17:51","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,NMIFmr
+121484,"29/09/2015 15:17:51","-2:00","Admin","Warning","KNAPP READY TO START  Off",,Hf1oko
+121485,"29/09/2015 15:17:51","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,6Qa+sD
+121486,"29/09/2015 15:17:56","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,NZniPc
+121487,"29/09/2015 15:17:56","-2:00","Admin","Warning","KNAPP IN PROGRESS  On",,HGwot0
+121488,"29/09/2015 15:21:05","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,gN1R9v
+121489,"29/09/2015 15:21:05","-2:00","Admin","Warning","KNAPP READY TO START  On",,t5Ljgb
+121490,"29/09/2015 15:21:05","-2:00","Admin","Warning","KNAPP IN PROGRESS  Off",,hMfBN0
+121491,"29/09/2015 15:21:09","-2:00","Admin","Warning","PVSI NOT READY  On",,O00G9V
+121492,"29/09/2015 15:21:32","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,vfwTET
+121493,"29/09/2015 15:21:32","-2:00","Admin","Alarm","EMERGENCY  On",,zBgDRf
+121494,"29/09/2015 15:21:32","-2:00","Admin","Alarm","COVER OPEN 4  On",,v2Pvyo
+121495,"29/09/2015 15:21:33","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,UPqp81
+121496,"29/09/2015 15:21:33","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,ADWHNV
+121497,"29/09/2015 15:21:33","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,ekOeAH
+121498,"29/09/2015 15:21:33","-2:00","Admin","Alarm","COVER OPEN 3  On",,mdJyAu
+121499,"29/09/2015 15:21:55","-2:00","Admin","Alarm","COVER OPEN 2  On",,e81foI
+121500,"29/09/2015 15:21:55","-2:00","Admin","Alarm","COVER OPEN 1  On",,zsxcBW
+121501,"29/09/2015 15:23:20","-2:00","Admin","Warning","PVSI NOT READY  Off",,EiRmsg
+121502,"29/09/2015 15:23:20","-2:00","Admin","Alarm","COVER OPEN 1  Off",,23lS1M
+121503,"29/09/2015 15:23:20","-2:00","Admin","Alarm","COVER OPEN 2  Off",,mq5xz2
+121504,"29/09/2015 15:23:20","-2:00","Admin","Alarm","COVER OPEN 3  Off",,gO8hP+
+121505,"29/09/2015 15:23:20","-2:00","Admin","Alarm","COVER OPEN 4  Off",,D8xrK8
+121506,"29/09/2015 15:23:21","-2:00","Admin","Alarm","EMERGENCY  Off",,WlMtsu
+121507,"29/09/2015 15:23:21","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,015nlk
+121508,"29/09/2015 15:23:23","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,orhZQ7
+121509,"29/09/2015 15:23:23","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,5PhBUL
+121510,"29/09/2015 15:23:23","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,8fI583
+121511,"29/09/2015 15:23:24","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,qsEzDX
+121512,"29/09/2015 15:23:24","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,4bY+Pv
+121513,"29/09/2015 15:23:24","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,Hc9aTH
+121514,"29/09/2015 15:23:24","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,j6lPhv
+121515,"29/09/2015 15:23:24","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,kYPjDa
+121516,"29/09/2015 15:23:24","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,wckhWQ
+121517,"29/09/2015 15:23:24","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,EMruQD
+121518,"29/09/2015 15:23:24","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,uwLXv3
+121519,"29/09/2015 15:23:24","-2:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,b1ZJwB
+121520,"29/09/2015 15:23:24","-2:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,CZci2W
+121521,"29/09/2015 15:23:24","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,YR5x6h
+121522,"29/09/2015 15:23:24","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,QwaaOD
+121523,"29/09/2015 15:23:24","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,B8EPIe
+121524,"29/09/2015 15:23:27","-2:00","Admin","Warning","ALARM VACUUM SENSOR  On",,Fq6c4z
+121525,"29/09/2015 15:23:27","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,D9rW1B
+121526,"29/09/2015 15:23:27","-2:00","Admin","Warning","KNAPP READY TO START  Off",,EBiSil
+121527,"29/09/2015 15:23:27","-2:00","Admin","Warning","ALARM VACUUM SENSOR  Off",,PjEDrE
+121528,"29/09/2015 15:23:28","-2:00","Admin","Warning","KNAPP READY TO START  On",,xYkPu4
+121529,"29/09/2015 15:23:29","-2:00","Admin","Warning","KNAPP READY TO START  Off",,M5WeEV
+121530,"29/09/2015 15:23:29","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,vGCKYY
+121531,"29/09/2015 15:23:34","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,JGq6OK
+121532,"29/09/2015 15:23:34","-2:00","Admin","Warning","KNAPP IN PROGRESS  On",,dEmUCy
+121533,"29/09/2015 15:26:43","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,E0JNrR
+121534,"29/09/2015 15:26:43","-2:00","Admin","Warning","KNAPP READY TO START  On",,LWZB8v
+121535,"29/09/2015 15:26:43","-2:00","Admin","Warning","KNAPP IN PROGRESS  Off",,1zl0pY
+121536,"29/09/2015 15:26:45","-2:00","Admin","Warning","PVSI NOT READY  On",,R5j4IU
+121537,"29/09/2015 15:27:03","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,X8B/uB
+121538,"29/09/2015 15:27:03","-2:00","Admin","Alarm","EMERGENCY  On",,t5U3e+
+121539,"29/09/2015 15:27:03","-2:00","Admin","Alarm","COVER OPEN 4  On",,64yNzD
+121540,"29/09/2015 15:27:03","-2:00","Admin","Alarm","COVER OPEN 3  On",,ye90uU
+121541,"29/09/2015 15:27:03","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,gsM6vj
+121542,"29/09/2015 15:27:03","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,G/z80E
+121543,"29/09/2015 15:27:03","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,1wOK62
+121544,"29/09/2015 15:27:25","-2:00","Admin","Alarm","COVER OPEN 2  On",,BTMqJZ
+121545,"29/09/2015 15:27:26","-2:00","Admin","Alarm","COVER OPEN 1  On",,62wbCt
+121546,"29/09/2015 15:29:05","-2:00","Admin","Alarm","COVER OPEN 1  Off",,JqAdC1
+121547,"29/09/2015 15:29:05","-2:00","Admin","Alarm","COVER OPEN 2  Off",,U6oagc
+121548,"29/09/2015 15:29:05","-2:00","Admin","Alarm","COVER OPEN 3  Off",,jPlYgZ
+121549,"29/09/2015 15:29:05","-2:00","Admin","Alarm","COVER OPEN 4  Off",,Kyx6lX
+121550,"29/09/2015 15:29:05","-2:00","Admin","Alarm","EMERGENCY  Off",,4JZBLZ
+121551,"29/09/2015 15:29:05","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,Nlr9sB
+121552,"29/09/2015 15:29:05","-2:00","Admin","Warning","PVSI NOT READY  Off",,Ez6RPp
+121553,"29/09/2015 15:29:06","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,n/vGk4
+121554,"29/09/2015 15:29:06","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,1Zvkxt
+121555,"29/09/2015 15:29:06","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,omxJN3
+121556,"29/09/2015 15:29:09","-2:00","Admin","Warning","ALARM VACUUM SENSOR  On",,YX9Ioi
+121557,"29/09/2015 15:29:09","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,rhlPsR
+121558,"29/09/2015 15:29:09","-2:00","Admin","Warning","KNAPP READY TO START  Off",,OMzp3q
+121559,"29/09/2015 15:29:09","-2:00","Admin","Warning","ALARM VACUUM SENSOR  Off",,pxKYOr
+121560,"29/09/2015 15:29:10","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,gWAEHO
+121561,"29/09/2015 15:29:10","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,obW2DR
+121562,"29/09/2015 15:29:10","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,HNJS7t
+121563,"29/09/2015 15:29:10","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,SSFkB7
+121564,"29/09/2015 15:29:10","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,HNb2uY
+121565,"29/09/2015 15:29:10","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,tkLQSS
+121566,"29/09/2015 15:29:10","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,hIA/cX
+121567,"29/09/2015 15:29:10","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,GDU0gP
+121568,"29/09/2015 15:29:10","-2:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,osrhtd
+121569,"29/09/2015 15:29:10","-2:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,GGjC2y
+121570,"29/09/2015 15:29:10","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,Sj4SaA
+121571,"29/09/2015 15:29:11","-2:00","Admin","Warning","KNAPP READY TO START  On",,8rurWQ
+121572,"29/09/2015 15:29:11","-2:00","Admin","Warning","KNAPP READY TO START  Off",,S1Q45s
+121573,"29/09/2015 15:29:11","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,JBtfUw
+121574,"29/09/2015 15:29:16","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,A0mAM1
+121575,"29/09/2015 15:29:16","-2:00","Admin","Warning","KNAPP IN PROGRESS  On",,Ur7GkV
+121576,"29/09/2015 15:32:25","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,R4PI8A
+121577,"29/09/2015 15:32:25","-2:00","Admin","Warning","KNAPP READY TO START  On",,K1UoK4
+121578,"29/09/2015 15:32:25","-2:00","Admin","Warning","KNAPP IN PROGRESS  Off",,m3A91W
+121579,"29/09/2015 15:32:29","-2:00","Admin","Warning","PVSI NOT READY  On",,iqftXR
+121580,"29/09/2015 15:33:20","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,RUYlIi
+121581,"29/09/2015 15:33:20","-2:00","Admin","Alarm","EMERGENCY  On",,misT3w
+121582,"29/09/2015 15:33:20","-2:00","Admin","Alarm","COVER OPEN 4  On",,7KT/Qc
+121583,"29/09/2015 15:33:21","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,aTqaYO
+121584,"29/09/2015 15:33:21","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,nEwhlf
+121585,"29/09/2015 15:33:21","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,UAcM2i
+121586,"29/09/2015 15:33:21","-2:00","Admin","Alarm","COVER OPEN 3  On",,K5X18o
+121587,"29/09/2015 15:34:08","-2:00","Admin","Alarm","COVER OPEN 2  On",,7f+I5w
+121588,"29/09/2015 15:34:10","-2:00","Admin","Alarm","COVER OPEN 1  On",,O6omMk
+121589,"29/09/2015 15:36:24","-2:00","Admin","Warning","PVSI NOT READY  Off",,51SktA
+121590,"29/09/2015 15:39:01","-2:00","Admin","Warning","ALARM VACUUM SENSOR  On",,/kaAkx
+121591,"29/09/2015 15:39:01","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,c3wcMi
+121592,"29/09/2015 15:39:01","-2:00","Admin","Warning","KNAPP READY TO START  Off",,fmlxsB
+121593,"29/09/2015 15:39:02","-2:00","Admin","Warning","ALARM VACUUM SENSOR  Off",,U9DEtv
+121594,"29/09/2015 15:39:02","-2:00","Admin","Alarm","COVER OPEN 1  Off",,v0/ZKi
+121595,"29/09/2015 15:39:02","-2:00","Admin","Alarm","COVER OPEN 2  Off",,QyURJx
+121596,"29/09/2015 15:39:02","-2:00","Admin","Alarm","COVER OPEN 3  Off",,dBfc4h
+121597,"29/09/2015 15:39:02","-2:00","Admin","Alarm","COVER OPEN 4  Off",,Ose8j1
+121598,"29/09/2015 15:39:02","-2:00","Admin","Alarm","EMERGENCY  Off",,2Z/629
+121599,"29/09/2015 15:39:02","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,1b+G/4
+121600,"29/09/2015 15:39:02","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,UzdQab
+121601,"29/09/2015 15:39:02","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,GJLxXU
+121602,"29/09/2015 15:39:02","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,sPz1Ia
+121603,"29/09/2015 15:39:02","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,e7zVY1
+121604,"29/09/2015 15:39:02","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,IeD7fd
+121605,"29/09/2015 15:39:02","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,s1jPwP
+121606,"29/09/2015 15:39:02","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,FpG05D
+121607,"29/09/2015 15:39:02","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,KQ2eZA
+121608,"29/09/2015 15:39:02","-2:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,A2qy3l
+121609,"29/09/2015 15:39:02","-2:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,kwyPt/
+121610,"29/09/2015 15:39:02","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,1Sxvmg
+121611,"29/09/2015 15:39:02","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,N9lost
+121612,"29/09/2015 15:39:03","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,dj5B1U
+121613,"29/09/2015 15:39:03","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,7+xLAW
+121614,"29/09/2015 15:39:03","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,IuHpSb
+121615,"29/09/2015 15:39:03","-2:00","Admin","Alarm: 1022","Acknowledgment of 1022 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Nd0t4h
+121616,"29/09/2015 15:39:03","-2:00","Admin","Alarm: 1022","Acknowledgment of 1022 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,2MEXFw
+121617,"29/09/2015 15:39:03","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,b3oJKF
+121618,"29/09/2015 15:39:04","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,l/DFiL
+121619,"29/09/2015 15:39:04","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,y566PQ
+121620,"29/09/2015 15:39:04","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,9lAY5p
+121621,"29/09/2015 15:39:05","-2:00","Admin","Warning","KNAPP READY TO START  On",,ex5imz
+121622,"29/09/2015 15:39:06","-2:00","Admin","Warning","KNAPP READY TO START  Off",,4I695a
+121623,"29/09/2015 15:39:06","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,zxT6KM
+121624,"29/09/2015 15:39:11","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,FfPoWC
+121625,"29/09/2015 15:39:11","-2:00","Admin","Warning","KNAPP IN PROGRESS  On",,o6KVZf
+121626,"29/09/2015 15:42:20","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,LipEJ8
+121627,"29/09/2015 15:42:20","-2:00","Admin","Warning","KNAPP READY TO START  On",,YbVCFp
+121628,"29/09/2015 15:42:20","-2:00","Admin","Warning","KNAPP IN PROGRESS  Off",,v3ZNk8
+121629,"29/09/2015 15:42:22","-2:00","Admin","Warning","PVSI NOT READY  On",,RlM9ns
+121630,"29/09/2015 15:42:35","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,9RuuXb
+121631,"29/09/2015 15:42:35","-2:00","Admin","Alarm","EMERGENCY  On",,rhMv7t
+121632,"29/09/2015 15:42:35","-2:00","Admin","Alarm","COVER OPEN 4  On",,tyqq4D
+121633,"29/09/2015 15:42:35","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,FNHOYG
+121634,"29/09/2015 15:42:35","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,Vu6ITs
+121635,"29/09/2015 15:42:35","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,lY7Wso
+121636,"29/09/2015 15:43:09","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,gsRL25
+121637,"29/09/2015 15:43:09","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,fKUZpW
+121638,"29/09/2015 15:43:09","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,t9WWOR
+121639,"29/09/2015 15:43:09","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,nyU+Pw
+121640,"29/09/2015 15:43:09","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,Q1GEaY
+121641,"29/09/2015 15:43:09","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,5g3A/o
+121642,"29/09/2015 15:43:09","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,esa4yG
+121643,"29/09/2015 15:43:09","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Uq80na
+121644,"29/09/2015 15:43:10","-2:00","Admin","Warning","PVSI NOT READY  Off",,+WPStb
+121645,"29/09/2015 15:43:10","-2:00","Admin","Alarm","COVER OPEN 4  Off",,Dzu/G7
+121646,"29/09/2015 15:43:10","-2:00","Admin","Alarm","EMERGENCY  Off",,HFQBqh
+121647,"29/09/2015 15:43:10","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,3JGROB
+121648,"29/09/2015 15:43:11","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,/ovDKS
+121649,"29/09/2015 15:43:11","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,8DZBZ+
+121650,"29/09/2015 15:43:11","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,7o80hc
+121651,"29/09/2015 15:43:11","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,dBAJbr
+121652,"29/09/2015 15:43:11","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,41Fot0
+121653,"29/09/2015 15:43:11","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,3Oz5S5
+121654,"29/09/2015 15:43:11","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,+cRgUA
+121655,"29/09/2015 15:43:14","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,SJ6LJG
+121656,"29/09/2015 15:43:14","-2:00","Admin","Alarm","EMERGENCY  On",,ck5LfK
+121657,"29/09/2015 15:43:14","-2:00","Admin","Alarm","COVER OPEN 4  On",,JCNlTM
+121658,"29/09/2015 15:43:15","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,90pQeA
+121659,"29/09/2015 15:43:15","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,fojVhY
+121660,"29/09/2015 15:43:15","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,fZ0893
+121661,"29/09/2015 15:43:15","-2:00","Admin","Alarm","COVER OPEN 3  On",,uanM4s
+121662,"29/09/2015 15:43:35","-2:00","Admin","Alarm","COVER OPEN 1  On",,q6x/uI
+121663,"29/09/2015 15:43:35","-2:00","Admin","Alarm","COVER OPEN 2  On",,/GKLZ/
+121664,"29/09/2015 15:45:30","-2:00","Admin","Alarm","COVER OPEN 1  Off",,P9Ot1i
+121665,"29/09/2015 15:45:30","-2:00","Admin","Alarm","COVER OPEN 2  Off",,yqbV0P
+121666,"29/09/2015 15:45:30","-2:00","Admin","Alarm","COVER OPEN 3  Off",,0yyA0s
+121667,"29/09/2015 15:45:30","-2:00","Admin","Alarm","COVER OPEN 4  Off",,9QYSX6
+121668,"29/09/2015 15:45:30","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,ufVFMu
+121669,"29/09/2015 15:45:30","-2:00","Admin","Alarm","EMERGENCY  Off",,Wk+Oxl
+121670,"29/09/2015 15:45:30","-2:00","Admin","Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,pTz1dF
+121671,"29/09/2015 15:45:30","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,mjLYwW
+121672,"29/09/2015 15:45:30","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,1HtEoN
+121673,"29/09/2015 15:45:30","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,GafbLu
+121674,"29/09/2015 15:45:30","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,MckpaJ
+121675,"29/09/2015 15:45:30","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,0NUqbJ
+121676,"29/09/2015 15:45:30","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,gvw6DK
+121677,"29/09/2015 15:45:30","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,YXLV+B
+121678,"29/09/2015 15:45:30","-2:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,gjvd+A
+121679,"29/09/2015 15:45:30","-2:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,Xaj6dp
+121680,"29/09/2015 15:45:30","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,mz1aDq
+121681,"29/09/2015 15:45:30","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,GrfugB
+121682,"29/09/2015 15:45:31","-2:00","Admin","Warning","ALARM VACUUM SENSOR  On",,0hsKXs
+121683,"29/09/2015 15:45:31","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  Off",,oH1sQS
+121684,"29/09/2015 15:45:31","-2:00","Admin","Warning","KNAPP READY TO START  Off",,qEqggw
+121685,"29/09/2015 15:45:33","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,dzIVFC
+121686,"29/09/2015 15:45:33","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,2vON22
+121687,"29/09/2015 15:45:33","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,bPBF0v
+121688,"29/09/2015 15:45:33","-2:00","Admin","Warning","ALARM VACUUM SENSOR  Off",,675rw6
+121689,"29/09/2015 15:45:34","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,zeA9Cc
+121690,"29/09/2015 15:45:34","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,b3MxsL
+121691,"29/09/2015 15:45:34","-2:00","Admin","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,AtgVky
+121692,"29/09/2015 15:45:34","-2:00","Admin","Warning","KNAPP READY TO START  On",,aOUbdi
+121693,"29/09/2015 15:45:36","-2:00","Admin","Warning","KNAPP READY TO START  Off",,a5JI/R
+121694,"29/09/2015 15:45:36","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  On",,+WDAfY
+121695,"29/09/2015 15:45:41","-2:00","Admin","Warning","E16.7   WARNING KNAPP HOMING  Off",,MGPuAs
+121696,"29/09/2015 15:45:41","-2:00","Admin","Warning","KNAPP IN PROGRESS  On",,oNKP96
+121697,"29/09/2015 15:48:49","-2:00","Admin","Warning","WARNING END KNAPP PROCESS  On",,la1Bmq
+121698,"29/09/2015 15:48:49","-2:00","Admin","Warning","KNAPP READY TO START  On",,Rr5xQH
+121699,"29/09/2015 15:48:49","-2:00","Admin","Warning","KNAPP IN PROGRESS  Off",,4sWW3a
+121700,"29/09/2015 15:48:56","-2:00","Admin","Warning","PVSI NOT READY  On",,VIgepP
+121701,"29/09/2015 15:49:15","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,vNwj60
+121702,"29/09/2015 15:49:15","-2:00","Admin","Alarm","EMERGENCY  On",,ql1Mlc
+121703,"29/09/2015 15:49:15","-2:00","Admin","Alarm","COVER OPEN 4  On",,i75plr
+121704,"29/09/2015 15:49:15","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,mLy4L3
+121705,"29/09/2015 15:49:15","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,BqbHHD
+121706,"29/09/2015 15:49:15","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,EFGccz
+121707,"29/09/2015 15:49:15","-2:00","Admin","Alarm","COVER OPEN 3  On",,0dUXvP
+121708,"29/09/2015 15:49:43","-2:00","Admin","Alarm","COVER OPEN 2  On",,sSnFgP
+121709,"29/09/2015 15:49:44","-2:00","Admin","Alarm","COVER OPEN 1  On",,PIGcHE
+121710,"29/09/2015 15:50:24","-2:00","Admin","Warning","PVSI NOT READY  Off",,HdazhD
+121711,"29/09/2015 15:50:25","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,WuKFjC
+121712,"29/09/2015 15:50:25","-2:00","Admin","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,iG84yk
+121713,"29/09/2015 15:50:25","-2:00","Admin","Alarm:","EMERGENCY  Acknowledgment",,Tg3wb5
+121714,"29/09/2015 15:50:25","-2:00","Admin","Alarm:","COVER OPEN 4  Acknowledgment",,NWxRiO
+121715,"29/09/2015 15:50:25","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,xuiR9g
+121716,"29/09/2015 15:50:25","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,Jve0So
+121717,"29/09/2015 15:50:25","-2:00","Admin","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,UoYjWR
+121718,"29/09/2015 15:50:25","-2:00","Admin","Alarm:","COVER OPEN 3  Acknowledgment",,8j3D+n
+121719,"29/09/2015 15:50:25","-2:00","Admin","Alarm:","COVER OPEN 2  Acknowledgment",,QEUrr7
+121720,"29/09/2015 15:50:25","-2:00","Admin","Alarm:","COVER OPEN 1  Acknowledgment",,AGBCu3
+121721,"29/09/2015 15:50:25","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Tq1did
+121722,"29/09/2015 15:50:25","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,3KRgyC
+121723,"29/09/2015 15:50:25","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,tzWQ8Q
+121724,"29/09/2015 15:50:26","-2:00","Admin","Alarm: 2","Acknowledgment of 2 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,7gCf5V
+121725,"29/09/2015 15:51:19","-2:00","Admin","Alarm","COVER OPEN 1  Off",,oAHETR
+121726,"29/09/2015 15:51:19","-2:00","Admin","Alarm","COVER OPEN 2  Off",,w/Vfan
+121727,"29/09/2015 15:51:19","-2:00","Admin","Alarm","COVER OPEN 3  Off",,z8xVHe
+121728,"29/09/2015 15:51:19","-2:00","Admin","Alarm","COVER OPEN 4  Off",,F4X5Dw
+121729,"29/09/2015 15:51:20","-2:00","Admin","Alarm","EMERGENCY  Off",,DjYtKD
+121730,"29/09/2015 15:51:20","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  Off",,nRbNyI
+121731,"29/09/2015 15:51:20","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,yJczBy
+121732,"29/09/2015 15:51:21","-2:00","Admin","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,WNEpU5
+121733,"29/09/2015 15:51:21","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  Off",,wTtK0i
+121734,"29/09/2015 15:51:21","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  Off",,hNob1A
+121735,"29/09/2015 15:51:21","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  Off",,iXZs8P
+121736,"29/09/2015 15:51:21","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,4dMcOi
+121737,"29/09/2015 15:51:21","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,IcY39i
+121738,"29/09/2015 15:51:21","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,ou1EMT
+121739,"29/09/2015 15:51:21","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,FoQj7/
+121740,"29/09/2015 15:51:21","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,GP8AdG
+121741,"29/09/2015 15:51:22","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,jc6q/q
+121742,"29/09/2015 15:51:22","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,6TXBve
+121743,"29/09/2015 15:51:22","-2:00","Admin","Alarm: 2131","Acknowledgment of alarm 2131 of PLC MCA200+LKD.",,AU6UTL
+121744,"29/09/2015 15:51:33","-2:00","Admin","Warning","PVSI NOT READY  On",,zalqvz
+121745,"29/09/2015 15:52:44","-2:00","Admin","Alarm","ALARM ROTATION MOTOR  On",,Kf06as
+121746,"29/09/2015 15:52:44","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 2  On",,DBHkpc
+121747,"29/09/2015 15:52:44","-2:00","Admin","Alarm","ALARM ROTATION MOTOR 3  On",,pY/7Am
+121748,"29/09/2015 15:52:44","-2:00","Admin","Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,3HSjPf
+121749,"29/09/2015 15:52:44","-2:00","Admin","Alarm","ALARM TURRET MOTOR NOT READY  On",,/gx3e5
+121750,"29/09/2015 15:52:44","-2:00","Admin","Alarm","ALARM HOMING NOT DONE TURRET MOTOR  On",,TMRGbN
+121751,"29/09/2015 15:52:44","-2:00","Admin","Warning","WARNING UPS  On",,kAhLLT
+121752,"29/09/2015 15:52:47","-2:00","Admin","Alarm","ALARM INFEED BELT MOTOR  On",,recpQZ
+121753,"29/09/2015 15:52:47","-2:00","Admin","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,nzC1U3
+121754,"29/09/2015 15:52:47","-2:00","Admin","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,5VcjWM
+121755,"29/09/2015 15:52:47","-2:00","Admin","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,9vXTXw
+121756,"29/09/2015 15:52:47","-2:00","Admin","Alarm","EMERGENCY  On",,Bi0GN4
+121757,"30/09/2015 08:17:12","-2:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,JDAQil
+0,"30/09/2015 08:17:12","-2:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,hiKrtp
+121758,"30/09/2015 08:17:12","-2:00","System","Application","Change to operating mode 'online'.",,6FweKZ
+121759,"30/09/2015 08:17:12","-2:00","System","User administration","Password list imported successfully.",,ZbsFLy
+0,"30/09/2015 08:17:13","-2:00","System","Logs","Log files closed.",,91NaLQ
+"$RT_COUNT$",619,kk14ge,,,,,6g+ERx

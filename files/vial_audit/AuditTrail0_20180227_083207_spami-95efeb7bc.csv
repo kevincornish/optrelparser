@@ -1,0 +1,591 @@
+"RecordID","TimeStamp","DeltaToUTC","UserID","ObjectID","Description","Comment","Checksum"
+0,"26/02/2018 08:58:55","+0:00","System","Application","New log file during run of  on device . Project: '. - ' Build , created with .WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,ifK3EY
+408189,"26/02/2018 08:58:55","+0:00","System","Logs","Exporting a log.",,S/RaNY
+408190,"26/02/2018 08:59:13","+0:00",,"Recipe","Loading recipe number 4 ( 100ml Production ) on the interface.",,pk8CyD
+408191,"26/02/2018 08:59:13","+0:00",,"Recipe","Data trasfered to PLC",,ukHGpB
+408192,"26/02/2018 08:59:13","+0:00",,"Alarm","ALARM INFEED BELT MOTOR  On",,RW/9eG
+408193,"26/02/2018 08:59:13","+0:00",,"Alarm","ALARM ROTATION MOTOR  On",,6V1Jk5
+408194,"26/02/2018 08:59:13","+0:00",,"Alarm","ALARM ROTATION MOTOR 2  On",,XpCHjb
+408195,"26/02/2018 08:59:13","+0:00",,"Alarm","ALARM ROTATION MOTOR 3  On",,vlWVo0
+408196,"26/02/2018 08:59:13","+0:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  On",,iB7U8E
+408197,"26/02/2018 08:59:13","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,RmCTC/
+408198,"26/02/2018 08:59:13","+0:00",,"Warning","ALARM VACUUM SENSOR  On",,4FDxvu
+408199,"26/02/2018 08:59:13","+0:00",,"Warning","PVSI NOT READY  On",,NNFOHQ
+408200,"26/02/2018 08:59:13","+0:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  On",,EFLL5K
+408201,"26/02/2018 08:59:13","+0:00",,"Warning","PVSI NOT RUNNING   On",,TRqP6j
+408202,"26/02/2018 08:59:13","+0:00",,"Warning","WARNING EMPTY PROGRAM ACTIVATED  On",,iOcCgY
+408203,"26/02/2018 08:59:13","+0:00",,"Alarm","EMERGENCY  On",,aynOmj
+408204,"26/02/2018 08:59:13","+0:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,Hhzim8
+408205,"26/02/2018 08:59:13","+0:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  On",,ThXgvS
+408206,"26/02/2018 08:59:17","+0:00",,"Alarm","ALARM MISSING COMUNICATION WITH INTERFACE  Off",,QmkQHq
+408207,"26/02/2018 08:59:58","+0:00","System","User administration","User 'adaml' logged on with group 'Administrator'.",,QsWbU2
+408208,"26/02/2018 09:00:21","+0:00","adaml","Warning","PVSI NOT RUNNING   Off",,xpJkrS
+408209,"26/02/2018 09:01:33","+0:00","adaml","User administration","User logged off.",,Mq56Ud
+408210,"26/02/2018 09:01:33","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,pSceaP
+408211,"26/02/2018 09:02:02","+0:00",,"Warning","ALARM VACUUM SENSOR  Off",,KHFDjz
+408212,"26/02/2018 09:02:02","+0:00",,"Warning","PVSI NOT READY  Off",,Iptn5r
+408213,"26/02/2018 09:02:02","+0:00",,"Warning","PVSI AND WINCC PRODUCT DIFFERENT  Off",,uLjsUw
+408214,"26/02/2018 09:02:02","+0:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  Off",,wT+Dgf
+408215,"26/02/2018 09:02:02","+0:00",,"Alarm","ALARM PROFIBUS NODE 4 (PC)  Off",,pF14Mk
+408216,"26/02/2018 09:02:21","+0:00","System","User administration","User 'adaml' logged on with group 'Administrator'.",,6UiVH4
+408217,"26/02/2018 09:02:23","+0:00","adaml","Alarm","WARNING MISSING LOGIN OPERATION  Off",,zzHrCX
+408218,"26/02/2018 09:02:27","+0:00","adaml","Alarm: 252","Acknowledgment of 252 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,YZdBNW
+408219,"26/02/2018 09:02:27","+0:00","adaml","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,iju+og
+408220,"26/02/2018 09:02:27","+0:00","adaml","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,dbzDyH
+408221,"26/02/2018 09:02:27","+0:00","adaml","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,K2NfKv
+408222,"26/02/2018 09:02:27","+0:00","adaml","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,MFpjdI
+408223,"26/02/2018 09:02:27","+0:00","adaml","Alarm:","ALARM MISSING COMUNICATION WITH INTERFACE  Acknowledgment",,o76uFr
+408224,"26/02/2018 09:02:27","+0:00","adaml","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,HE9qhe
+408225,"26/02/2018 09:02:27","+0:00","adaml","Alarm:","EMERGENCY  Acknowledgment",,eTKFDl
+408226,"26/02/2018 09:02:27","+0:00","adaml","Alarm:","ALARM PROFIBUS NODE 3 (ENCODER)  Acknowledgment",,OuzuN/
+408227,"26/02/2018 09:02:27","+0:00","adaml","Alarm:","ALARM PROFIBUS NODE 4 (PC)  Acknowledgment",,twVPJ6
+408228,"26/02/2018 09:02:27","+0:00","adaml","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,lz+vZL
+408229,"26/02/2018 09:02:27","+0:00","adaml","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,1T0yac
+408230,"26/02/2018 09:02:27","+0:00","adaml","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,TEwxn4
+408231,"26/02/2018 09:02:28","+0:00","adaml","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,zqQ3OI
+408232,"26/02/2018 09:02:28","+0:00","adaml","Alarm: 1","Acknowledgment of 1 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,cyxAtx
+408233,"26/02/2018 09:02:39","+0:00","adaml","Alarm","ALARM INFEED BELT MOTOR  Off",,/8czoX
+408234,"26/02/2018 09:02:39","+0:00","adaml","Alarm","EMERGENCY  Off",,OHvbhS
+408235,"26/02/2018 09:02:40","+0:00","adaml","Alarm","ALARM ROTATION MOTOR  Off",,SDH/to
+408236,"26/02/2018 09:02:40","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 2  Off",,P+xmUL
+408237,"26/02/2018 09:02:40","+0:00","adaml","Alarm","ALARM ROTATION MOTOR 3  Off",,Rj0fie
+408238,"26/02/2018 09:03:10","+0:00","adaml","User administration","User logged off.",,AGFR9p
+408239,"26/02/2018 09:03:10","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,7Ka3w8
+408240,"26/02/2018 09:03:10","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,UDeAW7
+408241,"26/02/2018 09:03:19","+0:00","System","User administration","User 'adamb' logged on with group 'Operator'.",,g11iXd
+408242,"26/02/2018 09:04:11","+0:00","adamb","Alarm","WARNING MISSING LOGIN OPERATION  Off",,Dv/1T8
+408243,"26/02/2018 09:04:14","+0:00","adamb","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  On",,ZARvsg
+408244,"26/02/2018 09:04:27","+0:00","adamb","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Off",,2iczvZ
+408245,"26/02/2018 09:05:27","+0:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,Gi5f4c
+408246,"26/02/2018 09:05:27","+0:00","adamb","Alarm","EMERGENCY  On",,kxx4cG
+408247,"26/02/2018 09:05:27","+0:00","adamb","Alarm","COVER OPEN 3  On",,pcR/fB
+408248,"26/02/2018 09:05:27","+0:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,/X8Glw
+408249,"26/02/2018 09:05:27","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,Ivqs/9
+408250,"26/02/2018 09:05:27","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,F8WCwZ
+408251,"26/02/2018 09:06:21","+0:00","adamb","Alarm","COVER OPEN 3  Off",,svnW51
+408252,"26/02/2018 09:06:21","+0:00","adamb","Alarm","EMERGENCY  Off",,ZoDS/b
+408253,"26/02/2018 09:06:21","+0:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,BhibqD
+408254,"26/02/2018 09:06:21","+0:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,FMcntG
+408255,"26/02/2018 09:06:21","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,ptKidw
+408256,"26/02/2018 09:06:21","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,iT5yF9
+408257,"26/02/2018 09:10:44","+0:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,8OhEOU
+408258,"26/02/2018 09:10:44","+0:00","adamb","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,eQAc04
+408259,"26/02/2018 09:10:44","+0:00","adamb","Alarm:","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Acknowledgment",,Ul76vr
+408260,"26/02/2018 09:10:44","+0:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,3eqoim
+408261,"26/02/2018 09:10:44","+0:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,k+/6iC
+408262,"26/02/2018 09:10:44","+0:00","adamb","Alarm:","COVER OPEN 3  Acknowledgment",,6lds4M
+408263,"26/02/2018 09:10:44","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,h6gS3A
+408264,"26/02/2018 09:10:44","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,jKv0G1
+408265,"26/02/2018 09:10:44","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,7KH/aw
+408266,"26/02/2018 09:10:45","+0:00","adamb","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,yHQ3Hf
+408267,"26/02/2018 09:10:45","+0:00","adamb","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,eE93L6
+408268,"26/02/2018 09:11:37","+0:00","adamb","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,b5rZmx
+408269,"26/02/2018 09:11:37","+0:00","adamb","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,GzhHp2
+408270,"26/02/2018 09:11:37","+0:00","adamb","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,KCs7xX
+408271,"26/02/2018 09:13:51","+0:00","adamb","Warning","PVSI NOT READY  On",,rkLlGe
+408272,"26/02/2018 09:14:30","+0:00","adamb","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  On",,d/VO1w
+408273,"26/02/2018 09:14:37","+0:00","adamb","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Off",,0xggbR
+408274,"26/02/2018 09:14:37","+0:00","adamb","Warning","PVSI NOT READY  Off",,YazuzC
+408275,"26/02/2018 09:14:38","+0:00","adamb","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  On",,AwT9Nj
+408276,"26/02/2018 09:14:48","+0:00","adamb","Alarm","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Off",,sGrDar
+408277,"26/02/2018 09:19:49","+0:00","adamb","User administration","User logged off.",,RqobtL
+408278,"26/02/2018 09:19:49","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,D3Ivhm
+408279,"26/02/2018 09:19:49","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,Iufe6+
+408280,"26/02/2018 09:21:09","+0:00",,"Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,/LEUQn
+408281,"26/02/2018 09:21:09","+0:00",,"Alarm:","""OPERATION DENIED , START PRODUCTION REQUIRED.""  Acknowledgment",,VuiR67
+408282,"26/02/2018 09:21:09","+0:00",,"Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,/wpRG/
+408283,"26/02/2018 09:21:10","+0:00",,"Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,7wvPGM
+408284,"26/02/2018 09:21:10","+0:00",,"Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,y8IBDS
+408285,"26/02/2018 09:21:10","+0:00",,"Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,j0H35R
+408286,"26/02/2018 09:21:10","+0:00",,"Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,Si3m6W
+408287,"26/02/2018 09:21:10","+0:00",,"Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,jkudaC
+408288,"26/02/2018 09:23:36","+0:00",,"Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,sOQy/F
+408289,"26/02/2018 09:23:37","+0:00",,"Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,ylJBkk
+408290,"26/02/2018 09:25:24","+0:00",,"Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,V50xdw
+408291,"26/02/2018 09:32:15","+0:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,wU8frr
+408292,"26/02/2018 09:32:23","+0:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,JPtHI9
+408293,"26/02/2018 09:33:55","+0:00","System","User administration","User 'adamb' has unsuccessfully attempted to log on 1 times in succession.",,cSFD+8
+408294,"26/02/2018 09:34:00","+0:00","System","User administration","User 'adamb' logged on with group 'Operator'.",,mYO5q/
+408295,"26/02/2018 09:34:01","+0:00","adamb","Alarm","WARNING MISSING LOGIN OPERATION  Off",,4bNT9g
+408296,"26/02/2018 09:35:56","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,DPAGLH
+408297,"26/02/2018 09:36:11","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,rSIbSK
+408298,"26/02/2018 09:36:49","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Dj+nBc
+408299,"26/02/2018 09:37:01","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,zOJUJy
+408300,"26/02/2018 09:37:33","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,QdXl1g
+408301,"26/02/2018 09:37:47","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,HRGp+q
+408302,"26/02/2018 09:38:08","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,fxASpw
+408303,"26/02/2018 09:38:20","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,CgtIJ8
+408304,"26/02/2018 09:39:00","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,jhMFBg
+408305,"26/02/2018 09:39:13","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,DGwPZY
+408306,"26/02/2018 09:39:35","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,HZTm8S
+408307,"26/02/2018 09:39:52","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ZWoAmv
+408308,"26/02/2018 09:40:33","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,kJhgqr
+408309,"26/02/2018 09:40:43","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ZkdVc6
+408310,"26/02/2018 09:41:18","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,PtKkF4
+408311,"26/02/2018 09:41:26","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,OX3iQQ
+408312,"26/02/2018 09:42:05","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,cB7fog
+408313,"26/02/2018 09:42:19","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,0Irqxf
+408314,"26/02/2018 09:42:56","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,1zfb9y
+408315,"26/02/2018 09:43:12","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,I33Pdx
+408316,"26/02/2018 09:43:42","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,RDLmpm
+408317,"26/02/2018 09:43:58","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,V5LHHk
+408318,"26/02/2018 09:50:15","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,mdqm0V
+408319,"26/02/2018 09:50:29","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,2ugTYy
+408320,"26/02/2018 09:51:31","+0:00","adamb","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On",,hRd6Bt
+408321,"26/02/2018 09:51:32","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Sy8c7U
+408322,"26/02/2018 09:51:50","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,a6o+N3
+408323,"26/02/2018 09:52:18","+0:00","adamb","Alarm","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Off",,L4VfiX
+408324,"26/02/2018 09:52:21","+0:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,8tx3DK
+408325,"26/02/2018 09:52:21","+0:00","adamb","Alarm","EMERGENCY  On",,489Ag5
+408326,"26/02/2018 09:52:21","+0:00","adamb","Alarm","COVER OPEN 3  On",,wETXk7
+408327,"26/02/2018 09:52:21","+0:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,6MYjsK
+408328,"26/02/2018 09:52:21","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,xsgtSb
+408329,"26/02/2018 09:52:21","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,LpNEiw
+408330,"26/02/2018 09:52:30","+0:00","adamb","Alarm","COVER OPEN 3  Off",,BgfVPg
+408331,"26/02/2018 09:52:30","+0:00","adamb","Alarm","ALARM INFEED BELT MOTOR  Off",,cMkEAQ
+408332,"26/02/2018 09:52:30","+0:00","adamb","Alarm","EMERGENCY  Off",,P40wQz
+408333,"26/02/2018 09:52:31","+0:00","adamb","Alarm","ALARM ROTATION MOTOR  Off",,HQeFBJ
+408334,"26/02/2018 09:52:31","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 2  Off",,Y4r8GI
+408335,"26/02/2018 09:52:31","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 3  Off",,u4kh8O
+408336,"26/02/2018 09:53:16","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,XF9h01
+408337,"26/02/2018 09:53:29","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,gxZgCu
+408338,"26/02/2018 09:53:58","+0:00","adamb","User administration","User logged off.",,oAltZc
+408339,"26/02/2018 09:53:58","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,LBSFg6
+408340,"26/02/2018 09:53:58","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,rjfLke
+408341,"26/02/2018 09:54:13","+0:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,lo1GXz
+408342,"26/02/2018 09:54:32","+0:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Nju2FY
+408343,"26/02/2018 09:57:00","+0:00","System","User administration","User 'nath' logged on with group 'Operator'.",,9SGs0m
+408344,"26/02/2018 09:57:03","+0:00","nath","Alarm: 1135","Acknowledgment of 1135 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,80+NcL
+408345,"26/02/2018 09:57:03","+0:00","nath","Alarm:","ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  Acknowledgment",,1xscdJ
+408346,"26/02/2018 09:57:03","+0:00","nath","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,cqj6gr
+408347,"26/02/2018 09:57:03","+0:00","nath","Alarm:","EMERGENCY  Acknowledgment",,ZeYJlu
+408348,"26/02/2018 09:57:03","+0:00","nath","Alarm:","COVER OPEN 3  Acknowledgment",,aAa+P/
+408349,"26/02/2018 09:57:03","+0:00","nath","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,wdAdNi
+408350,"26/02/2018 09:57:03","+0:00","nath","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,LSQBw1
+408351,"26/02/2018 09:57:03","+0:00","nath","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,cD/f/4
+408352,"26/02/2018 09:57:03","+0:00","nath","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,YvCx0e
+408353,"26/02/2018 09:57:04","+0:00","nath","Alarm","WARNING MISSING LOGIN OPERATION  Off",,qRH02v
+408354,"26/02/2018 09:58:25","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,7Gv0Jd
+408355,"26/02/2018 09:58:34","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,27obEK
+408356,"26/02/2018 09:59:08","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,qR+Woz
+408357,"26/02/2018 09:59:21","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,R1/04g
+408358,"26/02/2018 09:59:43","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,7XpPjW
+408359,"26/02/2018 09:59:52","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,2MCa0V
+408360,"26/02/2018 10:00:28","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,deNYgE
+408361,"26/02/2018 10:00:38","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,00qeUu
+408362,"26/02/2018 10:01:11","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,hKR9xU
+408363,"26/02/2018 10:01:21","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,WTpJcf
+408364,"26/02/2018 10:01:58","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,TVyjkI
+408365,"26/02/2018 10:02:06","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,6F9/Mm
+408366,"26/02/2018 10:02:33","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ROcLq4
+408367,"26/02/2018 10:02:42","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,hs7ZJb
+408368,"26/02/2018 10:03:10","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,dCPMsP
+408369,"26/02/2018 10:03:18","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,RE43nZ
+408370,"26/02/2018 10:03:44","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,A7saEr
+408371,"26/02/2018 10:04:00","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,ioP+a3
+408372,"26/02/2018 10:04:18","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,r8FiBk
+408373,"26/02/2018 10:04:30","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,keZhBE
+408374,"26/02/2018 10:05:03","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,9XE+A0
+408375,"26/02/2018 10:05:14","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,g/oxwh
+408376,"26/02/2018 10:05:47","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Bftz7p
+408377,"26/02/2018 10:05:59","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,6V+686
+408378,"26/02/2018 10:06:20","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,7xGArI
+408379,"26/02/2018 10:06:29","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,HRPdEI
+408380,"26/02/2018 10:07:04","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Pb/+qn
+408381,"26/02/2018 10:07:12","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,s8T/HQ
+408382,"26/02/2018 10:07:43","+0:00","nath","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,mscFJW
+408383,"26/02/2018 10:07:55","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,y62fal
+408384,"26/02/2018 10:08:13","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,kskB4+
+408385,"26/02/2018 10:08:17","+0:00","nath","Alarm","ALARM INFEED BELT MOTOR  On",,jRz37S
+408386,"26/02/2018 10:08:17","+0:00","nath","Alarm","EMERGENCY  On",,vRBNjE
+408387,"26/02/2018 10:08:17","+0:00","nath","Alarm","COVER OPEN 4  On",,/CsPIY
+408388,"26/02/2018 10:08:18","+0:00","nath","Alarm","ALARM ROTATION MOTOR  On",,uKPehA
+408389,"26/02/2018 10:08:18","+0:00","nath","Alarm","ALARM ROTATION MOTOR 2  On",,sUemaa
+408390,"26/02/2018 10:08:18","+0:00","nath","Alarm","ALARM ROTATION MOTOR 3  On",,EE64Ec
+408391,"26/02/2018 10:09:07","+0:00","nath","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,xBKtmH
+408392,"26/02/2018 10:09:07","+0:00","nath","Alarm:","ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment",,GMbNMa
+408393,"26/02/2018 10:09:07","+0:00","nath","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,GcoaTK
+408394,"26/02/2018 10:09:07","+0:00","nath","Alarm:","EMERGENCY  Acknowledgment",,2Kcp4E
+408395,"26/02/2018 10:09:07","+0:00","nath","Alarm:","COVER OPEN 4  Acknowledgment",,8tY4HB
+408396,"26/02/2018 10:09:07","+0:00","nath","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,WUpzAD
+408397,"26/02/2018 10:09:07","+0:00","nath","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,U8AwOJ
+408398,"26/02/2018 10:09:07","+0:00","nath","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,lvdBGu
+408399,"26/02/2018 10:09:07","+0:00","nath","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,C7AuDk
+408400,"26/02/2018 10:09:07","+0:00","nath","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,6dGpO2
+408401,"26/02/2018 10:09:07","+0:00","nath","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,k0x3cR
+408402,"26/02/2018 10:09:07","+0:00","nath","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,B8CHjz
+408403,"26/02/2018 10:09:07","+0:00","nath","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,VOmOR+
+408404,"26/02/2018 10:09:07","+0:00","nath","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,R6pwPD
+408405,"26/02/2018 10:09:08","+0:00","nath","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,pLwrZ6
+408406,"26/02/2018 10:09:10","+0:00","nath","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,ExZwPF
+408407,"26/02/2018 10:09:10","+0:00","nath","Alarm","COVER OPEN 4  Off",,tyOibD
+408408,"26/02/2018 10:09:12","+0:00","nath","Alarm","ALARM INFEED BELT MOTOR  Off",,zbUY4F
+408409,"26/02/2018 10:09:12","+0:00","nath","Alarm","EMERGENCY  Off",,QxLtMu
+408410,"26/02/2018 10:09:13","+0:00","nath","Alarm","ALARM ROTATION MOTOR  Off",,k4yMJE
+408411,"26/02/2018 10:09:13","+0:00","nath","Alarm","ALARM ROTATION MOTOR 2  Off",,hHmMmS
+408412,"26/02/2018 10:09:13","+0:00","nath","Alarm","ALARM ROTATION MOTOR 3  Off",,ulqPGc
+408413,"26/02/2018 10:09:25","+0:00","nath","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,U+tFHQ
+408414,"26/02/2018 10:09:25","+0:00","nath","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,Coc+lN
+408415,"26/02/2018 10:09:26","+0:00","nath","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,J1VWTp
+408416,"26/02/2018 10:09:26","+0:00","nath","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,jUALGZ
+408417,"26/02/2018 10:09:26","+0:00","nath","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,LgFlzO
+408418,"26/02/2018 10:10:09","+0:00","nath","Alarm","ALARM INFEED BELT MOTOR  On",,KmH5pd
+408419,"26/02/2018 10:10:09","+0:00","nath","Alarm","EMERGENCY  On",,aS1Jx3
+408420,"26/02/2018 10:10:09","+0:00","nath","Alarm","COVER OPEN 4  On",,48C9d9
+408421,"26/02/2018 10:10:09","+0:00","nath","Alarm","ALARM ROTATION MOTOR  On",,Ssi32P
+408422,"26/02/2018 10:10:09","+0:00","nath","Alarm","ALARM ROTATION MOTOR 2  On",,IZNk4u
+408423,"26/02/2018 10:10:09","+0:00","nath","Alarm","ALARM ROTATION MOTOR 3  On",,ckYw3r
+408424,"26/02/2018 10:10:31","+0:00","nath","Alarm","COVER OPEN 3  On",,CzgZ4S
+408425,"26/02/2018 10:11:17","+0:00","nath","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,SzDxJQ
+408426,"26/02/2018 10:12:31","+0:00","nath","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,hc4muq
+408427,"26/02/2018 10:12:31","+0:00","nath","Alarm","COVER OPEN 3  Off",,TAUwAF
+408428,"26/02/2018 10:12:31","+0:00","nath","Alarm","COVER OPEN 4  Off",,3CZtrh
+408429,"26/02/2018 10:12:31","+0:00","nath","Alarm","EMERGENCY  Off",,eFszT1
+408430,"26/02/2018 10:12:32","+0:00","nath","Alarm","ALARM INFEED BELT MOTOR  Off",,pE1i2A
+408431,"26/02/2018 10:12:32","+0:00","nath","Alarm","ALARM ROTATION MOTOR  Off",,OFJOie
+408432,"26/02/2018 10:12:32","+0:00","nath","Alarm","ALARM ROTATION MOTOR 2  Off",,V3koBL
+408433,"26/02/2018 10:12:32","+0:00","nath","Alarm","ALARM ROTATION MOTOR 3  Off",,0ag6zy
+408434,"26/02/2018 10:14:03","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,StNoTy
+408435,"26/02/2018 10:14:22","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,+eFMOW
+408436,"26/02/2018 10:15:12","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,KHRpmV
+408437,"26/02/2018 10:15:23","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Es7uei
+408438,"26/02/2018 10:15:53","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,0PlqZO
+408439,"26/02/2018 10:16:09","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,iymRn6
+408440,"26/02/2018 10:16:34","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,/sBaGv
+408441,"26/02/2018 10:16:42","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,o/sVwp
+408442,"26/02/2018 10:17:24","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,BQ1ekh
+408443,"26/02/2018 10:17:41","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,S/7QE1
+408444,"26/02/2018 10:18:01","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,WKvAq2
+408445,"26/02/2018 10:18:15","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,u81cGg
+408446,"26/02/2018 10:18:58","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Pbyfui
+408447,"26/02/2018 10:19:18","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,EZaJ6Q
+408448,"26/02/2018 10:19:24","+0:00","nath","Alarm: 1012","Acknowledgment of 1012 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,7QSMPd
+408449,"26/02/2018 10:19:24","+0:00","nath","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,0sm04a
+408450,"26/02/2018 10:19:24","+0:00","nath","Alarm:","EMERGENCY  Acknowledgment",,bMMmsc
+408451,"26/02/2018 10:19:24","+0:00","nath","Alarm:","COVER OPEN 4  Acknowledgment",,RERozm
+408452,"26/02/2018 10:19:24","+0:00","nath","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,B/qdhT
+408453,"26/02/2018 10:19:24","+0:00","nath","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,4brUWW
+408454,"26/02/2018 10:19:24","+0:00","nath","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,k98NS3
+408455,"26/02/2018 10:19:24","+0:00","nath","Alarm:","COVER OPEN 3  Acknowledgment",,gt0Ly0
+408456,"26/02/2018 10:19:24","+0:00","nath","Alarm:","ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment",,XUZj/s
+408457,"26/02/2018 10:19:24","+0:00","nath","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,IdaChL
+408458,"26/02/2018 10:19:38","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,bCRcad
+408459,"26/02/2018 10:20:00","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,oKYrAm
+408460,"26/02/2018 10:20:43","+0:00","nath","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  On",,CRwSDA
+408461,"26/02/2018 10:20:51","+0:00","nath","Alarm","ALARM INFEED BELT MOTOR  On",,ArmS4Y
+408462,"26/02/2018 10:20:51","+0:00","nath","Alarm","EMERGENCY  On",,UaqdjG
+408463,"26/02/2018 10:20:51","+0:00","nath","Alarm","COVER OPEN 4  On",,VCL9KL
+408464,"26/02/2018 10:20:51","+0:00","nath","Alarm","ALARM ROTATION MOTOR  On",,jNNlAE
+408465,"26/02/2018 10:20:51","+0:00","nath","Alarm","ALARM ROTATION MOTOR 2  On",,z1fcl1
+408466,"26/02/2018 10:20:51","+0:00","nath","Alarm","ALARM ROTATION MOTOR 3  On",,3FNGbH
+408467,"26/02/2018 10:20:57","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,zVOshO
+408468,"26/02/2018 10:21:08","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Gz4RCX
+408469,"26/02/2018 10:21:29","+0:00","nath","Alarm","ALARM SAFETY CLUTCH LOADING STARWHEEL  Off",,JFpcLk
+408470,"26/02/2018 10:21:29","+0:00","nath","Alarm","COVER OPEN 4  Off",,cu7rQ+
+408471,"26/02/2018 10:21:30","+0:00","nath","Alarm","EMERGENCY  Off",,zU2/fS
+408472,"26/02/2018 10:21:30","+0:00","nath","Alarm","ALARM INFEED BELT MOTOR  Off",,LpIf5f
+408473,"26/02/2018 10:21:31","+0:00","nath","Alarm","ALARM ROTATION MOTOR  Off",,DEuqPI
+408474,"26/02/2018 10:21:31","+0:00","nath","Alarm","ALARM ROTATION MOTOR 2  Off",,b4vjNy
+408475,"26/02/2018 10:21:31","+0:00","nath","Alarm","ALARM ROTATION MOTOR 3  Off",,ws87MK
+408476,"26/02/2018 10:22:59","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,U7eS7f
+408477,"26/02/2018 10:23:13","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,C6FIig
+408478,"26/02/2018 10:23:35","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Ox+GHh
+408479,"26/02/2018 10:23:45","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,4VPpgh
+408480,"26/02/2018 10:24:18","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,J3y3IS
+408481,"26/02/2018 10:24:29","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,LZlCFh
+408482,"26/02/2018 10:24:53","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,WY+Lkh
+408483,"26/02/2018 10:25:02","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,jPkc07
+408484,"26/02/2018 10:25:28","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,CA9xN3
+408485,"26/02/2018 10:25:39","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,z2w2oc
+408486,"26/02/2018 10:26:11","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,7rfAZL
+408487,"26/02/2018 10:26:25","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,JVUboq
+408488,"26/02/2018 10:26:45","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,JhPRAY
+408489,"26/02/2018 10:26:50","+0:00","nath","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,xKo+jb
+408490,"26/02/2018 10:26:50","+0:00","nath","Alarm:","ALARM SAFETY CLUTCH LOADING STARWHEEL  Acknowledgment",,w8zNhL
+408491,"26/02/2018 10:26:50","+0:00","nath","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,bPA8/3
+408492,"26/02/2018 10:26:50","+0:00","nath","Alarm:","EMERGENCY  Acknowledgment",,LFero0
+408493,"26/02/2018 10:26:50","+0:00","nath","Alarm:","COVER OPEN 4  Acknowledgment",,FMM2MS
+408494,"26/02/2018 10:26:50","+0:00","nath","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,8JBnRZ
+408495,"26/02/2018 10:26:50","+0:00","nath","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,okYJuz
+408496,"26/02/2018 10:26:50","+0:00","nath","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,rgkvw9
+408497,"26/02/2018 10:26:51","+0:00","nath","Alarm: 2137","Acknowledgment of alarm 2137 of PLC MCA200+LKD.",,Vpr2WK
+408498,"26/02/2018 10:26:53","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,GtSFHt
+408499,"26/02/2018 10:27:17","+0:00","nath","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,PcQQdA
+408500,"26/02/2018 10:27:24","+0:00","nath","User administration","User logged off.",,tMayM9
+408501,"26/02/2018 10:27:24","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,XKwhGK
+408502,"26/02/2018 10:27:24","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,2+H6IA
+408503,"26/02/2018 10:27:26","+0:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,hUxRYv
+408504,"26/02/2018 10:27:33","+0:00","System","User administration","User 'adamb' logged on with group 'Operator'.",,JP08Ja
+408505,"26/02/2018 10:27:34","+0:00","adamb","Alarm","WARNING MISSING LOGIN OPERATION  Off",,sTJxVA
+408506,"26/02/2018 10:28:39","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,X7hGY2
+408507,"26/02/2018 10:29:01","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,C8KvUX
+408508,"26/02/2018 10:29:03","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,SW1Aoh
+408509,"26/02/2018 10:29:12","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,EyywfN
+408510,"26/02/2018 10:29:40","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,4wHX2u
+408511,"26/02/2018 10:30:09","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,SBk7ke
+408512,"26/02/2018 10:30:13","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,FlrC32
+408513,"26/02/2018 10:30:30","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,VTDSlu
+408514,"26/02/2018 10:30:40","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,W/437o
+408515,"26/02/2018 10:30:48","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Gppfjb
+408516,"26/02/2018 10:31:14","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,fEDTgV
+408517,"26/02/2018 10:31:26","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vBg6j/
+408518,"26/02/2018 10:32:03","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,IvQVKU
+408519,"26/02/2018 10:32:18","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,1cj6zV
+408520,"26/02/2018 10:32:47","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Z1Z00v
+408521,"26/02/2018 10:33:03","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Oys+CA
+408522,"26/02/2018 10:33:13","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,h1tfhV
+408523,"26/02/2018 10:33:21","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,l4DG8q
+408524,"26/02/2018 10:33:35","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,XIKyUM
+408525,"26/02/2018 10:33:43","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,/XeDN8
+408526,"26/02/2018 10:34:12","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,WrExiO
+408527,"26/02/2018 10:34:24","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,RO9CIs
+408528,"26/02/2018 10:34:35","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,TGCd8/
+408529,"26/02/2018 10:34:46","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,BBIDWK
+408530,"26/02/2018 10:35:04","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,RzJw58
+408531,"26/02/2018 10:35:12","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,zE8HbK
+408532,"26/02/2018 10:35:33","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,hixq9F
+408533,"26/02/2018 10:35:55","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,inqzTh
+408534,"26/02/2018 10:35:59","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,av64BO
+408535,"26/02/2018 10:36:19","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,osC2Rb
+408536,"26/02/2018 10:36:32","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ro52aF
+408537,"26/02/2018 10:36:39","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,S4nFfy
+408538,"26/02/2018 10:36:51","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,43+KJ/
+408539,"26/02/2018 10:37:01","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,PP5/2+
+408540,"26/02/2018 10:37:22","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,EuT3pQ
+408541,"26/02/2018 10:37:32","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,3agcQH
+408542,"26/02/2018 10:37:44","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,QDgF3o
+408543,"26/02/2018 10:37:53","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,yDtjv7
+408544,"26/02/2018 10:38:08","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ltABe4
+408545,"26/02/2018 10:38:26","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,CzZy6X
+408546,"26/02/2018 10:38:32","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,GR71Sy
+408547,"26/02/2018 10:38:47","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,pJap0A
+408548,"26/02/2018 10:38:52","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,vt0SEt
+408549,"26/02/2018 10:39:00","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,dcGOel
+408550,"26/02/2018 10:39:23","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,69M3e2
+408551,"26/02/2018 10:39:33","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,bkbJqL
+408552,"26/02/2018 10:40:13","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,1iBQeR
+408553,"26/02/2018 10:40:28","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,JLaLKg
+408554,"26/02/2018 10:45:28","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,bH6SWM
+408555,"26/02/2018 10:45:42","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Zf6oXD
+408556,"26/02/2018 10:45:42","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,PKKI+R
+408557,"26/02/2018 10:45:42","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,bbcmvw
+408558,"26/02/2018 10:46:05","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Jg5rjU
+408559,"26/02/2018 10:46:23","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,4LjW13
+408560,"26/02/2018 10:46:31","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,JCo4aQ
+408561,"26/02/2018 10:46:46","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,kSPlPe
+408562,"26/02/2018 10:46:59","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,COBVzJ
+408563,"26/02/2018 10:47:13","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,0jJCry
+408564,"26/02/2018 10:47:24","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ZSGBiO
+408565,"26/02/2018 10:47:33","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,V9k71/
+408566,"26/02/2018 10:47:53","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,QE7Caq
+408567,"26/02/2018 10:48:02","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,i6Pkbd
+408568,"26/02/2018 10:48:27","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,E503hO
+408569,"26/02/2018 10:48:47","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,wZYuva
+408570,"26/02/2018 10:48:50","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,SQf3TR
+408571,"26/02/2018 10:49:09","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,q8bl2q
+408572,"26/02/2018 10:49:13","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,f2q20G
+408573,"26/02/2018 10:49:21","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,0zbh5t
+408574,"26/02/2018 10:49:51","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,AgbHO2
+408575,"26/02/2018 10:50:01","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,fwismY
+408576,"26/02/2018 10:50:28","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,VfMJ1k
+408577,"26/02/2018 10:50:39","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Lr0mEb
+408578,"26/02/2018 10:51:03","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,m5WP30
+408579,"26/02/2018 10:51:18","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,G3Q+FO
+408580,"26/02/2018 10:53:36","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,SzjYYR
+408581,"26/02/2018 10:53:53","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,QE9iFo
+408582,"26/02/2018 10:54:26","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,qYRrer
+408583,"26/02/2018 10:54:37","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,pSgVZZ
+408584,"26/02/2018 10:55:14","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Us7b+T
+408585,"26/02/2018 10:55:31","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,4rLMg5
+408586,"26/02/2018 10:55:46","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,AonExH
+408587,"26/02/2018 10:56:06","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,NqBMJ9
+408588,"26/02/2018 10:56:10","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,ItWXxk
+408589,"26/02/2018 10:56:26","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,cqQHJn
+408590,"26/02/2018 10:56:55","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,KlVyY3
+408591,"26/02/2018 10:57:17","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,vf76f8
+408592,"26/02/2018 10:57:20","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,2O7N8W
+408593,"26/02/2018 10:57:38","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,XgKhE4
+408594,"26/02/2018 10:57:55","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,nBs//6
+408595,"26/02/2018 10:58:11","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,3GmzND
+408596,"26/02/2018 10:58:26","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,hv0gXD
+408597,"26/02/2018 10:58:48","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,SxonXs
+408598,"26/02/2018 10:58:56","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,OR5lWf
+408599,"26/02/2018 10:59:06","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,quYUDO
+408600,"26/02/2018 10:59:25","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,5ZSi81
+408601,"26/02/2018 10:59:46","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,R6DAmC
+408602,"26/02/2018 11:00:05","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,614Bsa
+408603,"26/02/2018 11:00:15","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Tlw+7R
+408604,"26/02/2018 11:00:42","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,oIzVfF
+408605,"26/02/2018 11:00:59","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,1OXysu
+408606,"26/02/2018 11:01:09","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,pC4Qa/
+408607,"26/02/2018 11:01:27","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,2dHZd8
+408608,"26/02/2018 11:01:39","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,RYnlya
+408609,"26/02/2018 11:01:47","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,seR+YR
+408610,"26/02/2018 11:02:12","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,l2zUar
+408611,"26/02/2018 11:02:21","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,+pjlwQ
+408612,"26/02/2018 11:02:36","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,+GTKSd
+408613,"26/02/2018 11:02:44","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,aYzRBf
+408614,"26/02/2018 11:03:10","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,sDgGyA
+408615,"26/02/2018 11:03:19","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,y+n+0x
+408616,"26/02/2018 11:03:45","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Gg+h24
+408617,"26/02/2018 11:03:58","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,a3+hw0
+408618,"26/02/2018 11:04:01","+0:00","adamb","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,tO79iq
+408619,"26/02/2018 11:04:01","+0:00","adamb","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,aiQfZl
+408620,"26/02/2018 11:04:03","+0:00","adamb","Warning","WARNING REJECTED TRAY 2 ALMOST FULL  Off",,ziet3c
+408621,"26/02/2018 11:04:16","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,7bT+pj
+408622,"26/02/2018 11:04:24","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,N3Oa1z
+408623,"26/02/2018 11:04:46","+0:00","adamb","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,aX22JZ
+408624,"26/02/2018 11:05:03","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,771T3t
+408625,"26/02/2018 11:05:13","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,So2P+1
+408626,"26/02/2018 11:05:50","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,i5WbiB
+408627,"26/02/2018 11:06:02","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Nwv93h
+408628,"26/02/2018 11:06:20","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,I1WnQG
+408629,"26/02/2018 11:06:31","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,zjzSSH
+408630,"26/02/2018 11:07:05","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,11xiu0
+408631,"26/02/2018 11:07:14","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,YsvaEf
+408632,"26/02/2018 11:07:52","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,IhBlKg
+408633,"26/02/2018 11:08:04","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,aOh2/v
+408634,"26/02/2018 11:08:47","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,HJK67s
+408635,"26/02/2018 11:09:03","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,4VJCW8
+408636,"26/02/2018 11:09:22","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,u47F6n
+408637,"26/02/2018 11:09:31","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,NH9hfK
+408638,"26/02/2018 11:10:16","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,QXjAEP
+408639,"26/02/2018 11:10:30","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,FeDZqs
+408640,"26/02/2018 11:10:55","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,DPOCeC
+408641,"26/02/2018 11:11:08","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,SOE8pZ
+408642,"26/02/2018 11:11:29","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,5OcT2s
+408643,"26/02/2018 11:11:40","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,c6Nx2i
+408644,"26/02/2018 11:12:06","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,OKqA0v
+408645,"26/02/2018 11:12:18","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,UuTkPx
+408646,"26/02/2018 11:12:47","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,GLaEC2
+408647,"26/02/2018 11:13:00","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,kuQbjF
+408648,"26/02/2018 11:13:25","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,RL52rg
+408649,"26/02/2018 11:13:35","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,MTaGcJ
+408650,"26/02/2018 11:14:09","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,UJqdlS
+408651,"26/02/2018 11:14:20","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,DsstIj
+408652,"26/02/2018 11:14:46","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,POpKsF
+408653,"26/02/2018 11:14:54","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,utgZi9
+408654,"26/02/2018 11:15:19","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,75OsQV
+408655,"26/02/2018 11:15:30","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,u2e0w8
+408656,"26/02/2018 11:16:02","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,v/G4M7
+408657,"26/02/2018 11:16:13","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,89QZzR
+408658,"26/02/2018 11:16:48","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,MWNN+I
+408659,"26/02/2018 11:16:59","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,cBANJo
+408660,"26/02/2018 11:17:29","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,QY+ucL
+408661,"26/02/2018 11:17:39","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,TmMypD
+408662,"26/02/2018 11:18:02","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,kq3SNE
+408663,"26/02/2018 11:18:10","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,PZtgMx
+408664,"26/02/2018 11:18:36","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Ez8dtj
+408665,"26/02/2018 11:18:45","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,CZZJRR
+408666,"26/02/2018 11:19:21","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,c1K+QU
+408667,"26/02/2018 11:19:30","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,4WdggG
+408668,"26/02/2018 11:19:58","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,7Z3YVE
+408669,"26/02/2018 11:20:10","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,dU/LKp
+408670,"26/02/2018 11:20:41","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3+O5Wz
+408671,"26/02/2018 11:20:50","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,Pxgfqi
+408672,"26/02/2018 11:21:14","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,q36LVN
+408673,"26/02/2018 11:21:25","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,xm9wcl
+408674,"26/02/2018 11:21:52","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,3+pmBZ
+408675,"26/02/2018 11:22:03","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,EJQa6w
+408676,"26/02/2018 11:22:39","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,+KLzQI
+408677,"26/02/2018 11:22:47","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,JfZpM1
+408678,"26/02/2018 11:23:16","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,c5j7P7
+408679,"26/02/2018 11:23:33","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,g4mNDO
+408680,"26/02/2018 11:23:53","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Spfh7O
+408681,"26/02/2018 11:24:04","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,l8h1ha
+408682,"26/02/2018 11:24:32","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,R+oJvd
+408683,"26/02/2018 11:24:42","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,MIGfjC
+408684,"26/02/2018 11:25:18","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,k9AOhj
+408685,"26/02/2018 11:25:32","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,zfpK27
+408686,"26/02/2018 11:26:00","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,FG9GXL
+408687,"26/02/2018 11:26:12","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,z4Lm3L
+408688,"26/02/2018 11:26:35","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,LGH18W
+408689,"26/02/2018 11:26:49","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,7FkhCM
+408690,"26/02/2018 11:27:09","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,WzqZ6g
+408691,"26/02/2018 11:27:26","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,LLh14t
+408692,"26/02/2018 11:27:58","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,LGnK4B
+408693,"26/02/2018 11:28:09","+0:00","adamb","Alarm","ALARM INFEED BELT MOTOR  On",,fcasO5
+408694,"26/02/2018 11:28:09","+0:00","adamb","Alarm","EMERGENCY  On",,4F1A9z
+408695,"26/02/2018 11:28:09","+0:00","adamb","Alarm","COVER OPEN 3  On",,xvE65m
+408696,"26/02/2018 11:28:10","+0:00","adamb","Alarm","ALARM ROTATION MOTOR  On",,fsNXs7
+408697,"26/02/2018 11:28:10","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 2  On",,/zi0nM
+408698,"26/02/2018 11:28:10","+0:00","adamb","Alarm","ALARM ROTATION MOTOR 3  On",,3lfIlh
+408699,"26/02/2018 11:28:22","+0:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,fhZsJJ
+408700,"26/02/2018 11:28:22","+0:00","adamb","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,gzO6al
+408701,"26/02/2018 11:28:22","+0:00","adamb","Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,AYgWNJ
+408702,"26/02/2018 11:28:22","+0:00","adamb","Alarm:","EMERGENCY  Acknowledgment",,Kkg8qw
+408703,"26/02/2018 11:28:22","+0:00","adamb","Alarm:","COVER OPEN 3  Acknowledgment",,C/bCMO
+408704,"26/02/2018 11:28:22","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,bQ6mTl
+408705,"26/02/2018 11:28:22","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,Hy8wj0
+408706,"26/02/2018 11:28:22","+0:00","adamb","Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,QParLJ
+408707,"26/02/2018 11:28:22","+0:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,y5zMLF
+408708,"26/02/2018 11:28:22","+0:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,r/BzH6
+408709,"26/02/2018 11:28:22","+0:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,uNdV46
+408710,"26/02/2018 11:28:23","+0:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,EhNbwK
+408711,"26/02/2018 11:28:23","+0:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,1CLOj3
+408712,"26/02/2018 11:28:23","+0:00","adamb","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,+QycUH
+408713,"26/02/2018 11:28:30","+0:00","adamb","Warning","WARNING ACCEPTED TRAY ALMOST FULL  Off",,9k0lDi
+408714,"26/02/2018 11:28:46","+0:00","adamb","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,IS9mrX
+408715,"26/02/2018 11:29:16","+0:00","adamb","Warning","WARNING REJECTED TRAY 1 ALMOST FULL  Off",,odpb6B
+408716,"26/02/2018 11:34:42","+0:00","adamb","User administration","User logged off.",,O2PbCU
+408717,"26/02/2018 11:34:42","+0:00",,"Tag: Cicli continui\UserLevel","Change the value of the 'Cicli continui\UserLevel' tag from '0' to '0' by entering '0'.",,ehft2p
+408718,"26/02/2018 11:34:42","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,r8itl/
+408719,"26/02/2018 11:34:53","+0:00","System","User administration","User 'markw' logged on with group 'Operator'.",,dAZjjM
+408720,"26/02/2018 11:35:51","+0:00","markw","Alarm","COVER OPEN 4  On",,5vOa30
+408721,"26/02/2018 11:36:04","+0:00","markw","Alarm","WARNING MISSING LOGIN OPERATION  Off",,4KiUf2
+408722,"26/02/2018 11:36:04","+0:00","markw","Alarm","COVER OPEN 3  Off",,cn2SgJ
+408723,"26/02/2018 11:36:04","+0:00","markw","Alarm","COVER OPEN 4  Off",,KFME1M
+408724,"26/02/2018 11:36:04","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  Off",,4p1cqu
+408725,"26/02/2018 11:36:04","+0:00","markw","Alarm","EMERGENCY  Off",,78XZQO
+408726,"26/02/2018 11:36:05","+0:00","markw","Alarm: 5","Acknowledgment of 5 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,6bI6SU
+408727,"26/02/2018 11:36:05","+0:00","markw","Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,Vo8xgI
+408728,"26/02/2018 11:36:05","+0:00","markw","Alarm:","COVER OPEN 4  Acknowledgment",,4UDVVV
+408729,"26/02/2018 11:36:05","+0:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,P0o/mk
+408730,"26/02/2018 11:36:06","+0:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,97XW3K
+408731,"26/02/2018 11:36:06","+0:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,IcH9Nu
+408732,"26/02/2018 11:36:06","+0:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,wkZDoY
+408733,"26/02/2018 11:36:06","+0:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,+U36lX
+408734,"26/02/2018 11:36:06","+0:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,K9n1ZG
+408735,"26/02/2018 11:36:06","+0:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,eGPys+
+408736,"26/02/2018 11:36:06","+0:00","markw","Alarm: 1024","Acknowledgment of 1024 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,feABh1
+408737,"26/02/2018 11:36:07","+0:00","markw","Alarm","ALARM ROTATION MOTOR  Off",,hhstya
+408738,"26/02/2018 11:36:07","+0:00","markw","Alarm","ALARM ROTATION MOTOR 2  Off",,SRQrXj
+408739,"26/02/2018 11:36:07","+0:00","markw","Alarm","ALARM ROTATION MOTOR 3  Off",,LnjXIg
+408740,"26/02/2018 11:36:08","+0:00","markw","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,k9ctu0
+408741,"26/02/2018 11:36:08","+0:00","markw","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,2un+7w
+408742,"26/02/2018 11:36:08","+0:00","markw","Alarm: 2132","Acknowledgment of alarm 2132 of PLC MCA200+LKD.",,V6RmG+
+408743,"26/02/2018 11:37:29","+0:00","markw","Alarm","ALARM INFEED BELT MOTOR  On",,d2mY+H
+408744,"26/02/2018 11:37:29","+0:00","markw","Alarm","EMERGENCY  On",,3coZ1s
+408745,"26/02/2018 11:37:29","+0:00","markw","Alarm","COVER OPEN 3  On",,soWCDJ
+408746,"26/02/2018 11:37:29","+0:00","markw","Alarm","ALARM ROTATION MOTOR  On",,XxtxWY
+408747,"26/02/2018 11:37:29","+0:00","markw","Alarm","ALARM ROTATION MOTOR 2  On",,585yj+
+408748,"26/02/2018 11:37:29","+0:00","markw","Alarm","ALARM ROTATION MOTOR 3  On",,LCUWUf
+408749,"26/02/2018 12:39:17","+0:00","System","User administration","User logged off.",,Tb3Ma6
+408750,"26/02/2018 12:39:17","+0:00",,"Alarm","WARNING MISSING LOGIN OPERATION  On",,tBcIx+
+408751,"26/02/2018 13:02:15","+0:00",,"Alarm","COVER OPEN 1  On",,s3z190
+408752,"26/02/2018 13:53:07","+0:00",,"Alarm","COVER OPEN 4  On",,ewxyN/
+408753,"26/02/2018 13:53:25","+0:00",,"Alarm","COVER OPEN 2  On",,ccfI97
+408754,"26/02/2018 13:55:21","+0:00",,"Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,W4PqUN
+408755,"26/02/2018 13:55:21","+0:00",,"Alarm:","ALARM INFEED BELT MOTOR  Acknowledgment",,9qM3As
+408756,"26/02/2018 13:55:21","+0:00",,"Alarm:","EMERGENCY  Acknowledgment",,5eG0Zu
+408757,"26/02/2018 13:55:21","+0:00",,"Alarm:","COVER OPEN 3  Acknowledgment",,wd5NXH
+408758,"26/02/2018 13:55:21","+0:00",,"Alarm:","ALARM ROTATION MOTOR  Acknowledgment",,ztLvAv
+408759,"26/02/2018 13:55:21","+0:00",,"Alarm:","ALARM ROTATION MOTOR 2  Acknowledgment",,oFmZNs
+408760,"26/02/2018 13:55:21","+0:00",,"Alarm:","ALARM ROTATION MOTOR 3  Acknowledgment",,nW5/S/
+408761,"26/02/2018 13:55:21","+0:00",,"Alarm:","WARNING MISSING LOGIN OPERATION  Acknowledgment",,/VtkMS
+408762,"26/02/2018 13:55:21","+0:00",,"Alarm:","COVER OPEN 1  Acknowledgment",,z60LF1
+408763,"26/02/2018 13:55:21","+0:00",,"Alarm:","COVER OPEN 4  Acknowledgment",,4a4G76
+408764,"26/02/2018 13:55:21","+0:00",,"Alarm:","COVER OPEN 2  Acknowledgment",,wt4Ptz
+408765,"26/02/2018 13:55:21","+0:00",,"Alarm: 3","Acknowledgment of 3 alarm from PLC MCA200+LKD; the cited messages is part of alarm group 1.",,PUio5K
+408766,"26/02/2018 16:15:39","+0:00",,"Alarm","ALARM PROFIBUS NODE 3 (ENCODER)  On",,vTyQd6
+408767,"26/02/2018 16:15:39","+0:00",,"Warning","ALARM VACUUM SENSOR  On",,ZFEInW
+408768,"26/02/2018 16:15:39","+0:00",,"Warning","WARNING UPS  On",,3/1kYy
+408769,"26/02/2018 16:15:42","+0:00",,"Warning","WARNING ACCEPTED TRAY ALMOST FULL  On",,Z3p7AS
+408770,"26/02/2018 16:15:42","+0:00",,"Warning","WARNING REJECTED TRAY 1 ALMOST FULL  On",,idBCuh
+408771,"26/02/2018 16:15:42","+0:00",,"Warning","WARNING REJECTED TRAY 2 ALMOST FULL  On",,JaeiA9
+408772,"27/02/2018 08:32:05","+0:00","System","Application","The last program run was not correctly exited. This may result in the loss of data.",,F2AgPc
+0,"27/02/2018 08:32:05","+0:00","System","Application","Startup of  on device . Project: '. - ' Build , created with WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3WinCC flexible RT 2008 SP3",,+4WxjY
+408773,"27/02/2018 08:32:05","+0:00","System","Application","Change to operating mode 'online'.",,9ModIE
+408774,"27/02/2018 08:32:05","+0:00","System","User administration","Password list imported successfully.",,siev/M
+0,"27/02/2018 08:32:07","+0:00","System","Logs","Log files closed.",,IHOQCa
+"$RT_COUNT$",590,kk14ge,,,,,ShT/V2

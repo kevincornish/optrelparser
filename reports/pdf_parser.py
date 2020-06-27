@@ -1,6 +1,8 @@
 import re
-import pdftotext
 from datetime import datetime
+
+from pytz import timezone
+import pdftotext
 
 
 class PDFToDict(object):
@@ -44,7 +46,6 @@ class PDFToDict(object):
         # ignore product id (first element in list)
         recipe = ' '.join(product_id_and_recipe[1:])
         return recipe
-        return ' '.join(page.split('Product:')[1].split('\n')[0].strip().split()[1:])
 
     def fetch_batch_name(self, pdf):
         page = pdf[0]
@@ -63,16 +64,30 @@ class PDFToDict(object):
     def fetch_start_date(self, pdf):
         page = pdf[0]
         full_string = page.split("Starting date:")[-1].split('\n')[0].strip().split()
-        date = full_string[0]
-        time = full_string[-1]
-        dt = f'{date} {time}'
-        return datetime.strptime(dt, '%d/%m/%Y %H:%M:%S')
+        return self.convert_time(full_string)
 
     def fetch_end_date(self, pdf):
         page = pdf[0]
         full_string = page.split("Ending date:")[-1].split('\n')[0].strip().split()
-        date = full_string[0]
-        time = full_string[-1]
+        return self.convert_time(full_string)
+
+    def convert_time(self, string):
+        try:
+            dt = self.convert_time_12_hr(string)
+        except:
+            dt = self.convert_time_24_hr(string)
+        return dt.replace(tzinfo=timezone('Europe/London'))
+
+    def convert_time_12_hr(self, string):
+        date = string[0]
+        time = string[1]
+        am_or_pm = string[2]
+        dt = f'{date} {time} {am_or_pm}'
+        return datetime.strptime(dt, '%d/%m/%Y %H:%M:%S %p')
+
+    def convert_time_24_hr(self, string):
+        date = string[0]
+        time = string[-1]
         dt = f'{date} {time}'
         return datetime.strptime(dt, '%d/%m/%Y %H:%M:%S')
 

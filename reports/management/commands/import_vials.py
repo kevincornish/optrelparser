@@ -2,21 +2,13 @@ import os
 
 from django.core.management.base import BaseCommand
 
-from reports.pdf_parser import PDFToDict
-from reports.models import Vial
+from reports.importers.report import VialImporter
 
 
 class Command(BaseCommand):
     def handle(self, *args, **options):
-        pdfs = self.get_pdfs(options['directory'])
-        converter = PDFToDict()
-        for pdf in pdfs:
-            data = converter.convert(pdf)
-            if data['inspected'] == '0':
-            	# don't process
-            	continue
-            vial = Vial(**data)
-            vial.save()
+        processor = VialImporter()
+        processor.import_directory(options['directory'])
 
     def add_arguments(self, parser):
         parser.add_argument("-d", "--dir", action="store", dest="directory", type=str, default='files/vials')

@@ -25,10 +25,10 @@ class CSVToAuditLogBase(object):
             next(reader)
             for line in reader:
                 try:
-                    self.create_from_line(line)
                     if line['record_id'] == '$RT_COUNT$':
                     	# don't process
-                    	continue
+                    	continue                
+                    self.create_from_line(line)
                 except Exception as e:
                     print(f"Failed to parse line number: {reader.line_num} on file: {file_path} "
                           f"Exception: {e}. Data: {line}")

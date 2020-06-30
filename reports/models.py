@@ -25,7 +25,7 @@ class BaseReport(models.Model):
         abstract = True
     
     def audit_logs(self):
-        self.audit_class.objects.filter(time_stamp__range=(self.start_date, self.end_date))
+        return self.audit_class.objects.filter(time_stamp__range=(self.start_date, self.end_date))
 
     def get_absolute_url(self):
         return reverse("ampoule_detail", kwargs={'pk': self.id})

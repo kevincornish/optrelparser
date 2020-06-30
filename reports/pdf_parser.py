@@ -54,10 +54,11 @@ class PDFToDict(object):
 
     def fetch_batch_number(self, pdf):
         page = pdf[0]
-        line = page.split('Batch:')[-1].split('\n')[0].strip()
-        expr = re.compile('\d+')
         try:
-            return re.findall(expr, line)[0]
+            result = re.findall(r"[0-9]{5,9}", page)[-1]
+            if result == '21490035':
+                result = None
+            return result
         except IndexError:
             return None
 

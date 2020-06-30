@@ -1,8 +1,10 @@
 from django_filters.views import FilterView
 from django_tables2 import SingleTableMixin
-from django.views.generic import ListView
-from .models import Vial, VialAudit, Ampoule, AmpouleAudit
-from .tables import VialTable, VialFilter, VialAuditTable, VialAuditFilter, AmpouleTable, AmpouleFilter, AmpouleAuditTable, AmpouleAuditFilter
+from django.views.generic import DetailView
+
+from .models import Ampoule, AmpouleAudit, Vial, VialAudit
+from .tables import AmpouleAuditFilter, AmpouleAuditTable, AmpouleFilter, AmpouleTable, VialAuditFilter, VialAuditTable, \
+    VialFilter, VialTable
 
 
 class VialListView(SingleTableMixin, FilterView):
@@ -21,7 +23,32 @@ class AmpouleListView(SingleTableMixin, FilterView):
     table_class = AmpouleTable
     template_name = 'reports/ampoules_list.html'
     filterset_class = AmpouleFilter
-    
+
+
+class AmpouleDetailView(SingleTableMixin, FilterView, DetailView):
+    model = AmpouleAudit
+    queryset = AmpouleAudit.objects.all()
+    context_object_name = 'audit_logs'
+    template_name = 'reports/ampoules_detail.html'
+    filterset_class = AmpouleAuditFilter
+
+    def get_object(self, queryset=None):
+        obj = Ampoule.objects.get(pk=self.kwargs.get(self.pk_url_kwarg))
+        if not hasattr(self, 'object'):
+            self.object = obj
+        return obj
+
+    def get_context_data(self, **kwargs):
+        obj = self.get_object()
+        data = super().get_context_data(**kwargs)
+        data['ampoule'] = obj
+        return data
+
+    def get_queryset(self):
+        obj = self.get_object()
+        return obj.audit_logs()
+
+
 class VialAuditListView(SingleTableMixin, FilterView):
     model = VialAudit
     queryset = VialAudit.objects.all()
@@ -38,4 +65,3 @@ class AmpouleAuditListView(SingleTableMixin, FilterView):
     table_class = AmpouleAuditTable
     template_name = 'reports/ampoule_audit_list.html'
     filterset_class = AmpouleAuditFilter
-

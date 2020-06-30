@@ -1,3 +1,4 @@
+from django.urls import reverse
 from django.db import models
 
 
@@ -10,16 +11,24 @@ class BaseReport(models.Model):
     recipe = models.CharField(blank=False, null=False, max_length=255)
     batch_number = models.IntegerField(blank=True, null=True)
     batch_name = models.CharField(blank=True, null=True, max_length=255)
-    start_date = models.DateTimeField(primary_key=True)
+    start_date = models.DateTimeField(unique=True)
     end_date = models.DateTimeField()
     inspected = models.IntegerField(blank=False, null=False)
     accepted = models.IntegerField(blank=False, null=False)
     rejected = models.IntegerField(blank=False, null=False)
     technical_rejects = models.IntegerField(blank=False, null=False)
 
+    audit_class = None
+
     class Meta:
         # Set the model to an abstract class so tables are not created for this model
         abstract = True
+    
+    def audit_logs(self):
+        self.audit_class.objects.filter(time_stamp__range=(self.start_date, self.end_date))
+
+    def get_absolute_url(self):
+        return reverse("ampoule_detail", kwargs={'pk': self.id})
 
 
 class BaseAudit(models.Model):
@@ -40,17 +49,17 @@ class BaseAudit(models.Model):
         abstract = True
 
 
-class Ampoule(BaseReport):
-    pass
-
-
 class AmpouleAudit(BaseAudit):
     pass
 
 
-class Vial(BaseReport):
-    pass
+class Ampoule(BaseReport):
+    audit_class = AmpouleAudit
 
 
 class VialAudit(BaseAudit):
     pass
+
+
+class Vial(BaseReport):
+    audit_class = VialAudit

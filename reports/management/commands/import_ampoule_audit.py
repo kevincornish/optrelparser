@@ -1,11 +1,13 @@
 from django.core.management.base import BaseCommand
 
+from reports.models import AmpouleAudit
 from reports.importers.audit_log import AmpouleAuditImporter, BulkAmpouleAuditImporter
 
 
 class Command(BaseCommand):
     def handle(self, *args, **options):
         if options['truncate']:
+            AmpouleAudit.objects.all().delete()
             processor = BulkAmpouleAuditImporter()
         else:
             processor = AmpouleAuditImporter()

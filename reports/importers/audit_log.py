@@ -43,7 +43,7 @@ class CSVToAuditLogBase(object):
 
     def _import_file(self, file_path, read_mode='r', delimiter=','):
         errors = []
-        with open(file_path, read_mode, encoding='utf-8') as f:
+        with open(file_path, read_mode) as f:
             reader = DictReader(f, fieldnames=self.get_field_names(), delimiter=delimiter)
             # skip header line
             next(reader)
@@ -101,7 +101,7 @@ class BulkCSVToAuditLogBase(CSVToAuditLogBase):
                         # don't process
                         continue
                     line = self.format_line(line)
-                    records.append()
+                    records.append(self.model_class(**line))
                 except (KeyError, ValueError, TypeError) as e:
                     errors.append({
                         'file_name': file_path,
@@ -112,7 +112,7 @@ class BulkCSVToAuditLogBase(CSVToAuditLogBase):
         return errors
 
     def bulk_insert(self, records):
-        self.model_class.objects.bulk_create([self.model_class(**r) for r in records])
+        self.model_class.objects.bulk_create(records)
 
 
 class AmpouleAuditImporter(CSVToAuditLogBase):

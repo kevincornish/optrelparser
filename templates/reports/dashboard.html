@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+    <div class="container-fluid">
+		<p align="center"><b>Dashboard</b></p>
+	</div>
+	<div class="container-fluid">
+		<p>Hello, {{ user.username|default:'Guest' }}!</p>
+		<p>Role: {% if is_supervisor %}<b>Supervisor</b>{% else %}<b>No Role</b>{% endif %}</p>
+	</div>
+{% endblock %}

@@ -5,10 +5,10 @@ class VialFilter(django_filters.FilterSet):
     class Meta:
         model = Vial
         fields = {
-            'username': ['exact'],
-            'recipe': ['contains'],
+            'username': ['iexact'],
+            'recipe': ['icontains'],
             'batch_number': ['exact'],
-            'batch_name': ['contains'],
+            'batch_name': ['icontains'],
         }
 
 
@@ -16,10 +16,10 @@ class AmpouleFilter(django_filters.FilterSet):
     class Meta:
         model = Ampoule
         fields = {
-            'username': ['exact'],
-            'recipe': ['contains'],
+            'username': ['iexact'],
+            'recipe': ['icontains'],
             'batch_number': ['exact'],
-            'batch_name': ['contains'],
+            'batch_name': ['icontains'],
         }
         
         

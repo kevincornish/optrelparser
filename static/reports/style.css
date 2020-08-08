@@ -1,56 +1,277 @@
 html {
-  position: relative;
   min-height: 100%;
+  position: relative;
 }
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
 body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
   margin-bottom: 60px;
+  margin: 0;
 }
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1170px;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.navbar-inverse {
+    background-color: #222;
+    border-color: #080808;
+}
+.navbar-header {
+    float: left;
+}
+
+.navbar-nav {
+    float: left;
+    margin: 0;
+}
+.navbar-nav > li {
+    float: left;
+}
+.nav > li {
+    position: relative;
+    display: block;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #9d9d9d;
+}
+.navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 20px;
+}
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+a:focus {
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+}
+a:focus, a:hover {
+    color: #23527c;
+    text-decoration: underline;
+}
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
+    color: #fff;
+    background-color: transparent;
+text-decoration: none;
+}
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+brand {
+    margin-left: -15px;
+}
+.navbar-inverse .navbar-brand {
+    color: #9d9d9d;
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+.nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+
+.navbar-right {
+    float: right !important;
+    margin-right: -15px;
+}
+
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+        border-top-color: transparent;
+        border-right-color: transparent;
+        border-bottom-color: transparent;
+        border-left-color: transparent;
+    border-radius: 4px;
+	display: block;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+        border-top-color: currentcolor;
+        border-top-style: none;
+        border-top-width: 0px;
+    border-top: 1px solid #eee;
+}
+hr {
+    height: 0;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+
 label, input {
 	display: block;
 }
 span.helptext {
 	display: none;
 }
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 60px;
-  line-height: 60px;
-  background-color: #f5f5f5;
+
+
+.pagination {
+    display: inline-block;
+    padding-left: 0;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+
+
+.pagination > li {
+    display: inline;
+}
+
+.pagination > li > a:focus, .pagination > li > a:hover, .pagination > li > span:focus, .pagination > li > span:hover {
+
+    z-index: 2;
+    color: #23527c;
+    background-color: #eee;
+    border-color: #ddd;
+
+}
+
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
+    z-index: 3;
+    color: #fff;
+    cursor: default;
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
+
+.pagination > li:first-child > a, .pagination > li:first-child > span {
+    margin-left: 0;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.pagination > li > a, .pagination > li > span {
+    line-height: 1.42857143;
+    color: #337ab7;
+}
+
+.pagination > li:last-child > a, .pagination > li:last-child > span {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.pagination > li > a, .pagination > li > span {
+    position: relative;
+    float: left;
+    padding: 6px 12px;
+    margin-left: -1px;
+    line-height: 1.42857143;
+    color: #337ab7;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.pagination > li > a, .pagination > li > span {
+    line-height: 1.42857143;
+    color: #337ab7;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+.table > caption + thead > tr:first-child > td, .table > caption + thead > tr:first-child > th, .table > colgroup + thead > tr:first-child > td, .table > colgroup + thead > tr:first-child > th, .table > thead:first-child > tr:first-child > td, .table > thead:first-child > tr:first-child > th {
+    border-top: 0;
+}
+.table > thead > tr > th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #ddd;
+}
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+th {
+    text-align: left;
 }
 
 tr[object_id='Alarm'],[object_id='Alarm:'] {
-    background-color: #a31a1a;
-	color: white;
+    background-color: #a31a1a !important;
+	color: white !important;
 }
 
 tr[object_id='Warning'] {
-    background-color: #ed9518;
+    background-color: #ed9518 !important;
 }
 tr[object_id='User administration'],[object_id='Alarm: 2152'],[object_id='Alarm: 59'],
-	[object_id='Alarm: 8'],[object_id='Alarm: 60'],[object_id='Alarm: 57'],[object_id='Alarm: 1135'],
+	[object_id='Alarm: 8'],[object_id='Alarm: 5'],[object_id='Alarm: 60'],[object_id='Alarm: 57'],[object_id='Alarm: 1135'],[object_id='Alarm: 1024'],
 	[object_id='Alarm: 7'],[object_id='Alarm: 2084']{
-    background-color: #60bb46;
+    background-color: #60bb46 !important;
 }
 
 tr[recipe='10mL Production'],[recipe='10mL particle test'],[recipe='10ml production'],[recipe='10ml update'],
-	[recipe='10mL Rings 3924K'],[recipe='Production 10ml'],[recipe='Charring 10mL Produc'],[recipe='100ml Production'],[recipe='10ml Production']{
-    background-color: #60bb46;
+	[recipe='10mL Rings 3924K'],[recipe='10ml Rings Y7788N'],[recipe='Production 10ml'],[recipe='Charring 10mL Produc'],
+	[recipe='100ml Production'],[recipe='10ml Production'],[recipe='Viscous 10ml Product']{
+    background-color: #60bb46 !important;
 }
 
 tr[recipe='1ml production'],[recipe='1mL Production'],[recipe='Production 1ml'],[recipe='Product 17']{
-	    background-color: #ed9518;
+	    background-color: #ed9518 !important;
 }
 tr[recipe='2ml Amber'],[recipe='2ml Amber Ampoules'],[recipe='2ml production'],[recipe='2mL Production'],
 	[recipe='2ml Production'],[recipe='2ml update'],[recipe='Production 2ml'],[recipe='20ml Amber']{
-	    background-color: #0073bc;
-				color: white;
+	    background-color: #0073bc !important;
+				color: white !important;
 }
 
-tr[recipe='Production 5mL'],[recipe='Charring 5ml Product'],[recipe='50ml Production']{
-	    background-color: #bf4a97;
-		color: white;
+tr[recipe='Production 5mL'],[recipe='Charring 5ml Product'],[recipe='50ml Production'],[recipe='5mL Production'],[recipe='5ml Torbac']{
+	    background-color: #bf4a97 !important;
+		color: white !important;
 }
 
 tr[recipe='6ml Amber Production']{
@@ -60,4 +281,20 @@ tr[recipe='6ml Amber Production']{
 tr[recipe='50ml Amber']{
 	    background-color: #714abf;
 		color: white;
+}
+td a {
+	color: black;
+    text-decoration: underline;
+}
+
+.footer {
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #f5f5f5 !important;
+	display: block;
+}
+.footer {
+    color: #777;
 }

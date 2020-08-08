@@ -51,9 +51,9 @@ python manage.py import_vials
 
 python manage.py import_ampoules
 
-python manage.py import_ampoule_audit
+python manage.py import_ampoule_audit --truncate
 
-python manage.py import_vial_audit
+python manage.py import_vial_audit --truncate
 ```
 
 ## Create superuser

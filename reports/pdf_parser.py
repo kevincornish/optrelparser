@@ -49,6 +49,8 @@ class PDFToDict(object):
 
 ## TO FIX:
 ## If batch name includes strength it is stripped
+## Replace char.isdigit to
+## only strip number regex [0-9]{7,8}
     def fetch_batch_name(self, pdf):
         page = pdf[0]
         line = page.split('Batch:')[-1].split('\n')[0].strip()

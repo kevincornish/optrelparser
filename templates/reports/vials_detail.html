@@ -16,6 +16,16 @@
 	</div>
 	<div class="container-fluid">
 		<p align="center"><b>Audit Trail / Alarm Log</b></p>
+		<hr>
+	</div>
+	<div class="container-fluid">
+		<form method="get">
+			{{ filter.form.as_p }}
+			<input type="submit" value="Search" />
+		</form>
+	</div>
+	<div class="container-fluid">
+		<p align="center"><a href="/print/vials/{{ vial.id }}" target="_blank">Printer Friendly Version</a></p>
 	</div>
 	<div class="container-fluid">
 		{% render_table table %}

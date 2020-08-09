@@ -26,10 +26,16 @@ class AmpouleFilter(django_filters.FilterSet):
 class VialAuditFilter(django_filters.FilterSet):
     class Meta:
         model = VialAudit
-        fields = ["time_stamp", "user_id", "object_id", "description"]
+        fields = {
+            'user_id': ['icontains'],
+            'description': ['icontains'],
+        }
 
 
 class AmpouleAuditFilter(django_filters.FilterSet):
     class Meta:
         model = AmpouleAudit
-        fields = ["time_stamp", "user_id", "object_id", "description"]
+        fields = {
+            'user_id': ['icontains'],
+            'description': ['icontains'],
+        }

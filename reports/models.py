@@ -9,7 +9,7 @@ class BaseReport(models.Model):
     username = models.CharField(blank=False, null=False, max_length=255)
     product_id = models.IntegerField(db_index=True, blank=False, null=False)
     recipe = models.CharField(blank=False, null=False, max_length=255)
-    batch_number = models.IntegerField(blank=True, null=True)
+    batch_number = models.CharField(blank=True, null=True, max_length=255)
     batch_name = models.CharField(blank=True, null=True, max_length=255)
     start_date = models.DateTimeField(unique=True)
     end_date = models.DateTimeField()

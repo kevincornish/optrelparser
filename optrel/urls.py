@@ -2,13 +2,15 @@ from django.contrib import admin
 from django.urls import path
 from django.contrib.auth import views as auth_views
 from django.conf.urls import include, url
-from reports.views import VialListView, VialAuditListView, VialDetailView, AmpouleListView, AmpouleAuditListView, AmpouleDetailView, Dashboard
+from reports.views import VialListView, VialAuditListView, VialDetailView, VialPrintView, AmpouleListView, AmpouleAuditListView, AmpouleDetailView, AmpoulePrintView, Dashboard
 urlpatterns = [
     path('',Dashboard,name='dashboard',),
     path('accounts/', include("django.contrib.auth.urls")),
     path('admin/', admin.site.urls),
     path('vials/', VialListView.as_view(), name='vials'),
     path('vials/<int:pk>/', VialDetailView.as_view(), name='vial_detail'),    
+    path('print/vials/<int:pk>/', VialPrintView.as_view(), name='vial_print'),    
+    path('print/ampoules/<int:pk>/', AmpoulePrintView.as_view(), name='ampoule_print'),    
     path('ampoules/', AmpouleListView.as_view(), name='ampoules'),
     path('ampoules/<int:pk>/', AmpouleDetailView.as_view(), name='ampoule_detail'),
     path('audit/vials/', VialAuditListView.as_view()),

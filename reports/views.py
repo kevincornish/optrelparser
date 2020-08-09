@@ -11,7 +11,9 @@ def Dashboard(request):
     current_user_groups = request.user.groups.values_list("name", flat=True)
     context = {
         "is_supervisor": "Supervisor" in current_user_groups,
+        "is_senior_operator": "Senior Operator" in current_user_groups,
     }
+
     return render(request, "reports/dashboard.html", context)
 
 
@@ -29,6 +31,7 @@ class VialDetailView(SingleTableMixin, DetailView):
     queryset = VialAudit.objects.all()
     context_object_name = 'audit_logs'
     template_name = 'reports/vials_detail.html'
+    paginate_by = 25
 
     def get_object(self, queryset=None):
         obj = Vial.objects.get(pk=self.kwargs.get(self.pk_url_kwarg))
@@ -39,12 +42,20 @@ class VialDetailView(SingleTableMixin, DetailView):
     def get_context_data(self, **kwargs):
         obj = self.get_object()
         data = super().get_context_data(**kwargs)
+        batch_pk = self.kwargs.get('pk', None)
+        f = VialAuditFilter(self.request.GET, queryset=VialAudit.objects.filter(id=batch_pk))
+        data['filter'] = f
         data['vial'] = obj
         return data
 
     def get_queryset(self):
         obj = self.get_object()
         return obj.audit_logs()
+
+class VialPrintView(VialDetailView):
+    template_name = 'reports/vials_print.html'
+    paginate_by = 2500
+    pass
 
 class VialAuditListView(SingleTableMixin, FilterView):
     model = VialAudit
@@ -78,12 +89,20 @@ class AmpouleDetailView(SingleTableMixin, DetailView):
     def get_context_data(self, **kwargs):
         obj = self.get_object()
         data = super().get_context_data(**kwargs)
+        batch_pk = self.kwargs.get('pk', None)
+        f = AmpouleAuditFilter(self.request.GET, queryset=AmpouleAudit.objects.filter(id=batch_pk))
+        data['filter'] = f
         data['ampoule'] = obj
         return data
 
     def get_queryset(self):
         obj = self.get_object()
         return obj.audit_logs()
+
+class AmpoulePrintView(AmpouleDetailView):
+    template_name = 'reports/ampoules_print.html'
+    paginate_by = 2500
+    pass
 
 class AmpouleAuditListView(SingleTableMixin, FilterView):
     model = AmpouleAudit

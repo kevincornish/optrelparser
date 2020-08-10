@@ -2,6 +2,7 @@ from django_filters.views import FilterView
 from django_tables2 import SingleTableMixin
 from django.views.generic import DetailView
 from django.shortcuts import render
+from django.http import Http404
 
 from .models import Ampoule, AmpouleAudit, Vial, VialAudit
 from .tables import AmpouleAuditTable, AmpouleTable, VialAuditTable, VialTable
@@ -34,7 +35,10 @@ class VialDetailView(SingleTableMixin, DetailView):
     paginate_by = 25
 
     def get_object(self, queryset=None):
-        obj = Vial.objects.get(pk=self.kwargs.get(self.pk_url_kwarg))
+        try:
+            obj = Vial.objects.get(pk=self.kwargs.get(self.pk_url_kwarg))
+        except Vial.DoesNotExist:
+            raise Http404("Vial does not exist")
         if not hasattr(self, 'object'):
             self.object = obj
         return obj
@@ -81,7 +85,10 @@ class AmpouleDetailView(SingleTableMixin, DetailView):
     context_object_name = 'audit_logs'
     template_name = 'reports/ampoules_detail.html'
     def get_object(self, queryset=None):
-        obj = Ampoule.objects.get(pk=self.kwargs.get(self.pk_url_kwarg))
+        try:
+            obj = Ampoule.objects.get(pk=self.kwargs.get(self.pk_url_kwarg))
+        except Ampoule.DoesNotExist:
+            raise Http404("Ampoule does not exist")    
         if not hasattr(self, 'object'):
             self.object = obj
         return obj

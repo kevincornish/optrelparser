@@ -48,6 +48,8 @@ class VialDetailView(SingleTableMixin, DetailView):
         data = super().get_context_data(**kwargs)
         batch_pk = self.kwargs.get('pk', None)
         f = VialAuditFilter(self.request.GET, queryset=VialAudit.objects.filter(id=batch_pk))
+        clutches = VialAudit.objects.filter(description='EMERGENCY Acknowledgment').count()
+        data['clutches'] = clutches
         data['filter'] = f
         data['vial'] = obj
         return data

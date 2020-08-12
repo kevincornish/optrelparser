@@ -1,6 +1,5 @@
 # Optrel Parser
-
-The Optrel Parser is a django/python script that enables you to import batch reports and audit logs to a readable user friendly website using postgres.
+The Optrel Parser is a django/python script that enables you to import batch reports and audit logs to a postgres database from any Optrel Inspection machine using WinCC Flexible PVSI and view them in a readable user friendly website.
 
 # Installation
 ## Create Postgres database
@@ -45,11 +44,10 @@ CSV location:
 "/files/vial_audit"
 "/files/ampoule_audit"
 ```
-
 ```
-python manage.py import_vials
+python manage.py import_vials --truncate
 
-python manage.py import_ampoules
+python manage.py import_ampoules  --truncate
 
 python manage.py import_ampoule_audit --truncate
 
@@ -60,24 +58,17 @@ python manage.py import_vial_audit --truncate
 ```
 python manage.py createsuperuser
 ```
-
 # Running Server
 ```
 python manage.py runserver 8000
 ```
-
 ## View data
 ```
 localhost:8000/ampoules
 
 localhost:8000/vials
 ```
-
-## Login to admin site
-```
-localhost:8000/admin
-```
-
-
+## Stylesheets 
+The stylesheet is located at ``` /static/reports/style.css ``` will need to be updated to match your production recipes
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

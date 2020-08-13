@@ -293,10 +293,14 @@ tr[object_id='Alarm'],
 
 tr[object_id='Warning'] {
     background-color: #ed9518 !important;
+
 }
 
-tr[object_id='User administration'],
-[object_id='Alarm: 2152'],
+tr[object_id='Recipe'],[object_id='Logs'],[object_id='Application'],[object_id='User administration'] {
+    background-color: #a6a39c !important;
+}
+
+tr[object_id='Alarm: 2152'],
 [object_id='Alarm: 59'],
 [object_id='Alarm: 8'],
 [object_id='Alarm: 5'],

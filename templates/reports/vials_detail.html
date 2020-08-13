@@ -18,6 +18,9 @@
 	<p><b>Accepted Safety Clutches:</b> {{ accepted }}</p>
 	<p><b>Rejected Safety Clutches:</b> {{ rejected }}</p>
 	<p><b>Total Safety Clutches:</b> {{ total_clutches }}</p>
+	{% for clutch in clutches %}
+<p>{{ clutch.description }}: {{ clutch.count }} </p>
+	{% endfor %}
 </div>
 <div class="container-fluid">
 	<p align="center"><b>Audit Trail / Alarm Log</b></p>

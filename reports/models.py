@@ -1,6 +1,8 @@
 from django.urls import reverse
 from django.db import models
 
+from django.utils.functional import cached_property
+
 
 class BaseReport(models.Model):
     """
@@ -23,9 +25,21 @@ class BaseReport(models.Model):
     class Meta:
         # Set the model to an abstract class so tables are not created for this model
         abstract = True
-    
+        
+    @cached_property
     def audit_logs(self):
-        return self.audit_class.objects.filter(time_stamp__range=(self.start_date, self.end_date))
+        return self.audit_class.objects.filter(time_stamp__range=(self.start_date, self.end_date))    
+        
+    @cached_property
+    def safety_clutches(self):
+        descriptions = [
+            'ALARM SAFETY CLUTCH LOADING STARWHEEL  On',
+            'ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  On',
+            'ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT  On',
+            'ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On',
+            'ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR REJECT  On',
+        ]
+        return self.audit_logs.filter(description__in=descriptions)
 
     def get_absolute_url(self):
         return reverse("ampoule_detail", kwargs={'pk': self.id})
@@ -40,14 +54,14 @@ class BaseAudit(models.Model):
     delta_to_utc = models.CharField(blank=True, null=True, max_length=255)
     user_id = models.CharField(blank=True, null=True, max_length=255)
     object_id = models.CharField(blank=True, null=True, max_length=255)
-    description = models.CharField(blank=True, null=True, max_length=555)
+    description = models.CharField(blank=True, null=True, max_length=555, db_index=True)
     comment = models.CharField(blank=True, null=True, max_length=255)
     check_sum = models.CharField(blank=True, null=True, max_length=255)
 
     class Meta:
         # Set the model to an abstract class so tables are not created for this model
         abstract = True
-
+        
 
 class AmpouleAudit(BaseAudit):
     pass

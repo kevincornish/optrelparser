@@ -3,6 +3,7 @@ from django_tables2 import SingleTableMixin
 from django.views.generic import DetailView
 from django.shortcuts import render
 from django.http import Http404
+from django.db.models import Count
 
 from .models import Ampoule, AmpouleAudit, Vial, VialAudit
 from .tables import AmpouleAuditTable, AmpouleTable, VialAuditTable, VialTable
@@ -49,22 +50,17 @@ class VialDetailView(SingleTableMixin, DetailView):
         data = super().get_context_data(**kwargs)
         batch_pk = self.kwargs.get('pk', None)
         f = VialAuditFilter(self.request.GET, queryset=VialAudit.objects.filter(id=batch_pk))
-        loading = self.object.audit_logs().filter(description='ALARM SAFETY CLUTCH LOADING STARWHEEL  On').count()
-        intermittent = self.object.audit_logs().filter(description='ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT   On').count()
-        accepted = self.object.audit_logs().filter(description='ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On').count()
-        rejected = self.object.audit_logs().filter(description='ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR REJECT  On').count()
-        data['loading'] = loading
-        data['intermittent'] = intermittent
-        data['accepted'] = accepted
-        data['rejected'] = rejected
-        data['total_clutches'] = loading + intermittent + accepted + rejected
+        clutches = ( 
+            self.object.safety_clutches.values('description').order_by('description')
+            .annotate(count=Count('description'))
+        )
         data['filter'] = f
         data['vial'] = obj
         return data
 
     def get_queryset(self):
         obj = self.get_object()
-        return obj.audit_logs()
+        return obj.audit_logs
 
 class VialPrintView(VialDetailView):
     template_name = 'reports/vials_print.html'
@@ -108,23 +104,17 @@ class AmpouleDetailView(SingleTableMixin, DetailView):
         data = super().get_context_data(**kwargs)
         batch_pk = self.kwargs.get('pk', None)
         f = AmpouleAuditFilter(self.request.GET, queryset=AmpouleAudit.objects.filter(id=batch_pk))
-        loading = self.object.audit_logs().filter(description='ALARM SAFETY CLUTCH LOADING STARWHEEL  On').count()
-        intermittent = self.object.audit_logs().filter(description='ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL IMPUT  On').count()
-        intermittent2 = self.object.audit_logs().filter(description='ALARM SAFETY CLUTCH INTERMITTENT STARWHEEL OUTPUT  On').count()
-        accepted = self.object.audit_logs().filter(description='ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR ACCEPTED  On').count()
-        rejected = self.object.audit_logs().filter(description='ALARM SAFETY CLUTCH EXIT EXTRACTING STARWHEEL FOR REJECT  On').count()
-        data['loading'] = loading
-        data['intermittent'] = intermittent + intermittent2
-        data['accepted'] = accepted
-        data['rejected'] = rejected
-        data['total_clutches'] = loading + intermittent + intermittent2 + accepted + rejected
+        clutches = ( 
+            self.object.safety_clutches.values('description').order_by('description')
+            .annotate(count=Count('description'))
+        )
         data['filter'] = f
         data['ampoule'] = obj
         return data
 
     def get_queryset(self):
         obj = self.get_object()
-        return obj.audit_logs()
+        return obj.audit_logs
 
 class AmpoulePrintView(AmpouleDetailView):
     template_name = 'reports/ampoules_print.html'

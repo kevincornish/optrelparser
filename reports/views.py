@@ -56,6 +56,7 @@ class VialDetailView(SingleTableMixin, DetailView):
         )
         data.update({
             'clutches': clutches,
+            'total_clutches': self.object.safety_clutches.count(),
             'filter': f,
             'vial': obj
         })

@@ -36,6 +36,7 @@ class AmpouleTable(tables.Table):
 
 class VialAuditTable(tables.Table):
     class Meta:
+        order_by = "-time_stamp"
         model = VialAudit
         template_name = "django_tables2/bootstrap.html"
         fields = ("time_stamp", "user_id", "object_id", "description")
@@ -45,6 +46,7 @@ class VialAuditTable(tables.Table):
 
 class AmpouleAuditTable(tables.Table):
     class Meta:
+        order_by = "-time_stamp"
         model = AmpouleAudit
         template_name = "django_tables2/bootstrap.html"
         fields = ("time_stamp", "user_id", "object_id", "description")

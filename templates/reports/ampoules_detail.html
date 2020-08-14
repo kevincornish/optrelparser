@@ -12,11 +12,11 @@
 	<p><b>Inspected:</b> {{ ampoule.inspected }}</p>
 	<p><b>Accepted:</b> {{ ampoule.accepted }}</p>
 	<p><b>Rejected:</b> {{ ampoule.rejected }}</p>
-	<p><b>Technical Rejects:</b> {{ amppoule.technical_rejects }}</p>
+	<p><b>Technical Rejects:</b> {{ ampoule.technical_rejects }}</p>
 	{% for clutch in clutches %}
 		<p><b>{{ clutch.description }}:</b> {{ clutch.count }} </p>
 	{% endfor %}
-	<p><b>Total Clutches:</b> {{ clutches.count }}</p>
+	<p><b>Total Clutches:</b> {{ total_clutches }}</p>
 </div>
 <div class="container-fluid">
 	<p align="center"><b>Audit Trail / Alarm Log</b></p>

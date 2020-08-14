@@ -108,8 +108,11 @@ class AmpouleDetailView(SingleTableMixin, DetailView):
             self.object.safety_clutches.values('description').order_by('description')
             .annotate(count=Count('description'))
         )
-        data['filter'] = f
-        data['ampoule'] = obj
+        data.update({
+            'clutches': clutches,
+            'filter': f,
+            'ampoule': obj
+        })
         return data
 
     def get_queryset(self):

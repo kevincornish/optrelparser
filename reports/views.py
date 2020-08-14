@@ -110,6 +110,7 @@ class AmpouleDetailView(SingleTableMixin, DetailView):
         )
         data.update({
             'clutches': clutches,
+            'total_clutches': self.object.safety_clutches.count(),
             'filter': f,
             'ampoule': obj
         })

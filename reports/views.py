@@ -54,8 +54,11 @@ class VialDetailView(SingleTableMixin, DetailView):
             self.object.safety_clutches.values('description').order_by('description')
             .annotate(count=Count('description'))
         )
-        data['filter'] = f
-        data['vial'] = obj
+        data.update({
+            'clutches': clutches,
+            'filter': f,
+            'vial': obj
+        })
         return data
 
     def get_queryset(self):

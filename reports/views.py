@@ -4,21 +4,28 @@ from django.views.generic import DetailView
 from django.shortcuts import render
 from django.http import Http404
 from django.db.models import Count
+from django.contrib.auth.decorators import login_required
+from django.utils.decorators import method_decorator
 
 from .models import Ampoule, AmpouleAudit, Vial, VialAudit
 from .tables import AmpouleAuditTable, AmpouleTable, VialAuditTable, VialTable
 from .filters import AmpouleAuditFilter, AmpouleFilter, VialAuditFilter, VialFilter
 
 def Dashboard(request):
+    num_vials = Vial.objects.all().count
+    num_ampoules = Ampoule.objects.all().count
     current_user_groups = request.user.groups.values_list("name", flat=True)
+
     context = {
+        "num_vials": num_vials,
+        "num_ampoules": num_ampoules,
         "is_supervisor": "Supervisor" in current_user_groups,
         "is_senior_operator": "Senior Operator" in current_user_groups,
     }
 
     return render(request, "reports/dashboard.html", context)
 
-
+@method_decorator(login_required, name='dispatch')
 class VialListView(SingleTableMixin, FilterView):
     model = Vial
     queryset = Vial.objects.all()
@@ -27,7 +34,7 @@ class VialListView(SingleTableMixin, FilterView):
     template_name = 'reports/vials_list.html'
     filterset_class = VialFilter
 
-
+@method_decorator(login_required, name='dispatch')
 class VialDetailView(SingleTableMixin, DetailView):
     table_class = VialAuditTable
     model = VialAudit
@@ -66,11 +73,13 @@ class VialDetailView(SingleTableMixin, DetailView):
         obj = self.get_object()
         return obj.audit_logs
 
+@method_decorator(login_required, name='dispatch')
 class VialPrintView(VialDetailView):
     template_name = 'reports/vials_print.html'
     paginate_by = 2500
     pass
 
+@method_decorator(login_required, name='dispatch')
 class VialAuditListView(SingleTableMixin, FilterView):
     model = VialAudit
     queryset = VialAudit.objects.all()
@@ -79,6 +88,7 @@ class VialAuditListView(SingleTableMixin, FilterView):
     template_name = 'reports/vial_audit_list.html'
     filterset_class = VialAuditFilter
 
+@method_decorator(login_required, name='dispatch')
 class AmpouleListView(SingleTableMixin, FilterView):
     model = Ampoule
     queryset = Ampoule.objects.all()
@@ -87,7 +97,7 @@ class AmpouleListView(SingleTableMixin, FilterView):
     template_name = 'reports/ampoules_list.html'
     filterset_class = AmpouleFilter
 
-
+@method_decorator(login_required, name='dispatch')
 class AmpouleDetailView(SingleTableMixin, DetailView):
     table_class = AmpouleAuditTable
     model = AmpouleAudit
@@ -124,11 +134,13 @@ class AmpouleDetailView(SingleTableMixin, DetailView):
         obj = self.get_object()
         return obj.audit_logs
 
+@method_decorator(login_required, name='dispatch')
 class AmpoulePrintView(AmpouleDetailView):
     template_name = 'reports/ampoules_print.html'
     paginate_by = 2500
     pass
 
+@method_decorator(login_required, name='dispatch')
 class AmpouleAuditListView(SingleTableMixin, FilterView):
     model = AmpouleAudit
     queryset = AmpouleAudit.objects.all()

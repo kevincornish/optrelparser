@@ -15,6 +15,8 @@ class Command(BaseCommand):
 
     def add_arguments(self, parser):
         parser.add_argument("-d", "--dir", action="store", dest="directory", type=str, default='files/ampoules')
+        parser.add_argument(
+            "-o", "--output", action="store", dest="ampoules_import", type=str, default='logs/ampoules_import.csv')
         parser.add_argument("--truncate", action="store_true", dest="truncate", default=False)
         return parser
 

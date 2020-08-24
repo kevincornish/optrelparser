@@ -6,5 +6,7 @@
 <div class="container-fluid">
 	<p>Hello {{ user.first_name }} {{ user.last_name }} ({{ user.username|default:'Guest' }})</p>
 	<p>Role: {% if is_supervisor %}<b>Supervisor</b>{% else %}<b>No Role</b>{% endif %}</p>
+	<p>Vial Batches Tracked: {{ num_vials }}</p>
+	<p>Ampoule Batches Tracked: {{ num_ampoules }}</p>
 </div>
 {% endblock %}

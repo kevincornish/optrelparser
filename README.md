@@ -1,5 +1,6 @@
 # Optrel Parser
-The Optrel Parser is a django/python script that enables you to import batch reports and audit logs to a postgres database from any Optrel Inspection machine using WinCC Flexible PVSI and view them in a readable user friendly website.
+
+The Optrel Parser is a django/python script that enables you to import batch reports and audit logs to a postgres database from any Optrel Inspection machine that is using WinCC Flexible PVSI which will then enable you to view them in a readable user friendly website.
 
 # Installation
 ## Create Postgres database
@@ -12,38 +13,31 @@ create database optrel_reports;
 pip install -r requirements.txt
 ```
 
-## Settings.py
+## Settings
 
-```python
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'optrel_reports',
-        'USER': 'postgres',
-        'PASSWORD': 'password',
-        'HOST': '127.0.0.1',
-        'PORT': '5432',
-    }
-}
-```
+Located in ``` /optrel/.env.example ```, fill this with the correct environment varibles before continuing and rename to ``` .env ```
 
 ## Run migrations
 ```bash
 python manage.py migrate
 ```
 
-## Importing data
+## Storing / Importing data
 
-PDF location:
+### PDF location
 ```
 "/files/vials"
 "/files/ampoules"
 ```
-CSV location:
+### CSV location
 ```
 "/files/vial_audit"
 "/files/ampoule_audit"
 ```
+### Importing
+
+Use the --truncate args to make use of the bulk importer when importing the CSV audit logs
+
 ```
 python manage.py import_vials --truncate
 
@@ -58,17 +52,25 @@ python manage.py import_vial_audit --truncate
 ```
 python manage.py createsuperuser
 ```
+
 # Running Server
 ```
 python manage.py runserver 8000
 ```
+
 ## View data
+
+To view imported batch data
 ```
 localhost:8000/ampoules
 
 localhost:8000/vials
 ```
+
+You must be logged in to view these pages!
+
 ## Stylesheets 
-The stylesheet is located at ``` /static/reports/style.css ``` will need to be updated to match your production recipes
+The stylesheet located at ``` /static/reports/style.css ``` will need to be updated to match your production recipes
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

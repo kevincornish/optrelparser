@@ -1,1 +1,1 @@
-web: gunicorn optrel.wsgi
+web: gunicorn optrel.wsgi:application --log-file -

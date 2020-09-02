@@ -6,7 +6,7 @@ from django.utils.functional import cached_property
 
 class BaseReport(models.Model):
     """
-    Base model for reports. Use this so you don't have to multiple update models
+    Base model for reports
     """
     username = models.CharField(blank=False, null=False, max_length=255)
     product_id = models.IntegerField(db_index=True, blank=False, null=False)
@@ -47,7 +47,7 @@ class BaseReport(models.Model):
 
 class BaseAudit(models.Model):
     """
-    Base model for audit logs. Use this so you don't have to multiple update models
+    Base model for audit logs.
     """
     record_id = models.IntegerField()
     time_stamp = models.DateTimeField(db_index=True)

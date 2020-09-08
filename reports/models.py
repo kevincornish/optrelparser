@@ -41,6 +41,18 @@ class BaseReport(models.Model):
         ]
         return self.audit_logs.filter(description__in=descriptions)
 
+    @cached_property
+    def machine_errors(self):
+        descriptions = [
+            'ALARM REJECTED CONTAINER ON THE ACCEPTED CHANNEL  On',
+            'ALARM MISSING CONTAINER IN REJECT 2 CHANNEL  On',
+            'REMOVE VIAL MANUALLY  On',
+            'ALARM DATA VALID ERROR',
+            'ALARM MISSING CONTAINER ON THE EXIT CHANNEL  On',
+            'ALARM NOT EXPECTED CONTAINER ON THE EXIT CHANNEL  On',
+        ]
+        return self.audit_logs.filter(description__in=descriptions)
+
     def get_absolute_url(self):
         return reverse("ampoule_detail", kwargs={'pk': self.id})
 

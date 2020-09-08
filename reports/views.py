@@ -61,8 +61,13 @@ class VialDetailView(SingleTableMixin, DetailView):
             self.object.safety_clutches.values('description').order_by('description')
             .annotate(count=Count('description'))
         )
+        machine_errors = ( 
+            self.object.machine_errors.values('description').order_by('description')
+            .annotate(count=Count('description'))
+        )
         data.update({
             'clutches': clutches,
+            'machine_errors': machine_errors,
             'total_clutches': self.object.safety_clutches.count(),
             'filter': f,
             'vial': obj
@@ -122,8 +127,13 @@ class AmpouleDetailView(SingleTableMixin, DetailView):
             self.object.safety_clutches.values('description').order_by('description')
             .annotate(count=Count('description'))
         )
+        machine_errors = ( 
+            self.object.machine_errors.values('description').order_by('description')
+            .annotate(count=Count('description'))
+        )
         data.update({
             'clutches': clutches,
+            'machine_errors': machine_errors,
             'total_clutches': self.object.safety_clutches.count(),
             'filter': f,
             'ampoule': obj

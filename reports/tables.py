@@ -7,6 +7,8 @@ from .models import Ampoule, AmpouleAudit, Vial, VialAudit
 
 class VialTable(tables.Table):
     id = tables.Column(linkify=("vial_detail", [tables.A("id")]))
+    start_date = tables.DateTimeColumn(format ='d/m/Y, g:i a')
+    end_date = tables.DateTimeColumn(format ='d/m/Y, g:i a')
 
     class Meta:
         order_by = "-start_date"
@@ -22,6 +24,9 @@ class VialTable(tables.Table):
         
 class AmpouleTable(tables.Table):
     id = tables.LinkColumn("ampoule_detail", args=[A("pk")])
+    start_date = tables.DateTimeColumn(format ='d/m/Y, g:i a')
+    end_date = tables.DateTimeColumn(format ='d/m/Y, g:i a')
+    
     class Meta:
         order_by="-start_date"
         model = Ampoule
@@ -35,8 +40,9 @@ class AmpouleTable(tables.Table):
 
 
 class VialAuditTable(tables.Table):
+    time_stamp = tables.DateTimeColumn(format ='d/m/Y, g:i a')
     class Meta:
-        order_by = "-time_stamp"
+        order_by = "time_stamp"
         model = VialAudit
         template_name = "django_tables2/bootstrap.html"
         fields = ("time_stamp", "user_id", "object_id", "description")
@@ -45,8 +51,9 @@ class VialAuditTable(tables.Table):
         }
 
 class AmpouleAuditTable(tables.Table):
+    time_stamp = tables.DateTimeColumn(format ='d/m/Y, g:i a')
     class Meta:
-        order_by = "-time_stamp"
+        order_by = "time_stamp"
         model = AmpouleAudit
         template_name = "django_tables2/bootstrap.html"
         fields = ("time_stamp", "user_id", "object_id", "description")

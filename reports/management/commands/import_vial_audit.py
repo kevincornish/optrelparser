@@ -10,7 +10,9 @@ class Command(BaseCommand):
             VialAudit.objects.all().delete()
             processor = BulkVialAuditImporter()
         else:
-            processor = VialAuditImporter()
+            processor = BulkVialAuditImporter()
+            #Always use bulk importer
+            #processor = VialAuditImporter()
 
         processor.import_directory(options['directory'], options['audit_log'])
 

@@ -10,7 +10,9 @@ class Command(BaseCommand):
             AmpouleAudit.objects.all().delete()
             processor = BulkAmpouleAuditImporter()
         else:
-            processor = AmpouleAuditImporter()
+            #Lets always use the bulk importer
+            processor = BulkAmpouleAuditImporter()
+            #processor = AmpouleAuditImporter()
 
         processor.import_directory(options['directory'], options['audit_log'])
 

@@ -14,13 +14,10 @@ from .filters import AmpouleAuditFilter, AmpouleFilter, VialAuditFilter, VialFil
 def Dashboard(request):
     num_vials = Vial.objects.all().count
     num_ampoules = Ampoule.objects.all().count
-    current_user_groups = request.user.groups.values_list("name", flat=True)
 
     context = {
         "num_vials": num_vials,
         "num_ampoules": num_ampoules,
-        "is_supervisor": "Supervisor" in current_user_groups,
-        "is_senior_operator": "Senior Operator" in current_user_groups,
     }
 
     return render(request, "reports/dashboard.html", context)

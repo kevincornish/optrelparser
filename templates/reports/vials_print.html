@@ -20,6 +20,7 @@
 		<p><b>Accepted:</b> {{ vial.accepted }}</p>
 		<p><b>Rejected:</b> {{ vial.rejected }}</p>
 		<p><b>Technical Rejects:</b> {{ vial.technical_rejects }}</p>
+		{% if machine_errors %}
 		<p align="center"><b>Errors / Safety Clutches</b></p>
 		<hr>
 	{% for error in machine_errors %}
@@ -29,6 +30,7 @@
 		<p><b>{{ clutch.description }}:</b> {{ clutch.count }} </p>
 	{% endfor %}
 	<p><b>Total Safety Clutch Count:</b> {{ total_clutches }}</p>
+	{% endif %}
 	</div>
 	<div class="container-fluid">
 		<p align="center"><b>Audit Trail / Alarm Log</b></p>

@@ -36,16 +36,16 @@ python manage.py migrate
 ```
 ### Importing
 
-Use the --truncate args to make use of the bulk importer when importing the CSV audit logs
+Use the --truncate args to start fresh
 
 ```
-python manage.py import_vials --truncate
+python manage.py import_vials
 
-python manage.py import_ampoules  --truncate
+python manage.py import_ampoules
 
-python manage.py import_ampoule_audit --truncate
+python manage.py import_ampoule_audit
 
-python manage.py import_vial_audit --truncate
+python manage.py import_vial_audit
 ```
 
 ## Create superuser

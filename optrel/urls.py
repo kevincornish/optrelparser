@@ -17,8 +17,8 @@ urlpatterns = [
     path('print/ampoules/<int:pk>/', AmpoulePrintView.as_view(), name='ampoule_print'),
     path('ampoules/', AmpouleListView.as_view(), name='ampoules'),
     path('ampoules/<int:pk>/', AmpouleDetailView.as_view(), name='ampoule_detail'),
-    path('audit/vials/', VialAuditListView.as_view()),
-    path('audit/ampoules/', AmpouleAuditListView.as_view()),
+    path('audit/vials/', VialAuditListView.as_view(), name='vial_audit'),
+    path('audit/ampoules/', AmpouleAuditListView.as_view(), name='ampoule_audit'),
     path(
         'admin/password_reset/',
         auth_views.PasswordResetView.as_view(),

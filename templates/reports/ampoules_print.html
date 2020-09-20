@@ -14,8 +14,8 @@
 		<p><b>Batch Name:</b> {{ ampoule.batch_name }}</p>
 		<p><b>Batch Number:</b> {{ ampoule.batch_number }}</p>
 		<p><b>Recipe:</b> {{ampoule.product_id }} | {{ampoule.recipe }}</p>
-		<p><b>Start Date:</b> {{ ampoule.start_date }}</p>
-		<p><b>End Date:</b> {{ ampoule.end_date }}</p>
+		<p><b>Start Date:</b> {{ ampoule.start_date|date:"l d F Y" }} - {{ ampoule.start_date|date:"d/m/Y" }} {{ ampoule.start_date|time:"g:ia" }}</p>
+		<p><b>End Date:</b> {{ ampoule.end_date|date:"l d F Y" }} -  {{ ampoule.end_date|date:"d/m/Y" }} {{ ampoule.end_date|time:"g:ia" }}</p>
 		<p><b>Inspected:</b> {{ ampoule.inspected }}</p>
 		<p><b>Accepted:</b> {{ ampoule.accepted }}</p>
 		<p><b>Rejected:</b> {{ ampoule.rejected }}</p>

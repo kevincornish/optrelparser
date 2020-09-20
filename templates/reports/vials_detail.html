@@ -7,8 +7,8 @@
 		<p><b>Batch Name:</b> {{ vial.batch_name }}</p>
 		<p><b>Batch Number:</b> {{ vial.batch_number }}</p>
 		<p><b>Recipe:</b> {{vial.product_id }} | {{vial.recipe }}</p>
-		<p><b>Start Date:</b> {{ vial.start_date }}</p>
-		<p><b>End Date:</b> {{ vial.end_date }}</p>
+		<p><b>Start Date:</b> {{ vial.start_date|date:"l d F Y" }} - {{ vial.start_date|date:"d/m/Y" }} {{ vial.start_date|time:"g:ia" }}</p>
+		<p><b>End Date:</b> {{ vial.end_date|date:"l d F Y" }} -  {{ vial.end_date|date:"d/m/Y" }} {{ vial.end_date|time:"g:ia" }}</p>
 		<p><b>Inspected:</b> {{ vial.inspected }}</p>
 		<p><b>Accepted:</b> {{ vial.accepted }}</p>
 		<p><b>Rejected:</b> {{ vial.rejected }}</p>

@@ -19,6 +19,7 @@ class BaseReport(models.Model):
     accepted = models.IntegerField(blank=False, null=False)
     rejected = models.IntegerField(blank=False, null=False)
     technical_rejects = models.IntegerField(blank=False, null=False)
+    filename = models.CharField(blank=False, null=False, unique=True, max_length=100)
 
     audit_class = None
 
@@ -69,6 +70,7 @@ class BaseAudit(models.Model):
     description = models.CharField(blank=True, null=True, max_length=555, db_index=True)
     comment = models.CharField(blank=True, null=True, max_length=255)
     check_sum = models.CharField(blank=True, null=True, max_length=255)
+    filename = models.CharField(blank=True, max_length=100)
 
     class Meta:
         # Set the model to an abstract class so tables are not created for this model

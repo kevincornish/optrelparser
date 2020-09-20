@@ -10,6 +10,7 @@ class PDFToDict(object):
     def convert(self, file_name):
         results = {}
         pdf = self.get_pdf(file_name)
+        results['filename'] = file_name
         results['username'] = self.fetch_username(pdf)
         results['product_id'] = self.fetch_product_id(pdf)
         results['recipe'] = self.fetch_recipe(pdf)
@@ -27,7 +28,7 @@ class PDFToDict(object):
         with open(file_name, "rb") as f:
             pdf = pdftotext.PDF(f)
             return pdf
-
+           
     def fetch_username(self, pdf):
         page = pdf[0]
         username = page.split('User:')[1].split('\n')[0].strip().split(' ')[-1]

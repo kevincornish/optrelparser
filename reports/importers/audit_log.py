@@ -57,6 +57,7 @@ class CSVToAuditLogBase(object):
                         # don't process
                         continue
                     line = self.format_line(line)
+                    line['filename'] = file_path
                     self.create_from_line(line)
                 except (KeyError, ValueError, TypeError) as e:
                     errors.append({
@@ -101,6 +102,7 @@ class BulkCSVToAuditLogBase(CSVToAuditLogBase):
                         # don't process
                         continue
                     line = self.format_line(line)
+                    line['filename'] = file_path
                     records.append(self.model_class(**line))
                 except (KeyError, ValueError, TypeError) as e:
                     errors.append({

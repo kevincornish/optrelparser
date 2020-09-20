@@ -1,31 +1,33 @@
 {% extends "base.html" %}
 {% load render_table from django_tables2 %}
 {% block content %}
-	<div class="container-fluid">
-		<p align="center"><b>Vial Report</b></p>
-		<hr>
-		<p><b>Batch Name:</b> {{ vial.batch_name }}</p>
-		<p><b>Batch Number:</b> {{ vial.batch_number }}</p>
-		<p><b>Recipe:</b> {{vial.product_id }} | {{vial.recipe }}</p>
-		<p><b>Start Date:</b> {{ vial.start_date|date:"l d F Y" }} - {{ vial.start_date|date:"d/m/Y" }} {{ vial.start_date|time:"g:ia" }}</p>
-		<p><b>End Date:</b> {{ vial.end_date|date:"l d F Y" }} -  {{ vial.end_date|date:"d/m/Y" }} {{ vial.end_date|time:"g:ia" }}</p>
-		<p><b>Inspected:</b> {{ vial.inspected }}</p>
-		<p><b>Accepted:</b> {{ vial.accepted }}</p>
-		<p><b>Rejected:</b> {{ vial.rejected }}</p>
-		<p><b>Technical Rejects:</b> {{ vial.technical_rejects }}</p>
-		{% if machine_errors %}
-		<p align="center"><b>Errors / Safety Clutches</b></p>
-		<hr>
+<div class="container-fluid">
+	<p align="center"><b>Vial Report</b></p>
+	<hr>
+	<p><b>Batch Name:</b> {{ vial.batch_name }}</p>
+	<p><b>Batch Number:</b> {{ vial.batch_number }}</p>
+	<p><b>Recipe:</b> {{vial.product_id }} | {{vial.recipe }}</p>
+	<p><b>Start Date:</b> {{ vial.start_date|date:"l d F Y" }} - {{ vial.start_date|date:"d/m/Y" }}
+		{{ vial.start_date|time:"g:ia" }}</p>
+	<p><b>End Date:</b> {{ vial.end_date|date:"l d F Y" }} - {{ vial.end_date|date:"d/m/Y" }}
+		{{ vial.end_date|time:"g:ia" }}</p>
+	<p><b>Inspected:</b> {{ vial.inspected }}</p>
+	<p><b>Accepted:</b> {{ vial.accepted }}</p>
+	<p><b>Rejected:</b> {{ vial.rejected }}</p>
+	<p><b>Technical Rejects:</b> {{ vial.technical_rejects }}</p>
+	{% if machine_errors %}
+	<p align="center"><b>Errors / Safety Clutches</b></p>
+	<hr>
 	{% for error in machine_errors %}
-		<p><b>{{ error.description }}:</b> {{ error.count }} </p>
+	<p><b>{{ error.description }}:</b> {{ error.count }} </p>
 	{% endfor %}
 	{% for clutch in clutches %}
-		<p><b>{{ clutch.description }}:</b> {{ clutch.count }} </p>
+	<p><b>{{ clutch.description }}:</b> {{ clutch.count }} </p>
 	{% endfor %}
 	<p><b>Total Safety Clutch Count:</b> {{ total_clutches }}</p>
-	{% endif %}	
-	</div>
-	{% if table.data|length > 0 %}
+	{% endif %}
+</div>
+{% if table.data|length > 0 %}
 <div class="container-fluid">
 	<p align="center"><b>Audit Trail / Alarm Log</b></p>
 	<hr>

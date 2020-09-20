@@ -4,7 +4,6 @@ from datetime import datetime
 from pytz import timezone
 import pdftotext
 
-
 class PDFToDict(object):
 
     def convert(self, file_name):
@@ -48,15 +47,17 @@ class PDFToDict(object):
         recipe = ' '.join(product_id_and_recipe[1:])
         return recipe
 
-## TO FIX:
-## If batch name includes strength it is stripped
-## Replace char.isdigit to
-## only strip number regex [0-9]{7,8}
+# TO FIX:
+# If batch name includes strength it is stripped
+# Replace char.isdigit to
+# only strip number regex [0-9]{7,8}
     def fetch_batch_name(self, pdf):
         page = pdf[0]
         line = page.split('Batch:')[-1].split('\n')[0].strip()
         return ''.join([char for char in line if not char.isdigit()]).strip()
 
+
+# Hacky fix to stop it pulling in the number in the top right corner of PDF's
     def fetch_batch_number(self, pdf):
         page = pdf[0]
         try:
@@ -78,16 +79,15 @@ class PDFToDict(object):
         page = pdf[0]
         full_string = page.split("Ending date:")[-1].split('\n')[0].strip().split()
         return self.convert_time(full_string)
-###TODO: date is storing m/d/y
-##Also rounding times from 13:14:18 to 13:15
-##also mixing am and pm up
-##10/12/2017 4:05 a.m should be 12/10/2017 4:04:12 PM
+#TO FIX
+#Some dates stored on PDF in 12hr format with no trailing AM/PM
+#confuses importer
     def convert_time(self, string):
         try:
             dt = self.convert_time_12_hr(string)
         except:
             dt = self.convert_time_24_hr(string)
-        return dt.replace(tzinfo=timezone('Europe/London'))
+        return dt.replace(tzinfo=timezone('UTC'))
 
     def convert_time_12_hr(self, string):
         date = string[0]
@@ -114,6 +114,7 @@ class PDFToDict(object):
         page = pdf[0]
         return page.split('REJECTED')[1].split('\n')[0].split()[0]
 
+#Ampoule LKD Machine spells Technical incorrectly so try finding either spelling 
     def fetch_technical_rejects(self, pdf):
         page = pdf[0]
         try:
